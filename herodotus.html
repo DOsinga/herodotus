@@ -1,0 +1,197 @@
+<script type="text/markdown" id="info">
+name: Herodotus
+description: >
+  Browse historical polities through time on a world map.
+type: travel
+github: herodotus
+redirects:
+  - historical_atlas
+dontrepeatintro: true
+</script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<style>
+  .atlas {
+    --ink: #20272b;
+    --muted: #68757a;
+    --paper: #f7f4ec;
+    color: var(--ink);
+    margin: 0 0 64px;
+  }
+  .atlas-head {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 22px;
+    margin-bottom: 14px;
+  }
+  .atlas-year {
+    font-size: 44px;
+    font-weight: 700;
+    letter-spacing: -0.06em;
+    line-height: 1;
+  }
+  .atlas-timeline {
+    display: grid;
+    gap: 2px;
+  }
+  .atlas-timeline input { accent-color: var(--ink); margin: 0; width: 100%; }
+  .atlas-ticks { color: var(--muted); display: flex; font: 10px "Geist Mono", monospace; justify-content: space-between; }
+  .atlas-control {
+    align-items: center;
+    display: flex;
+    font-family: "Geist Mono", monospace;
+    font-size: 12px;
+    gap: 9px;
+    white-space: nowrap;
+  }
+  .atlas-control input { accent-color: var(--ink); width: 110px; }
+  .atlas-controls { align-items: center; display: flex; gap: 18px; }
+  .atlas-control select {
+    background: var(--paper);
+    border: 1px solid #aeb8ba;
+    border-radius: 4px;
+    color: var(--ink);
+    font: inherit;
+    padding: 4px 6px;
+  }
+  .atlas-control input[type="search"] {
+    background: var(--paper);
+    border: 1px solid #aeb8ba;
+    border-radius: 4px;
+    color: var(--ink);
+    font: inherit;
+    padding: 4px 7px;
+    width: 190px;
+  }
+  .atlas-map-wrap {
+    background: #cfd9dc;
+    border: 1px solid #aeb8ba;
+    border-radius: 8px;
+    box-shadow: 0 14px 36px rgba(35, 42, 42, 0.12);
+    overflow: hidden;
+    position: relative;
+  }
+  #atlas-map { background: #cbdde2; height: 620px; width: 100%; }
+  .atlas-clouds {
+    pointer-events: none;
+    position: absolute;
+  }
+  .atlas-card {
+    background: rgba(250, 249, 245, 0.94);
+    border: 1px solid rgba(32, 39, 43, 0.25);
+    border-radius: 6px;
+    bottom: 18px;
+    box-shadow: 0 8px 28px rgba(20, 30, 32, 0.18);
+    max-height: 52%;
+    max-width: 340px;
+    overflow: auto;
+    padding: 13px 15px;
+    position: absolute;
+    right: 18px;
+    z-index: 800;
+  }
+  .atlas-card strong { display: block; font-size: 18px; }
+  .atlas-card span { color: var(--muted); display: block; font-size: 14px; margin-top: 2px; }
+  .atlas-card p { font-size: 13px; line-height: 1.4; margin: 9px 0 0; }
+  .atlas-card a { color: #245f8f; }
+  .atlas-card .atlas-id { font: 11px "Geist Mono", monospace; }
+  .atlas-key {
+    display: flex;
+    gap: 14px;
+    justify-content: space-between;
+    margin-top: 14px;
+  }
+  .atlas-note { color: var(--muted); font-size: 14px; line-height: 1.45; margin: 0; max-width: 740px; }
+  .atlas-count { color: var(--muted); font-family: "Geist Mono", monospace; font-size: 12px; white-space: nowrap; }
+  .atlas-dot {
+    background: #192126;
+    border: 1.5px solid rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+  }
+  .atlas-registry-dot { background: #27343a; }
+  .atlas-review-keep { background: #356f63; }
+  .atlas-review-adjust { background: #c17a31; }
+  .atlas-registry-item_coordinate { background: #f7f4ec; border-color: #27343a; }
+  .atlas-registry-source_item_coordinate { background: #bf7d45; border-color: #fff; border-radius: 2px; }
+  .atlas-place-icon { background: none; border: 0; }
+  .atlas-place-dot {
+    background: var(--place-color);
+    border: 1.5px solid rgba(255, 255, 255, 0.95);
+    border-radius: 50%;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
+  .atlas-place-fort { border-radius: 2px; }
+  .atlas-place-island { border-radius: 1px; transform: rotate(45deg) scale(0.78); }
+  .atlas-polity-swatch {
+    background: var(--place-color);
+    border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    margin-right: 6px;
+    width: 10px;
+  }
+  .atlas-dot-fort { border-radius: 2px; }
+  .leaflet-tooltip.atlas-tooltip {
+    background: #20272b;
+    border: 0;
+    border-radius: 3px;
+    box-shadow: none;
+    color: white;
+    font: 12px "Geist Mono", monospace;
+    padding: 4px 6px;
+  }
+  .leaflet-tooltip.atlas-tooltip::before { display: none; }
+  .leaflet-control-attribution { font-size: 9px; }
+  @media (max-width: 700px) {
+    .atlas-head { grid-template-columns: auto 1fr; gap: 12px; }
+    .atlas-controls { align-items: stretch; flex-direction: column; gap: 8px; grid-column: 1 / -1; }
+    .atlas-control { justify-content: space-between; }
+    .atlas-control input { flex: 1; width: auto; }
+    #atlas-map { height: 68vh; min-height: 440px; }
+    .atlas-card { bottom: 10px; left: 10px; max-width: none; right: 10px; }
+    .atlas-key { display: block; }
+    .atlas-count { display: block; margin-top: 8px; }
+  }
+</style>
+
+<div class="atlas">
+  <div class="atlas-head">
+    <div class="atlas-year" id="atlas-year-value">1500</div>
+    <label class="atlas-timeline">
+      <input id="atlas-year" type="range" min="-12000" max="2020" value="1500" step="10" aria-label="Year">
+      <span class="atlas-ticks"><span id="atlas-year-min">12,000 BCE</span><span id="atlas-year-mid">5000 BCE</span><span id="atlas-year-max">2020</span></span>
+    </label>
+    <div class="atlas-controls">
+      <label class="atlas-control" id="atlas-search-control">
+        find
+        <input id="atlas-search" type="search" list="atlas-polities" placeholder="polity name" autocomplete="off">
+        <datalist id="atlas-polities"></datalist>
+      </label>
+    </div>
+  </div>
+
+  <div class="atlas-map-wrap">
+    <div id="atlas-map"></div>
+    <div class="atlas-card" id="atlas-card">
+      <strong>Loading polity database</strong>
+      <span>Preparing the clean 1500-seeded records.</span>
+    </div>
+  </div>
+
+  <div class="atlas-key">
+    <p class="atlas-note" id="atlas-note">
+      Move the timeline to see when polities appear and disappear.
+    </p>
+    <span class="atlas-count" id="atlas-count"></span>
+  </div>
+</div>
+
+<script id="polity-data" type="application/json">{{ polity_data|safe }}</script>
+<script src="/static/projects/herodotus/atlas.js"></script>

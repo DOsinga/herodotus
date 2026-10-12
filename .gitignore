@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+/archive/
+/research/
+/DESIGN.md
+/NOTES.md
+/TASKS.md
+
+/static/control-review.json
+/static/evidence-1500.json
+/static/evidence-years.json
+/static/places.json
+/static/registry.json

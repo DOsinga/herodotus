@@ -1,0 +1,145 @@
+(function () {
+  const database = JSON.parse(document.getElementById("polity-data").textContent);
+  const yearInput = document.getElementById("atlas-year");
+  const yearValue = document.getElementById("atlas-year-value");
+  const yearMin = document.getElementById("atlas-year-min");
+  const yearMid = document.getElementById("atlas-year-mid");
+  const yearMax = document.getElementById("atlas-year-max");
+  const searchInput = document.getElementById("atlas-search");
+  const polityList = document.getElementById("atlas-polities");
+  const card = document.getElementById("atlas-card");
+  const count = document.getElementById("atlas-count");
+  const note = document.getElementById("atlas-note");
+  const markers = new Map();
+
+  const map = L.map("atlas-map", {
+    minZoom: 1,
+    maxZoom: 7,
+    zoomControl: false,
+    worldCopyJump: true
+  }).setView([23, 10], 2);
+  L.control.zoom({ position: "topright" }).addTo(map);
+  const layer = L.layerGroup().addTo(map);
+  const landLayer = L.geoJSON(null, {
+    interactive: false,
+    style: { color: "#aca99f", fillColor: "#eeeade", fillOpacity: 1, weight: 0.5 }
+  }).addTo(map);
+  fetch("/static/projects/herodotus/land-50m.geojson")
+    .then(function (response) { return response.json(); })
+    .then(function (geojson) { landLayer.addData(geojson); });
+  map.attributionControl.addAttribution('<a href="https://www.naturalearthdata.com/">Natural Earth</a>');
+
+  function formatYear(year) {
+    return year < 0 ? Math.abs(year) + " BCE" : String(year);
+  }
+
+  function activePeriod(polity, year) {
+    return polity.periods.find(function (period) {
+      return period.start <= year && year <= period.end;
+    });
+  }
+
+  function polityColor(id) {
+    let hash = 0;
+    for (let index = 0; index < id.length; index++) {
+      hash = ((hash << 5) - hash + id.charCodeAt(index)) | 0;
+    }
+    return "hsl(" + (Math.abs(hash) % 360) + " 55% 43%)";
+  }
+
+  function escapeHtml(value) {
+    return String(value).replace(/[&<>'"]/g, function (character) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" }[character];
+    });
+  }
+
+  function showCard(polity) {
+    const periods = polity.periods.map(function (period) {
+      return formatYear(period.start) + "–" + formatYear(period.end);
+    }).join(" · ");
+    card.innerHTML = "<strong>" + escapeHtml(polity.name) + "</strong>" +
+      '<span class="atlas-id">' + escapeHtml(polity.id) + "</span>" +
+      "<span>" + escapeHtml(periods) + "</span>" +
+      "<span>representative point: " + escapeHtml(polity.point.name) + "</span>" +
+      '<p><a href="' + escapeHtml(polity.wikipedia) + '" target="_blank" rel="noopener">Wikipedia</a></p>';
+  }
+
+  function showYear(year) {
+    layer.clearLayers();
+    markers.clear();
+    const active = database.polities.filter(function (polity) {
+      return activePeriod(polity, year);
+    });
+
+    active.forEach(function (polity) {
+      const marker = L.circleMarker([polity.point.lat, polity.point.lon], {
+        radius: 6,
+        color: "#fff",
+        weight: 1.5,
+        fillColor: polityColor(polity.id),
+        fillOpacity: 1
+      }).addTo(layer);
+      marker.bindTooltip(polity.name, {
+        className: "atlas-tooltip",
+        direction: "top",
+        offset: [0, -4]
+      });
+      marker.on("click", function () { showCard(polity); });
+      markers.set(polity.id, marker);
+    });
+
+    yearValue.textContent = formatYear(year);
+    card.innerHTML = "<strong>Polities in " + formatYear(year) +
+      "</strong><span>Click a representative point to inspect the polity and its dates.</span>";
+    count.textContent = active.length + " polities";
+    note.textContent = "Each dot is one polity's representative point, not a border or a city inventory.";
+  }
+
+  function findPolity() {
+    const query = searchInput.value.trim().toLowerCase();
+    if (!query) return;
+    const polity = database.polities.find(function (candidate) {
+      return candidate.id.toLowerCase() === query || candidate.name.toLowerCase() === query;
+    }) || database.polities.find(function (candidate) {
+      return candidate.name.toLowerCase().startsWith(query);
+    }) || database.polities.find(function (candidate) {
+      return candidate.name.toLowerCase().includes(query);
+    });
+    if (!polity) {
+      card.innerHTML = "<strong>No polity found</strong><span>Try another name.</span>";
+      return;
+    }
+
+    if (!activePeriod(polity, Number(yearInput.value))) {
+      yearInput.value = polity.periods[0].start;
+      showYear(Number(yearInput.value));
+    }
+    searchInput.value = polity.name;
+    map.flyTo([polity.point.lat, polity.point.lon], Math.max(map.getZoom(), 4));
+    showCard(polity);
+  }
+
+  const years = database.polities.flatMap(function (polity) {
+    return polity.periods.flatMap(function (period) { return [period.start, period.end]; });
+  });
+  yearInput.min = Math.min.apply(null, years);
+  yearInput.max = Math.max.apply(null, years);
+  yearInput.step = 1;
+  yearInput.value = 1500;
+  yearMin.textContent = formatYear(Number(yearInput.min));
+  yearMid.textContent = "1500";
+  yearMax.textContent = formatYear(Number(yearInput.max));
+
+  polityList.replaceChildren.apply(polityList, database.polities.map(function (polity) {
+    const option = document.createElement("option");
+    option.value = polity.name;
+    return option;
+  }));
+
+  yearInput.addEventListener("input", function () { showYear(Number(yearInput.value)); });
+  searchInput.addEventListener("change", findPolity);
+  searchInput.addEventListener("keydown", function (event) {
+    if (event.key === "Enter") findPolity();
+  });
+  showYear(1500);
+})();
