@@ -65,7 +65,8 @@ transitions:
 - The last period's `end` is `null` for a polity that still exists.
 - `point` is a representative place, normally the capital or seat of
   government, with its name. It is a marker for the polity, not a claim about
-  its territory.
+  its territory. The dots exist for debugging, so two polities sharing a
+  point, such as Ming and Qing at Beijing from 1636 to 1644, is fine.
 - `note` is optional text shown on the polity's card. Use it whenever a date
   or the point is an estimate, and say what the estimate rests on so it can be
   revisited. An estimated polity with a note is better than an empty region.
