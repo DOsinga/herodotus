@@ -2,9 +2,19 @@ from database import load_polities
 
 
 polities = load_polities()
-active_1500 = [
-    polity
+names = {polity["name"] for polity in polities}
+active_1500 = {
+    polity["name"]
     for polity in polities
     if any(period["start"] <= 1500 <= period["end"] for period in polity["periods"])
-]
+}
+assert "Kingdom of Portugal" in active_1500
+assert "Old Swiss Confederacy" in active_1500
+assert "Habsburg Netherlands" in active_1500
+assert {"Wattasid Sultanate", "Zayyanid Kingdom of Tlemcen", "Hafsid Sultanate"} <= active_1500
+assert {"Lordship of Ireland", "Kingdom of Tyrone", "Tyrconnell", "Kingdom of Thomond"} <= active_1500
+assert "Kingdom of Sicily" not in active_1500
+assert "Maghrebi sultanates" not in names
+assert "Hausa city-states" not in names
+assert "Maya states" not in names
 print(f"valid: {len(polities)} polities, {len(active_1500)} active in 1500")

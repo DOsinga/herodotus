@@ -45,16 +45,7 @@ dontrepeatintro: true
     gap: 9px;
     white-space: nowrap;
   }
-  .atlas-control input { accent-color: var(--ink); width: 110px; }
   .atlas-controls { align-items: center; display: flex; gap: 18px; }
-  .atlas-control select {
-    background: var(--paper);
-    border: 1px solid #aeb8ba;
-    border-radius: 4px;
-    color: var(--ink);
-    font: inherit;
-    padding: 4px 6px;
-  }
   .atlas-control input[type="search"] {
     background: var(--paper);
     border: 1px solid #aeb8ba;
@@ -73,10 +64,6 @@ dontrepeatintro: true
     position: relative;
   }
   #atlas-map { background: #cbdde2; height: 620px; width: 100%; }
-  .atlas-clouds {
-    pointer-events: none;
-    position: absolute;
-  }
   .atlas-card {
     background: rgba(250, 249, 245, 0.94);
     border: 1px solid rgba(32, 39, 43, 0.25);
@@ -104,38 +91,6 @@ dontrepeatintro: true
   }
   .atlas-note { color: var(--muted); font-size: 14px; line-height: 1.45; margin: 0; max-width: 740px; }
   .atlas-count { color: var(--muted); font-family: "Geist Mono", monospace; font-size: 12px; white-space: nowrap; }
-  .atlas-dot {
-    background: #192126;
-    border: 1.5px solid rgba(255, 255, 255, 0.9);
-    border-radius: 50%;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
-  }
-  .atlas-registry-dot { background: #27343a; }
-  .atlas-review-keep { background: #356f63; }
-  .atlas-review-adjust { background: #c17a31; }
-  .atlas-registry-item_coordinate { background: #f7f4ec; border-color: #27343a; }
-  .atlas-registry-source_item_coordinate { background: #bf7d45; border-color: #fff; border-radius: 2px; }
-  .atlas-place-icon { background: none; border: 0; }
-  .atlas-place-dot {
-    background: var(--place-color);
-    border: 1.5px solid rgba(255, 255, 255, 0.95);
-    border-radius: 50%;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
-    display: block;
-    height: 100%;
-    width: 100%;
-  }
-  .atlas-place-fort { border-radius: 2px; }
-  .atlas-place-island { border-radius: 1px; transform: rotate(45deg) scale(0.78); }
-  .atlas-polity-swatch {
-    background: var(--place-color);
-    border-radius: 50%;
-    display: inline-block;
-    height: 10px;
-    margin-right: 6px;
-    width: 10px;
-  }
-  .atlas-dot-fort { border-radius: 2px; }
   .leaflet-tooltip.atlas-tooltip {
     background: #20272b;
     border: 0;
@@ -164,7 +119,7 @@ dontrepeatintro: true
     <div class="atlas-year" id="atlas-year-value">1500</div>
     <label class="atlas-timeline">
       <input id="atlas-year" type="range" min="-12000" max="2020" value="1500" step="10" aria-label="Year">
-      <span class="atlas-ticks"><span id="atlas-year-min">12,000 BCE</span><span id="atlas-year-mid">5000 BCE</span><span id="atlas-year-max">2020</span></span>
+      <span class="atlas-ticks"><span id="atlas-year-min"></span><span id="atlas-year-mid"></span><span id="atlas-year-max"></span></span>
     </label>
     <div class="atlas-controls">
       <label class="atlas-control" id="atlas-search-control">
@@ -192,4 +147,4 @@ dontrepeatintro: true
 </div>
 
 <script id="polity-data" type="application/json">{{ polity_data|safe }}</script>
-<script src="/static/projects/herodotus/atlas.js"></script>
+<script src="{{ static }}atlas.js"></script>
