@@ -9,4 +9,8 @@ point:
   name: Bijapur
   latitude: 16.8302
   longitude: 75.71
+transitions:
+- year: 1686
+  kind: absorbed_into
+  into: [mughal_empire]
 ---

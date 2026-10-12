@@ -65,7 +65,11 @@ transitions:
 - The last period's `end` is `null` for a polity that still exists.
 - `point` is a representative place, normally the capital or seat of
   government, with its name. It is a marker for the polity, not a claim about
-  its territory.
+  its territory. The dots exist for debugging, so two polities sharing a
+  point, such as Ming and Qing at Beijing from 1636 to 1644, is fine.
+- `note` is optional text shown on the polity's card. Use it whenever a date
+  or the point is an estimate, and say what the estimate rests on so it can be
+  revisited. An estimated polity with a note is better than an empty region.
 
 ## What counts as a polity
 
@@ -91,6 +95,26 @@ A polity is active while it was actually in power and in control of its own
 affairs. Legal titles, nominal overlords, claims and tribute do not decide
 this; who governed does.
 
+The test is who actually governed: whether the state's own ruler and
+government ran its affairs and made its decisions, or the outside power did.
+Succession is evidence but does not settle it either way. A ruler who
+inherits a title but has no say is not in control, and a ruler whom an
+overlord confirmed or chose can still govern.
+
+- A state that kept governing itself stays active, even if it paid tribute,
+  sent troops to its overlord's wars, or had its ruler confirmed or picked by
+  the overlord from the local dynasty. Crimea, whose khans the Ottoman sultan
+  appointed from 1524 but who fought their own wars, Ragusa, Mewar after its
+  1615 treaty with the Mughals, and Milan or Savoy inside the Holy Roman
+  Empire stay on the map.
+- Once the outside power ruled directly, or through a governor, viceroy or
+  other official of its own, the polity has been absorbed and its period
+  ends. Naples and Sicily under the Spanish crown and Frisia after Maximilian
+  appointed Albert of Saxony in 1498 end there, even though they kept their
+  own laws and estates.
+- An occupation that took control away for some years is a gap between
+  periods, as with Genoa under French or Milanese rule.
+
 Sharing a monarch does not by itself combine polities. A personal union can
 leave each polity governing its own affairs; the monarch's nationality or
 residence does not decide this. Keep them separate while they governed
@@ -98,20 +122,6 @@ separately. If one state took control and governed the other through its
 appointed governors or viceroys, the latter's independent period ends.
 Separate titles, laws or estates alone do not show separate government.
 Apply this rule consistently to personal unions, not just to selected cases.
-
-The most useful question is who chose the ruler and who did the ruling:
-
-- A local ruler who came to power through local succession or election and
-  made their own decisions keeps the polity active, even if it paid tribute,
-  owed troops or acknowledged an emperor. Crimea under the Ottomans, Ragusa,
-  and Milan or Savoy inside the Holy Roman Empire stay on the map.
-- Once the outside power ruled directly, or through a governor, viceroy or
-  other appointee, the polity has been absorbed and its period ends. Naples
-  and Sicily under the Spanish crown and Frisia after Maximilian appointed
-  Albert of Saxony in 1498 end there, even though they kept their own laws
-  and estates.
-- An occupation that took control away for some years is a gap between
-  periods, as with Genoa under French or Milanese rule.
 
 This stays a judgement call. When the evidence points both ways, choose one,
 and do not invent an intermediate category.

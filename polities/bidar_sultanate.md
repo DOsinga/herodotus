@@ -9,4 +9,8 @@ point:
   name: Bidar
   latitude: 17.9104
   longitude: 77.5199
+transitions:
+- year: 1619
+  kind: absorbed_into
+  into: [bijapur_sultanate]
 ---

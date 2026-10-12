@@ -9,4 +9,8 @@ point:
   name: Enniscorthy
   latitude: 52.5
   longitude: -6.5667
+transitions:
+- year: 1603
+  kind: absorbed_into
+  into: [kingdom_ireland]
 ---
