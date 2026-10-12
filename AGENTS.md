@@ -58,8 +58,10 @@ transitions:
   articles about a dynasty or an institution when a page about the state
   exists.
 - `periods` is a list of integer years, inclusive at both ends, with negative
-  years for BCE. Periods are in order and must not overlap. A polity is active
-  in year Y when `start <= Y <= end` for one of its periods.
+  years for BCE. Periods within one polity are in order and must not overlap.
+  A polity is active in year Y when `start <= Y` and its period has no end or
+  `Y <= end`.
+  Different polities can share a changeover year.
 - The last period's `end` is `null` for a polity that still exists.
 - `point` is a representative place, normally the capital or seat of
   government, with its name. It is a marker for the polity, not a claim about
@@ -92,6 +94,14 @@ A polity is active while it was actually in power and in control of its own
 affairs. Legal titles, nominal overlords, claims and tribute do not decide
 this; who governed does.
 
+Sharing a monarch does not by itself combine polities. A personal union can
+leave each polity governing its own affairs; the monarch's nationality or
+residence does not decide this. Keep them separate while they governed
+separately. If one state took control and governed the other through its
+appointed governors or viceroys, the latter's independent period ends.
+Separate titles, laws or estates alone do not show separate government.
+Apply this rule consistently to personal unions, not just to selected cases.
+
 The most useful question is who chose the ruler and who did the ruling:
 
 - A local ruler who came to power through local succession or election and
@@ -112,10 +122,7 @@ and do not invent an intermediate category.
 Overlordship itself is not recorded. A loose umbrella such as the Holy Roman
 Empire is therefore not a polity on the map; its members are.
 
-Several existing files predate this rule. Wallachia and Moldavia end when they
-began paying Ottoman tribute, although they kept their own voivodes until the
-Ottomans appointed Phanariot princes in the 1710s. The Holy Roman Empire still
-has its own file.
+The existing Holy Roman Empire file predates this rule and still needs review.
 
 ## Transitions
 
@@ -138,6 +145,16 @@ transitions:
 - `split_into`: the polity broke up into several new ones.
 - `succeeded_by`: the same state continued under a new identity, such as a
   change of regime that warrants a new file.
+
+Keep the historical years inclusive. If one polity ended and its replacement
+began in the same year, use that year for both; do not subtract a year from
+the outgoing polity's end just to avoid an overlap.
+
+When building a map for a year, the builder must use the transition and
+historical evidence to choose one polity for each place in a shared changeover
+year. A shared boundary year does not mean both ruled that place at the same
+time. Make the map's choice explicit without changing the historical dates
+in the polity records.
 
 `database.py` checks that:
 

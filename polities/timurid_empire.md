@@ -6,9 +6,9 @@ periods:
 - start: 1370
   end: 1507
 point:
-  name: Herat
-  latitude: 34.3529
-  longitude: 62.204
+  name: Samarkand
+  latitude: 39.6542
+  longitude: 66.9597
 transitions:
 - year: 1507
   kind: absorbed_into

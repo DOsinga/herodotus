@@ -6,7 +6,7 @@ periods:
 - start: 1299
   end: 1922
 point:
-  name: Constantinople
-  latitude: 41.0082
-  longitude: 28.9784
+  name: Söğüt
+  latitude: 40.0256
+  longitude: 30.1811
 ---
