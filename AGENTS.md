@@ -74,18 +74,65 @@ Coverage is built outward from 1500, by hand. Do not bulk-import from
 Wikidata or another list: that approach was tried and produced thousands of
 duplicates, placeholder dates and anachronistic identities.
 
-## Overlords and successors
+## Who was in control
 
-The model has no relations yet. Nothing records that Milan belonged to the
-Holy Roman Empire, that Crimea was an Ottoman vassal or that Castile and
-Aragon became the Spanish Monarchy.
+A polity is active while it was actually in power and in control of its own
+affairs. Legal titles, nominal overlords, claims and tribute do not decide
+this; who governed does.
 
-Existing files resolve vassalage inconsistently because of this. Wallachia and
-Moldavia end when they started paying Ottoman tribute, while the Crimean
-Khanate and Ragusa continue as vassals. Sicily and Naples end under Aragonese
-and Spanish rule, while the Holy Roman Empire appears next to its own members.
-Do not "fix" these period endings one at a time; they will be revisited once
-relations exist.
+The most useful question is who chose the ruler and who did the ruling:
+
+- A local ruler who came to power through local succession or election and
+  made their own decisions keeps the polity active, even if it paid tribute,
+  owed troops or acknowledged an emperor. Crimea under the Ottomans, Ragusa,
+  and Milan or Savoy inside the Holy Roman Empire stay on the map.
+- Once the outside power ruled directly, or through a governor, viceroy or
+  other appointee, the polity has been absorbed and its period ends. Naples
+  and Sicily under the Spanish crown and Frisia after Maximilian appointed
+  Albert of Saxony in 1498 end there, even though they kept their own laws
+  and estates.
+- An occupation that took control away for some years is a gap between
+  periods, as with Genoa under French or Milanese rule.
+
+This stays a judgement call. When the evidence points both ways, choose one,
+and do not invent an intermediate category.
+
+Overlordship itself is not recorded. A loose umbrella such as the Holy Roman
+Empire is therefore not a polity on the map; its members are.
+
+Several existing files predate this rule. Wallachia and Moldavia end when they
+began paying Ottoman tribute, although they kept their own voivodes until the
+Ottomans appointed Phanariot princes in the 1710s. The Holy Roman Empire still
+has its own file.
+
+## Transitions
+
+Polities are connected by what happened when one ended. This is the agreed
+format; no file uses it yet and `validate.py` does not check it.
+
+A transition is stored once, on the polity that ends. The browser derives the
+other direction ("formed from", "absorbed") from it:
+
+```yaml
+transitions:
+- year: 1479
+  kind: merged_into
+  into: [spanish_monarchy]
+```
+
+`kind` is one of:
+
+- `absorbed_into`: another polity took control, as described above.
+- `merged_into`: several polities became one new polity; each of them points
+  to it.
+- `split_into`: the polity broke up into several new ones.
+- `succeeded_by`: the same state continued under a new identity, such as a
+  change of regime that warrants a new file.
+
+`year` must be the end of one of the polity's periods. Every polity in `into`
+must exist and either be active that year (for `absorbed_into`) or begin a
+period in that year or the next. A polity that simply disappeared has no
+transition.
 
 ## Checks
 
