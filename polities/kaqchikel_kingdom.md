@@ -9,4 +9,8 @@ point:
   name: Iximche
   latitude: 14.7361
   longitude: -90.9956
+transitions:
+- year: 1524
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---

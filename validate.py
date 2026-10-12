@@ -1,13 +1,9 @@
-from database import load_polities
+from database import is_active, load_polities
 
 
 polities = load_polities()
 names = {polity["name"] for polity in polities}
-active_1500 = {
-    polity["name"]
-    for polity in polities
-    if any(period["start"] <= 1500 <= period["end"] for period in polity["periods"])
-}
+active_1500 = {polity["name"] for polity in polities if is_active(polity, 1500)}
 assert "Kingdom of Portugal" in active_1500
 assert "Old Swiss Confederacy" in active_1500
 assert "Habsburg Netherlands" in active_1500

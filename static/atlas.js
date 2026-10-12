@@ -38,7 +38,7 @@
 
   function activePeriod(polity, year) {
     return polity.periods.find(function (period) {
-      return period.start <= year && year <= period.end;
+      return period.start <= year && (period.end === null || year <= period.end);
     });
   }
 
@@ -58,7 +58,7 @@
 
   function showCard(polity) {
     const periods = polity.periods.map(function (period) {
-      return formatYear(period.start) + "–" + formatYear(period.end);
+      return formatYear(period.start) + "–" + (period.end === null ? "present" : formatYear(period.end));
     }).join(" · ");
     card.innerHTML = "<strong>" + escapeHtml(polity.name) + "</strong>" +
       '<span class="atlas-id">' + escapeHtml(polity.id) + "</span>" +
@@ -123,7 +123,9 @@
   }
 
   const years = database.polities.flatMap(function (polity) {
-    return polity.periods.flatMap(function (period) { return [period.start, period.end]; });
+    return polity.periods.flatMap(function (period) {
+      return [period.start, period.end === null ? new Date().getFullYear() : period.end];
+    });
   });
   yearInput.min = Math.min.apply(null, years);
   yearInput.max = Math.max.apply(null, years);

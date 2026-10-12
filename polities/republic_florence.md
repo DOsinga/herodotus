@@ -9,4 +9,8 @@ point:
   name: Florence
   latitude: 43.7696
   longitude: 11.2558
+transitions:
+- year: 1532
+  kind: succeeded_by
+  into: [duchy_florence]
 ---

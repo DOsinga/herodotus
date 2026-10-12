@@ -11,4 +11,8 @@ point:
   name: Lisbon
   latitude: 38.7223
   longitude: -9.1393
+transitions:
+- year: 1580
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---

@@ -9,4 +9,8 @@ point:
   name: Bacatá
   latitude: 4.711
   longitude: -74.0721
+transitions:
+- year: 1537
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---

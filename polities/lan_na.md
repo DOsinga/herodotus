@@ -9,4 +9,8 @@ point:
   name: Chiang Mai
   latitude: 18.7883
   longitude: 98.9853
+transitions:
+- year: 1558
+  kind: absorbed_into
+  into: [toungoo_dynasty]
 ---

@@ -9,4 +9,8 @@ point:
   name: Delhi
   latitude: 28.6139
   longitude: 77.209
+transitions:
+- year: 1526
+  kind: absorbed_into
+  into: [mughal_empire]
 ---

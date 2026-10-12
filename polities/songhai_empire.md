@@ -9,4 +9,8 @@ point:
   name: Gao
   latitude: 16.2667
   longitude: -0.05
+transitions:
+- year: 1591
+  kind: absorbed_into
+  into: [saadi_sultanate]
 ---
