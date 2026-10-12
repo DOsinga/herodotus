@@ -3,7 +3,13 @@ id: republic_genoa
 name: Republic of Genoa
 wikipedia: https://en.wikipedia.org/wiki/Republic_of_Genoa
 periods:
-- start: 1339
+- start: 1099
+  end: 1311
+- start: 1313
+  end: 1318
+- start: 1335
+  end: 1353
+- start: 1356
   end: 1396
 - start: 1409
   end: 1421
@@ -20,6 +26,12 @@ point:
   latitude: 44.4056
   longitude: 8.9463
 transitions:
+- year: 1318
+  kind: absorbed_into
+  into: [kingdom_naples]
+- year: 1353
+  kind: absorbed_into
+  into: [lordship_milan]
 - year: 1396
   kind: absorbed_into
   into: [kingdom_france]
