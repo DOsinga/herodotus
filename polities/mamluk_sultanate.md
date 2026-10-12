@@ -9,4 +9,8 @@ point:
   name: Cairo
   latitude: 30.0444
   longitude: 31.2357
+transitions:
+- year: 1517
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

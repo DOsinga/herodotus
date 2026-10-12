@@ -60,7 +60,7 @@ transitions:
 - `periods` is a list of integer years, inclusive at both ends, with negative
   years for BCE. Periods are in order and must not overlap. A polity is active
   in year Y when `start <= Y <= end` for one of its periods.
-- `end` is required, so a polity that still exists cannot be represented yet.
+- The last period's `end` is `null` for a polity that still exists.
 - `point` is a representative place, normally the capital or seat of
   government, with its name. It is a marker for the polity, not a claim about
   its territory.

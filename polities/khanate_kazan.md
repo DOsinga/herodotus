@@ -9,4 +9,8 @@ point:
   name: Kazan
   latitude: 55.7964
   longitude: 49.1089
+transitions:
+- year: 1552
+  kind: absorbed_into
+  into: [tsardom_russia]
 ---

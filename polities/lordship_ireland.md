@@ -9,4 +9,8 @@ point:
   name: Dublin
   latitude: 53.3498
   longitude: -6.2603
+transitions:
+- year: 1542
+  kind: succeeded_by
+  into: [kingdom_ireland]
 ---

@@ -9,4 +9,8 @@ point:
   name: Tlemcen
   latitude: 34.8828
   longitude: -1.3167
+transitions:
+- year: 1556
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

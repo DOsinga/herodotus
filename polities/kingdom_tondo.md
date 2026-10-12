@@ -9,4 +9,8 @@ point:
   name: Tondo
   latitude: 14.617
   longitude: 120.967
+transitions:
+- year: 1571
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---

@@ -9,4 +9,8 @@ point:
   name: Clonroad
   latitude: 52.8436
   longitude: -8.9864
+transitions:
+- year: 1543
+  kind: absorbed_into
+  into: [kingdom_ireland]
 ---
