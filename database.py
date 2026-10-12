@@ -14,6 +14,7 @@ def load_polities():
         text = path.read_text()
         _, frontmatter, _ = text.split("---", 2)
         polity = yaml.safe_load(frontmatter)
+        assert polity["id"] == path.stem, path
         polities.append(polity)
     validate_polities(polities)
     return polities
