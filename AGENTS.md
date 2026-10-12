@@ -56,7 +56,8 @@ transitions:
 - `name` is the conventional English name and is unique.
 - `wikipedia` is an English Wikipedia URL for the polity itself. Avoid
   articles about a dynasty or an institution when a page about the state
-  exists.
+  exists. When no article covers the polity, link the closest one, such as
+  the country's history or the period, and say so in the note.
 - `periods` is a list of integer years, inclusive at both ends, with negative
   years for BCE. Periods within one polity are in order and must not overlap.
   A polity is active in year Y when `start <= Y` and its period has no end or
