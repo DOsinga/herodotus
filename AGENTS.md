@@ -64,6 +64,9 @@ transitions:
 - `point` is a representative place, normally the capital or seat of
   government, with its name. It is a marker for the polity, not a claim about
   its territory.
+- `note` is optional text shown on the polity's card. Use it whenever a date
+  or the point is an estimate, and say what the estimate rests on so it can be
+  revisited. An estimated polity with a note is better than an empty region.
 
 ## What counts as a polity
 

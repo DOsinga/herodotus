@@ -72,6 +72,7 @@
       "<span>" + escapeHtml(periods) + "</span>" +
       status +
       "<span>representative point: " + escapeHtml(polity.point.name) + "</span>" +
+      (polity.note ? "<p>" + escapeHtml(polity.note) + "</p>" : "") +
       '<p><a href="' + escapeHtml(polity.wikipedia) + '" target="_blank" rel="noopener">Wikipedia</a></p>';
   }
 
