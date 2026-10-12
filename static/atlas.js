@@ -144,6 +144,7 @@
     });
     if (!polity) {
       selectedPolity = null;
+      showYear(Number(yearInput.value));
       card.className = "atlas-card";
       card.innerHTML = "<strong>No polity found</strong><span>Try another name.</span>";
       return;

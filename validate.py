@@ -15,6 +15,9 @@ assert {"Wattasid Sultanate", "Zayyanid Kingdom of Tlemcen", "Hafsid Sultanate"}
 assert {"Lordship of Ireland", "Kingdom of Tyrone", "Tyrconnell", "Kingdom of Thomond"} <= active_1500
 assert {"Tuʻi Tonga Empire", "Kazakh Khanate", "Khanate of Kazan", "Khanate of Sibir", "Astrakhan Khanate", "Kanem–Bornu Empire"} <= active_1500
 assert "Kingdom of Sicily" not in active_1500
+assert "Tuʻi Haʻatakalaua" not in active_1500
+assert "Tuʻi Kanokupolu" not in active_1500
+assert {"Tuʻi Haʻatakalaua", "Tuʻi Kanokupolu"} <= names
 assert "Maghrebi sultanates" not in names
 assert "Hausa city-states" not in names
 assert "Maya states" not in names
