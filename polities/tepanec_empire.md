@@ -4,13 +4,13 @@ name: Tepanec Empire
 wikipedia: https://en.wikipedia.org/wiki/Azcapotzalco
 periods:
 - start: 1200
-  end: 1427
+  end: 1428
 point:
   name: Azcapotzalco
   latitude: 19.4722
   longitude: -99.1833
 transitions:
-- year: 1427
+- year: 1428
   kind: succeeded_by
   into: [aztec_alliance]
 ---
