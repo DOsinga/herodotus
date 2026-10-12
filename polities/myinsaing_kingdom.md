@@ -4,13 +4,13 @@ name: Myinsaing Kingdom
 wikipedia: https://en.wikipedia.org/wiki/Myinsaing_Kingdom
 periods:
 - start: 1297
-  end: 1312
+  end: 1313
 point:
   name: Myinsaing
   latitude: 21.6
   longitude: 96.2
 transitions:
-- year: 1312
+- year: 1313
   kind: succeeded_by
   into: [pinya_kingdom]
 ---

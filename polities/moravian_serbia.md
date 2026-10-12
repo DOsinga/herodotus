@@ -4,13 +4,13 @@ name: Moravian Serbia
 wikipedia: https://en.wikipedia.org/wiki/Moravian_Serbia
 periods:
 - start: 1371
-  end: 1401
+  end: 1402
 point:
   name: Kruševac
   latitude: 43.5809
   longitude: 21.326
 transitions:
-- year: 1401
+- year: 1402
   kind: succeeded_by
   into: [serbian_despotate]
 ---
