@@ -11,4 +11,8 @@ point:
   name: Birgi
   latitude: 38.2506
   longitude: 28.0592
+transitions:
+- year: 1426
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

@@ -9,4 +9,8 @@ point:
   name: Trebizond
   latitude: 41.005
   longitude: 39.7225
+transitions:
+- year: 1461
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

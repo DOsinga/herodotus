@@ -9,4 +9,8 @@ point:
   name: Granada
   latitude: 37.1773
   longitude: -3.5986
+transitions:
+- year: 1492
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---

@@ -6,6 +6,7 @@ import yaml
 
 ROOT = Path(__file__).parent
 ID = re.compile(r"^[a-z][a-z0-9_]*$")
+TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by"}
 
 
 def load_polities():
@@ -14,6 +15,7 @@ def load_polities():
         text = path.read_text()
         _, frontmatter, _ = text.split("---", 2)
         polity = yaml.safe_load(frontmatter)
+        assert polity["id"] == path.stem, path
         polities.append(polity)
     validate_polities(polities)
     return polities
@@ -23,7 +25,7 @@ def validate_polities(polities):
     ids = set()
     names = set()
     for polity in polities:
-        assert set(polity) == {"id", "name", "wikipedia", "periods", "point"}, polity["id"]
+        assert set(polity) - {"transitions"} == {"id", "name", "wikipedia", "periods", "point"}, polity["id"]
         assert ID.fullmatch(polity["id"]), polity["id"]
         assert polity["id"] not in ids, polity["id"]
         assert polity["name"] not in names, polity["name"]
@@ -48,3 +50,25 @@ def validate_polities(polities):
 
         ids.add(polity["id"])
         names.add(polity["name"])
+
+    by_id = {polity["id"]: polity for polity in polities}
+    for polity in polities:
+        for transition in polity.get("transitions", []):
+            year = transition["year"]
+            assert set(transition) == {"year", "kind", "into"}, polity["id"]
+            assert transition["kind"] in TRANSITION_KINDS, polity["id"]
+            assert any(period["end"] == year for period in polity["periods"]), polity["id"]
+            if transition["kind"] == "split_into":
+                assert len(transition["into"]) >= 2, polity["id"]
+            else:
+                assert len(transition["into"]) == 1, polity["id"]
+            for target_id in transition["into"]:
+                assert target_id in by_id, (polity["id"], target_id)
+                periods = by_id[target_id]["periods"]
+                if transition["kind"] == "absorbed_into":
+                    continues = any(period["start"] <= year <= period["end"] for period in periods)
+                    assert continues, (polity["id"], target_id)
+                else:
+                    begins = any(period["start"] in (year, year + 1) for period in periods)
+                    assert begins, (polity["id"], target_id)
+

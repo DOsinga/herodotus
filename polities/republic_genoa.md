@@ -19,4 +19,11 @@ point:
   name: Genoa
   latitude: 44.4056
   longitude: 8.9463
+transitions:
+- year: 1396
+  kind: absorbed_into
+  into: [kingdom_france]
+- year: 1421
+  kind: absorbed_into
+  into: [duchy_milan]
 ---

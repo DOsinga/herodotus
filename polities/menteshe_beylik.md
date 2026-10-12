@@ -11,4 +11,8 @@ point:
   name: Milas
   latitude: 37.3167
   longitude: 27.7833
+transitions:
+- year: 1413
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

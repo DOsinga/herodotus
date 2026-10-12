@@ -9,4 +9,8 @@ point:
   name: Novgorod
   latitude: 58.5256
   longitude: 31.2742
+transitions:
+- year: 1478
+  kind: absorbed_into
+  into: [grand_duchy_moscow]
 ---

@@ -9,4 +9,8 @@ point:
   name: Zaragoza
   latitude: 41.6488
   longitude: -0.8891
+transitions:
+- year: 1478
+  kind: merged_into
+  into: [spanish_monarchy]
 ---

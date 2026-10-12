@@ -13,4 +13,8 @@ point:
   name: Kütahya
   latitude: 39.4242
   longitude: 29.9833
+transitions:
+- year: 1429
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

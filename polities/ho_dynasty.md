@@ -9,4 +9,8 @@ point:
   name: Tây Đô
   latitude: 20.0783
   longitude: 105.6042
+transitions:
+- year: 1406
+  kind: absorbed_into
+  into: [ming_dynasty]
 ---

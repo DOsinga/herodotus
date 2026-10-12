@@ -9,4 +9,8 @@ point:
   name: Nicosia
   latitude: 35.1725
   longitude: 33.365
+transitions:
+- year: 1489
+  kind: absorbed_into
+  into: [republic_venice]
 ---

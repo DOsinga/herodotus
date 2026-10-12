@@ -9,4 +9,8 @@ point:
   name: Cetinje
   latitude: 42.3906
   longitude: 18.9142
+transitions:
+- year: 1496
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

@@ -9,4 +9,8 @@ point:
   name: Tver
   latitude: 56.8625
   longitude: 35.9242
+transitions:
+- year: 1485
+  kind: absorbed_into
+  into: [grand_duchy_moscow]
 ---

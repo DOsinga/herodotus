@@ -9,4 +9,8 @@ point:
   name: Taiz
   latitude: 13.5795
   longitude: 44.0209
+transitions:
+- year: 1453
+  kind: succeeded_by
+  into: [tahirid_yemen]
 ---

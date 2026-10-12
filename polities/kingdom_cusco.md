@@ -9,4 +9,8 @@ point:
   name: Cusco
   latitude: -13.5169
   longitude: -71.9786
+transitions:
+- year: 1437
+  kind: succeeded_by
+  into: [inca_empire]
 ---

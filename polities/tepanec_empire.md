@@ -9,4 +9,8 @@ point:
   name: Azcapotzalco
   latitude: 19.4722
   longitude: -99.1833
+transitions:
+- year: 1427
+  kind: succeeded_by
+  into: [aztec_alliance]
 ---

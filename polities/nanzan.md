@@ -9,4 +9,8 @@ point:
   name: Ōzato
   latitude: 26.1236
   longitude: 127.7308
+transitions:
+- year: 1429
+  kind: absorbed_into
+  into: [chuzan]
 ---

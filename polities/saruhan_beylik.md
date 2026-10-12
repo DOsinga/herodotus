@@ -11,4 +11,8 @@ point:
   name: Manisa
   latitude: 38.6191
   longitude: 27.4289
+transitions:
+- year: 1412
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

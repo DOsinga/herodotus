@@ -9,4 +9,8 @@ point:
   name: Lezhë
   latitude: 41.7836
   longitude: 19.6436
+transitions:
+- year: 1479
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

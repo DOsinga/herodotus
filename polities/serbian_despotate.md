@@ -11,4 +11,8 @@ point:
   name: Smederevo
   latitude: 44.6667
   longitude: 20.9333
+transitions:
+- year: 1459
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

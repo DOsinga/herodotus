@@ -9,4 +9,8 @@ point:
   name: Tabriz
   latitude: 38.0667
   longitude: 46.3
+transitions:
+- year: 1468
+  kind: absorbed_into
+  into: [aq_qoyunlu]
 ---

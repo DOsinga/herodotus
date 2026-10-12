@@ -9,4 +9,8 @@ point:
   name: Toledo
   latitude: 39.8567
   longitude: -4.0244
+transitions:
+- year: 1478
+  kind: merged_into
+  into: [spanish_monarchy]
 ---

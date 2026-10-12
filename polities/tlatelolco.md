@@ -9,4 +9,8 @@ point:
   name: Tlatelolco
   latitude: 19.4511
   longitude: -99.1372
+transitions:
+- year: 1473
+  kind: absorbed_into
+  into: [aztec_alliance]
 ---

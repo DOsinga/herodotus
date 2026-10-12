@@ -9,4 +9,8 @@ point:
   name: Konya
   latitude: 37.8744
   longitude: 32.4931
+transitions:
+- year: 1487
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---
