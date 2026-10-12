@@ -1,9 +1,9 @@
 ---
 id: kingdom_poland
 name: Kingdom of Poland
-wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Poland_(1385%E2%80%931569)
+wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Poland
 periods:
-- start: 1385
+- start: 1320
   end: 1569
 point:
   name: Kraków
