@@ -9,4 +9,8 @@ point:
   name: Chaktomuk
   latitude: 11.5564
   longitude: 104.9282
+transitions:
+- year: 1863
+  kind: absorbed_into
+  into: [second_french_empire]
 ---

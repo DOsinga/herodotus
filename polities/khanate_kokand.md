@@ -13,4 +13,7 @@ transitions:
 - year: 1709
   kind: broke_away_from
   from: [khanate_bukhara]
+- year: 1876
+  kind: absorbed_into
+  into: [russian_empire]
 ---

@@ -10,4 +10,8 @@ point:
   latitude: 22.567
   longitude: 88.37
 note: "The East India Company's Indian territories, treated as one polity because the Company governed them. The Crown took over in 1858."
+transitions:
+- year: 1858
+  kind: succeeded_by
+  into: [british_raj]
 ---

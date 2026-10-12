@@ -9,4 +9,8 @@ point:
   name: The Hague
   latitude: 52.08
   longitude: 4.31
+transitions:
+- year: 1806
+  kind: succeeded_by
+  into: [kingdom_holland]
 ---

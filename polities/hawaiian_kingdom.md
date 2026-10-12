@@ -9,4 +9,8 @@ point:
   name: Honolulu
   latitude: 21.3
   longitude: -157.85
+transitions:
+- year: 1893
+  kind: succeeded_by
+  into: [republic_hawaii]
 ---

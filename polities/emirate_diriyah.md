@@ -9,4 +9,8 @@ point:
   name: Diriyah
   latitude: 24.733
   longitude: 46.576
+transitions:
+- year: 1818
+  kind: absorbed_into
+  into: [egypt_muhammad_ali]
 ---

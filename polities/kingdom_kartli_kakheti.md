@@ -9,4 +9,8 @@ point:
   name: Tbilisi
   latitude: 41.7225
   longitude: 44.7925
+transitions:
+- year: 1801
+  kind: absorbed_into
+  into: [russian_empire]
 ---

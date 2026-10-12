@@ -9,4 +9,8 @@ point:
   name: Timbuktu
   latitude: 16.776
   longitude: -3.009
+transitions:
+- year: 1833
+  kind: absorbed_into
+  into: [massina_empire]
 ---

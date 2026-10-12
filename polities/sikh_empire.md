@@ -9,4 +9,8 @@ point:
   name: Lahore
   latitude: 31.55
   longitude: 74.344
+transitions:
+- year: 1849
+  kind: absorbed_into
+  into: [company_rule_india]
 ---

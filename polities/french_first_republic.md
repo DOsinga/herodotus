@@ -9,4 +9,8 @@ point:
   name: Paris
   latitude: 48.857
   longitude: 2.352
+transitions:
+- year: 1804
+  kind: succeeded_by
+  into: [first_french_empire]
 ---

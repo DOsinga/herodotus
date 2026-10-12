@@ -9,4 +9,8 @@ point:
   name: Ava
   latitude: 21.858
   longitude: 95.985
+transitions:
+- year: 1885
+  kind: absorbed_into
+  into: [british_raj]
 ---

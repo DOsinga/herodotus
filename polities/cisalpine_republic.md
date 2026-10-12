@@ -9,4 +9,8 @@ point:
   name: Milan
   latitude: 45.467
   longitude: 9.19
+transitions:
+- year: 1802
+  kind: succeeded_by
+  into: [italian_republic_1802]
 ---

@@ -9,4 +9,8 @@ point:
   name: Raigad
   latitude: 18.233
   longitude: 73.441
+transitions:
+- year: 1818
+  kind: absorbed_into
+  into: [company_rule_india]
 ---

@@ -10,4 +10,8 @@ point:
   latitude: -8.559
   longitude: 22.683
 note: "Founding date estimated: sources range from about 1665 to the reign of Nawej, the first well-attested ruler, from about 1695."
+transitions:
+- year: 1887
+  kind: absorbed_into
+  into: [congo_free_state]
 ---

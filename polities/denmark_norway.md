@@ -9,4 +9,8 @@ point:
   name: Copenhagen
   latitude: 55.6761
   longitude: 12.5683
+transitions:
+- year: 1814
+  kind: split_into
+  into: [kingdom_denmark, kingdom_norway]
 ---

@@ -13,4 +13,7 @@ transitions:
 - year: 1597
   kind: broke_away_from
   from: [ottoman_empire]
+- year: 1849
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

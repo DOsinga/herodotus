@@ -9,4 +9,8 @@ point:
   name: Antananarivo
   latitude: -18.91
   longitude: 47.525
+transitions:
+- year: 1897
+  kind: absorbed_into
+  into: [french_third_republic]
 ---

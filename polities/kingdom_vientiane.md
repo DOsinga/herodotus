@@ -9,4 +9,8 @@ point:
   name: Vientiane
   latitude: 17.98
   longitude: 102.63
+transitions:
+- year: 1828
+  kind: absorbed_into
+  into: [rattanakosin_kingdom]
 ---

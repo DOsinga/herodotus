@@ -18,4 +18,10 @@ transitions:
 - year: 1798
   kind: absorbed_into
   into: [roman_republic_1798]
+- year: 1809
+  kind: absorbed_into
+  into: [first_french_empire]
+- year: 1870
+  kind: absorbed_into
+  into: [kingdom_italy]
 ---

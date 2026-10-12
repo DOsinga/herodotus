@@ -9,4 +9,8 @@ point:
   name: Bern
   latitude: 46.948
   longitude: 7.4475
+transitions:
+- year: 1803
+  kind: succeeded_by
+  into: [switzerland]
 ---

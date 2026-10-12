@@ -16,4 +16,7 @@ transitions:
 - year: 1777
   kind: absorbed_into
   into: [tay_son_dynasty]
+- year: 1802
+  kind: succeeded_by
+  into: [nguyen_dynasty]
 ---

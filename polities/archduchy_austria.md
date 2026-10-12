@@ -9,4 +9,8 @@ point:
   name: Vienna
   latitude: 48.2083
   longitude: 16.3725
+transitions:
+- year: 1804
+  kind: succeeded_by
+  into: [austrian_empire]
 ---
