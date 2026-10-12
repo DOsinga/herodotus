@@ -19,8 +19,11 @@
     worldCopyJump: true
   }).setView([23, 10], 2);
   L.control.zoom({ position: "topright" }).addTo(map);
+  map.createPane("land");
+  map.getPane("land").style.zIndex = 300;
   const layer = L.layerGroup().addTo(map);
   const landLayer = L.geoJSON(null, {
+    pane: "land",
     interactive: false,
     style: { color: "#aca99f", fillColor: "#eeeade", fillOpacity: 1, weight: 0.5 }
   }).addTo(map);
