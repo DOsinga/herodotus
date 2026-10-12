@@ -75,7 +75,7 @@
     });
 
     active.forEach(function (polity) {
-      const marker = L.circleMarker([polity.point.lat, polity.point.lon], {
+      const marker = L.circleMarker([polity.point.latitude, polity.point.longitude], {
         radius: 6,
         color: "#fff",
         weight: 1.5,
@@ -118,7 +118,7 @@
       showYear(Number(yearInput.value));
     }
     searchInput.value = polity.name;
-    map.flyTo([polity.point.lat, polity.point.lon], Math.max(map.getZoom(), 4));
+    map.flyTo([polity.point.latitude, polity.point.longitude], Math.max(map.getZoom(), 4));
     showCard(polity);
   }
 
@@ -130,7 +130,7 @@
   yearInput.step = 1;
   yearInput.value = 1500;
   yearMin.textContent = formatYear(Number(yearInput.min));
-  yearMid.textContent = "1500";
+  yearMid.textContent = formatYear(Math.round((Number(yearInput.min) + Number(yearInput.max)) / 2));
   yearMax.textContent = formatYear(Number(yearInput.max));
 
   polityList.replaceChildren.apply(polityList, database.polities.map(function (polity) {
