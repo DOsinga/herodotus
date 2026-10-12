@@ -37,8 +37,17 @@ point:
   name: Genoa
   latitude: 44.4056
   longitude: 8.9463
+transitions:
+- year: 1396
+  kind: absorbed_into
+  into: [kingdom_france]
+- year: 1421
+  kind: absorbed_into
+  into: [duchy_milan]
 ---
 ```
+
+`transitions` is optional and described [below](#transitions).
 
 `database.py` enforces these rules:
 
@@ -108,7 +117,7 @@ has its own file.
 ## Transitions
 
 Polities are connected by what happened when one ended. This is the agreed
-format; no file uses it yet and `validate.py` does not check it.
+format, but no file uses it yet and `database.py` still rejects the field.
 
 A transition is stored once, on the polity that ends. The browser derives the
 other direction ("formed from", "absorbed") from it:
@@ -129,7 +138,9 @@ transitions:
 - `succeeded_by`: the same state continued under a new identity, such as a
   change of regime that warrants a new file.
 
-`year` must be the end of one of the polity's periods. Every polity in `into`
+`year` must be the end of one of the polity's periods. That includes a period
+followed by a gap, as with Genoa above: the transition says who took over
+during the gap. Every polity in `into`
 must exist and either be active that year (for `absorbed_into`) or begin a
 period in that year or the next. A polity that simply disappeared has no
 transition.
