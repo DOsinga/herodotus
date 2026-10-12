@@ -12,7 +12,7 @@ TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by"
 def load_polities():
     polities = []
     for path in sorted((ROOT / "polities").glob("*.md")):
-        text = path.read_text()
+        text = path.read_text(encoding="utf-8")
         _, frontmatter, _ = text.split("---", 2)
         polity = yaml.safe_load(frontmatter)
         assert polity["id"] == path.stem, path
