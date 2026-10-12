@@ -16,6 +16,6 @@ transitions:
   kind: absorbed_into
   into: [singhasari]
 - year: 1293
-  kind: succeeded_by
+  kind: absorbed_into
   into: [majapahit]
 ---

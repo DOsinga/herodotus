@@ -14,7 +14,7 @@ point:
 transitions:
 - year: 1204
   kind: split_into
-  into: [latin_empire, empire_nicaea, despotate_epirus, empire_trebizond]
+  into: [latin_empire, empire_nicaea, empire_trebizond]
 - year: 1453
   kind: absorbed_into
   into: [ottoman_empire]

@@ -9,6 +9,7 @@ point:
   name: Dromahair
   latitude: 54.2333
   longitude: -8.3
+note: "750 is an approximate start, following the conventional date for Breifne's separation from Connacht, not a known founding year."
 transitions:
 - year: 1256
   kind: split_into

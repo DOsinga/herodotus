@@ -13,6 +13,7 @@ point:
   name: Pisa
   latitude: 43.7167
   longitude: 10.4
+note: "1000 is an approximate start for Pisa's emergence as a maritime republic, not a known founding year."
 transitions:
 - year: 1399
   kind: absorbed_into

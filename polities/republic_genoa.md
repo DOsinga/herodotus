@@ -26,9 +26,6 @@ point:
   latitude: 44.4056
   longitude: 8.9463
 transitions:
-- year: 1311
-  kind: absorbed_into
-  into: [holy_roman_empire]
 - year: 1318
   kind: absorbed_into
   into: [kingdom_naples]
