@@ -132,15 +132,30 @@
     note.textContent = "Each dot is one polity's representative point, not a border or a city inventory.";
   }
 
+  function normalizeSearch(text) {
+    return text
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[\u02bb\u02bc\u2018\u2019\u0060']/g, "");
+  }
+
   function findPolity() {
-    const query = searchInput.value.trim().toLowerCase();
-    if (!query) return;
+    const rawQuery = searchInput.value.trim();
+    if (!rawQuery) return;
+    const query = normalizeSearch(rawQuery.replace(/_/g, " "));
     const polity = database.polities.find(function (candidate) {
-      return candidate.id.toLowerCase() === query || candidate.name.toLowerCase() === query;
+      const name = normalizeSearch(candidate.name);
+      const id = normalizeSearch(candidate.id.replace(/_/g, " "));
+      return id === query || name === query;
     }) || database.polities.find(function (candidate) {
-      return candidate.name.toLowerCase().startsWith(query);
+      const name = normalizeSearch(candidate.name);
+      const id = normalizeSearch(candidate.id.replace(/_/g, " "));
+      return name.startsWith(query) || id.startsWith(query);
     }) || database.polities.find(function (candidate) {
-      return candidate.name.toLowerCase().includes(query);
+      const name = normalizeSearch(candidate.name);
+      const id = normalizeSearch(candidate.id.replace(/_/g, " "));
+      return name.includes(query) || id.includes(query);
     });
     if (!polity) {
       selectedPolity = null;
