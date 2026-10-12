@@ -116,11 +116,9 @@ has its own file.
 
 ## Transitions
 
-Polities are connected by what happened when one ended. This is the agreed
-format, but no file uses it yet and `database.py` still rejects the field.
-
-A transition is stored once, on the polity that ends. The browser derives the
-other direction ("formed from", "absorbed") from it:
+Polities are connected by what happened when one ended. A transition is
+stored once, on the polity that ends; the other direction ("formed from",
+"absorbed") is derived from it and never written down:
 
 ```yaml
 transitions:
@@ -138,12 +136,18 @@ transitions:
 - `succeeded_by`: the same state continued under a new identity, such as a
   change of regime that warrants a new file.
 
-`year` must be the end of one of the polity's periods. That includes a period
-followed by a gap, as with Genoa above: the transition says who took over
-during the gap. Every polity in `into`
-must exist and either be active that year (for `absorbed_into`) or begin a
-period in that year or the next. A polity that simply disappeared has no
-transition.
+`database.py` checks that:
+
+- `year` is the end of one of the polity's periods. That includes a period
+  followed by a gap, as with Genoa above: the transition says who took over
+  during the gap.
+- `into` lists at least two polities for `split_into` and exactly one for the
+  other kinds, and each of them exists.
+- An `absorbed_into` target is active in that year. Any other target begins a
+  period in that year or the next.
+
+Transitions are optional. A polity that simply disappeared has none, and most
+files have not been given theirs yet.
 
 ## Checks
 
