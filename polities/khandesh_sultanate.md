@@ -9,4 +9,8 @@ point:
   name: Burhanpur
   latitude: 21.31
   longitude: 76.23
+transitions:
+- year: 1601
+  kind: absorbed_into
+  into: [mughal_empire]
 ---

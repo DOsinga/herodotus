@@ -9,4 +9,8 @@ point:
   name: Golconda
   latitude: 17.3833
   longitude: 78.4011
+transitions:
+- year: 1687
+  kind: absorbed_into
+  into: [mughal_empire]
 ---

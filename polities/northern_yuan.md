@@ -9,4 +9,8 @@ point:
   name: Karakorum
   latitude: 47.2
   longitude: 102.8333
+transitions:
+- year: 1635
+  kind: absorbed_into
+  into: [later_jin]
 ---

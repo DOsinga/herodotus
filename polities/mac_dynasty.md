@@ -9,4 +9,8 @@ point:
   name: Thăng Long
   latitude: 21.0333
   longitude: 105.84
+transitions:
+- year: 1677
+  kind: absorbed_into
+  into: [later_le_dynasty]
 ---

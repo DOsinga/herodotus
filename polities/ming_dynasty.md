@@ -9,4 +9,8 @@ point:
   name: Beijing
   latitude: 39.9042
   longitude: 116.4074
+transitions:
+- year: 1644
+  kind: succeeded_by
+  into: [southern_ming]
 ---

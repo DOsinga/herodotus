@@ -9,4 +9,8 @@ point:
   name: Saray-Jük
   latitude: 47.5
   longitude: 51.7333
+transitions:
+- year: 1634
+  kind: absorbed_into
+  into: [kalmyk_khanate]
 ---
