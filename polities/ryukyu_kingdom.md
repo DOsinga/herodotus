@@ -8,5 +8,5 @@ periods:
 point:
   name: Shuri
   latitude: 26.217
-  longitude: 127.7195
+  longitude: 127.719
 ---

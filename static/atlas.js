@@ -11,6 +11,7 @@
   const count = document.getElementById("atlas-count");
   const note = document.getElementById("atlas-note");
   const markers = new Map();
+  let selectedPolity = null;
 
   const map = L.map("atlas-map", {
     minZoom: 1,
@@ -56,15 +57,33 @@
     });
   }
 
-  function showCard(polity) {
+  function showCard(polity, year) {
+    const currentYear = year !== undefined ? year : Number(yearInput.value);
+    const isActive = !!activePeriod(polity, currentYear);
     const periods = polity.periods.map(function (period) {
       return formatYear(period.start) + "–" + (period.end === null ? "present" : formatYear(period.end));
     }).join(" · ");
+    card.className = "atlas-card" + (isActive ? "" : " is-inactive");
+    const status = isActive
+      ? ""
+      : '<span class="atlas-status">Not active in ' + escapeHtml(formatYear(currentYear)) + "</span>";
     card.innerHTML = "<strong>" + escapeHtml(polity.name) + "</strong>" +
       '<span class="atlas-id">' + escapeHtml(polity.id) + "</span>" +
       "<span>" + escapeHtml(periods) + "</span>" +
+      status +
       "<span>representative point: " + escapeHtml(polity.point.name) + "</span>" +
       '<p><a href="' + escapeHtml(polity.wikipedia) + '" target="_blank" rel="noopener">Wikipedia</a></p>';
+  }
+
+  function resetCard(year) {
+    card.className = "atlas-card";
+    card.innerHTML = "<strong>Polities in " + formatYear(year) +
+      "</strong><span>Click a representative point to inspect the polity and its dates.</span>";
+  }
+
+  function selectPolity(polity) {
+    selectedPolity = polity;
+    showYear(Number(yearInput.value));
   }
 
   function showYear(year) {
@@ -74,26 +93,41 @@
       return activePeriod(polity, year);
     });
 
+    let selectedMarker = null;
     active.forEach(function (polity) {
+      const isSelected = selectedPolity && selectedPolity.id === polity.id;
       const marker = L.circleMarker([polity.point.latitude, polity.point.longitude], {
-        radius: 6,
-        color: "#fff",
-        weight: 1.5,
+        radius: isSelected ? 9 : 6,
+        color: isSelected ? "#20272b" : "#fff",
+        weight: isSelected ? 3 : 1.5,
         fillColor: polityColor(polity.id),
         fillOpacity: 1
       }).addTo(layer);
       marker.bindTooltip(polity.name, {
         className: "atlas-tooltip",
         direction: "top",
-        offset: [0, -4]
+        offset: [0, isSelected ? -7 : -4]
       });
-      marker.on("click", function () { showCard(polity); });
+      marker.on("click", function (event) {
+        L.DomEvent.stopPropagation(event);
+        selectPolity(polity);
+      });
       markers.set(polity.id, marker);
+      if (isSelected) {
+        selectedMarker = marker;
+      }
     });
 
+    if (selectedMarker) {
+      selectedMarker.bringToFront();
+    }
+
     yearValue.textContent = formatYear(year);
-    card.innerHTML = "<strong>Polities in " + formatYear(year) +
-      "</strong><span>Click a representative point to inspect the polity and its dates.</span>";
+    if (selectedPolity) {
+      showCard(selectedPolity, year);
+    } else {
+      resetCard(year);
+    }
     count.textContent = active.length + " polities";
     note.textContent = "Each dot is one polity's representative point, not a border or a city inventory.";
   }
@@ -109,26 +143,33 @@
       return candidate.name.toLowerCase().includes(query);
     });
     if (!polity) {
+      selectedPolity = null;
+      showYear(Number(yearInput.value));
+      card.className = "atlas-card";
       card.innerHTML = "<strong>No polity found</strong><span>Try another name.</span>";
       return;
     }
 
+    selectedPolity = polity;
     if (!activePeriod(polity, Number(yearInput.value))) {
       yearInput.value = polity.periods[0].start;
-      showYear(Number(yearInput.value));
     }
+    showYear(Number(yearInput.value));
     searchInput.value = polity.name;
     map.flyTo([polity.point.latitude, polity.point.longitude], Math.max(map.getZoom(), 4));
-    showCard(polity);
   }
 
-  const years = database.polities.flatMap(function (polity) {
-    return polity.periods.flatMap(function (period) {
-      return [period.start, period.end === null ? new Date().getFullYear() : period.end];
+  const bounds = database.polities.reduce(function (accumulator, polity) {
+    polity.periods.forEach(function (period) {
+      if (period.start < accumulator.min) accumulator.min = period.start;
+      const end = period.end === null ? new Date().getFullYear() : period.end;
+      if (end > accumulator.max) accumulator.max = end;
     });
-  });
-  yearInput.min = Math.min.apply(null, years);
-  yearInput.max = Math.max.apply(null, years);
+    return accumulator;
+  }, { min: Infinity, max: -Infinity });
+
+  yearInput.min = bounds.min;
+  yearInput.max = bounds.max;
   yearInput.step = 1;
   yearInput.value = 1500;
   yearMin.textContent = formatYear(Number(yearInput.min));
@@ -140,6 +181,13 @@
     option.value = polity.name;
     return option;
   }));
+
+  map.on("click", function () {
+    if (selectedPolity) {
+      selectedPolity = null;
+      showYear(Number(yearInput.value));
+    }
+  });
 
   yearInput.addEventListener("input", function () { showYear(Number(yearInput.value)); });
   searchInput.addEventListener("change", findPolity);
