@@ -9,4 +9,8 @@ point:
   name: Brussels
   latitude: 50.8467
   longitude: 4.3525
+transitions:
+- year: 1581
+  kind: split_into
+  into: [dutch_republic, spanish_netherlands]
 ---

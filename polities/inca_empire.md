@@ -9,4 +9,8 @@ point:
   name: Cusco
   latitude: -13.5319
   longitude: -71.9675
+transitions:
+- year: 1533
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---

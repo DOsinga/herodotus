@@ -15,4 +15,17 @@ point:
   name: Milan
   latitude: 45.4642
   longitude: 9.19
+transitions:
+- year: 1499
+  kind: absorbed_into
+  into: [kingdom_france]
+- year: 1515
+  kind: absorbed_into
+  into: [kingdom_france]
+- year: 1524
+  kind: absorbed_into
+  into: [kingdom_france]
+- year: 1535
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---

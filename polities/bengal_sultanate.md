@@ -11,4 +11,11 @@ point:
   name: Gaur
   latitude: 24.871
   longitude: 88.141
+transitions:
+- year: 1539
+  kind: absorbed_into
+  into: [sur_empire]
+- year: 1576
+  kind: absorbed_into
+  into: [mughal_empire]
 ---

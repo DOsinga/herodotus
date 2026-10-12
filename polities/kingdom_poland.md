@@ -9,4 +9,8 @@ point:
   name: Kraków
   latitude: 50.0614
   longitude: 19.9366
+transitions:
+- year: 1569
+  kind: merged_into
+  into: [polish_lithuanian_commonwealth]
 ---

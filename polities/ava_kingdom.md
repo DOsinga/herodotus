@@ -9,4 +9,8 @@ point:
   name: Ava
   latitude: 21.8796
   longitude: 96.0169
+transitions:
+- year: 1555
+  kind: absorbed_into
+  into: [toungoo_dynasty]
 ---

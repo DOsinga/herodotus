@@ -9,4 +9,8 @@ point:
   name: Ellichpur
   latitude: 21.2567
   longitude: 77.51
+transitions:
+- year: 1574
+  kind: absorbed_into
+  into: [ahmadnagar_sultanate]
 ---

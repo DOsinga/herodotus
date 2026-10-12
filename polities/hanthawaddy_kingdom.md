@@ -11,4 +11,11 @@ point:
   name: Pegu
   latitude: 17.3367
   longitude: 96.4797
+transitions:
+- year: 1539
+  kind: absorbed_into
+  into: [toungoo_dynasty]
+- year: 1552
+  kind: absorbed_into
+  into: [toungoo_dynasty]
 ---

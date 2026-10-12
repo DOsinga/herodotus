@@ -9,4 +9,8 @@ point:
   name: Tenochtitlan
   latitude: 19.4326
   longitude: -99.1332
+transitions:
+- year: 1521
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---

@@ -39,7 +39,7 @@
 
   function activePeriod(polity, year) {
     return polity.periods.find(function (period) {
-      return period.start <= year && year <= period.end;
+      return period.start <= year && (period.end === null || year <= period.end);
     });
   }
 
@@ -61,7 +61,7 @@
     const currentYear = year !== undefined ? year : Number(yearInput.value);
     const isActive = !!activePeriod(polity, currentYear);
     const periods = polity.periods.map(function (period) {
-      return formatYear(period.start) + "–" + formatYear(period.end);
+      return formatYear(period.start) + "–" + (period.end === null ? "present" : formatYear(period.end));
     }).join(" · ");
     card.className = "atlas-card" + (isActive ? "" : " is-inactive");
     const status = isActive
@@ -162,7 +162,8 @@
   const bounds = database.polities.reduce(function (accumulator, polity) {
     polity.periods.forEach(function (period) {
       if (period.start < accumulator.min) accumulator.min = period.start;
-      if (period.end > accumulator.max) accumulator.max = period.end;
+      const end = period.end === null ? new Date().getFullYear() : period.end;
+      if (end > accumulator.max) accumulator.max = end;
     });
     return accumulator;
   }, { min: Infinity, max: -Infinity });

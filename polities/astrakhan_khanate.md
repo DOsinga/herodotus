@@ -9,4 +9,8 @@ point:
   name: Xacitarxan
   latitude: 46.3589
   longitude: 48.06
+transitions:
+- year: 1556
+  kind: absorbed_into
+  into: [tsardom_russia]
 ---
