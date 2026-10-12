@@ -9,4 +9,8 @@ point:
   name: Mrauk U
   latitude: 20.5933
   longitude: 93.1914
+transitions:
+- year: 1785
+  kind: absorbed_into
+  into: [konbaung_dynasty]
 ---

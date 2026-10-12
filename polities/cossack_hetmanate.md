@@ -9,4 +9,8 @@ point:
   name: Chyhyryn
   latitude: 49.077
   longitude: 32.649
+transitions:
+- year: 1764
+  kind: absorbed_into
+  into: [russian_empire]
 ---

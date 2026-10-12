@@ -9,4 +9,8 @@ point:
   name: Ayutthaya
   latitude: 14.3532
   longitude: 100.5689
+transitions:
+- year: 1767
+  kind: absorbed_into
+  into: [konbaung_dynasty]
 ---

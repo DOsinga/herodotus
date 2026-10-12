@@ -9,4 +9,8 @@ point:
   name: Lhasa
   latitude: 29.654
   longitude: 91.118
+transitions:
+- year: 1717
+  kind: absorbed_into
+  into: [dzungar_khanate]
 ---

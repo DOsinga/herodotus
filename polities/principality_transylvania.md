@@ -9,4 +9,8 @@ point:
   name: Gyulafehérvár
   latitude: 46.0667
   longitude: 23.57
+transitions:
+- year: 1711
+  kind: absorbed_into
+  into: [archduchy_austria]
 ---

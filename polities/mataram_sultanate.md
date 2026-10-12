@@ -9,4 +9,8 @@ point:
   name: Kotagede
   latitude: -7.82
   longitude: 110.4
+transitions:
+- year: 1755
+  kind: split_into
+  into: [surakarta_sunanate, yogyakarta_sultanate]
 ---

@@ -9,4 +9,8 @@ point:
   name: Calicut
   latitude: 11.2588
   longitude: 75.7804
+transitions:
+- year: 1766
+  kind: absorbed_into
+  into: [kingdom_mysore]
 ---

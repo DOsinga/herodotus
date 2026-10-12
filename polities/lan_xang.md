@@ -9,4 +9,8 @@ point:
   name: Luang Prabang
   latitude: 19.8833
   longitude: 102.1333
+transitions:
+- year: 1707
+  kind: split_into
+  into: [kingdom_luang_phrabang, kingdom_vientiane]
 ---

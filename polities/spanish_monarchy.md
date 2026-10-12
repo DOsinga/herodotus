@@ -9,4 +9,8 @@ point:
   name: Toledo
   latitude: 39.8628
   longitude: -4.0273
+transitions:
+- year: 1716
+  kind: succeeded_by
+  into: [bourbon_spain]
 ---

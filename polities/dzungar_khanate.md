@@ -9,4 +9,8 @@ point:
   name: Ghulja
   latitude: 43.908
   longitude: 81.278
+transitions:
+- year: 1758
+  kind: absorbed_into
+  into: [qing_dynasty]
 ---
