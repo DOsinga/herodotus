@@ -9,4 +9,8 @@ point:
   name: Srinagar
   latitude: 34.0837
   longitude: 74.7973
+transitions:
+- year: 1586
+  kind: absorbed_into
+  into: [mughal_empire]
 ---

@@ -9,4 +9,8 @@ point:
   name: Buda
   latitude: 47.4979
   longitude: 19.0402
+transitions:
+- year: 1526
+  kind: split_into
+  into: [royal_hungary, eastern_hungarian_kingdom]
 ---

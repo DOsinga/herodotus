@@ -21,6 +21,13 @@ def load_polities():
     return polities
 
 
+def is_active(polity, year):
+    return any(
+        period["start"] <= year and (period["end"] is None or year <= period["end"])
+        for period in polity["periods"]
+    )
+
+
 def validate_polities(polities):
     ids = set()
     names = set()
@@ -33,11 +40,14 @@ def validate_polities(polities):
         assert polity["periods"], polity["id"]
 
         previous_end = None
-        for period in polity["periods"]:
+        for index, period in enumerate(polity["periods"]):
             assert set(period) == {"start", "end"}, polity["id"]
             assert isinstance(period["start"], int), polity["id"]
-            assert isinstance(period["end"], int), polity["id"]
-            assert period["start"] <= period["end"], polity["id"]
+            if period["end"] is None:
+                assert index == len(polity["periods"]) - 1, polity["id"]
+            else:
+                assert isinstance(period["end"], int), polity["id"]
+                assert period["start"] <= period["end"], polity["id"]
             assert previous_end is None or period["start"] > previous_end, polity["id"]
             previous_end = period["end"]
 
@@ -64,11 +74,10 @@ def validate_polities(polities):
                 assert len(transition["into"]) == 1, polity["id"]
             for target_id in transition["into"]:
                 assert target_id in by_id, (polity["id"], target_id)
-                periods = by_id[target_id]["periods"]
+                target = by_id[target_id]
                 if transition["kind"] == "absorbed_into":
-                    continues = any(period["start"] <= year <= period["end"] for period in periods)
-                    assert continues, (polity["id"], target_id)
+                    assert is_active(target, year), (polity["id"], target_id)
                 else:
-                    begins = any(period["start"] in (year, year + 1) for period in periods)
+                    begins = any(period["start"] in (year, year + 1) for period in target["periods"])
                     assert begins, (polity["id"], target_id)
 

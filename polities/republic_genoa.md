@@ -26,4 +26,13 @@ transitions:
 - year: 1421
   kind: absorbed_into
   into: [duchy_milan]
+- year: 1458
+  kind: absorbed_into
+  into: [kingdom_france]
+- year: 1464
+  kind: absorbed_into
+  into: [duchy_milan]
+- year: 1488
+  kind: absorbed_into
+  into: [duchy_milan]
 ---

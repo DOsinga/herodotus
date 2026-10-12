@@ -9,4 +9,8 @@ point:
   name: Zabid
   latitude: 14.1951
   longitude: 43.3152
+transitions:
+- year: 1517
+  kind: absorbed_into
+  into: [mamluk_sultanate]
 ---

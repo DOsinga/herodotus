@@ -9,4 +9,8 @@ point:
   name: Vilnius
   latitude: 54.6872
   longitude: 25.2797
+transitions:
+- year: 1569
+  kind: merged_into
+  into: [polish_lithuanian_commonwealth]
 ---

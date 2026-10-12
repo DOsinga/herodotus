@@ -15,4 +15,7 @@ transitions:
 - year: 1370
   kind: absorbed_into
   into: [kingdom_hungary]
+- year: 1569
+  kind: merged_into
+  into: [polish_lithuanian_commonwealth]
 ---
