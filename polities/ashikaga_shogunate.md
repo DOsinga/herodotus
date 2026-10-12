@@ -9,4 +9,8 @@ point:
   name: Kyoto
   latitude: 35.0116
   longitude: 135.7681
+transitions:
+- year: 1573
+  kind: succeeded_by
+  into: [oda_toyotomi_regime]
 ---

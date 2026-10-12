@@ -9,4 +9,8 @@ point:
   name: Hormuz
   latitude: 27.095
   longitude: 56.452
+transitions:
+- year: 1622
+  kind: absorbed_into
+  into: [safavid_iran]
 ---

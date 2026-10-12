@@ -9,4 +9,8 @@ point:
   name: Dungannon
   latitude: 54.5034
   longitude: -6.7672
+transitions:
+- year: 1607
+  kind: absorbed_into
+  into: [kingdom_ireland]
 ---

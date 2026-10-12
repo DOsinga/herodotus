@@ -11,4 +11,8 @@ point:
   name: London
   latitude: 51.5072
   longitude: -0.1275
+transitions:
+- year: 1649
+  kind: succeeded_by
+  into: [commonwealth_england]
 ---

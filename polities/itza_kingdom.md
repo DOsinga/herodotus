@@ -9,4 +9,8 @@ point:
   name: Nojpetén
   latitude: 16.9333
   longitude: -89.8833
+transitions:
+- year: 1697
+  kind: absorbed_into
+  into: [spanish_monarchy]
 ---
