@@ -3,7 +3,7 @@ id: denmark_norway
 name: Denmark–Norway
 wikipedia: https://en.wikipedia.org/wiki/Denmark%E2%80%93Norway
 periods:
-- start: 1524
+- start: 1523
   end: 1814
 point:
   name: Copenhagen
