@@ -59,7 +59,8 @@ transitions:
   exists.
 - `periods` is a list of integer years, inclusive at both ends, with negative
   years for BCE. Periods within one polity are in order and must not overlap.
-  A polity is active in year Y when `start <= Y <= end` for one of its periods.
+  A polity is active in year Y when `start <= Y` and its period has no end or
+  `Y <= end`.
   Different polities can share a changeover year.
 - The last period's `end` is `null` for a polity that still exists.
 - `point` is a representative place, normally the capital or seat of
