@@ -95,20 +95,22 @@ A polity is active while it was actually in power and in control of its own
 affairs. Legal titles, nominal overlords, claims and tribute do not decide
 this; who governed does.
 
-Sharing a monarch does not by itself combine polities. A personal union can
-leave each polity governing its own affairs; the monarch's nationality or
-residence does not decide this. Keep them separate while they governed
-separately. If one state took control and governed the other through its
-appointed governors or viceroys, the latter's independent period ends.
-Separate titles, laws or estates alone do not show separate government.
-Apply this rule consistently to personal unions, not just to selected cases.
+The test is whether the state made its own decisions about war and its
+dealings with its neighbours, and whether its internal government, including
+who got to rule, was left to it. Local succession is evidence for this but
+does not settle it: a ruler who inherits a title but has no say is not in
+control.
 
-The most useful question is who chose the ruler and who did the ruling:
-
-- A local ruler who came to power through local succession or election and
-  made their own decisions keeps the polity active, even if it paid tribute,
-  owed troops or acknowledged an emperor. Crimea under the Ottomans, Ragusa,
-  and Milan or Savoy inside the Holy Roman Empire stay on the map.
+- A state that kept its own government and fought and negotiated on its own
+  account stays active, even if it paid tribute or acknowledged an emperor.
+  Crimea under the Ottomans, Ragusa, and Milan or Savoy inside the Holy Roman
+  Empire stay on the map.
+- A state whose ruler served the overlord's wars and whose succession the
+  overlord confirmed or overrode has been absorbed, even if a hereditary
+  ruler still ran it at home. The Rajput kingdoms that submitted to the
+  Mughals end at their submission, as Mewar does in 1615, and return when
+  Mughal control collapsed after 1707. Indian states end when they accepted a
+  British subsidiary alliance, as Mysore does in 1799.
 - Once the outside power ruled directly, or through a governor, viceroy or
   other appointee, the polity has been absorbed and its period ends. Naples
   and Sicily under the Spanish crown and Frisia after Maximilian appointed
@@ -116,6 +118,14 @@ The most useful question is who chose the ruler and who did the ruling:
   and estates.
 - An occupation that took control away for some years is a gap between
   periods, as with Genoa under French or Milanese rule.
+
+Sharing a monarch does not by itself combine polities. A personal union can
+leave each polity governing its own affairs; the monarch's nationality or
+residence does not decide this. Keep them separate while they governed
+separately. If one state took control and governed the other through its
+appointed governors or viceroys, the latter's independent period ends.
+Separate titles, laws or estates alone do not show separate government.
+Apply this rule consistently to personal unions, not just to selected cases.
 
 This stays a judgement call. When the evidence points both ways, choose one,
 and do not invent an intermediate category.
