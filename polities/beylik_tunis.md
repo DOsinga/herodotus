@@ -9,4 +9,8 @@ point:
   name: Tunis
   latitude: 36.806
   longitude: 10.182
+transitions:
+- year: 1705
+  kind: broke_away_from
+  from: [ottoman_empire]
 ---

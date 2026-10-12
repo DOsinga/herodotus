@@ -136,7 +136,8 @@ The existing Holy Roman Empire file predates this rule and still needs review.
 
 Polities are connected by what happened when one ended. A transition is
 stored once, on the polity that ends; the other direction ("formed from",
-"absorbed") is derived from it and never written down:
+"absorbed") is derived from it and never written down. The exception is a
+breakaway, where nothing ends: it is stored on the polity that began.
 
 ```yaml
 transitions:
@@ -153,6 +154,15 @@ transitions:
 - `split_into`: the polity broke up into several new ones.
 - `succeeded_by`: the same state continued under a new identity, such as a
   change of regime that warrants a new file.
+- `broke_away_from`: stored on the new polity, which left a polity that
+  carried on. It uses `from` instead of `into`:
+
+  ```yaml
+  transitions:
+  - year: 1581
+    kind: broke_away_from
+    from: [spanish_monarchy]
+  ```
 
 Keep the historical years inclusive. If one polity ended and its replacement
 began in the same year, use that year for both; do not subtract a year from
@@ -166,13 +176,14 @@ in the polity records.
 
 `database.py` checks that:
 
-- `year` is the end of one of the polity's periods. That includes a period
-  followed by a gap, as with Genoa above: the transition says who took over
-  during the gap.
-- `into` lists at least two polities for `split_into` and exactly one for the
-  other kinds, and each of them exists.
-- An `absorbed_into` target is active in that year. Any other target begins a
-  period in that same year, following the inclusive changeover rule above.
+- `year` is the end of one of the polity's periods, or the start of one for
+  `broke_away_from`. That includes a period followed by a gap, as with Genoa
+  above: the transition says who took over during the gap.
+- `into` lists at least two polities for `split_into`, and `into` or `from`
+  lists exactly one for the other kinds. Each of them exists.
+- An `absorbed_into` or `broke_away_from` target is active in that year. Any
+  other target begins a period in that same year, following the inclusive
+  changeover rule above.
 
 Transitions are optional. A polity that simply disappeared has none, and most
 files have not been given theirs yet.

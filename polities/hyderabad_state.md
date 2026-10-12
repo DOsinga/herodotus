@@ -10,4 +10,8 @@ point:
   latitude: 17.362
   longitude: 78.475
 note: "Its status under British paramountcy needs review in the 19th-century pass."
+transitions:
+- year: 1724
+  kind: broke_away_from
+  from: [mughal_empire]
 ---

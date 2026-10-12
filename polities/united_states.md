@@ -9,4 +9,8 @@ point:
   name: Washington, D.C.
   latitude: 38.905
   longitude: -77.016
+transitions:
+- year: 1776
+  kind: broke_away_from
+  from: [kingdom_great_britain]
 ---

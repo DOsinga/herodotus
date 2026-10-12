@@ -10,6 +10,9 @@ point:
   latitude: 42.306
   longitude: 9.151
 transitions:
+- year: 1755
+  kind: broke_away_from
+  from: [republic_genoa]
 - year: 1769
   kind: absorbed_into
   into: [kingdom_france]

@@ -10,4 +10,8 @@ point:
   latitude: 26.85
   longitude: 80.95
 note: "Annexed by the East India Company in 1856. Its status under British paramountcy needs review in the 19th-century pass."
+transitions:
+- year: 1722
+  kind: broke_away_from
+  from: [mughal_empire]
 ---

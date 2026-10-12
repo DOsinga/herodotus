@@ -9,4 +9,8 @@ point:
   name: Kandy
   latitude: 7.2906
   longitude: 80.6336
+transitions:
+- year: 1469
+  kind: broke_away_from
+  from: [kingdom_kotte]
 ---
