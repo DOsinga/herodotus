@@ -1,7 +1,7 @@
 ---
 id: khandesh_sultanate
 name: Khandesh Sultanate
-wikipedia: https://en.wikipedia.org/wiki/Farooqui_dynasty
+wikipedia: https://en.wikipedia.org/wiki/Khandesh_Sultanate
 periods:
 - start: 1382
   end: 1601

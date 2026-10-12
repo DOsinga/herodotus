@@ -12,7 +12,7 @@ TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by"
 def load_polities():
     polities = []
     for path in sorted((ROOT / "polities").glob("*.md")):
-        text = path.read_text()
+        text = path.read_text(encoding="utf-8")
         _, frontmatter, _ = text.split("---", 2)
         polity = yaml.safe_load(frontmatter)
         assert polity["id"] == path.stem, path
@@ -79,6 +79,6 @@ def validate_polities(polities):
                 if transition["kind"] == "absorbed_into":
                     assert is_active(target, year), (polity["id"], target_id)
                 else:
-                    begins = any(period["start"] in (year, year + 1) for period in target["periods"])
+                    begins = any(period["start"] == year for period in target["periods"])
                     assert begins, (polity["id"], target_id)
 

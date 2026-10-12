@@ -175,7 +175,7 @@ in the polity records.
 - `into` lists at least two polities for `split_into` and exactly one for the
   other kinds, and each of them exists.
 - An `absorbed_into` target is active in that year. Any other target begins a
-  period in that year or the next.
+  period in that same year, following the inclusive changeover rule above.
 
 Transitions are optional. A polity that simply disappeared has none, and most
 files have not been given theirs yet.

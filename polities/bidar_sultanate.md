@@ -3,7 +3,7 @@ id: bidar_sultanate
 name: Bidar Sultanate
 wikipedia: https://en.wikipedia.org/wiki/Bidar_Sultanate
 periods:
-- start: 1489
+- start: 1490
   end: 1619
 point:
   name: Bidar
