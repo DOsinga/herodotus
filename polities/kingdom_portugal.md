@@ -18,4 +18,7 @@ transitions:
 - year: 1640
   kind: broke_away_from
   from: [spanish_monarchy]
+- year: 1910
+  kind: succeeded_by
+  into: [portugal]
 ---

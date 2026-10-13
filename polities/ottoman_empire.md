@@ -9,4 +9,8 @@ point:
   name: Söğüt
   latitude: 40.0256
   longitude: 30.1811
+transitions:
+- year: 1922
+  kind: absorbed_into
+  into: [turkey]
 ---

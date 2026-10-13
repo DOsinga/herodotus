@@ -10,4 +10,8 @@ point:
   latitude: 26.983
   longitude: 75.867
 note: "Its rulers governed their own state as Mughal allies and commanders. Jaipur replaced Amber as capital in 1727. Its status under British paramountcy needs review in the 19th-century pass."
+transitions:
+- year: 1949
+  kind: absorbed_into
+  into: [india]
 ---

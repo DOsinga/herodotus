@@ -9,4 +9,8 @@ point:
   name: Cetinje
   latitude: 42.389
   longitude: 18.925
+transitions:
+- year: 1910
+  kind: succeeded_by
+  into: [kingdom_montenegro]
 ---

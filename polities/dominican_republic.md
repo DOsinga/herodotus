@@ -6,12 +6,14 @@ periods:
 - start: 1844
   end: 1861
 - start: 1863
+  end: 1916
+- start: 1924
   end: null
 point:
   name: Santo Domingo
   latitude: 18.462
   longitude: -69.936
-note: "Gap for the Spanish annexation of 1861; the restoration government formed in Santiago in 1863 and Spain withdrew in 1865. Links the country article. Changes of regime after independence are not split into separate records yet."
+note: "Gap for the Spanish annexation of 1861; the restoration government formed in Santiago in 1863 and Spain withdrew in 1865. Links the country article. Changes of regime after independence are not split into separate records yet. Gap for the US occupation of 1916–1924."
 transitions:
 - year: 1844
   kind: broke_away_from
@@ -22,4 +24,7 @@ transitions:
 - year: 1863
   kind: broke_away_from
   from: [spain]
+- year: 1916
+  kind: absorbed_into
+  into: [united_states]
 ---

@@ -9,4 +9,8 @@ point:
   name: Bangkok
   latitude: 13.752
   longitude: 100.494
+transitions:
+- year: 1932
+  kind: succeeded_by
+  into: [thailand]
 ---

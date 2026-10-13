@@ -9,4 +9,8 @@ point:
   name: Seoul
   latitude: 37.56
   longitude: 126.99
+transitions:
+- year: 1910
+  kind: absorbed_into
+  into: [empire_japan]
 ---

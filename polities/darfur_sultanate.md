@@ -16,4 +16,7 @@ transitions:
 - year: 1874
   kind: absorbed_into
   into: [egypt_muhammad_ali]
+- year: 1916
+  kind: absorbed_into
+  into: [united_kingdom_gbi]
 ---

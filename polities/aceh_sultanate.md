@@ -9,4 +9,8 @@ point:
   name: Banda Aceh
   latitude: 5.55
   longitude: 95.3175
+transitions:
+- year: 1904
+  kind: absorbed_into
+  into: [kingdom_netherlands]
 ---

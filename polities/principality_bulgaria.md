@@ -13,4 +13,7 @@ transitions:
 - year: 1878
   kind: broke_away_from
   from: [ottoman_empire]
+- year: 1908
+  kind: succeeded_by
+  into: [bulgaria]
 ---

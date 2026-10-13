@@ -9,4 +9,8 @@ point:
   name: Tehran
   latitude: 35.689
   longitude: 51.39
+transitions:
+- year: 1925
+  kind: succeeded_by
+  into: [pahlavi_iran]
 ---

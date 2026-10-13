@@ -16,4 +16,7 @@ transitions:
 - year: 1831
   kind: absorbed_into
   into: [company_rule_india]
+- year: 1950
+  kind: absorbed_into
+  into: [india]
 ---

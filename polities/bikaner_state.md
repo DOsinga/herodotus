@@ -10,4 +10,8 @@ point:
   latitude: 28.017
   longitude: 73.312
 note: "Its status under British paramountcy needs review in the 19th-century pass."
+transitions:
+- year: 1947
+  kind: absorbed_into
+  into: [india]
 ---
