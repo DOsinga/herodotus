@@ -9,4 +9,8 @@ point:
   name: Moscow
   latitude: 55.7558
   longitude: 37.6178
+transitions:
+- year: 1991
+  kind: split_into
+  into: [russia, ukraine, belarus, moldova, georgia, armenia, azerbaijan, kazakhstan, uzbekistan, turkmenistan, kyrgyzstan, tajikistan]
 ---

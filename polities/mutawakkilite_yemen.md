@@ -13,4 +13,7 @@ transitions:
 - year: 1918
   kind: broke_away_from
   from: [ottoman_empire]
+- year: 1962
+  kind: succeeded_by
+  into: [yemen_arab_republic]
 ---

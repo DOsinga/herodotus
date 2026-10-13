@@ -4,14 +4,14 @@ name: Kingdom of Luang Phrabang
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Luang_Phrabang
 periods:
 - start: 1707
-  end: 1947
+  end: 1893
 point:
   name: Luang Prabang
   latitude: 19.89
   longitude: 102.135
-note: "Its status under the French protectorate from 1893 needs review in the 19th-century pass."
+note: "Ends with the French protectorate of 1893. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
-- year: 1947
-  kind: succeeded_by
-  into: [kingdom_laos]
+- year: 1893
+  kind: absorbed_into
+  into: [french_third_republic]
 ---

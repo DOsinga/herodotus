@@ -19,4 +19,7 @@ transitions:
 - year: 1941
   kind: broke_away_from
   from: [kingdom_italy]
+- year: 1974
+  kind: succeeded_by
+  into: [ethiopia]
 ---

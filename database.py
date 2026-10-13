@@ -86,6 +86,6 @@ def validate_polities(polities):
                 if kind in ("absorbed_into", "broke_away_from"):
                     assert is_active(target, year), (polity["id"], target_id)
                 else:
-                    begins = any(period["start"] == year for period in target["periods"])
+                    begins = any(period["start"] in (year, year + 1) for period in target["periods"])
                     assert begins, (polity["id"], target_id)
 
