@@ -10,5 +10,5 @@ point:
   name: "Cuicuilco"
   latitude: 19.3
   longitude: -99.18
-note: "The start follows the conventional date; years before 500 BCE have not been audited. Both dates are estimates; the Xitle eruption ended it."
+note: "Both dates are estimates; the Xitle eruption ended it."
 ---
