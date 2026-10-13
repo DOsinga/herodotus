@@ -12,7 +12,7 @@ point:
 transitions:
 - year: 1136
   kind: broke_away_from
-  from: [kievan_rus]
+  from: [principality_kiev]
 - year: 1478
   kind: absorbed_into
   into: [grand_duchy_moscow]
