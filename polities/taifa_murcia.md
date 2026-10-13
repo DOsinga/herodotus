@@ -19,6 +19,18 @@ point:
   longitude: -1.1307
 note: "The brief 1145 period preceded government from Valencia; Ibn Mardanish established his Murcia-based state in 1147. The 1243 Castilian protectorate retained Muslim local government. Direct incorporation after the 1264–1266 revolt ends the final period; the later Castilian title is not a separate polity."
 transitions:
+- year: 1011
+  kind: broke_away_from
+  from: [caliphate_cordoba]
+- year: 1014
+  kind: absorbed_into
+  into: [taifa_almeria]
+- year: 1078
+  kind: absorbed_into
+  into: [taifa_seville]
+- year: 1145
+  kind: absorbed_into
+  into: [taifa_valencia]
 - year: 1145
   kind: broke_away_from
   from: [almoravid_emirate]

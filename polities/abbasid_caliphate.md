@@ -12,6 +12,9 @@ point:
   latitude: 33.3152
   longitude: 44.3661
 transitions:
+- year: 945
+  kind: absorbed_into
+  into: [buyid_iraq]
 - year: 1258
   kind: absorbed_into
   into: [mongol_empire]
