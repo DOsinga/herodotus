@@ -4,14 +4,14 @@ name: Kingdom of Travancore
 wikipedia: https://en.wikipedia.org/wiki/Travancore
 periods:
 - start: 1729
-  end: 1949
+  end: 1795
 point:
   name: Padmanabhapuram
   latitude: 8.251
   longitude: 77.327
-note: "End follows Wikipedia (1949). Its status under British paramountcy needs review in the 19th-century pass."
+note: "Ends with the 1795 subsidiary treaty with the East India Company; it remained a princely state until 1949. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
-- year: 1949
+- year: 1795
   kind: absorbed_into
-  into: [india]
+  into: [company_rule_india]
 ---

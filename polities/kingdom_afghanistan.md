@@ -9,4 +9,8 @@ point:
   name: Kabul
   latitude: 34.5253
   longitude: 69.1783
+transitions:
+- year: 1973
+  kind: succeeded_by
+  into: [afghanistan]
 ---

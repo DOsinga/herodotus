@@ -116,6 +116,13 @@ overlord confirmed or chose can still govern.
   appointed from 1524 but who fought their own wars, Ragusa, Mewar after its
   1615 treaty with the Mughals, and Milan or Savoy inside the Holy Roman
   Empire stay on the map.
+- A protected or princely state is absorbed from the treaty that handed its
+  war and foreign relations to the protecting power, whether a
+  protectorate, paramountcy or subsidiary alliance, even though its ruler
+  kept governing at home. Unlike Crimea, it could not fight or negotiate on
+  its own account. The Indian princely states, the Gulf states before
+  independence, Zanzibar, Buganda, Tonga from 1900 to 1970 and the Javanese
+  courts under the Dutch fall here.
 - Once the outside power ruled directly, or through a governor, viceroy or
   other official of its own, the polity has been absorbed and its period
   ends. Naples and Sicily under the Spanish crown and Frisia after Maximilian
@@ -174,7 +181,9 @@ transitions:
 
 Keep the historical years inclusive. If one polity ended and its replacement
 began in the same year, use that year for both; do not subtract a year from
-the outgoing polity's end just to avoid an overlap.
+the outgoing polity's end just to avoid an overlap. The one exception is a
+change at midnight on 31 December: the outgoing polity ends in that year
+and its successor starts in the next, as Czechoslovakia did in 1992–1993.
 
 When building a map for a year, the builder must use the transition and
 historical evidence to choose one polity for each place in a shared changeover
@@ -191,7 +200,8 @@ in the polity records.
   lists exactly one for the other kinds. Each of them exists.
 - An `absorbed_into` or `broke_away_from` target is active in that year. Any
   other target begins a period in that same year, following the inclusive
-  changeover rule above.
+  changeover rule above, or in the next year for a change that took effect
+  at midnight on 31 December, such as the split of Czechoslovakia.
 
 Transitions are optional. A polity that simply disappeared has none, and most
 files have not been given theirs yet.

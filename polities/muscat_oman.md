@@ -9,4 +9,8 @@ point:
   name: Muscat
   latitude: 23.589
   longitude: 58.408
+transitions:
+- year: 1970
+  kind: succeeded_by
+  into: [oman]
 ---

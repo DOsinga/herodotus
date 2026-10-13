@@ -21,4 +21,7 @@ transitions:
 - year: 1944
   kind: broke_away_from
   from: [nazi_germany]
+- year: 1973
+  kind: succeeded_by
+  into: [greece]
 ---

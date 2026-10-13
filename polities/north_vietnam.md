@@ -9,4 +9,8 @@ point:
   name: Hanoi
   latitude: 21
   longitude: 105.85
+transitions:
+- year: 1976
+  kind: succeeded_by
+  into: [vietnam]
 ---
