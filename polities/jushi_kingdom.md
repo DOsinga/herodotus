@@ -9,5 +9,5 @@ point:
   name: "Jiaohe"
   latitude: 42.9506
   longitude: 89.0639
-note: "The start follows the conventional date; years before 70 have not been audited. The Northern Liang remnant at Gaochang conquered it in 450."
+note: "The Northern Liang remnant at Gaochang conquered it in 450."
 ---

@@ -9,8 +9,11 @@ point:
   name: "Charax Spasinou"
   latitude: 30.8947
   longitude: 47.578
-note: "The start follows the conventional date; years before 70 have not been audited. Ardashir of Persis conquered it about 222, before his victory over the Parthians."
+note: "Ardashir of Persis conquered it about 222, before his victory over the Parthians."
 transitions:
+- year: -141
+  kind: broke_away_from
+  from: [seleucid_empire]
 - year: 222
   kind: absorbed_into
   into: [persis_kingdom]
