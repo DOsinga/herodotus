@@ -10,4 +10,8 @@ point:
   latitude: 17.98
   longitude: 102.63
 note: "Autonomous within the French Union from 1947 and fully independent from 1953; the royal capital was Luang Prabang."
+transitions:
+- year: 1975
+  kind: succeeded_by
+  into: [lao_pdr]
 ---

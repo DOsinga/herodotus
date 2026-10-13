@@ -9,4 +9,8 @@ point:
   name: East Berlin
   latitude: 52.5186
   longitude: 13.4044
+transitions:
+- year: 1990
+  kind: absorbed_into
+  into: [west_germany]
 ---

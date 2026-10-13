@@ -10,4 +10,8 @@ point:
   latitude: -6.162
   longitude: 39.191
 note: "Its status under the British protectorate from 1890 needs review."
+transitions:
+- year: 1964
+  kind: succeeded_by
+  into: [zanzibar_prz]
 ---

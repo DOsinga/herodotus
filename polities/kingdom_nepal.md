@@ -9,4 +9,8 @@ point:
   name: Kathmandu
   latitude: 27.71
   longitude: 85.32
+transitions:
+- year: 2008
+  kind: succeeded_by
+  into: [nepal]
 ---

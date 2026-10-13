@@ -9,4 +9,8 @@ point:
   name: Belgrade
   latitude: 44.8178
   longitude: 20.4569
+transitions:
+- year: 1992
+  kind: succeeded_by
+  into: [fr_yugoslavia]
 ---

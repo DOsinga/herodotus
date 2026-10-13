@@ -9,4 +9,8 @@ point:
   name: Kanokupolu
   latitude: -21.0777
   longitude: -175.3347
+transitions:
+- year: 1845
+  kind: succeeded_by
+  into: [tonga]
 ---

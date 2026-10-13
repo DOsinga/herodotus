@@ -13,4 +13,7 @@ transitions:
 - year: 1957
   kind: broke_away_from
   from: [united_kingdom]
+- year: 1963
+  kind: succeeded_by
+  into: [malaysia]
 ---

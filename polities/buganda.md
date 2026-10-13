@@ -10,4 +10,8 @@ point:
   latitude: 0.347
   longitude: 32.606
 note: "Start estimated (14th century). Under the British protectorate from 1894 the kabaka kept governing; that status needs review. Abolished in 1966."
+transitions:
+- year: 1966
+  kind: absorbed_into
+  into: [uganda]
 ---
