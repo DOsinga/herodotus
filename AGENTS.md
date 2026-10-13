@@ -85,6 +85,11 @@ own right, such as a kingdom, sultanate, republic, city-state or confederacy.
   state, it gets a new file rather than another period.
 - A gap between periods means the polity did not exist as its own entity in
   those years, for example Genoa under French or Milanese rule.
+- When a dynasty divided its lands and the shares governed separately for a
+  long time, each lasting share gets its own record, and a reunification is a
+  `merged_into` the reunited polity. Short-lived or minor shares can be left
+  out, and the note says so. Do not present several governments as one
+  record.
 
 Coverage is built outward from 1500, by hand. Do not bulk-import from
 Wikidata or another list: that approach was tried and produced thousands of
@@ -143,9 +148,19 @@ This stays a judgement call. When the evidence points both ways, choose one,
 and do not invent an intermediate category.
 
 Overlordship itself is not recorded. A loose umbrella such as the Holy Roman
-Empire is therefore not a polity on the map; its members are.
-
-The existing Holy Roman Empire file predates this rule and still needs review.
+Empire is therefore not a polity on the map; its members are. The Empire is a
+polity only from 962 to 1250, while the emperors still appointed and removed
+the German dukes. Before 1250 its dukes, margraves and bishops count as the
+king's officials, even where a strong duke ran his duchy his own way, as
+Henry the Lion did. This is a deliberate simplification of the who-governed
+test, so that the German kingdom has one clear changeover. Lands the kings
+never really governed, such as Bohemia, Pomerania, Mecklenburg, Savoy and the
+Italian cities, have earlier starts. From Frederick II's death the princes,
+bishops and free cities governed their own lands, and each has its own record
+until it was absorbed, mediatised or became one of the nineteenth-century
+German states. The northern states join the North German Confederation in
+1867, which took over their armies and foreign relations, and the southern
+states join the German Empire in 1871.
 
 ## Transitions
 
