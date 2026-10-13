@@ -1,0 +1,27 @@
+---
+id: lavo_kingdom
+name: "Lavo Kingdom"
+wikipedia: https://en.wikipedia.org/wiki/Lavo_Kingdom
+periods:
+- start: 648
+  end: 1001
+- start: 1052
+  end: 1181
+- start: 1218
+  end: 1388
+point:
+  name: "Lavapura (Lopburi)"
+  latitude: 14.8
+  longitude: 100.65
+note: "648 is a traditional estimate for its foundation. This follows the Lopburi government, not an umbrella over every Dvaravati city or the separate Ayodhya court. Angkor's conquest around 1001 and renewed rule from 1181 interrupt local government; 1052 and 1218 follow the conventional restorations. The later court was incorporated into Ayutthaya in 1388."
+transitions:
+- year: 1001
+  kind: absorbed_into
+  into: [khmer_empire]
+- year: 1181
+  kind: absorbed_into
+  into: [khmer_empire]
+- year: 1388
+  kind: absorbed_into
+  into: [ayutthaya_kingdom]
+---

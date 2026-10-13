@@ -1,0 +1,27 @@
+---
+id: amalfi
+name: "Republic and Duchy of Amalfi"
+wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Amalfi
+periods:
+- start: 839
+  end: 1039
+- start: 1052
+  end: 1073
+- start: 1096
+  end: 1100
+point:
+  name: "Amalfi"
+  latitude: 40.634
+  longitude: 14.6027
+note: "839 follows the election of its own prefect, before the ducal title of 958. Salerno directly controlled it in 1039–1052, and Norman government in 1073–1096. Its last autonomous restoration ended around 1100; the 1137 Pisan sack is not its loss of independence."
+transitions:
+- year: 1039
+  kind: absorbed_into
+  into: [salerno]
+- year: 1073
+  kind: absorbed_into
+  into: [duchy_apulia_calabria]
+- year: 1100
+  kind: absorbed_into
+  into: [duchy_apulia_calabria]
+---

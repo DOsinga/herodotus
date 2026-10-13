@@ -90,6 +90,14 @@ Coverage is built outward from 1500, by hand. Do not bulk-import from
 Wikidata or another list: that approach was tried and produced thousands of
 duplicates, placeholder dates and anachronistic identities.
 
+A requested period means a coverage audit of that whole period, not a chosen
+batch of additions. Check each region at the beginning, middle and end, and
+check what preceded and followed its existing polities. Fill known missing
+states and handovers before calling the period done; a follow-up list is not
+a substitute. Use notes for uncertain dates and explain evidence that does
+not support a proposed polity. Passing the validator checks the records, not
+the completeness of the lineup.
+
 ## Who was in control
 
 A polity is active while it was actually in power and in control of its own
