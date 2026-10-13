@@ -4,14 +4,14 @@ name: Kievan Rus'
 wikipedia: https://en.wikipedia.org/wiki/Kievan_Rus%27
 periods:
 - start: 882
-  end: 1240
+  end: 1132
 point:
   name: Kyiv
   latitude: 50.45
   longitude: 30.523
-note: "After 1132 the Rus principalities governed themselves under a nominal grand prince at Kyiv. Only some of them (Novgorod, Smolensk, Galicia–Volhynia) have their own records yet, so this record still stands in for the rest until 1240, which overstates Kyiv's reach."
+note: "Ends with the death of Mstislav the Great in 1132, after which the Rus principalities governed themselves; Kyiv carries on as the Principality of Kiev."
 transitions:
-- year: 1240
-  kind: absorbed_into
-  into: [mongol_empire]
+- year: 1132
+  kind: split_into
+  into: [principality_chernigov, principality_kiev, principality_polotsk, vladimir_suzdal]
 ---
