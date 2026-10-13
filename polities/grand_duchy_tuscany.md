@@ -11,4 +11,11 @@ point:
   name: Florence
   latitude: 43.7714
   longitude: 11.2542
+transitions:
+- year: 1801
+  kind: succeeded_by
+  into: [kingdom_etruria]
+- year: 1860
+  kind: absorbed_into
+  into: [kingdom_sardinia]
 ---

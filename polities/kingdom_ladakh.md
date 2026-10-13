@@ -10,4 +10,8 @@ point:
   latitude: 34.153
   longitude: 77.577
 note: "Start estimated (about 930)."
+transitions:
+- year: 1842
+  kind: absorbed_into
+  into: [sikh_empire]
 ---

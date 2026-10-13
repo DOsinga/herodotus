@@ -19,4 +19,7 @@ transitions:
 - year: 1793
   kind: absorbed_into
   into: [ottoman_empire]
+- year: 1835
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

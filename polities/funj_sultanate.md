@@ -9,4 +9,8 @@ point:
   name: Sennar
   latitude: 13.55
   longitude: 33.58
+transitions:
+- year: 1821
+  kind: absorbed_into
+  into: [egypt_muhammad_ali]
 ---

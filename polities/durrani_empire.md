@@ -13,4 +13,7 @@ transitions:
 - year: 1747
   kind: broke_away_from
   from: [afsharid_iran]
+- year: 1823
+  kind: succeeded_by
+  into: [emirate_afghanistan]
 ---

@@ -9,4 +9,8 @@ point:
   name: Massenya
   latitude: 11.4
   longitude: 16.167
+transitions:
+- year: 1897
+  kind: absorbed_into
+  into: [french_third_republic]
 ---

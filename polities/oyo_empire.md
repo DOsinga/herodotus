@@ -9,4 +9,8 @@ point:
   name: Oyo-Ile
   latitude: 8.0167
   longitude: 4.0
+transitions:
+- year: 1896
+  kind: absorbed_into
+  into: [united_kingdom_gbi]
 ---

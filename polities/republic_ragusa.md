@@ -9,4 +9,8 @@ point:
   name: Ragusa
   latitude: 42.6507
   longitude: 18.0944
+transitions:
+- year: 1808
+  kind: absorbed_into
+  into: [first_french_empire]
 ---

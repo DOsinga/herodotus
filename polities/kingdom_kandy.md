@@ -13,4 +13,7 @@ transitions:
 - year: 1469
   kind: broke_away_from
   from: [kingdom_kotte]
+- year: 1815
+  kind: absorbed_into
+  into: [united_kingdom_gbi]
 ---

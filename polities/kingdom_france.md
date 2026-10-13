@@ -15,4 +15,7 @@ transitions:
 - year: 1792
   kind: succeeded_by
   into: [french_first_republic]
+- year: 1848
+  kind: succeeded_by
+  into: [french_second_republic]
 ---

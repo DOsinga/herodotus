@@ -16,4 +16,7 @@ transitions:
 - year: 1799
   kind: absorbed_into
   into: [archduchy_austria]
+- year: 1802
+  kind: succeeded_by
+  into: [italian_republic_1802]
 ---

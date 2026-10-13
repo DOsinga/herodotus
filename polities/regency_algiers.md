@@ -14,4 +14,7 @@ transitions:
 - year: 1659
   kind: broke_away_from
   from: [ottoman_empire]
+- year: 1830
+  kind: absorbed_into
+  into: [kingdom_france]
 ---

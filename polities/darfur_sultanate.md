@@ -12,4 +12,8 @@ point:
   latitude: 12.95
   longitude: 24.27
 note: "Founding date estimated: Wikipedia places the sultanate's origins in the 16th century without a year. The early capital was Turra in Jebel Marra; El Fasher became the capital around 1790."
+transitions:
+- year: 1874
+  kind: absorbed_into
+  into: [egypt_muhammad_ali]
 ---

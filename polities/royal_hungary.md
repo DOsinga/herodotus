@@ -9,4 +9,8 @@ point:
   name: Pressburg
   latitude: 48.1439
   longitude: 17.1097
+transitions:
+- year: 1867
+  kind: merged_into
+  into: [austria_hungary]
 ---

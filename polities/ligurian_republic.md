@@ -9,4 +9,8 @@ point:
   name: Genoa
   latitude: 44.407
   longitude: 8.934
+transitions:
+- year: 1805
+  kind: absorbed_into
+  into: [first_french_empire]
 ---

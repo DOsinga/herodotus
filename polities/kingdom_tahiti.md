@@ -10,4 +10,8 @@ point:
   latitude: -17.535
   longitude: -149.57
 note: "Start estimated: Wikipedia gives 1788 or 1791 for Pōmare I's kingdom."
+transitions:
+- year: 1880
+  kind: absorbed_into
+  into: [french_third_republic]
 ---

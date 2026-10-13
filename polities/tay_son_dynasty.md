@@ -10,4 +10,8 @@ point:
   latitude: 13.767
   longitude: 109.233
 note: "Wikipedia dates the dynasty from Nhạc's coronation in 1778; the Tây Sơn governed from Đồ Bàn from 1776."
+transitions:
+- year: 1802
+  kind: absorbed_into
+  into: [nguyen_dynasty]
 ---

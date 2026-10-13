@@ -13,4 +13,7 @@ transitions:
 - year: 1705
   kind: broke_away_from
   from: [ottoman_empire]
+- year: 1881
+  kind: absorbed_into
+  into: [french_third_republic]
 ---
