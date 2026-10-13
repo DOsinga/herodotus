@@ -9,7 +9,7 @@ point:
   name: Brussels
   latitude: 50.847
   longitude: 4.353
-note: "Links the country article. Changes of regime after independence are not split into separate records yet."
+note: "The German army occupied and governed Belgium itself from 1940 to 1944, but the government in exile in London kept governing the Belgian Congo, so Belgium stays active. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1830
   kind: broke_away_from

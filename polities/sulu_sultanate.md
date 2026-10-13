@@ -9,4 +9,8 @@ point:
   name: Jolo
   latitude: 6.05
   longitude: 121.0
+transitions:
+- year: 1915
+  kind: absorbed_into
+  into: [united_states]
 ---

@@ -9,4 +9,8 @@ point:
   name: Mecca
   latitude: 21.4225
   longitude: 39.8262
+transitions:
+- year: 1916
+  kind: succeeded_by
+  into: [kingdom_hejaz]
 ---

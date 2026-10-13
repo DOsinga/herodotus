@@ -9,4 +9,8 @@ point:
   name: Beijing
   latitude: 39.9158
   longitude: 116.3908
+transitions:
+- year: 1912
+  kind: succeeded_by
+  into: [republic_of_china]
 ---

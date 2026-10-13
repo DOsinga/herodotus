@@ -9,4 +9,8 @@ point:
   name: Champasak
   latitude: 14.84
   longitude: 105.75
+transitions:
+- year: 1904
+  kind: absorbed_into
+  into: [french_third_republic]
 ---

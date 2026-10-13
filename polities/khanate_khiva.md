@@ -9,4 +9,8 @@ point:
   name: Khiva
   latitude: 41.3783
   longitude: 60.3639
+transitions:
+- year: 1920
+  kind: succeeded_by
+  into: [khorezm_psr]
 ---

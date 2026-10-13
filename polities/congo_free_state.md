@@ -10,4 +10,8 @@ point:
   latitude: -5.85
   longitude: 13.05
 note: "Leopold II's personal state, governed by his own administration."
+transitions:
+- year: 1908
+  kind: absorbed_into
+  into: [belgium]
 ---

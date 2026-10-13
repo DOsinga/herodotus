@@ -10,4 +10,8 @@ point:
   latitude: 9.931
   longitude: 76.267
 note: "Start estimated: the kingdom emerged after the end of Chera rule in the 12th century. The Dutch installed a ruler from the royal family in 1663, and the rajas kept governing under Dutch and then British protection. End follows Wikipedia (1949). Its status under British paramountcy needs review in the 19th-century pass."
+transitions:
+- year: 1949
+  kind: absorbed_into
+  into: [india]
 ---

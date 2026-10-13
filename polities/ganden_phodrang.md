@@ -16,4 +16,7 @@ transitions:
 - year: 1705
   kind: absorbed_into
   into: [khoshut_khanate]
+- year: 1959
+  kind: absorbed_into
+  into: [prc]
 ---

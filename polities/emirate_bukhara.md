@@ -9,4 +9,8 @@ point:
   name: Bukhara
   latitude: 39.767
   longitude: 64.423
+transitions:
+- year: 1920
+  kind: succeeded_by
+  into: [bukharan_psr]
 ---

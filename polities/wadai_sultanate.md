@@ -9,4 +9,8 @@ point:
   name: Ouara
   latitude: 14.2267
   longitude: 20.6722
+transitions:
+- year: 1912
+  kind: absorbed_into
+  into: [french_third_republic]
 ---

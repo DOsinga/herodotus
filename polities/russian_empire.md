@@ -9,4 +9,8 @@ point:
   name: Saint Petersburg
   latitude: 59.938
   longitude: 30.309
+transitions:
+- year: 1917
+  kind: succeeded_by
+  into: [russian_republic]
 ---

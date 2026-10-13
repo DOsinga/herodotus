@@ -10,4 +10,8 @@ point:
   latitude: 60.171
   longitude: 24.938
 note: "The Russian emperor was grand duke, but Finland kept its own Senate and laws."
+transitions:
+- year: 1917
+  kind: succeeded_by
+  into: [finland]
 ---

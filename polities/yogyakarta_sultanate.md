@@ -10,4 +10,8 @@ point:
   latitude: -7.801
   longitude: 110.364
 note: "Its status under Dutch colonial rule needs review in the 19th-century pass."
+transitions:
+- year: 1950
+  kind: absorbed_into
+  into: [indonesia]
 ---

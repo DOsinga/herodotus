@@ -9,4 +9,8 @@ point:
   name: Tokyo
   latitude: 35.69
   longitude: 139.692
+transitions:
+- year: 1947
+  kind: succeeded_by
+  into: [japan]
 ---

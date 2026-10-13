@@ -9,4 +9,8 @@ point:
   name: Bucharest
   latitude: 44.432
   longitude: 26.104
+transitions:
+- year: 1947
+  kind: succeeded_by
+  into: [romania]
 ---

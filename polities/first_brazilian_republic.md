@@ -9,4 +9,8 @@ point:
   name: Rio de Janeiro
   latitude: -22.911
   longitude: -43.206
+transitions:
+- year: 1930
+  kind: succeeded_by
+  into: [brazil]
 ---

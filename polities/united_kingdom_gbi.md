@@ -10,4 +10,8 @@ point:
   latitude: 51.507
   longitude: -0.128
 note: "Includes British India from 1858, which was governed through a viceroy answerable to London."
+transitions:
+- year: 1922
+  kind: succeeded_by
+  into: [united_kingdom]
 ---

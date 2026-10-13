@@ -14,4 +14,7 @@ transitions:
 - year: 1724
   kind: broke_away_from
   from: [mughal_empire]
+- year: 1948
+  kind: absorbed_into
+  into: [india]
 ---
