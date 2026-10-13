@@ -11,6 +11,9 @@ point:
   longitude: -4.7794
 note: "The emirate governed independently of Baghdad. Abd al-Rahman III's adoption of the caliphal title in 929 marks the change to the separately recorded caliphate."
 transitions:
+- year: 756
+  kind: broke_away_from
+  from: [abbasid_caliphate]
 - year: 929
   kind: succeeded_by
   into: [caliphate_cordoba]

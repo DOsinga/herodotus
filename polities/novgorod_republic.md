@@ -10,6 +10,9 @@ point:
   latitude: 58.5256
   longitude: 31.2742
 transitions:
+- year: 1136
+  kind: broke_away_from
+  from: [kievan_rus]
 - year: 1478
   kind: absorbed_into
   into: [grand_duchy_moscow]
