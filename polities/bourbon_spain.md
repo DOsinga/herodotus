@@ -9,9 +9,9 @@ point:
   name: Madrid
   latitude: 40.417
   longitude: -3.703
-note: "Wikipedia has no separate article on the Bourbon state, so the link is to the period article. Starts with the Nueva Planta decrees that ended the composite Spanish Monarchy, and ends with the Napoleonic takeover in 1808."
+note: "Wikipedia has no separate article on the Bourbon state, so the link is to the period article. Starts with the Nueva Planta decrees that ended the composite Spanish Monarchy, and ends in 1808, when the patriot governments took over from the Bourbons while Joseph Bonaparte held Madrid."
 transitions:
 - year: 1808
-  kind: absorbed_into
-  into: [first_french_empire]
+  kind: succeeded_by
+  into: [spain]
 ---

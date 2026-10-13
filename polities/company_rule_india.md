@@ -9,9 +9,9 @@ point:
   name: Calcutta
   latitude: 22.567
   longitude: 88.37
-note: "The East India Company's Indian territories, treated as one polity because the Company governed them. The Crown took over in 1858."
+note: "The East India Company's Indian territories, treated as one polity because the Company governed them. From 1858 the British government ruled India through a viceroy answerable to London, so it counts as part of the United Kingdom."
 transitions:
 - year: 1858
-  kind: succeeded_by
-  into: [british_raj]
+  kind: absorbed_into
+  into: [united_kingdom_gbi]
 ---

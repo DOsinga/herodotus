@@ -12,5 +12,5 @@ point:
 transitions:
 - year: 1885
   kind: absorbed_into
-  into: [british_raj]
+  into: [united_kingdom_gbi]
 ---

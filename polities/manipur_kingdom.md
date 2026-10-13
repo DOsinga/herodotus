@@ -18,5 +18,5 @@ transitions:
   into: [konbaung_dynasty]
 - year: 1891
   kind: absorbed_into
-  into: [british_raj]
+  into: [united_kingdom_gbi]
 ---

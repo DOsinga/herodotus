@@ -9,4 +9,5 @@ point:
   name: London
   latitude: 51.507
   longitude: -0.128
+note: "Includes British India from 1858, which was governed through a viceroy answerable to London."
 ---
