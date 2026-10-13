@@ -11,6 +11,9 @@ point:
   longitude: 43.13
 note: "Zengi took Mosul in 1127 and Aleppo in 1128. His death in 1146 divided the government between his sons; the later branches are separate records."
 transitions:
+- year: 1127
+  kind: broke_away_from
+  from: [seljuk_iraq]
 - year: 1146
   kind: split_into
   into: [zengid_aleppo, zengid_mosul]
