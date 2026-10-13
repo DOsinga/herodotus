@@ -1,6 +1,7 @@
 ---
 id: lydenburg_polity
-name: "Lydenburg Polity"
+name: "Lydenburg Heads site"
+type: culture
 wikipedia: https://en.wikipedia.org/wiki/Lydenburg_heads
 periods:
 - start: 500
@@ -9,5 +10,5 @@ point:
   name: "Lydenburg Heads site"
   latitude: -25.1
   longitude: 30.45
-note: "500–800 estimates the organized farming community represented by the settlement and terracotta heads. The leaders' names, political boundaries and precise lifetime are unknown. Links the archaeological finds rather than the nineteenth-century settler town; the point represents the nearby ancient site approximately."
+note: "500–800 estimates the Early Iron Age farming community known from the Lydenburg terracotta heads. Nothing is known of its government. The point represents the find site approximately."
 ---

@@ -1,6 +1,7 @@
 ---
 id: tibes_polity
-name: "Tibes Polity"
+name: "Tibes chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Tibes_Indigenous_Ceremonial_Center
 periods:
 - start: 400

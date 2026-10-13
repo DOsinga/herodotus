@@ -1,6 +1,7 @@
 ---
 id: coosa_chiefdom
-name: Coosa chiefdom
+name: "Coosa chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Coosa_chiefdom
 periods:
 - start: 1400

@@ -1,6 +1,7 @@
 ---
 id: cahokia_chiefdom
-name: Cahokia chiefdom
+name: "Cahokia chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Cahokia
 periods:
 - start: 1050

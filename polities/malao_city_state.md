@@ -1,6 +1,7 @@
 ---
 id: malao_city_state
-name: "Malao City-State"
+name: "Malao"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Malao
 periods:
 - start: 50

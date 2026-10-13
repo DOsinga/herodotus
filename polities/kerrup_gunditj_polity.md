@@ -1,7 +1,8 @@
 ---
 id: kerrup_gunditj_polity
-name: "Kerrup Gunditj Polity"
-wikipedia: https://en.wikipedia.org/wiki/Budj_Bim_heritage_areas
+name: "Gunditjmara"
+type: culture
+wikipedia: https://en.wikipedia.org/wiki/Gunditjmara
 periods:
 - start: -4000
   end: 1846
@@ -9,7 +10,7 @@ point:
   name: "Tae Rak"
   latitude: -38.06281
   longitude: 141.83275
-note: "4000 BCE estimates the self-governing aquaculture community at Tae Rak from the roughly six-millennia-old resource system and custodial traditions. Kerrup Gunditj is its historically recorded clan name, not a name documented continuously since that date. This is a local governing territory, not all Gunditjmara clans. 1846 estimates effective loss of territorial control during colonial occupation and the Eumeralla conflict."
+note: "4000 BCE estimates the Budj Bim eel aquaculture system at Tae Rak, the point, which the Gunditjmara built and kept. 1846 estimates the loss of control of their country during colonial occupation and the Eumeralla conflict. The continuity of one people over this span rests on the aquaculture system and custodial tradition."
 transitions:
 - year: 1846
   kind: absorbed_into

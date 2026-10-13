@@ -1,6 +1,7 @@
 ---
 id: sitio_conte_polity
-name: "Sitio Conte Polity"
+name: "Sitio Conte chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Sitio_Conte
 periods:
 - start: 450

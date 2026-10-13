@@ -1,6 +1,7 @@
 ---
 id: maranga_polity
-name: "Maranga Polity"
+name: "Maranga chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Lima_culture
 periods:
 - start: 100

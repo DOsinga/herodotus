@@ -6,12 +6,8 @@ periods:
 - start: 358
   end: 669
 point:
-  name: "Sundapura"
-  latitude: -6.2
-  longitude: 107
-note: "358 and 669 are traditional chronology estimates; Purnawarman's fifth-century inscriptions provide the strongest early evidence. Sundapura's location between Jakarta and Bekasi is approximate. Tarusbawa's western court continued as Sunda while Galuh governed separately, rather than all western Java disappearing after Taruma."
-transitions:
-- year: 669
-  kind: split_into
-  into: [kingdom_sunda, kingdom_galuh]
+  name: "Bekasi area"
+  latitude: -6.25
+  longitude: 107.0
+note: "Both dates are estimates; the kingdom is known from Purnawarman's fifth-century inscriptions. 669 is the traditional date of its division into Sunda and Galuh, which rests on later chronicles; Galuh's record starts then, and Sunda's starts with its first secure attestation in 932, so no transition is recorded."
 ---

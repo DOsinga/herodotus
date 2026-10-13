@@ -1,6 +1,7 @@
 ---
 id: el_cano_polity
-name: "El Cano Polity"
+name: "El Caño chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/El_Ca%C3%B1o_Archaeological_Park
 periods:
 - start: 750

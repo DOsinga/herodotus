@@ -6,6 +6,7 @@ import yaml
 
 ROOT = Path(__file__).parent
 ID = re.compile(r"^[a-z][a-z0-9_]*$")
+TYPES = {"chiefdom", "culture"}
 TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by", "broke_away_from"}
 
 
@@ -32,7 +33,8 @@ def validate_polities(polities):
     ids = set()
     names = set()
     for polity in polities:
-        assert set(polity) - {"transitions", "note"} == {"id", "name", "wikipedia", "periods", "point"}, polity["id"]
+        assert set(polity) - {"transitions", "note", "type"} == {"id", "name", "wikipedia", "periods", "point"}, polity["id"]
+        assert "type" not in polity or polity["type"] in TYPES, polity["id"]
         assert "note" not in polity or isinstance(polity["note"], str) and polity["note"], polity["id"]
         assert ID.fullmatch(polity["id"]), polity["id"]
         assert polity["id"] not in ids, polity["id"]

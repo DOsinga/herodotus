@@ -1,6 +1,7 @@
 ---
 id: la_tiza_polity
-name: "La Tiza Polity"
+name: "La Tiza chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Nazca_culture
 periods:
 - start: 400

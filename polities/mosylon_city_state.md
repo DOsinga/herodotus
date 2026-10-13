@@ -1,6 +1,7 @@
 ---
 id: mosylon_city_state
-name: "Mosylon City-State"
+name: "Mosylon"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Mosylon
 periods:
 - start: 50

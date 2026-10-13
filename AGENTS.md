@@ -87,9 +87,34 @@ own right, such as a kingdom, sultanate, republic, city-state or confederacy.
   those years, for example Genoa under French or Milanese rule.
 - When a dynasty divided its lands and the shares governed separately for a
   long time, each lasting share gets its own record, and a reunification is a
-  `merged_into` the reunited polity. Include short-lived and minor governing
-  shares too; use notes when their dates or identities are uncertain. Do not
-  present several governments as one record.
+  `merged_into` the reunited polity. Short-lived or minor shares can be left
+  out, and the note says so. Do not present several governments as one
+  record.
+
+### Types
+
+A record without a `type` is a polity: a state with a government, which the
+rest of this document is about. Further back in time and outside the literate
+world, the evidence often shows less than that, so a record can say so:
+
+```yaml
+type: chiefdom
+```
+
+- `chiefdom`: a ranked society with a recognisable centre and leaders, but
+  no state, such as Cahokia, the Coclé chiefdoms of Panama or the Periplus
+  ports of the Horn of Africa. The who-governed test applies as far as the
+  evidence allows.
+- `culture`: an archaeological culture or settlement whose government is
+  unknown, such as the Hohokam or Djenné-Djenno. It stands in where no polity
+  or chiefdom is known, and the who-governed test does not apply. Prefer the
+  culture to a single site, use the archaeologists' name, and put a type site
+  or main centre at the point. A site stands alone only when it has no wider
+  culture to belong to.
+
+Do not dress a culture up as a polity: name it for what it is, and keep notes
+to what the evidence shows. The map draws chiefdoms as half-filled rings and
+cultures as hollow ones.
 
 Coverage is built outward from 1500, by hand. Do not bulk-import from
 Wikidata or another list: that approach was tried and produced thousands of
