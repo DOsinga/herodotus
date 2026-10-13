@@ -7,9 +7,9 @@ periods:
   end: 668
 point:
   name: "Pyongyang"
-  latitude: 39.0167
-  longitude: 125.7475
-note: "The start follows the conventional date; years before 70 have not been audited. Pyongyang was the capital from 427; Gungnae before. Tang conquered it in 668."
+  latitude: 39.019
+  longitude: 125.754
+note: "37 BCE is the traditional foundation date; early chronology is less secure than the later royal government. Pyongyang was the capital from 427. Ends with the Tang conquest of the capital, rather than the later title granted to the captive king."
 transitions:
 - year: 668
   kind: absorbed_into

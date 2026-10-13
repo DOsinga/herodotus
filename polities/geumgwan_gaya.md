@@ -7,9 +7,9 @@ periods:
   end: 532
 point:
   name: "Gimhae"
-  latitude: 35.2342
-  longitude: 128.8811
-note: "42 is the traditional founding date. Silla annexed it in 532. The other Gaya states besides Daegaya are not recorded."
+  latitude: 35.234
+  longitude: 128.881
+note: "42 follows the traditional King Suro foundation account, not a securely dated event; archaeology supports a later developed kingdom. This is the Gimhae state, not an umbrella for all Gaya states."
 transitions:
 - year: 532
   kind: absorbed_into

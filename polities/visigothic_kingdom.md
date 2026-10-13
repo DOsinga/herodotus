@@ -4,13 +4,18 @@ name: "Visigothic Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Visigothic_Kingdom
 periods:
 - start: 418
+  end: 511
+- start: 526
   end: 721
 point:
   name: "Toledo"
-  latitude: 39.857
-  longitude: -4.024
-note: "418 follows the settlement in Aquitaine with Toulouse as the seat; Toledo became the capital in the sixth century. The kingdom fell to the Umayyad conquest from 711; 721 follows the end of King Ardo's rump kingdom in Septimania."
+  latitude: 39.862
+  longitude: -4.027
+note: "Gap for Theodoric's direct Ostrogothic administration through his officials from 511 to 526; Amalaric then governed in his own right. The main Spanish kingdom fell in 711, but the royal government under Achila and Ardo survived in the northeast and Septimania until 721. Toledo represents the main sixth- and seventh-century seat, not the original Toulouse or final Narbonne court."
 transitions:
+- year: 511
+  kind: absorbed_into
+  into: [ostrogothic_kingdom]
 - year: 721
   kind: absorbed_into
   into: [umayyad_caliphate]

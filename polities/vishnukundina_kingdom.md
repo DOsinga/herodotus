@@ -1,15 +1,15 @@
 ---
 id: vishnukundina_kingdom
-name: "Vishnukundina kingdom"
+name: "Vishnukundina Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Vishnukundina_dynasty
 periods:
 - start: 420
   end: 624
 point:
-  name: "Vinukonda"
-  latitude: 16.05
-  longitude: 79.75
-note: "Links the dynasty article. Both dates are estimates; the capitals are disputed and Vinukonda is representative. Pulakeshin II's conquest of the coast ended it."
+  name: "Denduluru"
+  latitude: 16.813
+  longitude: 81.159
+note: "420 and 624 follow the conventional chronology. Pulakeshin II's conquest imposed Chalukya administration before the later emergence of the separately governing Vengi kingdom, so this does not transition directly to the Eastern Chalukyas in 642."
 transitions:
 - year: 624
   kind: absorbed_into

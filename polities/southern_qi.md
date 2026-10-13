@@ -7,7 +7,11 @@ periods:
   end: 502
 point:
   name: "Jiankang"
-  latitude: 32.0608
-  longitude: 118.7789
-note: "Ends when Xiao Yan founded the Liang dynasty, which belongs to the 500–750 audit."
+  latitude: 32.06
+  longitude: 118.797
+note: "The southern Xiao court, distinct from the northern Gao state founded in 550. Xiao Yan's takeover in 502 established Liang."
+transitions:
+- year: 502
+  kind: succeeded_by
+  into: [liang_dynasty]
 ---

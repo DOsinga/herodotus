@@ -6,8 +6,12 @@ periods:
 - start: 50
   end: 627
 point:
-  name: "Vyadhapura"
-  latitude: 11.24
-  longitude: 105.38
-note: "Both dates are estimates; Chinese sources describe the kingdom from the third century. The point is the traditional capital. Chenla, not yet recorded, took over from the mid sixth century and ended its last embassies about 627."
+  name: "Angkor Borei"
+  latitude: 10.992
+  longitude: 104.971
+note: "50 estimates the Mekong-delta court's foundation; its first detailed descriptions are third-century Chinese accounts. 627 is the conventional final Chenla conquest, rather than the earlier loss of northern territories around 550. Angkor Borei is a principal archaeological centre and a proposed capital location; Funan's exact native name and extent are disputed."
+transitions:
+- year: 627
+  kind: absorbed_into
+  into: [chenla_kingdom]
 ---

@@ -3,11 +3,15 @@ id: gododdin
 name: "Gododdin"
 wikipedia: https://en.wikipedia.org/wiki/Gododdin
 periods:
-- start: 410
+- start: 450
   end: 638
 point:
   name: "Din Eidyn"
-  latitude: 55.9533
-  longitude: -3.1892
-note: "410 estimates the post-Roman kingdom of the Votadini, which the article dates to the fourth century. Ends with the conventional date of the siege of Din Eidyn by the Bernicians; Bernicia is not yet recorded."
+  latitude: 55.949
+  longitude: -3.2
+note: "450 estimates post-Roman native kingship. Ends with the conventional 638 fall of Eidyn to the Northumbrian realm; the poetry's date and the kingdom's extent are disputed. The point represents the fortified royal centre on Castle Rock."
+transitions:
+- year: 638
+  kind: absorbed_into
+  into: [kingdom_northumbria]
 ---

@@ -16,5 +16,5 @@ transitions:
   from: [western_roman_empire]
 - year: 486
   kind: absorbed_into
-  into: [frankish_kingdom_clovis]
+  into: [merovingian_francia_late]
 ---

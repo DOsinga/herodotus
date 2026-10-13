@@ -7,7 +7,11 @@ periods:
   end: 578
 point:
   name: "Altava"
-  latitude: 34.8864
-  longitude: -1.0247
-note: "Both dates are estimates; the Vandal conquest of Africa freed the Moorish rulers, and the kingdom disappears after Garmul's defeat by the Byzantines in 578."
+  latitude: 34.707
+  longitude: -1.028
+note: "429 estimates the emergence of independent Romano-Berber government as Roman authority receded; Masuna's kingship is attested by the inscription of 508. Ends with the Byzantine defeat of Garmul around 578, rather than a generic survival of Romano-Berber communities. The reduced Altava state has its own record."
+transitions:
+- year: 578
+  kind: succeeded_by
+  into: [kingdom_altava]
 ---

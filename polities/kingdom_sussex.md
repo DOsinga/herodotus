@@ -5,13 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Sussex
 periods:
 - start: 477
   end: 686
-- start: 692
+- start: 715
   end: 772
+- start: 796
+  end: 827
 point:
-  name: "Chichester"
-  latitude: 50.8365
-  longitude: -0.7792
-note: "477 is the traditional date of Ælle's landing. Cædwalla of Wessex killed King Æthelwalh and ruled Sussex directly from 686; native kings are attested again from Nothhelm about 692. Offa's conquest about 772 ended the kingdom. Dates are estimates from the Anglo-Saxon Chronicle and charters."
+  name: "Selsey"
+  latitude: 50.734
+  longitude: -0.79
+note: "477 is the traditional Aelle foundation date. Gaps represent direct West Saxon conquest and later Mercian annexation, not merely tribute. The 772 end follows the change from native kings to subordinate duces around Offa's conquest; accounts also use 771. Selsey is a representative early royal and church centre."
 transitions:
 - year: 686
   kind: absorbed_into
@@ -19,4 +21,7 @@ transitions:
 - year: 772
   kind: absorbed_into
   into: [kingdom_mercia]
+- year: 827
+  kind: absorbed_into
+  into: [kingdom_wessex]
 ---

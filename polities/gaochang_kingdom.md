@@ -1,15 +1,15 @@
 ---
 id: gaochang_kingdom
-name: "Gaochang Kingdom"
+name: "Kingdom of Gaochang"
 wikipedia: https://en.wikipedia.org/wiki/Gaochang
 periods:
 - start: 460
   end: 640
 point:
   name: "Gaochang"
-  latitude: 42.8528
-  longitude: 89.5292
-note: "Links the Gaochang article, which covers the kingdom. Starts after the Rouran ended the Northern Liang remnant and installed Kan Bozhou in 460; the Qu family ruled from 498. Tang conquered it in 640."
+  latitude: 42.853
+  longitude: 89.529
+note: "The Kan, Zhang, Ma and Qu ruling houses represent one oasis kingdom; their succession is not four different states. Its rulers governed despite Rouran and Turkic overlordship. Tang abolished the kingdom and established a prefecture after its conquest in 640."
 transitions:
 - year: 640
   kind: absorbed_into

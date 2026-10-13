@@ -6,8 +6,12 @@ periods:
 - start: 402
   end: 555
 point:
-  name: "Mongolian steppe"
+  name: "Orkhon Valley"
   latitude: 47.5
-  longitude: 102.5
-note: "402 follows Shelun's adoption of the title khagan; the Rouran were subject to Dai and Northern Wei before. The court moved and the point is representative. The Göktürk revolt ended it in 552–555; the Göktürks are not yet recorded."
+  longitude: 102.8
+note: "402 follows Shelun's consolidation and assumption of the khagan title, rather than the ancestral chief Mugulu's conventional 330 date. The point is an approximate steppe centre, not an identified fixed capital. The first Turkic revolt was in 552, but Rouran resistance continued until 555."
+transitions:
+- year: 555
+  kind: absorbed_into
+  into: [first_turkic_khaganate]
 ---

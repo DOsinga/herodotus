@@ -1,15 +1,15 @@
 ---
 id: lakhmid_kingdom
-name: "Lakhmid kingdom"
+name: "Lakhmid Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Lakhmid_kingdom
 periods:
 - start: 293
   end: 602
 point:
-  name: "Al-Hirah"
-  latitude: 31.98
-  longitude: 44.39
-note: "293 estimates the kingdom at al-Hira under Sasanian patronage; it kept its own army and campaigns. Khosrow II abolished it in 602."
+  name: "Al-Hira"
+  latitude: 31.883
+  longitude: 44.467
+note: "293 estimates the emergence of the Nasrid court. Persian overlordship did not end its own royal government; Khosrow II's removal of al-Numan III and installation of direct administration in 602 did. Al-Hira's archaeological location is approximate."
 transitions:
 - year: 602
   kind: absorbed_into

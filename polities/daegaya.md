@@ -7,9 +7,9 @@ periods:
   end: 562
 point:
   name: "Goryeong"
-  latitude: 35.7303
-  longitude: 128.2689
-note: "42 is the traditional founding date; Daegaya led the later Gaya confederacy. Silla conquered it in 562."
+  latitude: 35.727
+  longitude: 128.263
+note: "42 is the traditional foundation date; the royal government is securely attested by King Haji's embassy to Southern Qi in 479. This Goryeong kingdom is distinct from the similarly named Goryeong Gaya at Sangju."
 transitions:
 - year: 562
   kind: absorbed_into
