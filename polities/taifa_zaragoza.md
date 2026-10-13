@@ -11,6 +11,9 @@ point:
   longitude: -0.8891
 note: "The start follows the conventional 1013 chronology for separation from Cordoba; some accounts use 1018. Almoravid government replaced the taifa in 1110, before Aragon captured the city in 1118. The Hudid remnant at Rueda is not included in this city's period."
 transitions:
+- year: 1013
+  kind: broke_away_from
+  from: [caliphate_cordoba]
 - year: 1110
   kind: absorbed_into
   into: [almoravid_emirate]
