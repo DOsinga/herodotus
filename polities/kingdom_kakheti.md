@@ -9,4 +9,8 @@ point:
   name: Gremi
   latitude: 42.0
   longitude: 45.66
+transitions:
+- year: 1762
+  kind: merged_into
+  into: [kingdom_kartli_kakheti]
 ---

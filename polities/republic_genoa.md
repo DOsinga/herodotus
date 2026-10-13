@@ -47,4 +47,7 @@ transitions:
 - year: 1488
   kind: absorbed_into
   into: [duchy_milan]
+- year: 1797
+  kind: succeeded_by
+  into: [ligurian_republic]
 ---

@@ -14,6 +14,9 @@ point:
   latitude: 22.34
   longitude: 75.42
 transitions:
+- year: 1401
+  kind: broke_away_from
+  from: [delhi_sultanate]
 - year: 1531
   kind: absorbed_into
   into: [gujarat_sultanate]

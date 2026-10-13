@@ -10,6 +10,9 @@ point:
   latitude: 17.9133
   longitude: 77.5301
 transitions:
+- year: 1347
+  kind: broke_away_from
+  from: [delhi_sultanate]
 - year: 1490
   kind: split_into
   into: [ahmadnagar_sultanate, berar_sultanate, bidar_sultanate, bijapur_sultanate]

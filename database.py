@@ -6,7 +6,7 @@ import yaml
 
 ROOT = Path(__file__).parent
 ID = re.compile(r"^[a-z][a-z0-9_]*$")
-TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by"}
+TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by", "broke_away_from"}
 
 
 def load_polities():
@@ -66,17 +66,24 @@ def validate_polities(polities):
     for polity in polities:
         for transition in polity.get("transitions", []):
             year = transition["year"]
-            assert set(transition) == {"year", "kind", "into"}, polity["id"]
-            assert transition["kind"] in TRANSITION_KINDS, polity["id"]
-            assert any(period["end"] == year for period in polity["periods"]), polity["id"]
-            if transition["kind"] == "split_into":
-                assert len(transition["into"]) >= 2, polity["id"]
+            kind = transition["kind"]
+            assert kind in TRANSITION_KINDS, polity["id"]
+            if kind == "broke_away_from":
+                assert set(transition) == {"year", "kind", "from"}, polity["id"]
+                assert any(period["start"] == year for period in polity["periods"]), polity["id"]
+                targets = transition["from"]
             else:
-                assert len(transition["into"]) == 1, polity["id"]
-            for target_id in transition["into"]:
+                assert set(transition) == {"year", "kind", "into"}, polity["id"]
+                assert any(period["end"] == year for period in polity["periods"]), polity["id"]
+                targets = transition["into"]
+            if kind == "split_into":
+                assert len(targets) >= 2, polity["id"]
+            else:
+                assert len(targets) == 1, polity["id"]
+            for target_id in targets:
                 assert target_id in by_id, (polity["id"], target_id)
                 target = by_id[target_id]
-                if transition["kind"] == "absorbed_into":
+                if kind in ("absorbed_into", "broke_away_from"):
                     assert is_active(target, year), (polity["id"], target_id)
                 else:
                     begins = any(period["start"] == year for period in target["periods"])
