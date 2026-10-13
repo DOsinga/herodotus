@@ -10,6 +10,9 @@ point:
   latitude: 55.7964
   longitude: 49.1089
 transitions:
+- year: 1438
+  kind: broke_away_from
+  from: [golden_horde]
 - year: 1552
   kind: absorbed_into
   into: [tsardom_russia]

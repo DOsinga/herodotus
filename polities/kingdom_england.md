@@ -15,4 +15,7 @@ transitions:
 - year: 1649
   kind: succeeded_by
   into: [commonwealth_england]
+- year: 1707
+  kind: merged_into
+  into: [kingdom_great_britain]
 ---

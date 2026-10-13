@@ -9,4 +9,8 @@ point:
   name: Suceava
   latitude: 47.6514
   longitude: 26.2556
+transitions:
+- year: 1711
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

@@ -9,4 +9,8 @@ point:
   name: Târgoviște
   latitude: 44.9254
   longitude: 25.4567
+transitions:
+- year: 1716
+  kind: absorbed_into
+  into: [ottoman_empire]
 ---

@@ -12,5 +12,5 @@ point:
 transitions:
 - year: 1642
   kind: absorbed_into
-  into: [khoshut_khanate]
+  into: [ganden_phodrang]
 ---

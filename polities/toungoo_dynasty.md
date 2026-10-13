@@ -9,4 +9,8 @@ point:
   name: Taungoo
   latitude: 18.9333
   longitude: 96.4333
+transitions:
+- year: 1752
+  kind: absorbed_into
+  into: [restored_hanthawaddy]
 ---

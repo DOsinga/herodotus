@@ -15,4 +15,7 @@ transitions:
 - year: 1527
   kind: absorbed_into
   into: [mac_dynasty]
+- year: 1789
+  kind: absorbed_into
+  into: [tay_son_dynasty]
 ---

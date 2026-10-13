@@ -10,6 +10,9 @@ point:
   latitude: 23.0225
   longitude: 72.5714
 transitions:
+- year: 1407
+  kind: broke_away_from
+  from: [delhi_sultanate]
 - year: 1573
   kind: absorbed_into
   into: [mughal_empire]

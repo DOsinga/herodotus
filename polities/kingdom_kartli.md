@@ -9,4 +9,8 @@ point:
   name: Tbilisi
   latitude: 41.7167
   longitude: 44.7833
+transitions:
+- year: 1762
+  kind: merged_into
+  into: [kingdom_kartli_kakheti]
 ---

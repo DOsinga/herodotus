@@ -9,4 +9,8 @@ point:
   name: Sitawaka
   latitude: 6.95
   longitude: 80.22
+transitions:
+- year: 1521
+  kind: broke_away_from
+  from: [kingdom_kotte]
 ---

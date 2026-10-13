@@ -11,4 +11,8 @@ point:
   name: Paris
   latitude: 48.8567
   longitude: 2.3522
+transitions:
+- year: 1792
+  kind: succeeded_by
+  into: [french_first_republic]
 ---
