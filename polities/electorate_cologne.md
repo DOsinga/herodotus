@@ -4,14 +4,14 @@ name: Electorate of Cologne
 wikipedia: https://en.wikipedia.org/wiki/Electorate_of_Cologne
 periods:
 - start: 1250
-  end: 1794
+  end: 1803
 point:
   name: Bonn
   latitude: 50.735
   longitude: 7.102
-note: "The archbishops lost the city of Cologne after the Battle of Worringen in 1288 and governed from Bonn. Ends with the French occupation of the Rhineland in 1794; the remaining lands east of the Rhine were divided up in 1803."
+note: "The archbishops lost the city of Cologne after the Battle of Worringen in 1288 and governed from Bonn. France took the lands west of the Rhine in 1794; the electors kept governing the Duchy of Westphalia and Recklinghausen east of the Rhine until the 1803 secularisation gave most of what was left to Hesse-Darmstadt."
 transitions:
-- year: 1794
+- year: 1803
   kind: absorbed_into
-  into: [french_first_republic]
+  into: [hesse_darmstadt]
 ---

@@ -8,12 +8,12 @@ periods:
 - start: 1773
   end: 1810
 - start: 1813
-  end: 1871
+  end: 1867
 point:
   name: Oldenburg
   latitude: 53.144
   longitude: 8.214
-note: "When the last count died in 1667 it passed to the Danish king, who governed it through officials; Denmark handed it to the Gottorp line in 1773 and it became a duchy in 1774. Annexed by France at the end of 1810, restored in 1813, and a grand duchy from 1815. Remained a monarchy inside the German Empire until 1918, but the Empire controlled war and foreign policy, so it counts as part of the Empire from 1871."
+note: "When the last count died in 1667 it passed to the Danish king, who governed it through officials; Denmark handed it to the Gottorp line in 1773 and it became a duchy in 1774. Annexed by France at the end of 1810, restored in 1813, and a grand duchy from 1815. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1667
   kind: absorbed_into
@@ -21,7 +21,7 @@ transitions:
 - year: 1810
   kind: absorbed_into
   into: [first_french_empire]
-- year: 1871
+- year: 1867
   kind: merged_into
-  into: [german_empire]
+  into: [north_german_confederation]
 ---

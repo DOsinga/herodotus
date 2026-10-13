@@ -4,14 +4,14 @@ name: Ernestine duchies
 wikipedia: https://en.wikipedia.org/wiki/Ernestine_duchies
 periods:
 - start: 1485
-  end: 1871
+  end: 1867
 point:
   name: Weimar
   latitude: 50.981
   longitude: 11.329
-note: "The Ernestine Wettins from the Leipzig partition of 1485: electors at Wittenberg until 1547, then a shifting set of Thuringian duchies (Saxe-Weimar, Gotha, Coburg, Meiningen, Altenburg) shown as one record at Weimar. Remained a monarchy inside the German Empire until 1918, but the Empire controlled war and foreign policy, so it counts as part of the Empire from 1871."
+note: "The Ernestine Wettins from the Leipzig partition of 1485: electors at Wittenberg until 1547, then a shifting set of Thuringian duchies (Saxe-Weimar, Gotha, Coburg, Meiningen, Altenburg) shown as one record at Weimar. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
-- year: 1871
+- year: 1867
   kind: merged_into
-  into: [german_empire]
+  into: [north_german_confederation]
 ---
