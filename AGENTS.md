@@ -108,6 +108,13 @@ overlord confirmed or chose can still govern.
   appointed from 1524 but who fought their own wars, Ragusa, Mewar after its
   1615 treaty with the Mughals, and Milan or Savoy inside the Holy Roman
   Empire stay on the map.
+- A protected or princely state is absorbed from the treaty that handed its
+  war and foreign relations to the protecting power, whether a
+  protectorate, paramountcy or subsidiary alliance, even though its ruler
+  kept governing at home. Unlike Crimea, it could not fight or negotiate on
+  its own account. The Indian princely states, the Gulf states before
+  independence, Zanzibar, Buganda, Tonga from 1900 to 1970 and the Javanese
+  courts under the Dutch fall here.
 - Once the outside power ruled directly, or through a governor, viceroy or
   other official of its own, the polity has been absorbed and its period
   ends. Naples and Sicily under the Spanish crown and Frisia after Maximilian
