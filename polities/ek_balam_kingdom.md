@@ -1,7 +1,7 @@
 ---
 id: ek_balam_kingdom
 name: "Kingdom of Ek Balam"
-wikipedia: https://en.wikipedia.org/wiki/Ek%2527_Balam
+wikipedia: https://en.wikipedia.org/wiki/Ek%27_Balam
 periods:
 - start: 500
   end: 1100
