@@ -1,6 +1,7 @@
 ---
 id: malae_vakapuna_polity
 name: "Malae Vakapuna Chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/History_of_Tonga
 periods:
 - start: 400

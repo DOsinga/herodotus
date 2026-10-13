@@ -8,6 +8,7 @@
   const searchInput = document.getElementById("atlas-search");
   const polityList = document.getElementById("atlas-polities");
   const card = document.getElementById("atlas-card");
+  const FILL_OPACITY = { polity: 1, chiefdom: 0.45, culture: 0 };
   const count = document.getElementById("atlas-count");
   const note = document.getElementById("atlas-note");
   const markers = new Map();
@@ -68,7 +69,7 @@
       ? ""
       : '<span class="atlas-status">Not active in ' + escapeHtml(formatYear(currentYear)) + "</span>";
     card.innerHTML = "<strong>" + escapeHtml(polity.name) + "</strong>" +
-      '<span class="atlas-id">' + escapeHtml(polity.id) + "</span>" +
+      '<span class="atlas-id">' + escapeHtml(polity.id + (polity.type ? " · " + polity.type : "")) + "</span>" +
       "<span>" + escapeHtml(periods) + "</span>" +
       status +
       "<span>representative point: " + escapeHtml(polity.point.name) + "</span>" +
@@ -97,12 +98,13 @@
     let selectedMarker = null;
     active.forEach(function (polity) {
       const isSelected = selectedPolity && selectedPolity.id === polity.id;
+      const color = polityColor(polity.id);
       const marker = L.circleMarker([polity.point.latitude, polity.point.longitude], {
         radius: isSelected ? 9 : 6,
-        color: isSelected ? "#20272b" : "#fff",
-        weight: isSelected ? 3 : 1.5,
-        fillColor: polityColor(polity.id),
-        fillOpacity: 1
+        color: isSelected ? "#20272b" : polity.type ? color : "#fff",
+        weight: isSelected ? 3 : polity.type ? 2.5 : 1.5,
+        fillColor: color,
+        fillOpacity: FILL_OPACITY[polity.type || "polity"]
       }).addTo(layer);
       marker.bindTooltip(polity.name, {
         className: "atlas-tooltip",
@@ -130,7 +132,7 @@
       resetCard(year);
     }
     count.textContent = active.length + " polities";
-    note.textContent = "Each dot is one polity's representative point, not a border or a city inventory.";
+    note.textContent = "Each dot is one polity's representative point, not a border or a city inventory. Half-filled rings are chiefdoms and hollow rings are archaeological cultures.";
   }
 
   function normalizeSearch(text) {

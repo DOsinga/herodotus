@@ -1,6 +1,7 @@
 ---
 id: chinchawas_polity
-name: "Chinchawas Polity"
+name: "Chinchawas chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Recuay_culture
 periods:
 - start: 400

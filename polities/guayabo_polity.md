@@ -1,6 +1,7 @@
 ---
 id: guayabo_polity
-name: "Guayabo Polity"
+name: "Guayabo chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Guayabo_National_Monument
 periods:
 - start: 500

@@ -1,6 +1,7 @@
 ---
 id: avalites_city_state
-name: "Avalites City-State"
+name: "Avalites"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Avalites
 periods:
 - start: 50

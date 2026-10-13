@@ -1,6 +1,7 @@
 ---
 id: moundville_chiefdom
-name: Moundville chiefdom
+name: "Moundville chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Moundville_Archaeological_Site
 periods:
 - start: 1000

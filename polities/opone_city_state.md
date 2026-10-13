@@ -1,6 +1,7 @@
 ---
 id: opone_city_state
-name: "Opone City-State"
+name: "Opone"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Opone
 periods:
 - start: -300

@@ -1,6 +1,7 @@
 ---
 id: pashash_polity
-name: "Pashash Polity"
+name: "Pashash chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Recuay_culture
 periods:
 - start: 300

@@ -1,6 +1,7 @@
 ---
 id: nawinpukyo_polity
-name: "Nawinpukyo Polity"
+name: "Nawinpukyo chiefdom"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Ayacucho
 periods:
 - start: 200
