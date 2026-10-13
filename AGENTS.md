@@ -87,9 +87,9 @@ own right, such as a kingdom, sultanate, republic, city-state or confederacy.
   those years, for example Genoa under French or Milanese rule.
 - When a dynasty divided its lands and the shares governed separately for a
   long time, each lasting share gets its own record, and a reunification is a
-  `merged_into` the reunited polity. Short-lived or minor shares can be left
-  out, and the note says so. Do not present several governments as one
-  record.
+  `merged_into` the reunited polity. Include short-lived and minor governing
+  shares too; use notes when their dates or identities are uncertain. Do not
+  present several governments as one record.
 
 Coverage is built outward from 1500, by hand. Do not bulk-import from
 Wikidata or another list: that approach was tried and produced thousands of
