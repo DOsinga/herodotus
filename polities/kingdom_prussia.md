@@ -9,7 +9,7 @@ point:
   name: Berlin
   latitude: 52.52
   longitude: 13.405
-note: "Includes Brandenburg, a member of the Holy Roman Empire, so it belongs to the pending HRE pass as well. Remained a monarchy inside the German Empire until 1918, but the Empire controlled war and foreign policy, so it counts as part of the Empire from 1871."
+note: "Remained a monarchy inside the German Empire until 1918, but the Empire controlled war and foreign policy, so it counts as part of the Empire from 1871."
 transitions:
 - year: 1871
   kind: merged_into

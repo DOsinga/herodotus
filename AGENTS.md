@@ -135,9 +135,11 @@ This stays a judgement call. When the evidence points both ways, choose one,
 and do not invent an intermediate category.
 
 Overlordship itself is not recorded. A loose umbrella such as the Holy Roman
-Empire is therefore not a polity on the map; its members are.
-
-The existing Holy Roman Empire file predates this rule and still needs review.
+Empire is therefore not a polity on the map; its members are. The Empire is a
+polity only from 962 to 1250, while the emperors still appointed and removed
+the German dukes. From Frederick II's death the princes, bishops and free
+cities governed their own lands, and each has its own record until it was
+absorbed, mediatised or became one of the nineteenth-century German states.
 
 ## Transitions
 
