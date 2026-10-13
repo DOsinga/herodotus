@@ -10,9 +10,6 @@ point:
   latitude: 49.8397
   longitude: 24.0297
 transitions:
-- year: 1199
-  kind: broke_away_from
-  from: [kievan_rus]
 - year: 1349
   kind: absorbed_into
   into: [kingdom_poland]
