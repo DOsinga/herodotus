@@ -14,6 +14,6 @@ transitions:
   kind: broke_away_from
   from: [republic_of_china]
 - year: 1937
-  kind: absorbed_into
-  into: [republic_of_china]
+  kind: succeeded_by
+  into: [shaan_gan_ning]
 ---

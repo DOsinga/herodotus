@@ -15,7 +15,7 @@ note: "Gap for the Soviet annexation. Links the country article. Changes of regi
 transitions:
 - year: 1918
   kind: broke_away_from
-  from: [soviet_russia]
+  from: [german_empire]
 - year: 1940
   kind: absorbed_into
   into: [soviet_union]

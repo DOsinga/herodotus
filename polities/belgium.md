@@ -4,22 +4,14 @@ name: Belgium
 wikipedia: https://en.wikipedia.org/wiki/Belgium
 periods:
 - start: 1830
-  end: 1940
-- start: 1944
   end: null
 point:
   name: Brussels
   latitude: 50.847
   longitude: 4.353
-note: "Links the country article. Changes of regime after independence are not split into separate records yet. Gap for the German occupation, when the occupier governed and the government was in exile."
+note: "The German army occupied and governed Belgium itself from 1940 to 1944, but the government in exile in London kept governing the Belgian Congo, so Belgium stays active. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1830
   kind: broke_away_from
   from: [kingdom_netherlands]
-- year: 1940
-  kind: absorbed_into
-  into: [nazi_germany]
-- year: 1944
-  kind: broke_away_from
-  from: [nazi_germany]
 ---

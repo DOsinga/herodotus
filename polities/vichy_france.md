@@ -11,6 +11,6 @@ point:
   longitude: 3.4267
 transitions:
 - year: 1944
-  kind: succeeded_by
+  kind: absorbed_into
   into: [provisional_government_france]
 ---

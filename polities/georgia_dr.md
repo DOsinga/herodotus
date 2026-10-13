@@ -10,9 +10,6 @@ point:
   latitude: 41.7225
   longitude: 44.7925
 transitions:
-- year: 1918
-  kind: broke_away_from
-  from: [soviet_russia]
 - year: 1921
   kind: absorbed_into
   into: [soviet_russia]
