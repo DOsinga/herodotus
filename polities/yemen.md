@@ -9,5 +9,5 @@ point:
   name: Sanaa
   latitude: 15.3483
   longitude: 44.2064
-note: "Since 2014 the Houthi movement has governed Sanaa and much of the north while the recognised government holds the south; this is not split out yet. Links the country article. Changes of regime are not split into separate records."
+note: "Since 2015 the Houthi government in Sanaa has its own record; this record follows the recognised government, which has governed from Aden. Links the country article. Changes of regime are not split into separate records."
 ---

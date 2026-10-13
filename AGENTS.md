@@ -173,7 +173,9 @@ transitions:
 
 Keep the historical years inclusive. If one polity ended and its replacement
 began in the same year, use that year for both; do not subtract a year from
-the outgoing polity's end just to avoid an overlap.
+the outgoing polity's end just to avoid an overlap. The one exception is a
+change at midnight on 31 December: the outgoing polity ends in that year
+and its successor starts in the next, as Czechoslovakia did in 1992–1993.
 
 When building a map for a year, the builder must use the transition and
 historical evidence to choose one polity for each place in a shared changeover
@@ -190,7 +192,8 @@ in the polity records.
   lists exactly one for the other kinds. Each of them exists.
 - An `absorbed_into` or `broke_away_from` target is active in that year. Any
   other target begins a period in that same year, following the inclusive
-  changeover rule above.
+  changeover rule above, or in the next year for a change that took effect
+  at midnight on 31 December, such as the split of Czechoslovakia.
 
 Transitions are optional. A polity that simply disappeared has none, and most
 files have not been given theirs yet.
