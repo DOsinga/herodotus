@@ -1,5 +1,7 @@
 ---
 id: bavaria_ingolstadt
+name: "Bavaria-Ingolstadt"
+wikipedia: https://en.wikipedia.org/wiki/Bavaria-Ingolstadt
 description: >-
   Bavaria-Ingolstadt was a Wittelsbach duchy within the Holy Roman Empire from 1392 to 1447. It
   emerged when Stephen II's sons divided their inheritance into Ingolstadt, Landshut, and Munich
@@ -10,17 +12,18 @@ description: >-
   struggle between Louis VII and his son Louis VIII, who seized power and imprisoned his father. Both
   died without a surviving successor, and Landshut absorbed the Ingolstadt lands in 1447, ending the
   separate court.
-name: Bavaria-Ingolstadt
-wikipedia: https://en.wikipedia.org/wiki/Bavaria-Ingolstadt
 periods:
 - start: 1392
   end: 1447
 point:
-  name: Ingolstadt
+  name: "Ingolstadt"
   latitude: 48.763
   longitude: 11.425
 note: "The Ingolstadt share of the 1392 partition. Passed to Bavaria-Landshut when Louis VII's line died out in 1447."
 transitions:
+- year: 1392
+  kind: broke_away_from
+  from: [bavaria_landshut]
 - year: 1447
   kind: absorbed_into
   into: [bavaria_landshut]
