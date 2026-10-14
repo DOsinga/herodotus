@@ -1,5 +1,7 @@
 ---
 id: ui_maine_kingdom
+name: "Kingdom of Ui Maine"
+wikipedia: https://en.wikipedia.org/wiki/Ui_Maine
 description: >-
   Ui Maine, also called Hy Many, was a Gaelic kingdom in eastern Connacht, chiefly
   around modern Galway and Roscommon. Its origin around 400 is an estimate drawn from
@@ -25,5 +27,5 @@ note: "400 estimates the early kingdom associated with the traditional Maine Mor
 transitions:
 - year: 1585
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

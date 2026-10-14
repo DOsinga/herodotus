@@ -1,6 +1,7 @@
 ---
 id: ulaid_dal_fiatach
 name: "Ulaid (Dal Fiatach kingdom)"
+wikipedia: https://en.wikipedia.org/wiki/D%C3%A1l_Fiatach
 description: >-
   The Dal Fiatach kingdom occupied eastern County Down in northeastern Ireland, with
   Downpatrick as its royal center. Its emergence around 450 is an estimate for the
@@ -24,5 +25,5 @@ note: "450 estimates the emergence of the historically attested royal line in ea
 transitions:
 - year: 1177
   kind: absorbed_into
-  into: [lordship_ireland]
+  into: [kingdom_england]
 ---

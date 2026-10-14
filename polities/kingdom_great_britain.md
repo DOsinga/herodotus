@@ -1,6 +1,6 @@
 ---
 id: kingdom_great_britain
-name: Kingdom of Great Britain
+name: "Kingdom of Great Britain"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain
 description: >-
   The Kingdom of Great Britain united England, including Wales, with Scotland in 1707.
@@ -18,9 +18,10 @@ periods:
 - start: 1707
   end: 1800
 point:
-  name: London
+  name: "London"
   latitude: 51.507
   longitude: -0.128
+note: "Ireland is part of this record: its separate parliament did not change that Britain appointed its executive."
 transitions:
 - year: 1800
   kind: merged_into

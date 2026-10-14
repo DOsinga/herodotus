@@ -1,5 +1,7 @@
 ---
 id: osraige
+name: "Osraige"
+wikipedia: https://en.wikipedia.org/wiki/Osraige
 description: >-
   Osraige was an Irish kingdom between Munster and Leinster, covering much of modern Kilkenny and
   western Laois. Tradition places its foundation around 150, but early chronology is uncertain.
@@ -28,5 +30,5 @@ transitions:
   into: [kingdom_munster]
 - year: 1537
   kind: absorbed_into
-  into: [lordship_ireland]
+  into: [kingdom_england]
 ---

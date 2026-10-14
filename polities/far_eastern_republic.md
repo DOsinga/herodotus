@@ -1,5 +1,7 @@
 ---
 id: far_eastern_republic
+name: "Far Eastern Republic"
+wikipedia: https://en.wikipedia.org/wiki/Far_Eastern_Republic
 description: >-
   The Far Eastern Republic existed in eastern Siberia and the Russian Far East from 1920 to 1922
   during the closing stages of Russia's civil war. Created with Bolshevik support, it served as a
@@ -16,9 +18,10 @@ periods:
 - start: 1920
   end: 1922
 point:
-  name: Chita
+  name: "Chita"
   latitude: 52.05
   longitude: 113.4667
+note: "Created by the Bolsheviks as a buffer against Japan, with the party's Far Eastern Bureau directing it; it is kept as a polity because it had its own government, army and diplomacy, negotiating with Japan on its own account."
 transitions:
 - year: 1922
   kind: absorbed_into

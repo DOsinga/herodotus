@@ -1,5 +1,7 @@
 ---
 id: tyrone
+name: "Kingdom of Tyrone"
+wikipedia: https://en.wikipedia.org/wiki/T%C3%ADr_Eoghain
 description: >-
   The Kingdom of Tyrone occupied much of inland Ulster in northern Ireland, with the O'Neill rulers based at Dungannon and
   inaugurated at Tullyhogue. This record follows the separate kingdom from 1185 until 1607, after the breakup of the older power
@@ -13,11 +15,11 @@ periods:
 - start: 1185
   end: 1607
 point:
-  name: Dungannon
+  name: "Dungannon"
   latitude: 54.5034
   longitude: -6.7672
 transitions:
 - year: 1607
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

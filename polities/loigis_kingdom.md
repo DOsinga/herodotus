@@ -1,5 +1,7 @@
 ---
 id: loigis_kingdom
+name: "Kingdom of Loigis"
+wikipedia: https://en.wikipedia.org/wiki/Lo%C3%ADgis
 description: >-
   Loigis was a small Irish kingdom in western Leinster, in the region that gave modern
   County Laois its name. Its beginnings are traditionally placed around 300, but genealogies
@@ -24,5 +26,5 @@ note: "300 is a traditional estimate for the territory ruled by the Loigis chief
 transitions:
 - year: 1556
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

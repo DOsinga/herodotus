@@ -1,7 +1,7 @@
 ---
 id: sophene
 name: "Sophene"
-wikipedia: https://en.wikipedia.org/wiki/Sophene
+wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Sophene
 description: >-
   Sophene was a kingdom in southwestern Armenia, in present southeastern Turkey, from
   approximately 260 until 95 BCE. Its beginnings are uncertain, but a branch of the

@@ -1,5 +1,7 @@
 ---
 id: alaouite_sultanate
+name: "Alaouite Sultanate"
+wikipedia: https://en.wikipedia.org/wiki/Alawi_Sultanate
 description: >-
   The Alaouite Sultanate ruled Morocco from 1666 until the establishment of European
   protectorates in 1912. Its rulers came from a family based in the Tafilalt oasis region
@@ -17,7 +19,7 @@ periods:
 - start: 1666
   end: 1912
 point:
-  name: Fez
+  name: "Fez"
   latitude: 34.0433
   longitude: -5.0033
 transitions:

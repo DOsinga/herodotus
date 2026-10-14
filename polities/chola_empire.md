@@ -1,6 +1,7 @@
 ---
 id: chola_empire
-name: Chola Empire
+name: "Chola Empire"
+wikipedia: https://en.wikipedia.org/wiki/Chola_Empire
 description: >-
   The Chola Empire ruled from southern India's Kaveri valley between 848 and 1279.
   Vijayalaya's seizure of Thanjavur began the medieval kingdom, distinct from the earlier
@@ -17,7 +18,7 @@ periods:
 - start: 848
   end: 1279
 point:
-  name: Gangaikonda Cholapuram
+  name: "Gangaikonda Cholapuram"
   latitude: 11.2061
   longitude: 79.4494
 transitions:

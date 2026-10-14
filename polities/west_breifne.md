@@ -1,6 +1,7 @@
 ---
 id: west_breifne
-name: West Breifne
+name: "West Breifne"
+wikipedia: https://en.wikipedia.org/wiki/West_Breifne
 description: >-
   West Breifne was an Irish kingdom ruled by the O'Rourke family from 1256 to 1605, chiefly
   in present County Leitrim. It emerged when conflict between the O'Rourkes and O'Reillys divided the older
@@ -15,11 +16,11 @@ periods:
 - start: 1256
   end: 1605
 point:
-  name: Dromahair
+  name: "Dromahair"
   latitude: 54.2294
   longitude: -8.3022
 transitions:
 - year: 1605
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

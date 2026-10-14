@@ -25,5 +25,5 @@ note: "450 estimates early native government. The record follows the Magh Line c
 transitions:
 - year: 1177
   kind: absorbed_into
-  into: [lordship_ireland]
+  into: [kingdom_england]
 ---

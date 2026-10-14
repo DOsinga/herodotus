@@ -1,6 +1,7 @@
 ---
 id: ui_fiachrach_muaidhe
 name: "Kingdom of Ui Fiachrach Muaidhe"
+wikipedia: https://en.wikipedia.org/wiki/U%C3%AD_Fiachrach_Muaidhe
 description: >-
   Ui Fiachrach Muaidhe was a Gaelic kingdom centred on the Moy valley in
   northwestern Ireland, represented here from approximately 450 to 1603. Its
@@ -25,5 +26,5 @@ note: "450 estimates the northern Ui Fiachrach court from its early genealogies 
 transitions:
 - year: 1603
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

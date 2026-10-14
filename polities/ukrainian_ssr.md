@@ -1,5 +1,7 @@
 ---
 id: ukrainian_ssr
+name: "Ukrainian Soviet Socialist Republic"
+wikipedia: https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic
 description: >-
   The Ukrainian Soviet Socialist Republic was established during the civil wars following the
   Russian Revolution, with a constitution adopted at Kharkiv in 1919. This record covers its
@@ -17,10 +19,10 @@ periods:
 - start: 1919
   end: 1922
 point:
-  name: Kharkiv
+  name: "Kharkiv"
   latitude: 49.9925
   longitude: 36.2311
-note: "Before it joined the Soviet Union."
+note: "Before it joined the Soviet Union. The Bolshevik party directed it from Moscow, but it kept its own government and conducted its own diplomacy, signing the Treaty of Riga in 1921, so it is kept as a polity."
 transitions:
 - year: 1922
   kind: merged_into

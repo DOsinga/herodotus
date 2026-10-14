@@ -1,5 +1,7 @@
 ---
 id: zand_iran
+name: "Zand Iran"
+wikipedia: https://en.wikipedia.org/wiki/Zand_dynasty
 description: >-
   Zand Iran was an eighteenth century monarchy centered on southern and central Iran
   between 1751 and 1794. Karim Khan emerged from the struggles following Nader Shah's
@@ -17,9 +19,10 @@ periods:
 - start: 1751
   end: 1794
 point:
-  name: Shiraz
+  name: "Shiraz"
   latitude: 29.61
   longitude: 52.542
+note: "Links the dynasty article; the dynasty name is the conventional name for the state."
 transitions:
 - year: 1794
   kind: absorbed_into
