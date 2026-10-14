@@ -1,5 +1,7 @@
 ---
 id: mecklenburg_strelitz
+name: "Mecklenburg-Strelitz"
+wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Mecklenburg-Strelitz
 description: >-
   Mecklenburg-Strelitz was a small hereditary monarchy in northern Germany, formed by the
   Treaty of Hamburg in 1701 after a dynastic succession dispute. It combined the
@@ -18,11 +20,14 @@ periods:
 - start: 1701
   end: 1867
 point:
-  name: Neustrelitz
+  name: "Neustrelitz"
   latitude: 53.365
   longitude: 13.064
 note: "A grand duchy from 1815. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
+- year: 1701
+  kind: broke_away_from
+  from: [mecklenburg_schwerin]
 - year: 1867
   kind: merged_into
   into: [north_german_confederation]
