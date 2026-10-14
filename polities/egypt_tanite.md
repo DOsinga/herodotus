@@ -9,7 +9,7 @@ point:
   name: "Tanis"
   latitude: 30.98
   longitude: 31.88
-note: "The kings at Tanis; the high priests of Amun governed Upper Egypt from Thebes while recognising them, and are not recorded separately."
+note: "The kings at Tanis, who governed Lower Egypt; the high priests of Amun governed Upper Egypt from Thebes while recognising them."
 transitions:
 - year: -943
   kind: succeeded_by

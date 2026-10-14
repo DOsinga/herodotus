@@ -4,14 +4,14 @@ name: "Tyre"
 wikipedia: https://en.wikipedia.org/wiki/Tyre,_Lebanon
 periods:
 - start: -1200
-  end: -573
+  end: -332
 point:
   name: "Tyre"
   latitude: 33.27
   longitude: 35.2
-note: "Links the article on the city. 1200 BCE estimates the independent city kingdom; it paid tribute to Assyria but kept its fleet and wars. It submitted to Nebuchadnezzar after a thirteen-year siege; its later kings governed under Babylonian and Persian control."
+note: "Links the article on the city. 1200 BCE estimates the independent city kingdom. Under Assyrian, Babylonian and Persian overlords it paid tribute and sent its ships to their wars, but its own kings governed and could refuse a campaign, so like Crimea under the Ottomans it stays active. The judges who replaced its kings from 564 to 556 BCE were Tyrian. Alexander's siege ended it."
 transitions:
-- year: -573
+- year: -332
   kind: absorbed_into
-  into: [neo_babylonian_empire]
+  into: [macedonia]
 ---

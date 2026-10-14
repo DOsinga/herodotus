@@ -9,9 +9,9 @@ point:
   name: "Thebes"
   latitude: 25.72
   longitude: 32.61
-note: "Starts with Ahmose's expulsion of the Hyksos. Memphis and Pi-Ramesses were also royal seats. Ends with Ramesses XI's death."
+note: "Starts with Ahmose's expulsion of the Hyksos. Memphis and Pi-Ramesses were also royal seats. At Ramesses XI's death the kings at Tanis and the high priests at Thebes divided the country."
 transitions:
 - year: -1069
-  kind: succeeded_by
-  into: [egypt_tanite]
+  kind: split_into
+  into: [egypt_tanite, theban_amun]
 ---
