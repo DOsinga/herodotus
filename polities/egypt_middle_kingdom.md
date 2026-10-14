@@ -13,5 +13,5 @@ note: "Starts with Mentuhotep II's reunification. Thebes was the seat until the 
 transitions:
 - year: -1650
   kind: split_into
-  into: [hyksos_egypt, egypt_theban_17th]
+  into: [hyksos_egypt, egypt_theban_16th]
 ---
