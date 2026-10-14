@@ -7,10 +7,10 @@ point:
   longitude: 113.7402
 control:
 - start: -770
-  end: -454
+  end: -376
   polity: zheng_state
   importance: 3
-- start: -453
+- start: -375
   end: -230
   polity: han_state
   importance: 3

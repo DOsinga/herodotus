@@ -4,10 +4,12 @@ function createTerritory(map, polityRgb) {
   const SOUTH = -60;
   const REACH_KM = [0, 50, 120, 250, 500];
   const THRESHOLD = 0.13;
-  const MOVES = [
-    [1, 0], [-1, 0], [0, 1], [0, -1], [1, 1], [1, -1], [-1, 1], [-1, -1],
-    [2, 1], [2, -1], [-2, 1], [-2, -1], [1, 2], [1, -2], [-1, 2], [-1, -2]
-  ];
+  const MOVES = [];
+  [[1, 0, []], [1, 1, [[1, 0], [0, 1]]], [2, 1, [[1, 0], [1, 1]]], [1, 2, [[0, 1], [1, 1]]], [0, 1, []]].forEach(function (move) {
+    [[1, 1], [1, -1], [-1, 1], [-1, -1]].forEach(function ([sx, sy]) {
+      MOVES.push([move[0] * sx, move[1] * sy, move[2].map(function ([px, py]) { return [px * sx, py * sy]; })]);
+    });
+  });
   const yNorth = mercator(NORTH);
   const ySouth = mercator(SOUTH);
   const HEIGHT = Math.round(WIDTH * (yNorth - ySouth) / (2 * Math.PI));
@@ -77,7 +79,7 @@ function createTerritory(map, polityRgb) {
     context.fill("evenodd");
     const pixels = context.getImageData(0, 0, WIDTH, HEIGHT).data;
     landCells = new Uint8Array(WIDTH * HEIGHT);
-    for (let cell = 0; cell < landCells.length; cell++) landCells[cell] = pixels[cell * 4 + 3] > 0 ? 1 : 0;
+    for (let cell = 0; cell < landCells.length; cell++) landCells[cell] = pixels[cell * 4 + 3] >= 128 ? 1 : 0;
   }
 
   function cellAt(x, y) {
@@ -96,32 +98,54 @@ function createTerritory(map, polityRgb) {
     return -1;
   }
 
+  function canMove(cell, dx, dy, passes) {
+    const x = cell % WIDTH;
+    const y = Math.floor(cell / WIDTH);
+    const next = cellAt(x + dx, y + dy);
+    return next !== -1 && landCells[next] && passes.every(function ([px, py]) { return landCells[cellAt(x + px, y + py)]; });
+  }
+
+  function kilometres(latitudeA, longitudeA, latitudeB, longitudeB) {
+    const toRadians = Math.PI / 180;
+    const h = Math.sin((latitudeB - latitudeA) * toRadians / 2) ** 2 +
+      Math.cos(latitudeA * toRadians) * Math.cos(latitudeB * toRadians) * Math.sin((longitudeB - longitudeA) * toRadians / 2) ** 2;
+    return 12742 * Math.asin(Math.sqrt(h));
+  }
+
+  function fromPoint(place, cell) {
+    const longitude = (cell % WIDTH + 0.5) * 360 / WIDTH - 180;
+    return kilometres(place.latitude, place.longitude, rowLat[Math.floor(cell / WIDTH)], longitude);
+  }
+
   function spread(place) {
     const limit = REACH_KM[place.importance] * Math.log(1 / THRESHOLD);
     const start = nearestLand(Math.floor(gridX(place.longitude)), Math.floor(gridY(place.latitude)));
     const distances = new Map();
-    if (start !== -1) {
-      const heap = [[0, start]];
-      distances.set(start, 0);
-      while (heap.length) {
-        const [travelled, cell] = heapPop(heap);
-        if (travelled > distances.get(cell)) continue;
-        const x = cell % WIDTH;
-        const y = Math.floor(cell / WIDTH);
-        MOVES.forEach(function ([dx, dy]) {
-          const next = cellAt(x + dx, y + dy);
-          if (next === -1 || !landCells[next]) return;
-          const halfX = Math.trunc(dx / 2);
-          const halfY = Math.trunc(dy / 2);
-          if (!landCells[cellAt(x + halfX, y + halfY)] || !landCells[cellAt(x + dx - halfX, y + dy - halfY)]) return;
-          let vertical = 0;
-          for (let row = Math.min(y, y + dy); row < Math.max(y, y + dy); row++) vertical += stepY[row];
-          const distance = travelled + Math.hypot(stepX[y] * dx, vertical);
-          if (distance > limit || distance >= (distances.get(next) ?? Infinity)) return;
-          distances.set(next, distance);
-          heapPush(heap, [distance, next]);
-        });
-      }
+    const heap = [];
+    if (start === -1) return { cells: new Int32Array(0), distances: new Float32Array(0) };
+    const adjacent = MOVES.filter(function ([dx, dy, passes]) {
+      return Math.abs(dx) <= 1 && Math.abs(dy) <= 1 && canMove(start, dx, dy, passes);
+    }).map(function ([dx, dy]) {
+      return cellAt(start % WIDTH + dx, Math.floor(start / WIDTH) + dy);
+    });
+    [start].concat(adjacent).forEach(function (cell) {
+      distances.set(cell, fromPoint(place, cell));
+      heapPush(heap, [distances.get(cell), cell]);
+    });
+    while (heap.length) {
+      const [travelled, cell] = heapPop(heap);
+      if (travelled > distances.get(cell)) continue;
+      const y = Math.floor(cell / WIDTH);
+      MOVES.forEach(function ([dx, dy, passes]) {
+        if (!canMove(cell, dx, dy, passes)) return;
+        const next = cellAt(cell % WIDTH + dx, y + dy);
+        let vertical = 0;
+        for (let row = Math.min(y, y + dy); row < Math.max(y, y + dy); row++) vertical += stepY[row];
+        const distance = travelled + Math.hypot(stepX[y] * dx, vertical);
+        if (distance > limit || distance >= (distances.get(next) ?? Infinity)) return;
+        distances.set(next, distance);
+        heapPush(heap, [distance, next]);
+      });
     }
     return { cells: Int32Array.from(distances.keys()), distances: Float32Array.from(distances.values()) };
   }

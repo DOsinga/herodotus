@@ -7,10 +7,10 @@ point:
   longitude: 64.4286
 control:
 - start: 500
-  end: 863
+  end: 889
   polity: bukhara_kingdom
   importance: 3
-- start: 864
+- start: 890
   end: 999
   polity: samanid_emirate
   importance: 3

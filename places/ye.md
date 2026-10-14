@@ -7,10 +7,10 @@ point:
   longitude: 114.36
 control:
 - start: 319
-  end: 349
+  end: 350
   polity: later_zhao
   importance: 3
-- start: 350
+- start: 351
   end: 351
   polity: ran_wei
   importance: 3

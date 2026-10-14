@@ -76,6 +76,14 @@ Islands follow from the no-sea rule. An island with one place gets that
 place's control history; an island with several is divided between them like
 any other land. A small island needs its own place to be coloured at all.
 
+The grid is 0.25° of longitude, about 18 km wide in northern Europe. A cell
+counts as land when at least half of it is, and a step may only pass through
+land cells, so the Channel and the Strait of Gibraltar separate. Straits
+narrower than a cell, such as the Bosporus, the Øresund and the Strait of
+Messina, do not. Each place starts from its true position rather than the
+centre of its cell, so neighbouring towns like Kinshasa and Brazzaville
+divide their surroundings instead of one taking both.
+
 ### Seeding
 
 The first places come from the polity points. A polity's point is its seat,
@@ -87,8 +95,12 @@ town, such as steppe khaganates, have no place yet.
 Where two polities claim the same seat in the same years, the one in its
 shorter period wins, which picks the local ruler over a wider state: the
 Emirate of Tbilisi over the Kingdom of Georgia until 1122, the State of
-Buenos Aires over Argentina. A few cases where that is wrong were set by
-hand, such as Hanoi under the Mạc and the Toucouleur conquest of Ségou.
+Buenos Aires over Argentina. A polity that took the seat by a transition
+from another polity at the same place only holds it from that year, so Rome
+is papal until Italy's capture of 1870. In a changeover year the polity that
+continues wins. A few cases were set by hand: Hanoi under the Mạc, the
+Toucouleur conquest of Ségou, and Cairo from the Fatimid conquest of 969.
+Vatican City has no place; its dot sits inside Rome.
 
 These seed spans have importance 3, or 2 for a chiefdom, and need review:
 the capital of an empire deserves 4, and a polity point is not always the

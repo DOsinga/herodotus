@@ -11,10 +11,10 @@ control:
   polity: salerno
   importance: 3
 - start: 983
-  end: 1042
+  end: 1076
   polity: salerno
   importance: 3
-- start: 1043
+- start: 1077
   end: 1130
   polity: duchy_apulia_calabria
   importance: 3

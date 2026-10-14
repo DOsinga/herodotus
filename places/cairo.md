@@ -10,7 +10,7 @@ control:
   end: 905
   polity: tulunid_emirate
   importance: 3
-- start: 909
+- start: 969
   end: 1170
   polity: fatimid_caliphate
   importance: 3
