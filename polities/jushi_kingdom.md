@@ -20,4 +20,8 @@ point:
   latitude: 42.9506
   longitude: 89.0639
 note: "After the division of about 60 BCE this record follows Nearer Jushi at Jiaohe; Further Jushi is separate. The Northern Liang remnant at Gaochang conquered it in 450."
+transitions:
+- year: 450
+  kind: absorbed_into
+  into: [northern_liang_gaochang]
 ---
