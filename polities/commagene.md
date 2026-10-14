@@ -11,8 +11,11 @@ point:
   name: "Samosata"
   latitude: 37.5794
   longitude: 38.4814
-note: "The start follows the conventional date; years before 70 have not been audited. Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. It was a Roman province from 17 to 38. Vespasian annexed it in 72."
+note: "Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. It was a Roman province from 17 to 38. Vespasian annexed it in 72."
 transitions:
+- year: -163
+  kind: broke_away_from
+  from: [seleucid_empire]
 - year: 17
   kind: absorbed_into
   into: [roman_empire]
