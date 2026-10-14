@@ -1,7 +1,7 @@
 ---
 id: anhalt_zerbst
 name: Anhalt-Zerbst
-wikipedia: https://en.wikipedia.org/wiki/Anhalt-Zerbst
+wikipedia: https://en.wikipedia.org/wiki/Principality_of_Anhalt-Zerbst
 description: >-
   Anhalt-Zerbst was a principality in Germany, represented here from the
   division of Anhalt in 1603 until its ruling line ended in 1793. Ascanian

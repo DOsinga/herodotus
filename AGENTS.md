@@ -10,6 +10,7 @@ each shown as one dot. The project is rendered inside douwe.com as
 polities/<id>.md     one file per polity; the canonical data
 database.py          loads and validates the polity files
 validate.py          runs the checks; use it after every data change
+TODO.md              follow-ups that PRs and notes deferred
 herodotus.py         douwe.com Project subclass; embeds the data in the page
 herodotus.html       info block + page template
 static/atlas.js      Leaflet map, year slider, search
