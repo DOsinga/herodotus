@@ -26,6 +26,7 @@
   map.createPane("land");
   map.getPane("land").style.zIndex = 300;
   const layer = L.layerGroup().addTo(map);
+  const territory = createTerritory(map, database.places, polityRgb);
   const landLayer = L.geoJSON(null, {
     pane: "land",
     interactive: false,
@@ -33,7 +34,10 @@
   }).addTo(map);
   fetch("/static/projects/herodotus/land-50m.geojson")
     .then(function (response) { return response.json(); })
-    .then(function (geojson) { landLayer.addData(geojson); });
+    .then(function (geojson) {
+      landLayer.addData(geojson);
+      territory.setLand(geojson);
+    });
   map.attributionControl.addAttribution('<a href="https://www.naturalearthdata.com/">Natural Earth</a>');
 
   function formatYear(year) {
@@ -46,12 +50,25 @@
     });
   }
 
-  function polityColor(id) {
+  function polityHue(id) {
     let hash = 0;
     for (let index = 0; index < id.length; index++) {
       hash = ((hash << 5) - hash + id.charCodeAt(index)) | 0;
     }
-    return "hsl(" + (Math.abs(hash) % 360) + " 55% 43%)";
+    return Math.abs(hash) % 360;
+  }
+
+  function polityColor(id) {
+    return "hsl(" + polityHue(id) + " 55% 43%)";
+  }
+
+  function polityRgb(id) {
+    const hue = polityHue(id);
+    const chroma = 0.55 * 0.43;
+    return [0, 8, 4].map(function (offset) {
+      const k = (offset + hue / 30) % 12;
+      return Math.round(255 * (0.43 - chroma * Math.max(-1, Math.min(k - 3, 9 - k, 1))));
+    });
   }
 
   function escapeHtml(value) {
@@ -92,6 +109,7 @@
 
   function showYear(year) {
     currentYear = year;
+    territory.show(year);
     layer.clearLayers();
     markers.clear();
     const active = database.polities.filter(function (polity) {
@@ -135,7 +153,7 @@
       resetCard(year);
     }
     count.textContent = active.length + " polities";
-    note.textContent = "Each dot is one polity's representative point, not a border or a city inventory. Half-filled rings are chiefdoms and hollow rings are archaeological cultures.";
+    note.textContent = "Each dot is one polity's representative point. Half-filled rings are chiefdoms and hollow rings are archaeological cultures. The shading spreads from the towns each polity controlled; it is not a surveyed border.";
   }
 
   function normalizeSearch(text) {

@@ -8,16 +8,22 @@ each shown as one dot. The project is rendered inside douwe.com as
 
 ```
 polities/<id>.md     one file per polity; the canonical data
-database.py          loads and validates the polity files
+places/<id>.md       one file per town, with which polity controlled it when
+database.py          loads and validates the polity and place files
 validate.py          runs the checks; use it after every data change
 herodotus.py         douwe.com Project subclass; embeds the data in the page
 herodotus.html       info block + page template
 static/atlas.js      Leaflet map, year slider, search
+static/territory.js  flood fill that turns places into territory
 static/land-50m.geojson  Natural Earth 1:50m land
 ```
 
 There is no database, import step or generated file. The page loads every
-polity file on each request, so a data edit shows up on reload.
+polity and place file on each request, so a data edit shows up on reload.
+
+The polity files say who governed; the place files and the territory drawn
+from them say where. [BORDERS.md](BORDERS.md) describes the place format, how
+the map turns places into territory, and the plans for real borders.
 
 ## Polity files
 
@@ -276,6 +282,7 @@ files have not been given theirs yet.
 python validate.py
 ```
 
-It loads every file, applies the rules above plus a few assertions about the
-1500 view, and prints the number of polities active in 1500. Run it before
-committing any change to `polities/`.
+It loads every file, applies the rules above and those in
+[BORDERS.md](BORDERS.md) plus a few assertions about the 1500 view, and prints
+the number of polities active in 1500 and the number of places. Run it before
+committing any change to `polities/` or `places/`.

@@ -10,16 +10,27 @@ TYPES = {"chiefdom", "culture"}
 TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by", "broke_away_from"}
 
 
-def load_polities():
-    polities = []
-    for path in sorted((ROOT / "polities").glob("*.md")):
+def load_records(folder):
+    records = []
+    for path in sorted((ROOT / folder).glob("*.md")):
         text = path.read_text(encoding="utf-8")
         _, frontmatter, _ = text.split("---", 2)
-        polity = yaml.safe_load(frontmatter)
-        assert polity["id"] == path.stem, path
-        polities.append(polity)
+        record = yaml.safe_load(frontmatter)
+        assert record["id"] == path.stem, path
+        records.append(record)
+    return records
+
+
+def load_polities():
+    polities = load_records("polities")
     validate_polities(polities)
     return polities
+
+
+def load_places(polities):
+    places = load_records("places")
+    validate_places(places, polities)
+    return places
 
 
 def is_active(polity, year):
@@ -58,9 +69,7 @@ def validate_polities(polities):
         point = polity["point"]
         assert set(point) == {"name", "latitude", "longitude"}, polity["id"]
         assert point["name"], polity["id"]
-        assert -90 <= point["latitude"] <= 90, polity["id"]
-        assert -180 <= point["longitude"] <= 180, polity["id"]
-        assert point["latitude"] != 0 or point["longitude"] != 0, polity["id"]
+        validate_point(point, polity["id"])
 
         ids.add(polity["id"])
         names.add(polity["name"])
@@ -92,3 +101,50 @@ def validate_polities(polities):
                     begins = any(period["start"] in (year, year + 1) for period in target["periods"])
                     assert begins, (polity["id"], target_id)
 
+
+
+def validate_point(point, record_id):
+    assert -90 <= point["latitude"] <= 90, record_id
+    assert -180 <= point["longitude"] <= 180, record_id
+    assert point["latitude"] != 0 or point["longitude"] != 0, record_id
+
+
+def validate_places(places, polities):
+    by_id = {polity["id"]: polity for polity in polities}
+    ids = set()
+    names = set()
+    links = set()
+    for place in places:
+        assert set(place) - {"note"} == {"id", "name", "wikipedia", "point", "control"}, place["id"]
+        assert ID.fullmatch(place["id"]), place["id"]
+        assert place["id"] not in ids, place["id"]
+        assert place["name"] not in names, place["name"]
+        assert place["wikipedia"] not in links, place["id"]
+        assert place["wikipedia"].startswith("https://en.wikipedia.org/wiki/"), place["id"]
+        assert "note" not in place or isinstance(place["note"], str) and place["note"], place["id"]
+        assert set(place["point"]) == {"latitude", "longitude"}, place["id"]
+        validate_point(place["point"], place["id"])
+        assert place["control"], place["id"]
+
+        previous_end = None
+        for index, span in enumerate(place["control"]):
+            assert set(span) == {"start", "end", "polity", "importance"}, place["id"]
+            assert span["importance"] in (1, 2, 3, 4), place["id"]
+            assert isinstance(span["start"], int), place["id"]
+            assert previous_end is None or span["start"] > previous_end, place["id"]
+            polity = by_id[span["polity"]]
+            assert polity.get("type") != "culture", (place["id"], span["polity"])
+            if span["end"] is None:
+                assert index == len(place["control"]) - 1, place["id"]
+            else:
+                assert isinstance(span["end"], int) and span["start"] <= span["end"], place["id"]
+            assert any(
+                period["start"] <= span["start"]
+                and (period["end"] is None or span["end"] is not None and span["end"] <= period["end"])
+                for period in polity["periods"]
+            ), (place["id"], span["polity"], span["start"])
+            previous_end = span["end"]
+
+        ids.add(place["id"])
+        names.add(place["name"])
+        links.add(place["wikipedia"])
