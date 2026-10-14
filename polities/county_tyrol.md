@@ -12,8 +12,6 @@ description: >-
   Margaret Maultasch became the last ruling heiress, with her marriages drawing Luxembourg and
   Wittelsbach interests into Tyrolean politics. After her son's death, she transferred Tyrol to Rudolf
   IV of Austria, beginning its Habsburg association.
-name: County of Tyrol
-wikipedia: https://en.wikipedia.org/wiki/County_of_Tyrol
 periods:
 - start: 1250
   end: 1363

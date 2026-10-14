@@ -13,7 +13,6 @@ description: >-
   inscriptions reflect royal patronage and local economic life. Later rulers faced growing
   pressure from neighbouring states. The revived Pandyas defeated the last Chola ruler in 1279
   and absorbed the remaining kingdom.
-wikipedia: https://en.wikipedia.org/wiki/Chola_dynasty
 periods:
 - start: 848
   end: 1279

@@ -13,8 +13,6 @@ description: >-
   own regents. Christian II's executions in Stockholm in 1520 deepened opposition. Gustav
   Vasa's election as Swedish king in 1523 ended the union, leaving Denmark and Norway
   together.
-name: Kalmar Union
-wikipedia: https://en.wikipedia.org/wiki/Kalmar_Union
 periods:
 - start: 1397
   end: 1523

@@ -13,8 +13,6 @@ description: >-
   outside Soviet Ukraine. Although formally sovereign, the republic's military and administrative
   institutions were subordinated to Soviet Russia. It became one of four founding republics of
   the USSR in December 1922.
-name: Ukrainian Soviet Socialist Republic
-wikipedia: https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic
 periods:
 - start: 1919
   end: 1922

@@ -13,8 +13,6 @@ description: >-
   expansion and plantation ended its territorial government in 1556, when Queen's County
   administration was established. O'More leaders continued resistance afterward, but their
   survival did not preserve the former kingdom.
-name: "Kingdom of Loigis"
-wikipedia: https://en.wikipedia.org/wiki/Lo%C3%ADgis
 periods:
 - start: 300
   end: 1556

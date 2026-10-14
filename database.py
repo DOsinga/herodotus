@@ -10,12 +10,19 @@ TYPES = {"chiefdom", "culture"}
 TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by", "broke_away_from"}
 
 
+class UniqueKeyLoader(yaml.SafeLoader):
+    def construct_mapping(self, node, deep=False):
+        keys = [self.construct_object(key, deep=deep) for key, _ in node.value]
+        assert len(keys) == len(set(keys)), f"duplicate key in {keys}"
+        return super().construct_mapping(node, deep)
+
+
 def load_polities():
     polities = []
     for path in sorted((ROOT / "polities").glob("*.md")):
         text = path.read_text(encoding="utf-8")
         _, frontmatter, _ = text.split("---", 2)
-        polity = yaml.safe_load(frontmatter)
+        polity = yaml.load(frontmatter, Loader=UniqueKeyLoader)
         assert polity["id"] == path.stem, path
         polities.append(polity)
     validate_polities(polities)

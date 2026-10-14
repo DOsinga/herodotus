@@ -14,8 +14,6 @@ description: >-
   duchy. In 1867 it became part of the North German Confederation, surrendering
   independent military and foreign policy. Its local monarchy nevertheless survived until
   1918.
-name: Mecklenburg-Strelitz
-wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Mecklenburg-Strelitz
 periods:
 - start: 1701
   end: 1867

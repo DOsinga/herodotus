@@ -14,8 +14,6 @@ description: >-
   neighbors. Tudor expansion eventually replaced this territorial government. The
   Composition of Connacht in 1585 brought its governing lands under crown
   administration, although chiefly titles survived.
-name: "Kingdom of Ui Maine"
-wikipedia: https://en.wikipedia.org/wiki/Ui_Maine
 periods:
 - start: 400
   end: 1585

@@ -9,8 +9,6 @@ description: >-
   did not immediately remove the local government at Sais. Tefnakht's successor, Bakenranef, adopted royal titles and gained recognition across much
   of the Delta, including Memphis. The kingdom therefore belongs to Egypt's fragmented Third Intermediate Period, rather than a unified national
   monarchy. A later Kushite conquest captured and killed Bakenranef, ending the Saite court and bringing its lands under Kushite control.
-name: "Egypt under the 24th dynasty"
-wikipedia: https://en.wikipedia.org/wiki/Twenty-fourth_Dynasty_of_Egypt
 periods:
 - start: -732
   end: -720

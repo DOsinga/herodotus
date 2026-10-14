@@ -12,8 +12,6 @@ description: >-
   governing seat in 1413, reflecting its growing importance within the duchy. Dynastic
   inheritance repeatedly changed the borders of these Masovian possessions. When the
   last duke died without an heir in 1526, the Polish king incorporated the territory.
-name: Duchy of Czersk
-wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Czersk
 periods:
 - start: 1275
   end: 1294

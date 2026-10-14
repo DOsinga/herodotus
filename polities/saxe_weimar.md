@@ -13,8 +13,6 @@ description: >-
   confederations while retaining its own ruler and administration. Joining the North
   German Confederation in 1867 transferred war and foreign policy to federal control.
   The local monarchy nevertheless survived until 1918.
-name: Saxe-Weimar
-wikipedia: https://en.wikipedia.org/wiki/Saxe-Weimar-Eisenach
 periods:
 - start: 1572
   end: 1867

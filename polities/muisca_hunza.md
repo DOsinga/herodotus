@@ -1,6 +1,7 @@
 ---
 id: muisca_hunza
 name: "Zacazgo of Hunza"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Muisca_rulers
 description: >-
   The zacazgo of Hunza was the northern Muisca confederation in the highlands of present Boyacá,

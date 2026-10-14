@@ -19,7 +19,7 @@ point:
   name: Sucre
   latitude: -19.047
   longitude: -65.26
-note: "Links the country article. Changes of regime after independence are not split into separate records yet."
+note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1825
   kind: broke_away_from

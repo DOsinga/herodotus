@@ -11,7 +11,7 @@ point:
   name: Santiago
   latitude: -33.438
   longitude: -70.65
-note: "Links the country article. Changes of regime after independence are not split into separate records yet."
+note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1818
   kind: broke_away_from

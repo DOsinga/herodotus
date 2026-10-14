@@ -11,7 +11,6 @@ description: >-
   these struggles. The kingdom maintained Gaelic political and cultural traditions while facing increasing English intervention. Its
   territory was organized as County Leitrim in 1583. After the Nine Years' War, the loss of
   O'Rourke control ended its separate government in 1605.
-wikipedia: https://en.wikipedia.org/wiki/West_Breifne
 periods:
 - start: 1256
   end: 1605

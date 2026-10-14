@@ -13,8 +13,6 @@ description: >-
   Military defeats, debt, and foreign intervention weakened sovereignty during the
   nineteenth century. The Treaty of Fez placed Morocco under French protection in 1912,
   while the dynasty continued under restricted colonial authority.
-name: Alaouite Sultanate
-wikipedia: https://en.wikipedia.org/wiki/Alawi_dynasty
 periods:
 - start: 1666
   end: 1912

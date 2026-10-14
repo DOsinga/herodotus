@@ -13,8 +13,6 @@ description: >-
   Caucasian khanates retained considerable autonomy. Karim Khan's death in 1779
   triggered repeated struggles among his relatives. The final ruler, Lotf Ali Khan,
   lost to Agha Mohammad Khan Qajar, whose conquest ended Zand government in 1794.
-name: Zand Iran
-wikipedia: https://en.wikipedia.org/wiki/Zand_dynasty
 periods:
 - start: 1751
   end: 1794

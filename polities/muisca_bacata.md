@@ -1,6 +1,7 @@
 ---
 id: muisca_bacata
 name: "Zipazgo of Bacatá"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Bacatá
 description: >-
   The zipazgo of Bacatá was the southern Muisca confederation on the Bogotá savanna in the eastern

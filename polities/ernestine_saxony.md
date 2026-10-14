@@ -12,8 +12,6 @@ description: >-
   Schmalkaldic War brought a decisive reversal in 1547: the Ernestines lost their electoral
   title and much territory to the Albertine branch. They continued as Thuringian dukes before
   their remaining lands divided into Saxe-Weimar and a separately governed Coburg-Eisenach share.
-name: Ernestine Saxony
-wikipedia: https://en.wikipedia.org/wiki/Ernestine_duchies
 periods:
 - start: 1485
   end: 1572

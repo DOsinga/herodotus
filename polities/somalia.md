@@ -13,8 +13,6 @@ description: >-
   administration governed again from 2006, initially at Baidoa and later in Mogadishu
   with Ethiopian support. Federal institutions replaced it in 2012. Regional autonomy
   and conflict with al Shabaab continue to limit central control.
-name: Somalia
-wikipedia: https://en.wikipedia.org/wiki/Somalia
 periods:
 - start: 1960
   end: 1991

@@ -13,8 +13,6 @@ description: >-
   disappearance of the family. O'Shaughnessy estates survived into the seventeenth century,
   but continued ownership did not mean that the lordship still governed independently of royal
   authority.
-name: "O'Shaughnessy Lordship of Cenel Aeda"
-wikipedia: https://en.wikipedia.org/wiki/%C3%93_Seachnasaigh
 periods:
 - start: 1100
   end: 1585

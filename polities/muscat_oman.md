@@ -13,7 +13,6 @@ description: >-
   renewed warfare, while rebellion also broke out in Dhofar. Sultan Said bin Taimur
   imposed restrictive rule. His son Qaboos deposed him in 1970 and renamed the country
   the Sultanate of Oman.
-wikipedia: https://en.wikipedia.org/wiki/Muscat_and_Oman
 periods:
 - start: 1856
   end: 1970

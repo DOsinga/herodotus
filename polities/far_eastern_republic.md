@@ -12,8 +12,6 @@ description: >-
   forces were driven out. Fighting and diplomacy gradually brought more eastern territory under
   its administration. Once Japanese troops withdrew and the remaining White government fell, the
   buffer no longer served its purpose. The republic joined Soviet Russia in November 1922.
-name: Far Eastern Republic
-wikipedia: https://en.wikipedia.org/wiki/Far_Eastern_Republic
 periods:
 - start: 1920
   end: 1922

@@ -13,8 +13,6 @@ description: >-
   Xianzhi attacked the kingdom and destroyed its royal government. The ruler's fate helped
   intensify the conflict that led to the battle of Talas. Its starting date and
   representative royal site remain approximate.
-name: "Kingdom of Chach"
-wikipedia: https://en.wikipedia.org/wiki/Tashkent
 periods:
 - start: 500
   end: 750

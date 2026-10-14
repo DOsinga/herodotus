@@ -13,8 +13,6 @@ description: >-
   cave-building helped make the region a religious centre. Northern Wei conquered Guzang
   in 439, ending this government. Juqu survivors later established a remnant at Gaochang,
   distinct from the polity represented here.
-name: "Northern Liang"
-wikipedia: https://en.wikipedia.org/wiki/Northern_Liang
 periods:
 - start: 397
   end: 439

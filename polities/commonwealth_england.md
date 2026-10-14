@@ -14,8 +14,6 @@ description: >-
   position. Richard's fall brought renewed parliamentary rule but little stability. Charles
   II's restoration ended the experiment and restored separate kingdoms under the Stuart
   monarchy.
-name: Commonwealth of England
-wikipedia: https://en.wikipedia.org/wiki/Commonwealth_of_England
 periods:
 - start: 1649
   end: 1660

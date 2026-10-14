@@ -13,8 +13,6 @@ description: >-
   government. The kingdom's independent period conventionally ends with submission under
   surrender and regrant in 1543. Later family estates and hereditary titles survived
   under the crown rather than independent rule.
-name: "Iveagh"
-wikipedia: https://en.wikipedia.org/wiki/Iveagh
 periods:
 - start: 400
   end: 1543

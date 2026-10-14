@@ -13,8 +13,6 @@ description: >-
   follows the united government only, with reunifications in 1294 and 1370 between separate
   periods. Siemowit III's lands were divided again in 1381, after which the shares are
   represented by their own records here.
-name: Duchy of Masovia
-wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Masovia
 periods:
 - start: 1138
   end: 1275

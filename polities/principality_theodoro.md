@@ -13,8 +13,6 @@ description: >-
   expansion, including the port of Kalamita. Ottoman forces conquered Mangup in 1475 after a
   siege, ending the principality and incorporating its territory into their new administration of
   southern Crimea.
-name: Principality of Theodoro
-wikipedia: https://en.wikipedia.org/wiki/Principality_of_Theodoro
 periods:
 - start: 1300
   end: 1475

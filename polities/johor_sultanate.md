@@ -13,8 +13,6 @@ description: >-
   intervention eventually divided its sphere. The 1824 treaty formalised that separation, leaving
   mainland Johor and island Riau on different colonial paths rather than preserving the earlier
   sultanate.
-name: Johor Sultanate
-wikipedia: https://en.wikipedia.org/wiki/Johor_Sultanate
 periods:
 - start: 1528
   end: 1824

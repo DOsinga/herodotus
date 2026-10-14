@@ -13,8 +13,6 @@ description: >-
   Irish rulers and the English crown. In 1543, Murrough O'Brien accepted Henry VIII's
   authority through surrender and regrant, becoming Earl of Thomond within the crown's Kingdom
   of Ireland.
-name: Kingdom of Thomond
-wikipedia: https://en.wikipedia.org/wiki/Thomond
 periods:
 - start: 1118
   end: 1543

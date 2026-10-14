@@ -13,7 +13,6 @@ description: >-
   and authority. Early ancestry stories mix tradition with uncertain history. John de
   Courcy's conquest in 1177 ended this independent government. Descendants of its rulers
   survived, but their later presence does not establish uninterrupted kingship.
-wikipedia: https://en.wikipedia.org/wiki/D%C3%A1l_Fiatach
 periods:
 - start: 450
   end: 1177

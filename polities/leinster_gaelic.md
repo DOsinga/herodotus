@@ -12,7 +12,6 @@ description: >-
   Caomhánach branch continued to rule a smaller domain. Later rulers resisted English expansion and
   negotiated with neighboring powers. Enniscorthy represents this later royal region, not a capital
   serving the kingdom throughout its history.
-wikipedia: https://en.wikipedia.org/wiki/Kings_of_Leinster
 periods:
 - start: 450
   end: 1603

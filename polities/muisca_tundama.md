@@ -1,6 +1,7 @@
 ---
 id: muisca_tundama
 name: "Tundama"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Tundama
 description: >-
   Tundama was a Muisca confederation in the highlands of present Boyacá, Colombia, centred on the

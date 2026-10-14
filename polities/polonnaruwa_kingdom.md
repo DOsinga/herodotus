@@ -13,8 +13,6 @@ description: >-
   usurpers, without necessarily creating new states. Kalinga Magha's invasion in 1215 destroyed
   this royal government; subsequent southern courts and occupation of the capital belong to
   different political circumstances.
-name: "Polonnaruwa Kingdom"
-wikipedia: https://en.wikipedia.org/wiki/Polonnaruwa_Kingdom
 periods:
 - start: 1055
   end: 1215

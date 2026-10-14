@@ -14,7 +14,6 @@ description: >-
   Amhlaidh. Connacht overlordship did not remove their local government. This
   record ends with the defeat of the native governing order after the Nine
   Years' War in 1603.
-wikipedia: https://en.wikipedia.org/wiki/U%C3%AD_Fiachrach_Muaidhe
 periods:
 - start: 450
   end: 1603

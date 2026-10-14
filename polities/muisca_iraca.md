@@ -1,6 +1,7 @@
 ---
 id: muisca_iraca
 name: "Iraca"
+type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Iraca
 description: >-
   Iraca was a Muisca confederation in the northeastern highlands of present Boyacá, Colombia,

@@ -12,8 +12,6 @@ description: >-
   culture operated alongside the dynasty's Turkic origins and Sunni Muslim identity. Later
   succession struggles weakened the state and opened it to Oghuz incursions. Malik Dinar's forces
   displaced the last Seljuk government in 1187, ending this branch's rule.
-name: "Kerman Seljuk Sultanate"
-wikipedia: https://en.wikipedia.org/wiki/Kerman_Seljuk_Sultanate
 periods:
 - start: 1041
   end: 1187

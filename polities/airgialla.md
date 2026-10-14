@@ -13,8 +13,6 @@ description: >-
   kingdom in the twelfth century. Later, Mac Mathghamhna rulers maintained a reduced
   kingdom around Monaghan. In 1585, surrender and regrant to the English crown and the
   creation of County Monaghan conventionally ended its separate existence.
-name: "Kingdom of Airgíalla"
-wikipedia: https://en.wikipedia.org/wiki/Airg%C3%ADalla
 periods:
 - start: 600
   end: 1585

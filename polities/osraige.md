@@ -12,8 +12,6 @@ description: >-
   institutions, including the diocese of Ossory. Norman conquest greatly reduced the kingdom, but
   Mac Giolla Phádraig rulers retained Upper Ossory. Brian's submission to Henry VIII in 1537
   ended that independent lordship, preceding his ennoblement as a royal baron in 1541.
-name: "Osraige"
-wikipedia: https://en.wikipedia.org/wiki/Osraige
 periods:
 - start: 150
   end: 450
