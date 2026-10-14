@@ -1,6 +1,16 @@
 ---
 id: sosso_empire
 name: Sosso Empire
+description: >-
+  The Sosso Empire was a West African kingdom that rose around 1200 in the former sphere of the Ghana
+  Empire. Its power is chiefly associated with Soumaoro Kante, remembered in Mande oral traditions as
+  a formidable ruler and Sundiata Keita's opponent. Sosso conquered Ghana and extended authority over
+  neighbouring communities and routes towards the southern goldfields. These traditions provide much
+  of its history, but can combine different rulers and events, making precise chronology uncertain.
+  Even the identification of its capital with the present village of Sosso is disputed. Soumaoro's
+  religious and political image reflects narratives shaped by Mali's later triumph. Sundiata's
+  coalition defeated the Sosso at Kirina around 1235, and the kingdom's lands became part of the
+  emerging Mali Empire.
 wikipedia: https://en.wikipedia.org/wiki/Sosso_Empire
 periods:
 - start: 1200

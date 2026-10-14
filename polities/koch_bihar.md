@@ -1,5 +1,15 @@
 ---
 id: koch_bihar
+description: >-
+  Koch Bihar was a hereditary kingdom in northeastern India, rooted in Biswa Singha's
+  establishment of Koch power in 1515. Its lands lay around present Cooch Behar, between Bengal,
+  Assam and the Himalayan foothills. Nara Narayan and the commander Chilarai expanded the kingdom
+  before dynastic division produced separate Koch Bihar and Koch Hajo branches. The western court
+  aligned with the Mughals and accepted their overlordship, while retaining local government and
+  the ability to conduct its own wars. Its rulers supported Hindu religious institutions, court
+  literature and a distinctive regional coinage. Pressure from Bhutan later drew the East India
+  Company into its affairs. The treaty of 1773 brought British protection and control of external
+  relations; the dynasty continued in a princely state.
 name: Koch Bihar
 wikipedia: https://en.wikipedia.org/wiki/Koch_dynasty
 periods:

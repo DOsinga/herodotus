@@ -1,6 +1,18 @@
 ---
 id: kingdom_cochin
 name: Kingdom of Cochin
+description: >-
+  The Kingdom of Cochin emerged on India's Malabar coast after Chera authority
+  fragmented, with its beginning here estimated at 1102. Ruled by the
+  Perumpadappu royal house, it controlled a changing territory around Kochi and
+  the inland country of present Kerala. Its history was closely tied to the
+  spice trade and rivalry with the Zamorin of Calicut. Portuguese ships arrived
+  around 1500, and Cochin's rulers sought their military support against
+  regional enemies. Forts and trading settlements made Kochi an important
+  European foothold without initially replacing the royal government. In 1663
+  Dutch forces captured Kochi and installed a ruler under their protection. That
+  loss of independent war and foreign relations ends this record, although the
+  royal state survived under later British protection.
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Cochin
 periods:
 - start: 1102

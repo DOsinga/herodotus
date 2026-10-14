@@ -1,5 +1,16 @@
 ---
 id: medinan_state
+description: >-
+  The Medinan State was the community governed by Muhammad in western Arabia from his
+  migration to Medina in 622 until his death in 632. Religious leadership, arbitration,
+  military command, and political authority were combined in the prophet rather than
+  separated into a later caliphal office. Agreements associated with the Constitution of
+  Medina organized relations among Muslim emigrants, local supporters, and other groups.
+  Conflict with Mecca included the battles of Badr, Uhud, and the Trench, followed by the
+  treaty of Hudaybiyyah. Muhammad took Mecca in 630, while alliances and submissions
+  extended his authority across much of Arabia. His death raised the question of
+  succession. Abu Bakr became caliph, beginning the distinct Rashidun government rather
+  than continuing a state under prophetic leadership.
 name: "Medinan State"
 wikipedia: https://en.wikipedia.org/wiki/First_Islamic_state
 periods:

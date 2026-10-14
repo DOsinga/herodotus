@@ -1,5 +1,16 @@
 ---
 id: oda_toyotomi_regime
+description: >-
+  The Oda-Toyotomi regime represents Japan's unifying military governments from 1573 to 1600. Oda
+  Nobunaga expelled the last Ashikaga shogun and expanded his authority through conquest,
+  alliances, and attacks on rival military and religious powers. After his death in 1582,
+  Toyotomi Hideyoshi overcame other contenders and completed unification. The emperor remained in
+  Kyoto, while effective power rested with these military leaders and the regional lords they
+  subordinated. Hideyoshi's land surveys and weapons confiscations strengthened control and
+  sharpened distinctions between warriors and cultivators. Osaka Castle became a major seat of
+  authority. His invasions of Korea failed, and his death left a young heir under competing
+  guardians. Tokugawa Ieyasu's victory at Sekigahara in 1600 shifted national power away from the
+  Toyotomi governing arrangement.
 name: Oda–Toyotomi regime
 wikipedia: https://en.wikipedia.org/wiki/Azuchi%E2%80%93Momoyama_period
 periods:

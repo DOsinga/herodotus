@@ -2,6 +2,17 @@
 id: gao_kingdom
 name: "Kingdom of Gao"
 wikipedia: https://en.wikipedia.org/wiki/Gao_Empire
+description: >-
+  The Kingdom of Gao grew around the Niger River bend in present Mali, with its emergence
+  estimated around 700 and its separate government ending in 1325. Arabic writers securely
+  described a powerful kingdom by the ninth century. Gao connected river communities with routes
+  across the Sahara, drawing merchants and goods from North Africa. Its royal settlement and
+  trading centre developed alongside fishing and other local livelihoods. Kings exercised
+  authority over neighbouring rulers, while Islam became increasingly important at court and
+  among merchants. Archaeology at Gao and Gao-Saney preserves settlements, imported objects, and
+  inscribed royal tombstones. Earlier Malian influence did not necessarily displace the local
+  government. Mansa Musa's capture and garrisoning of Gao in 1325 brought incorporation into the
+  Mali Empire.
 periods:
 - start: 700
   end: 1325

@@ -1,5 +1,15 @@
 ---
 id: darfur_sultanate
+description: >-
+  The Sultanate of Darfur ruled an inland region of present-day western Sudan, beginning around the
+  sixteenth century. Its early court stood at Turra in Jebel Marra, while El Fasher became the capital
+  around 1790. Fur rulers developed a monarchy that combined local traditions with Islamic
+  institutions and connections across the Sahara. Agriculture, pastoral communities, caravan commerce,
+  and the trade in enslaved people shaped its economy and expansion. At its height the sultanate
+  extended east into Kordofan. Egyptian-backed conquest ended its independent government in 1874. Ali
+  Dinar restored the sultanate in 1898 after the Mahdist state's collapse, retaining local authority
+  despite outside pressure. British forces conquered it in 1916, ending the restored monarchy and
+  incorporating Darfur into Anglo-Egyptian Sudan's colonial administration.
 name: Sultanate of Darfur
 wikipedia: https://en.wikipedia.org/wiki/Sultanate_of_Darfur
 periods:

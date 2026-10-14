@@ -1,5 +1,7 @@
 ---
 id: malao_city_state
+description: >-
+  Malao was a trading port on the northern Somali coast, usually identified with Berbera in present day Somaliland. This record places its local governing phase approximately between 50 and 650 CE, rather than claiming a securely documented royal dynasty. The first century Periplus describes an open anchorage protected by a coastal spit and a community welcoming visiting merchants. Traders brought cloth, metal goods, drinking vessels and small quantities of coins, taking away aromatic resins and other products for Arabian markets. Its position connected African suppliers with shipping across the Red Sea and Indian Ocean. Evidence reveals commerce more clearly than government. Later occupation at Berbera does not establish that Malao's ancient leadership survived unchanged, and its political endpoint remains uncertain.
 name: "Malao"
 type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Malao

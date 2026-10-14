@@ -1,5 +1,17 @@
 ---
 id: chera_perumal_kingdom
+description: >-
+  The Chera Perumal Kingdom was a medieval monarchy centered on Mahodayapuram, near
+  present Kodungallur in Kerala, southern India. Its recorded royal line extends
+  approximately from Sthanu Ravi's reign beginning around 844 to Rama Kulasekhara's final
+  reign around 1124. The kings worked alongside powerful local chiefs, Brahmin temple
+  communities, and assemblies, making the extent of royal authority a subject of debate.
+  Ports, especially Kollam, connected the kingdom with Indian Ocean trade and merchants
+  from western Asia. Copper plates record privileges for Christian and Jewish trading
+  communities, while inscriptions preserve an early form of Malayalam. Relations with the
+  Cholas combined alliances and conflict. The royal government eventually dissolved amid
+  changing landholding and stronger regional powers, rather than representing all
+  independent Kerala chiefdoms.
 name: "Chera Perumal Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Chera_Perumals_of_Makotai
 periods:

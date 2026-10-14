@@ -1,6 +1,15 @@
 ---
 id: duchy_saxony_early
 name: "Medieval Duchy of Saxony"
+description: >-
+  The early medieval Duchy of Saxony was a regional government in northern Germany associated with the
+  Liudolfing family, represented here from about 852 to 919. Its lands lay around the Saxon regions of
+  Eastphalia, Westphalia, and Angria rather than today's state of Saxony. Liudolf founded Gandersheim
+  Abbey with his wife Oda, strengthening a family network that joined landed power, church patronage,
+  and Frankish royal connections. His descendants Bruno, Otto the Illustrious, and Henry extended the
+  family's influence. The exact emergence of a ducal title remains uncertain. Henry's election as king
+  of East Francia in 919 brought this separate regional government into the kingdom. Later Saxon dukes
+  served under kings, while Lüneburg represents a later seat rather than an early capital.
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Saxony
 periods:
 - start: 852

@@ -1,5 +1,16 @@
 ---
 id: duchy_masovia
+description: >-
+  The Duchy of Masovia emerged in northeastern Poland when Bolesław III's testament divided
+  his lands in 1138. Bolesław IV received Masovia and neighboring Kuyavia, governing as a
+  Piast duke. Płock was an royal and ecclesiastical center beside the Vistula. Later dukes
+  competed for influence within fragmented Poland and defended borders against neighboring
+  peoples. Konrad I invited the Teutonic Order to fight the Prussians, a decision with
+  lasting regional consequences. Kuyavia separated in 1233. Repeated family partitions
+  subsequently produced distinct Masovian duchies, including Płock and Czersk. This record
+  follows the united government only, with reunifications in 1294 and 1370 between separate
+  periods. Siemowit III's lands were divided again in 1381, after which the shares are
+  represented by their own records here.
 name: Duchy of Masovia
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Masovia
 periods:

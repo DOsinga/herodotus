@@ -2,6 +2,18 @@
 id: egypt_middle_kingdom
 name: "Middle Kingdom of Egypt"
 wikipedia: https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt
+description: >-
+  Egypt's Middle Kingdom began with Mentuhotep II's reunification of the Nile valley
+  around 2040 BCE and is extended here through the Thirteenth Dynasty to 1650 BCE. The
+  early kings ruled from Thebes; the Twelfth Dynasty established a royal centre at
+  Itjtawy, whose exact site is unknown. Pharaohs governed through viziers, officials and
+  provincial authorities, gradually tightening control over powerful local families. They
+  developed irrigation and farmland, built temples and pyramids, and fortified the
+  southern frontier in Nubia. Expeditions reached Sinai and the Red Sea, while trade
+  connected Egypt with neighbouring regions. Literature and royal sculpture flourished
+  alongside the growing cult of Osiris. Rapid successions and regional fragmentation
+  weakened later government. Hyksos control of Memphis ended the reunited kingdom's
+  northern rule.
 periods:
 - start: -2040
   end: -1650

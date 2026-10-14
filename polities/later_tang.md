@@ -1,5 +1,16 @@
 ---
 id: later_tang
+description: >-
+  Later Tang ruled northern China from 923 until January 937, with its main capital at
+  Luoyang. Li Cunxu, heir to the Shatuo military state of Jin, proclaimed an imperial
+  dynasty and defeated Later Liang. Adopting the Tang name asserted continuity with the
+  fallen empire, without restoring control over all its former lands. His armies also
+  conquered Former Shu in Sichuan, briefly enlarging the realm. Military revolts soon
+  killed Li Cunxu and brought his adopted brother Li Siyuan to power. Commanders
+  remained strong, and later successions renewed struggles within the ruling family.
+  Shi Jingtang rebelled against Li Congke with Khitan assistance, founding Later Jin in
+  936. Li Congke's death and the fall of Luoyang the following January ended the
+  remaining government.
 name: "Later Tang"
 wikipedia: https://en.wikipedia.org/wiki/Later_Tang
 periods:

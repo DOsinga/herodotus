@@ -2,6 +2,15 @@
 id: buyid_fars
 name: "Buyid Emirate of Fars"
 wikipedia: https://en.wikipedia.org/wiki/Buyid_dynasty
+description: >-
+  The Buyid Emirate of Fars began when Ali ibn Buya captured Shiraz in 934, creating a state in
+  southern Iran. His family came from mountainous Daylam, and its rulers combined military command
+  with older Iranian royal traditions and recognition from the Abbasid caliph. Fars was one of several
+  separately governed Buyid realms, not simply a province of a single permanent empire. Under Adud al
+  Dawla, its ruler brought other Buyid territories, including Iraq, under his direct authority. Shiraz
+  became a centre of court culture, construction, and scholarship. Later family struggles repeatedly
+  divided power. Iraq briefly controlled Fars around 1051 to 1054, before local Buyid rule returned.
+  The final ruler, Fulad Sutun, lost power to the Shabankara leader Fadluya in 1062.
 periods:
 - start: 934
   end: 1051

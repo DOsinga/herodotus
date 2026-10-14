@@ -1,5 +1,15 @@
 ---
 id: mari
+description: >-
+  Mari was a royal city state on the middle Euphrates in present day eastern Syria, founded
+  around 2900 BCE. Its position linked southern Mesopotamia with Syria and made trade central to
+  its wealth. Rivalry with Ebla and conquest by Akkad interrupted its early history. The military
+  governors appointed after Akkadian conquest eventually became independent rulers, followed
+  later by the Amorite Lim dynasty. Shamshi Adad took control in 1796 BCE and installed his son
+  Yasmah Adad, creating another interruption in Mari's separate government. Zimri Lim restored
+  the dynasty in 1775, ruling through a palace administration and extensive diplomatic networks.
+  Thousands of surviving tablets illuminate royal correspondence, trade and provincial affairs.
+  Hammurabi conquered the city in 1761 BCE, ending its independent kingdom.
 name: "Mari"
 wikipedia: https://en.wikipedia.org/wiki/Mari,_Syria
 periods:

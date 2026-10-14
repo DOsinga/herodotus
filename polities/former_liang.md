@@ -2,6 +2,16 @@
 id: former_liang
 name: "Former Liang"
 wikipedia: https://en.wikipedia.org/wiki/Former_Liang
+description: >-
+  Former Liang was a Zhang family state centred on Guzang, present Wuwei, in northwestern
+  China from 320 to 376. The family had governed Liang Province for the Jin since 301;
+  after Zhang Mao's succession, loyalty to the distant Jin court became largely nominal.
+  Most rulers retained Jin titles while governing their own territory. Sheltered along the
+  Hexi Corridor, the state controlled routes between China and Central Asia and received
+  refugees escaping warfare farther east. Zhang Jun expanded its influence into the oasis
+  kingdoms and adopted increasingly royal forms of government. Later reigns brought child
+  rulers, competing regents and repeated coups. Former Qin pressure grew as Liang
+  weakened. In 376 its last ruler, Zhang Tianxi, surrendered to a Former Qin invasion.
 periods:
 - start: 320
   end: 376

@@ -1,5 +1,15 @@
 ---
 id: taifa_valencia
+description: >-
+  The Taifa of Valencia was a Muslim kingdom on Spain's eastern Mediterranean coast, appearing in
+  several periods between about 1010 and 1238. It emerged as Cordoba's caliphate fragmented,
+  initially under former court servants and later Amirid rulers. Abd al-Aziz's long reign brought
+  stability before Toledo took direct control in 1065. Local government returned in 1075, but El
+  Cid conquered the city in 1094 and established a separate lordship. Another brief restoration
+  followed Almoravid decline in 1145, ending when Valencia joined the realm governed from Murcia
+  in 1147. Zayyan ibn Mardanish restored a Valencian court around 1229 as Almohad authority
+  weakened. James I captured the city in 1238, incorporating it into the Crown of Aragon and
+  ending its Muslim royal government.
 name: "Taifa of Valencia"
 wikipedia: https://en.wikipedia.org/wiki/Taifa_of_Valencia
 periods:

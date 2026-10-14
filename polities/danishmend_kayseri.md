@@ -1,5 +1,16 @@
 ---
 id: danishmend_kayseri
+description: >-
+  The Danishmendid Beylik of Kayseri was a separate local Turkish monarchy in central
+  Anatolia, represented here from about 1142 to 1169. It emerged from the division of
+  Danishmendid lands after the death of Mehmed, whose government had helped develop
+  Kayseri as a Turkish ruled city. Zunnun's authority at Kayseri and nearby Zamanti
+  belonged to this divided political landscape, distinct from the family's governments at
+  Sivas and Malatya. Succession struggles gave neighboring rulers opportunities to
+  intervene, especially the Seljuk sultans of Rum. Danishmendid coinage combined Islamic
+  titles with Greek language and imagery, reflecting the region's mixed heritage. Kilij
+  Arslan II eventually seized Kayseri and ended this branch's territorial government.
+  Sources vary over the exact dates, and later Danishmendid courts survived elsewhere.
 name: "Danishmendid Beylik of Kayseri"
 wikipedia: https://en.wikipedia.org/wiki/Danishmendids
 periods:

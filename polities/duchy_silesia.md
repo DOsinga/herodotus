@@ -1,5 +1,7 @@
 ---
 id: duchy_silesia
+description: >-
+  The Duchy of Silesia began in 1138 as one of the lands divided among the sons of Poland's Bolesław III. This record follows the Silesian Piast government centred on Wrocław through its later fragmentation until 1335. Dynastic disputes produced repeated partitions, separating Upper Silesia and creating smaller duchies around towns such as Legnica and Głogów. Henry I and Henry II briefly built a wider political base, but Henry II's death during the Mongol invasion of 1241 weakened that project. Settlement, trade, and new towns changed the region's economy. The Wrocław line eventually turned toward Bohemia. When Henry VI died in 1335, his lands passed to the Bohemian king, while Poland renounced its claims and separate ducal government at Wrocław ended.
 name: Duchy of Silesia
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Silesia
 periods:

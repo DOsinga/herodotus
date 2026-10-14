@@ -2,6 +2,17 @@
 id: nizhny_novgorod_suzdal
 name: Principality of Nizhny Novgorod-Suzdal
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Nizhny_Novgorod-Suzdal
+description: >-
+  The Principality of Nizhny Novgorod-Suzdal was a Russian state on the middle Volga from
+  1341 to 1392. Konstantin of Suzdal established it by gaining Nizhny Novgorod and Gorodets,
+  then moved his seat to Nizhny Novgorod in 1350. Hereditary princes governed the
+  principality while negotiating recognition and obligations within the Golden Horde's
+  political order. Its position made it a rival to Moscow during the fourteenth century.
+  Dmitry Konstantinovich briefly held Vladimir and its grand-princely title from 1360 until
+  Moscow displaced him in 1363. Dynastic disputes and growing Muscovite power weakened the
+  principality. In 1392, Vasily I of Moscow obtained the khan's patent and annexed it.
+  Claims by its former ruling family continued afterward, although the separate state
+  recorded here had ended.
 periods:
 - start: 1341
   end: 1392

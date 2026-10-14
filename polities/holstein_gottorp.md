@@ -1,5 +1,7 @@
 ---
 id: holstein_gottorp
+description: >-
+  Holstein-Gottorp was the ducal share of Schleswig and Holstein governed by an Oldenburg family branch from 1544 to 1773. Its lands lay across what is now northern Germany and southern Denmark, with the dukes based at Gottorp Castle near Schleswig. The partition gave Adolf a scattered collection of territories rather than a compact duchy. His successors shared some institutions with Denmark's kings but ran their own government and repeatedly sought greater independence. Alliances and marriages connected Gottorp closely with Sweden, placing it in conflict with Danish ambitions. Denmark occupied the Schleswig portion in 1713, leaving the dukes with Holstein. The dynasty also reached foreign thrones. In 1773, a settlement with the Russian imperial family transferred the remaining lands to Denmark.
 name: Holstein-Gottorp
 wikipedia: https://en.wikipedia.org/wiki/Holstein-Gottorp
 periods:

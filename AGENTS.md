@@ -28,6 +28,17 @@ A polity file is YAML frontmatter with nothing after it:
 id: republic_genoa
 name: Republic of Genoa
 wikipedia: https://en.wikipedia.org/wiki/Republic_of_Genoa
+description: >-
+  Genoa was a merchant republic on the Ligurian coast of northwestern Italy, with
+  independent periods between 1099 and 1797. Its ships and trading settlements connected the
+  Mediterranean with the Black Sea, bringing wealth through commerce, naval power, and later
+  banking. Government passed through consuls and other offices before the doge became its
+  leading official in 1339. Powerful merchant families dominated political life, often
+  divided by bitter factional rivalries. French, Milanese, and other interventions
+  repeatedly interrupted self government. Andrea Doria's reforms restored the republic in
+  1528 and established an aristocratic constitution with elected councils and doges serving
+  two year terms. Genoese financiers became important partners of the Spanish monarchy.
+  French revolutionary pressure ended the republic in 1797, creating the Ligurian Republic.
 periods:
 - start: 1339
   end: 1396
@@ -54,6 +65,15 @@ transitions:
 - `id` is lowercase snake case, matches the filename and never changes once
   other data refers to it.
 - `name` is the conventional English name and is unique.
+- `description` is a 105–130-word introduction, aiming for about 120 words,
+  stored as a YAML folded string
+  (`description: >-`). Explain where and when the entity existed, how it was
+  governed where known, and what distinguishes its history. Write original,
+  plain prose based on the linked Wikipedia article. For archaeological
+  cultures, describe the evidence rather than inventing a state or rulers.
+  Keep date estimates and other cautions consistent with the record's note.
+  Count words by splitting on whitespace. Descriptions do not replace notes
+  or change the dates, point, type or transitions.
 - `wikipedia` is an English Wikipedia URL for the polity itself. Avoid
   articles about a dynasty or an institution when a page about the state
   exists. When no article covers the polity, link the closest one, such as

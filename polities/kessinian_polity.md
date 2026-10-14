@@ -1,5 +1,15 @@
 ---
 id: kessinian_polity
+description: >-
+  The Kessinians were a West Slavic people living between the Warnow and Recknitz rivers in present
+  northeastern Germany. Their named centre was a fortified settlement near Kessin, east of Rostock.
+  This record estimates separate tribal government from 789 to 983 and again from 1057 to 1131.
+  Between those periods they formed one of the four core peoples of the Lutician federation, which
+  emerged after the uprising against Saxon authority in 983. Internal conflict broke that alliance
+  apart in the eleventh century, allowing Obotrite influence to expand. Native princes remained
+  active: Dumar and Sventipolk faced Saxon campaigns in the early twelfth century. Their separate
+  government is estimated to have ended with incorporation into Niklot's Obotrite realm around 1131,
+  before German settlement.
 name: "Kessinian Polity"
 wikipedia: https://en.wikipedia.org/wiki/Kessinians
 periods:

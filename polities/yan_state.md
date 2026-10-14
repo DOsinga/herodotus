@@ -1,5 +1,15 @@
 ---
 id: yan_state
+description: >-
+  Yan governed northeastern China around Ji, near present Beijing, from the weakening
+  of Zhou authority in 770 BCE until Qin's conquest in 222 BCE. Earlier origins lay in
+  a Zhou fief, but its rulers later acted as independent lords and kings. One of the
+  Warring States, Yan competed with Qi and Zhao while expanding toward Liaodong.
+  Campaigns against northern peoples led to new frontier districts and defensive walls.
+  Its knife shaped money and archaeological finds reflect ties with neighbors. A
+  succession crisis allowed Qi to invade, but Yan recovered and later helped devastate
+  Qi under the general Yue Yi. Facing Qin's advance, Prince Dan sent Jing Ke to
+  assassinate its king. The attempt failed, and Qin overran Yan's remaining territory.
 name: "Yan (state)"
 wikipedia: https://en.wikipedia.org/wiki/Yan_(state)
 periods:

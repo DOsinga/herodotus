@@ -1,5 +1,15 @@
 ---
 id: chu_lin_shihong
+description: >-
+  Lin Shihong's Chu was a rebel state in southern China during the collapse of the Sui dynasty,
+  lasting from 616 to 622. Lin first served the rebel leader Cao Shiqi, then took command after
+  Cao died fighting imperial troops. Victory near Lake Poyang brought him a large armed
+  following, and in January 617 he proclaimed himself emperor of Chu. His government initially
+  operated from Yuzhang and later moved to Nankang. At its height it controlled much of present
+  day Jiangxi and Guangdong, supported by local elites who abandoned Sui officials. Rival powers
+  and the expanding Tang dynasty gradually stripped away its territory. Lin surrendered in 622
+  but resumed unsuccessful local resistance before dying, after which his remaining armed
+  followers dispersed.
 name: "Lin Shihong's Chu"
 wikipedia: https://en.wikipedia.org/wiki/Lin_Shihong
 periods:

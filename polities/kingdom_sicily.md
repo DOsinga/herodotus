@@ -1,5 +1,16 @@
 ---
 id: kingdom_sicily
+description: >-
+  The Kingdom of Sicily began in 1130 when Roger II united Norman conquests on the island
+  and southern Italian mainland. Palermo housed a royal court drawing on Latin, Greek and
+  Arabic traditions, while kings developed administrative and legal institutions.
+  Hohenstaufen and Angevin rulers followed the Normans. The Sicilian Vespers uprising of
+  1282 separated the island from the mainland kingdom and brought Aragonese intervention.
+  Island kings later governed separately during intervals before direct Aragonese control
+  in 1409. Another distinct period began in 1806, when the Bourbon court ruled from
+  Palermo while Napoleon's family held Naples. British protection helped preserve the
+  monarchy and encouraged a constitution in 1812. In 1816, Sicily and Naples were
+  combined as the Kingdom of the Two Sicilies.
 name: Kingdom of Sicily
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Sicily
 periods:

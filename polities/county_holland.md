@@ -2,6 +2,18 @@
 id: county_holland
 name: County of Holland
 wikipedia: https://en.wikipedia.org/wiki/County_of_Holland
+description: >-
+  The County of Holland occupied much of the western Netherlands, around the coastal
+  plains now forming North and South Holland. This record follows its separate
+  government from 1250 to 1433, after imperial authority weakened. Hereditary counts
+  ruled alongside influential nobles and growing towns, with The Hague becoming their
+  principal seat. Land reclamation, waterways, and trade helped shape both its economy
+  and its political disputes. Holland shared rulers with Hainaut from 1299, but
+  remained a distinct territory with its own institutions. Succession conflicts
+  produced the prolonged Hook and Cod wars, drawing towns and noble factions into rival
+  camps. Jacqueline of Hainaut eventually surrendered Holland to Philip the Good in
+  1433. Burgundy then controlled the county, although its identity and institutions
+  continued.
 periods:
 - start: 1250
   end: 1433

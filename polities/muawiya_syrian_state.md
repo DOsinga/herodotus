@@ -1,5 +1,16 @@
 ---
 id: muawiya_syrian_state
+description: >-
+  Muawiya's Syrian state was the separately governed territory based at Damascus during
+  the first Muslim civil war, from 656 to 661. Previously a governor appointed by the
+  caliphs, Muawiya refused allegiance to Ali after Uthman's assassination and kept
+  command of Syria's administration and army. His authority rested on loyal tribal
+  forces and relationships built during his earlier governorship. He demanded vengeance
+  for Uthman and fought Ali at Siffin in 657, where the battle ended without a decisive
+  victory and led to unsuccessful arbitration. His ally Amr ibn al As captured Egypt in
+  658, expanding their position. After Ali's assassination and Hasan's withdrawal in
+  661, Muawiya became caliph. The Syrian court then formed the centre of the much wider
+  Umayyad Caliphate.
 name: "Muawiya's Syrian State"
 wikipedia: https://en.wikipedia.org/wiki/Muawiya_I
 periods:

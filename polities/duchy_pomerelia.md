@@ -1,5 +1,15 @@
 ---
 id: duchy_pomerelia
+description: >-
+  Pomerelia was a Baltic duchy centred on Gdańsk and the lower Vistula, governed independently by
+  the local Samboride family from 1227 to 1294. Its rulers had previously served as governors
+  under Polish authority, but Świętopełk II established his own ducal power. The region's port
+  and river routes connected it with expanding Baltic commerce and neighbouring Polish lands.
+  Family partitions and disputes repeatedly divided its territory, while conflicts with the
+  Teutonic Order and Brandenburg threatened its independence. Świętopełk promoted Gdańsk's urban
+  development and supported Christian religious foundations. His son Mestwin II eventually
+  reunited much of the duchy. Through the 1282 Treaty of Kępno, Mestwin arranged succession by
+  Przemysł II of Greater Poland, who assumed direct rule after Mestwin's death in 1294.
 name: Duchy of Pomerelia
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Pomerelia
 periods:

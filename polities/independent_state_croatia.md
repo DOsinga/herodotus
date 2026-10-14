@@ -1,5 +1,7 @@
 ---
 id: independent_state_croatia
+description: >-
+  The Independent State of Croatia existed from 1941 to 1945 after the Axis invasion dismantled Yugoslavia. Centred on Zagreb, it included most of present Croatia and Bosnia and Herzegovina, though Italy annexed important coastal territories. Ante Pavelić and the fascist Ustaše movement governed through dictatorship, while a nominal monarchy initially linked the state to the Italian royal house. Despite its name, it depended heavily on German and Italian military power. The regime persecuted and murdered Serbs, Jews, Roma, and political opponents, operating concentration camps including Jasenovac. Its genocidal policies fuelled resistance and civil war. Yugoslav Partisans gained control as Axis forces retreated in 1945. The regime collapsed, and its territory entered the new socialist Yugoslavia under the victorious Partisan government.
 name: Independent State of Croatia
 wikipedia: https://en.wikipedia.org/wiki/Independent_State_of_Croatia
 periods:

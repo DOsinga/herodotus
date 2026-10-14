@@ -1,5 +1,16 @@
 ---
 id: vandal_kingdom
+description: >-
+  The Vandal Kingdom ruled parts of North Africa from 435 to 534, after migrants led by
+  Gaiseric established a recognised territory within former Roman provinces. Capturing
+  Carthage in 439 gave its kings a wealthy capital and a base for naval expansion across the
+  western Mediterranean. Their fleets controlled islands and raided Roman shores, famously
+  sacking Rome in 455. A small ruling population governed a much larger African society,
+  retaining many Roman administrative and economic practices. Grain exports and
+  Mediterranean commerce remained important. The kings' Arian Christianity sometimes
+  produced conflict with Nicene churches, although religious policy varied between reigns.
+  Justinian sent Belisarius against the kingdom in 533. Gelimer's surrender the following
+  year ended royal government and brought Byzantine control over Africa.
 name: "Vandal Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Vandal_Kingdom
 periods:

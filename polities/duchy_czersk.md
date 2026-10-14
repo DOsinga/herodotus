@@ -1,5 +1,15 @@
 ---
 id: duchy_czersk
+description: >-
+  The Duchy of Czersk was a Piast principality in Masovia, centred initially on Czersk
+  beside the Vistula. It arose from a division of Masovian lands in 1275 under Konrad
+  II, then disappeared in the reunification of 1294. A renewed duchy began in 1310 and
+  lasted until Siemowit III reunited Masovia in 1370. This record also follows the
+  eastern share created in 1381, held by Janusz I and his descendants. Its dukes
+  acknowledged the Polish crown while retaining their own government. Warsaw became the
+  governing seat in 1413, reflecting its growing importance within the duchy. Dynastic
+  inheritance repeatedly changed the borders of these Masovian possessions. When the
+  last duke died without an heir in 1526, the Polish king incorporated the territory.
 name: Duchy of Czersk
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Czersk
 periods:

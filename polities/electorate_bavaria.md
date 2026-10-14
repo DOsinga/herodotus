@@ -1,5 +1,16 @@
 ---
 id: electorate_bavaria
+description: >-
+  The Electorate of Bavaria was a Wittelsbach monarchy centred on Munich, created
+  in 1623 when Duke Maximilian received the electoral dignity during the Thirty
+  Years' War. Its ruler gained a voice in choosing the Holy Roman
+  Emperor, while governing Bavaria's lands and institutions. Catholic, the electorate remained deeply
+  involved in European dynastic conflicts. Maximilian Emanuel's alliance with France brought defeat
+  at Blenheim and Austrian occupation in 1704. Austrian administration lasted until his
+  restoration in 1714, creating the gap recorded here. In 1777 the Bavarian
+  line died out, and the ruler of the Electoral Palatinate inherited Bavaria,
+  joining their territories. Alliance with Napoleon brought territorial gains and a status:
+  in 1806 the electorate became the Kingdom of Bavaria under Maximilian Joseph.
 name: Electorate of Bavaria
 wikipedia: https://en.wikipedia.org/wiki/Electorate_of_Bavaria
 periods:

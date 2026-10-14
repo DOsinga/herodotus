@@ -1,5 +1,7 @@
 ---
 id: salerno
+description: >-
+  The Principality of Salerno was a Lombard monarchy centred on a southern Italian port. It began with Siconulf's rival court in 839 during a civil war in Benevento; an imperial settlement divided the lands in 851. Princes governed independently while balancing relations with western emperors, Byzantium, Muslim forces, and neighbouring Italian rulers. Trade and the city's medical learning contributed to Salerno's prominence. Pandulf of Capua took control in 978, followed by Amalfitan rulers, before a local court returned in 983. Under Guaimar IV, Salerno became a leading southern power and employed Norman warriors. Those allies eventually became conquerors. Robert Guiscard captured Salerno in 1077, ending Prince Gisulf II's rule and incorporating the principality into the Norman dominions of southern Italy.
 name: "Principality of Salerno"
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Salerno
 periods:

@@ -1,5 +1,16 @@
 ---
 id: theban_amun
+description: >-
+  The Theban high priests of Amun governed Upper Egypt from Thebes after the New Kingdom
+  collapsed, represented here from 1069 to 943 BCE. Their authority combined command of
+  armies with control of the wealthy temple establishment at Karnak. While kings at Tanis
+  ruled the north, the southern priestly rulers maintained their own administration and
+  closely connected families through marriage. Some adopted royal titles, notably Pinedjem
+  I, without turning the entire sequence of officeholders into an national dynasty. Their
+  period is also known for the reburial and protection of earlier royal mummies.
+  Independence weakened as Libyan rulers consolidated Egypt. Shoshenq I placed his son Iuput
+  in the high priesthood, bringing the southern government under royal control while the
+  religious office continued.
 name: "Theban high priests of Amun"
 wikipedia: https://en.wikipedia.org/wiki/High_Priest_of_Amun
 periods:

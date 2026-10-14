@@ -1,5 +1,7 @@
 ---
 id: chi_tu_kingdom
+description: >-
+  Chi Tu was a kingdom on the Malay Peninsula, known especially through a Chinese embassy sent by the Sui court in 607. Its location remains disputed, with Kelantan, Songkhla and other areas proposed; this record uses the Kelantan valley and an estimated royal phase from 500 to 610. Chinese accounts describe a monarch, court ceremonies, ranked officials, legal administration and local officers, suggesting an established government. Buddhism and Brahmanical ritual both appeared in the court's religious setting. The reigning king belonged to a Gautama line and maintained marriage connections with neighbouring families. Embassy journeys place Chi Tu within maritime routes linking southern China and Southeast Asia. Its origins, territorial extent and relationship to later regional kingdoms cannot be fixed confidently.
 name: "Chi Tu Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Chi_Tu
 periods:

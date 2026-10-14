@@ -1,5 +1,15 @@
 ---
 id: naranjo_kingdom
+description: >-
+  Naranjo was a Maya kingdom in the Petén region of present Guatemala, represented from 546 to
+  about 830. Its royal centre stood near the modern Belize border and controlled surrounding
+  settlements. The opening date follows Aj Wosal Chan K'in's accession, not the earlier founding
+  of the city. His long reign linked Naranjo with Calakmul during struggles against Tikal and
+  other neighbours. After dynastic disruption, Lady Six Sky arrived from Dos Pilas in 682 and
+  restored the court's strength, acting prominently in government and ritual while her young son
+  ruled. Inscriptions record campaigns, royal ceremonies and changing alliances, showing how
+  local rulers operated within larger rivalries. Monument production dwindled in the early ninth
+  century, marking the estimated collapse of royal institutions.
 name: "Kingdom of Naranjo"
 wikipedia: https://en.wikipedia.org/wiki/Naranjo
 periods:

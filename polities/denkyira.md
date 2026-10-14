@@ -2,6 +2,17 @@
 id: denkyira
 name: Kingdom of Denkyira
 wikipedia: https://en.wikipedia.org/wiki/Denkyira
+description: >-
+  Denkyira was an Akan kingdom in the forest zone of present Ghana, rising to prominence
+  in the early seventeenth century and losing its independence to Asante in 1701. Its
+  founding date is estimated here as 1620. The Denkyirahene ruled from Abankeseso,
+  supported by gold production, tribute, and control of routes connecting inland
+  communities with coastal traders. During the reign of Boa Amponsem, Denkyira became a
+  regional power, bringing neighboring states under its authority. Asante's growing
+  strength challenged that position and its demands for tribute. In 1701, Osei Tutu's
+  forces defeated Denkyira at Feyiase, killed its ruler Ntim Gyakari, and sacked the
+  capital. The royal community survived under Asante domination; its later history
+  should not be confused with this independent phase.
 periods:
 - start: 1620
   end: 1701

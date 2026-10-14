@@ -1,5 +1,7 @@
 ---
 id: kingdom_denmark
+description: >-
+  Denmark is a northern European kingdom centred on Copenhagen, encompassing the Jutland peninsula and islands. This record begins in 1814, when the Danish monarchy lost Norway after the Napoleonic Wars. Absolute royal government gave way to a constitutional monarchy in 1849, and parliamentary rule subsequently developed. Defeat by Prussia and Austria in 1864 removed Schleswig and Holstein; northern Schleswig returned after a referendum in 1920. German occupation began in 1940, but Danish institutions continued governing. Direct German control from August 1943 interrupts the record until liberation in 1945. Denmark then joined NATO and later the European Communities, developing an extensive welfare system. The monarchy continues alongside elected government, while Greenland and the Faroe Islands have self-government within the Danish realm.
 name: Denmark
 wikipedia: https://en.wikipedia.org/wiki/Denmark
 periods:

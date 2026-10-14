@@ -1,5 +1,16 @@
 ---
 id: jeongan
+description: >-
+  Jeongan was a small kingdom formed by survivors of Balhae in the Yalu region and southern
+  Manchuria, conventionally dated from 938 to 986. Its early development is poorly
+  documented, and the proposed seat at Yongcheonbu remains uncertain. Yeol Manhwa
+  established a royal government after the Khitan conquest of Balhae, rather than simply
+  continuing the defeated court unchanged. A later ruler, Oh Hyeonmyeong, described his
+  subjects to the Song emperor as remaining people of Balhae. Envoys travelled with
+  neighbouring Jurchen missions, seeking support against the Liao dynasty. Those efforts did
+  not secure the military alliance the kingdom wanted. Liao campaigns destroyed its
+  government in 986. Refugees and resistance survived beyond that defeat, but they do not
+  demonstrate continued rule by Jeongan.
 name: "Jeongan"
 wikipedia: https://en.wikipedia.org/wiki/Jeongan
 periods:

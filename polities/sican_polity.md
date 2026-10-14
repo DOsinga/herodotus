@@ -2,6 +2,16 @@
 id: sican_polity
 name: "Sicán Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Sican_culture
+description: >-
+  The Sicán Kingdom developed on Peru's northern coast around 800, with its early regional political
+  centre at Poma and Batán Grande in the Lambayeque region. Its rulers commanded a strongly ranked
+  society whose elite tombs contain gold masks, fine textiles, imported shells, and large quantities
+  of metalwork. Irrigation agriculture supported settlements in the coastal valleys, while skilled
+  workshops produced copper alloys and precious metal objects for exchange and ceremony. Monumental
+  platform mounds combined religious activity with elite authority, although individual rulers are
+  poorly documented. Fires and disruption around 1100 ended Batán Grande's dominance, and the royal
+  centre moved to Túcume. The kingdom continued there until Chimor conquered it around 1375,
+  incorporating its people and production into a larger coastal state.
 periods:
 - start: 800
   end: 1375

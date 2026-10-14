@@ -1,5 +1,16 @@
 ---
 id: ceredigion_kingdom
+description: >-
+  The Kingdom of Ceredigion occupied part of western Wales along Cardigan Bay, with its
+  beginnings traditionally linked to Ceredig, a son of Cunedda, in the fifth century. This
+  record uses an estimated foundation around 450. Later traditions describe a hereditary
+  line of rulers, but evidence for the early kingdom is sparse and often much later than the
+  events it recounts. Its landscape combined coastal routes, river valleys and upland
+  country. Christian communities became important centres, including Llanbadarn Fawr, which
+  represents the region here rather than a proven capital. Around 680, expansion
+  traditionally associated with Seisyll joined Ceredigion with neighbouring territory to
+  form Seisyllwg. The change marks a larger kingdom, not the disappearance of the region or
+  its inhabitants and traditions.
 name: "Kingdom of Ceredigion"
 wikipedia: https://en.wikipedia.org/wiki/Ceredigion
 periods:

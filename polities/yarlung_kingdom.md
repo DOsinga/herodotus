@@ -1,5 +1,7 @@
 ---
 id: yarlung_kingdom
+description: >-
+  The Yarlung Kingdom grew around the Yarlung valley in southern Tibet before the Tibetan Empire. Its early history combines royal traditions with much later written accounts, so its beginning around 500 is an estimate rather than a documented foundation. Kings governed from a court associated with Yumbulagang and gradually extended their power beyond the valley. Traditions connect the dynasty with Nyatri Tsenpo, but stories of heavenly descent cannot establish an early political chronology. More securely remembered rulers, Tagri Nyensig and Namri Songtsen, consolidated neighbouring territories during the sixth century. Their expansion laid the foundations for a larger Tibetan state. In 618, Songtsen Gampo's imperial regime succeeded this regional kingdom, carrying its royal line into a new phase of Tibetan history.
 name: "Yarlung Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Yarlung_dynasty
 periods:

@@ -2,6 +2,17 @@
 id: srivijaya
 name: "Srivijaya"
 wikipedia: https://en.wikipedia.org/wiki/Srivijaya
+description: >-
+  Srivijaya was a kingdom centred on Palembang in southern Sumatra, attested from Yijing's
+  visit in 671 until the Chola attack of 1025. Its rulers built influence through trading
+  connections and relationships with surrounding ports rather than uniform territorial
+  administration. Old Malay inscriptions record royal expeditions, obligations and loyalty
+  to the ruler. The kingdom became an important Buddhist centre where travellers studied
+  before continuing to India, and it maintained diplomatic and commercial links with
+  China. Its reach into western maritime Southeast Asia made access to shipping routes a
+  major source of wealth and rivalry. In 1025 Rajendra Chola raided its ports and captured
+  its ruler. This record ends the Palembang government there; later Sanfoqi and Melayu
+  references are not assumed continuous.
 periods:
 - start: 671
   end: 1025

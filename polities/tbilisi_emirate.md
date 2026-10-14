@@ -2,6 +2,16 @@
 id: tbilisi_emirate
 name: "Emirate and City-State of Tbilisi"
 wikipedia: https://en.wikipedia.org/wiki/Emirate_of_Tbilisi
+description: >-
+  Tbilisi was a Muslim governed city and regional commercial centre in eastern Georgia, on
+  the Kura River. Its autonomous history is recorded here in three periods between 833 and
+  1122, excluding direct Abbasid and Seljuk administration. Ishaq ibn Isma'il withheld
+  tribute and challenged the caliph, but an Abbasid expedition burned the city and executed
+  him in 853. Later Jaffarid emirs renewed local government, competing with Georgian princes
+  while presiding over a busy commercial city. Tbilisi connected northern trade routes with
+  the Islamic world and was known for its walls, mills, and hot baths. After the native
+  emirs disappeared, local councils continued to run its affairs. King David IV of Georgia
+  captured Tbilisi in 1122 and made it his kingdom's capital.
 periods:
 - start: 833
   end: 853

@@ -1,6 +1,18 @@
 ---
 id: kushan_empire
 name: "Kushan Empire"
+description: >-
+  The Kushan Empire connected Bactria, Afghanistan, Gandhara, and northern India under a
+  royal dynasty from approximately 30 to 375 CE. Kujula Kadphises united Yuezhi groups
+  and expanded southward, establishing the foundations of an empire whose rulers used
+  several royal centres. Purushapura, modern Peshawar, became an important seat under
+  Kanishka. Trade routes linked its cities with Iran, Rome, Central Asia, and China.
+  Coins displayed deities from several religious traditions, while royal support helped
+  Buddhism spread and encouraged Gandharan and Mathuran art. The empire gradually
+  divided under outside pressure. Sasanian conquest removed Bactria around 230, but
+  later Kushan kings continued in Gandhara and Punjab. Their reduced kingdoms lasted
+  until the estimated Kidarite conquest around 375, the endpoint used for this record's
+  continuity.
 wikipedia: https://en.wikipedia.org/wiki/Kushan_Empire
 periods:
 - start: 30

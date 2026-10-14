@@ -1,5 +1,17 @@
 ---
 id: naachtun_kingdom
+description: >-
+  The Kingdom of Masuul was a Maya polity centered at Naachtun in northern Guatemala,
+  between the powerful cities of Tikal and Calakmul. Its royal court developed during
+  the Early Classic period, with around 150 used here as an estimated beginning.
+  Monumental plazas, pyramids, palatial compounds, causeways, ballcourts, and carved
+  stelae preserve evidence of its political and religious life. Its rulers changed
+  their relationships with Tikal and Calakmul as those larger kingdoms competed, rather
+  than following one simple history of continuous foreign control. Residential
+  occupation expanded during the Late Classic period. Population declined in the
+  Terminal Classic, leaving surviving communities concentrated in parts of the
+  monumental center. The final Muuch phase ended around 950 or 1000, making the
+  kingdom's endpoint approximate.
 name: "Kingdom of Masuul"
 wikipedia: https://en.wikipedia.org/wiki/Naachtun
 periods:

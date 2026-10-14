@@ -1,6 +1,17 @@
 ---
 id: benevento
 name: "Duchy and Principality of Benevento"
+description: >-
+  Benevento was a Lombard duchy and later principality in southern Italy, beginning around 571
+  and surviving through several interruptions until 1077. Its dukes governed far from the
+  northern Lombard court, and Arechis II adopted the princely title after Charlemagne conquered
+  that kingdom in 774. Benevento preserved Lombard laws and royal traditions while negotiating
+  with Franks, Byzantines, neighbouring rulers, and the papacy. Civil war divided its territory,
+  producing a separate principality at Salerno. Later rulers linked Benevento with Capua through
+  shared rule, but its court continued. Direct Byzantine government from 891 to 895 and papal
+  government from 1051 to 1054 interrupted local authority. Norman expansion reduced its
+  territory, and the native princely line's extinction in 1077 left Benevento under papal
+  government.
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Benevento
 periods:
 - start: 571

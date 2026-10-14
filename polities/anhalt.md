@@ -2,6 +2,17 @@
 id: anhalt
 name: Anhalt
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Anhalt
+description: >-
+  Anhalt was an Ascanian principality in central Germany, with Dessau serving as the
+  seat when its lands were united. This record follows its princely governments from
+  1250 to the partition of 1603, then the reunited duchy from 1863 to 1867. Medieval
+  inheritance repeatedly divided the territory among family branches, which are
+  combined here rather than individually represented. The Reformation changed the
+  religious character of its courts and churches. Joachim Ernest reunited the lands in
+  1570, but his sons' division produced Dessau, Bernburg, Köthen, Zerbst and a smaller
+  Plötzkau share. Those successors maintained separate governments for centuries. Their
+  remaining lands came together as the Duchy of Anhalt in 1863. Membership in the North
+  German Confederation subsequently transferred military and foreign policy.
 periods:
 - start: 1250
   end: 1603

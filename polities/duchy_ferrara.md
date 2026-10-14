@@ -1,5 +1,16 @@
 ---
 id: duchy_ferrara
+description: >-
+  The Este state centred on Ferrara in northern Italy is represented from 1264 to 1598.
+  Its rulers first governed as hereditary lords, extending their possessions to Modena
+  and Reggio before receiving the ducal title for Ferrara in 1471. Ferrara belonged
+  nominally to the papacy, while the other Este lands held different imperial ties. The
+  court nevertheless managed its own affairs and became an important centre of
+  Renaissance patronage. Artists, poets and musicians worked for rulers who also
+  sponsored urban expansion. Wars with Venice and involvement in wider Italian conflicts
+  tested the state's resources. Alfonso II died without a legitimate heir, and the pope
+  rejected his successor's claim to Ferrara. Papal government took the city; the Este
+  rulers continued from Modena.
 name: Duchy of Ferrara
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Ferrara
 periods:

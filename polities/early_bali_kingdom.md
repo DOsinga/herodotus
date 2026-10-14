@@ -1,5 +1,17 @@
 ---
 id: early_bali_kingdom
+description: >-
+  The early Kingdom of Bali governed the Indonesian island before Majapahit's conquest
+  in 1343. Its first securely attested ruler, Sri Kesari Warmadewa, issued the
+  Belanjong inscription in 914, although settlement and religious activity were much
+  older. Kings bearing the Warmadewa name supported Hindu and Buddhist institutions,
+  with their royal heartland around present day Gianyar and Pejeng. Marriage linked
+  Udayana's court to eastern Java; their son Airlangga became a prominent Javanese
+  ruler. Temples, inscriptions, and Chinese coins reveal religious patronage and
+  overseas connections across maritime Asia. Later royal succession is less clearly
+  documented than the earlier Warmadewa period. Majapahit forces defeated the old
+  government at Bedulu, replacing its rulers with a new political order rather than
+  preserving one continuous island kingdom.
 name: "Early Kingdom of Bali"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Bali
 periods:

@@ -1,5 +1,16 @@
 ---
 id: pskov_republic
+description: >-
+  Pskov was a medieval republic in northwestern Russia, centred on the trading city near
+  Lake Peipus. Its practical independence is traced here from Dovmont's arrival as prince in
+  1266, although Novgorod formally recognized it only in 1348. Government combined the veche
+  assembly, elected mayors, a council of families, and an invited prince responsible for
+  warfare and justice. Its position on the frontier brought commerce and repeated conflict
+  with neighbouring Livonian and Lithuanian powers. The Pskov Judicial Charter recorded
+  rules for property, trade, debts, and legal procedure, distinguishing the city among
+  Russian states. Moscow's influence increased during the fifteenth century. In 1510 Vasily
+  III annexed Pskov, removed its assembly bell, and displaced leading inhabitants, ending
+  the republic's separate institutions of government.
 name: Pskov Republic
 wikipedia: https://en.wikipedia.org/wiki/Pskov_Republic
 periods:

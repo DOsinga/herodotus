@@ -1,5 +1,16 @@
 ---
 id: former_qin
+description: >-
+  Former Qin was a northern Chinese monarchy founded in 351 by the Fu family of the Di
+  people, with its main capital at Chang'an. It emerged from the collapse of Later
+  Zhao during the Sixteen Kingdoms period. Under Fu Jian, assisted by the minister
+  Wang Meng, it conquered rival states and reunited northern China in 376. Its court
+  used Chinese administrative institutions while ruling communities with different
+  languages and backgrounds. Fu Jian then attempted to conquer the Eastern Jin in the
+  south. His defeat at the Fei River in 383 encouraged rebellions across the empire.
+  Successor rulers held shrinking territories farther west after Chang'an fell.
+  Western Qin destroyed the final remnant in 394, ending its royal government's
+  increasingly precarious survival.
 name: "Former Qin"
 wikipedia: https://en.wikipedia.org/wiki/Former_Qin
 periods:

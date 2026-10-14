@@ -2,6 +2,16 @@
 id: garhwal_kingdom
 name: Garhwal Kingdom
 wikipedia: https://en.wikipedia.org/wiki/Garhwal_Kingdom
+description: >-
+  Garhwal was a Himalayan kingdom in present Uttarakhand, northern India, ruled by the Panwar dynasty.
+  Its traditional foundation in 823 is associated with Kanak Pal and Chandpur Garhi, although the
+  later consolidation of many hill strongholds happened over generations. Srinagar on the Alaknanda later became
+  the kingdom's principal royal capital. Kings governed mountain valleys linked by agriculture,
+  pilgrimage routes and fortresses, competing with neighbouring Kumaon and powers of the plains.
+  Mughal expeditions challenged Garhwal, but tribute from the seventeenth century left its rulers
+  governing locally and conducting their own wars. Earthquakes, famine and conflict weakened the
+  kingdom before Gorkha armies conquered it in 1804. A later restored dynasty at Tehri ruled under
+  British protection, rather than continuing this independent kingdom.
 periods:
 - start: 823
   end: 1804

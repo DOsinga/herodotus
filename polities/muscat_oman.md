@@ -1,6 +1,17 @@
 ---
 id: muscat_oman
 name: Sultanate of Muscat and Oman
+description: >-
+  Muscat and Oman was a sultanate in southeastern Arabia from 1856 to 1970, formed when
+  the Omani overseas empire divided after Said bin Sultan's death. The Al Busaid dynasty
+  governed from the coastal port of Muscat, while authority in the interior was
+  repeatedly contested by an Ibadi imamate and tribal leaders. British influence grew
+  through treaties, financial support, and military assistance. The Treaty of Seeb in
+  1920 recognised a division between the coastal sultan's administration and the
+  interior imamate. Later conflict over inland control and oil development led to
+  renewed warfare, while rebellion also broke out in Dhofar. Sultan Said bin Taimur
+  imposed restrictive rule. His son Qaboos deposed him in 1970 and renamed the country
+  the Sultanate of Oman.
 wikipedia: https://en.wikipedia.org/wiki/Muscat_and_Oman
 periods:
 - start: 1856

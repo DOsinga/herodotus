@@ -1,5 +1,14 @@
 ---
 id: jingnan
+description: >-
+  Jingnan, also called Nanping, was a state centred on Jingzhou in the middle Yangtze region of China.
+  Its separate government is estimated here from around 912, although conventional accounts begin with
+  Gao Jixing's elevation as Prince of Nanping in 924. Gao had risen as a military governor during the
+  collapse of Tang rule and established a hereditary regime amid the Five Dynasties and Ten Kingdoms.
+  Five members of his family governed before the state ended. Surrounded by stronger neighbours, the
+  rulers accepted outside titles and tributary relationships while retaining local authority. This
+  distinction matters more than the varying names granted by northern courts. In 963 Song forces took
+  over Jingnan during their campaigns to reunify China, ending the Gao government.
 name: "Jingnan"
 wikipedia: https://en.wikipedia.org/wiki/Jingnan
 periods:

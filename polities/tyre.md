@@ -1,6 +1,17 @@
 ---
 id: tyre
 name: "Tyre"
+description: >-
+  Tyre was a Phoenician city kingdom on the coast of present day Lebanon, represented here from
+  approximately 1200 BCE until 332 BCE. Its island stronghold and mainland settlements supported
+  seaborne commerce, skilled crafts, and colonies around the Mediterranean, including Carthage.
+  Hereditary kings governed the city, although local judges briefly replaced them during the
+  sixth century BCE. Tyrian merchants became especially associated with purple dye, while
+  maritime connections carried goods and cultural practices far beyond the Levant. Assyrian,
+  Babylonian, and Persian supremacy imposed tribute and naval obligations without consistently
+  removing local government. The island's position made it difficult to capture. Alexander the
+  Great built a causeway during his siege in 332 BCE, conquered the city, and ended its
+  independent royal government.
 wikipedia: https://en.wikipedia.org/wiki/Tyre,_Lebanon
 periods:
 - start: -1200

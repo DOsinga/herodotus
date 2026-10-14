@@ -2,6 +2,16 @@
 id: duchy_guelders
 name: Duchy of Guelders
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Guelders
+description: >-
+  Guelders governed lands along the Rhine, Meuse, and IJssel in the eastern Low Countries,
+  spanning parts of today's Netherlands and Germany. This record begins in 1250, when it was
+  still a county; its ruler received the ducal title in 1339. Hereditary rulers governed
+  with powerful towns and strong regional interests across four quarters, including Arnhem,
+  Nijmegen, Zutphen, and Roermond. Marriage, warfare, and loans secured new territory, while
+  struggles with neighbouring princes shaped its borders. Charles the Bold conquered it in
+  1473, beginning a period of Burgundian and Habsburg control. Charles of Egmond restored
+  its own government in 1492 and resisted Habsburg expansion through war and diplomacy. His
+  successor surrendered Guelders to Charles V under the Treaty of Venlo in 1543.
 periods:
 - start: 1250
   end: 1473

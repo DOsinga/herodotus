@@ -1,5 +1,16 @@
 ---
 id: wuyue
+description: >-
+  Wuyue was a kingdom of southeastern China from 907 to 978, ruled by the Qian family from
+  Qiantang, now Hangzhou. It emerged from the breakup of Tang authority and held most of
+  present-day Zhejiang, with adjoining territories. Its kings accepted titles from
+  successive northern emperors and paid tribute while continuing to govern their own
+  state. This policy helped them avoid many of the wars that troubled neighbouring
+  kingdoms. The court supported Buddhist monasteries, maritime contacts, agricultural
+  development, and works protecting lowlands from floods and tides. Hangzhou grew as a
+  commercial and cultural centre under its rule. The final king, Qian Chu, peacefully
+  surrendered his territory and administration to Song in 978. Wuyue's traditions
+  outlasted the end of its independent monarchy.
 name: "Wuyue"
 wikipedia: https://en.wikipedia.org/wiki/Wuyue
 periods:

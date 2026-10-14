@@ -1,5 +1,16 @@
 ---
 id: karakhanid_khanate
+description: >-
+  The Kara-Khanid Khanate emerged in Central Asia after the collapse of the Uyghur empire, with
+  an origin placed here in 840. Its early history is poorly documented, but later rulers
+  controlled centres including Balasagun and Kashgar. Turkic khans governed through branches of
+  the ruling family, distributing territories among relatives whose rivalries shaped the state.
+  Conversion to Islam during the tenth century linked their courts with the wider Muslim world
+  without removing Turkic titles and traditions. In 999 they took Bukhara from the Samanids and
+  extended power into Transoxiana; their eastern campaigns also conquered Buddhist Khotan.
+  Competition between dynastic branches eventually produced separate eastern and western
+  governments in 1041. This record covers the earlier united khanate, not those successor states
+  themselves.
 name: "Kara-Khanid Khanate"
 wikipedia: https://en.wikipedia.org/wiki/Kara-Khanid_Khanate
 periods:

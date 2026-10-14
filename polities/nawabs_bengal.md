@@ -1,5 +1,14 @@
 ---
 id: nawabs_bengal
+description: >-
+  The autonomous nawabs of Bengal governed an eastern Indian region from Murshidabad, beginning with Murshid
+  Quli Khan in 1717. They retained Mughal titles while controlling taxation, administration and military affairs
+  themselves. Bengal's agriculture, textile production and overseas commerce attracted European trading companies, whose fortified settlements
+  increasingly challenged the nawabs. Siraj ud-Daulah tried to check British expansion but lost at Plassey
+  in 1757. The East India Company then installed Mir Jafar, whose dependent governments are excluded
+  from this record. Mir Qasim restored independent action between 1760 and 1763, moved his capital
+  to Munger and rebuilt his army. Disputes over commercial privileges led to war with the
+  Company. His expulsion ended this renewed government, before the defeat at Buxar consolidated Company power.
 name: Nawabs of Bengal
 wikipedia: https://en.wikipedia.org/wiki/Bengal_Subah
 periods:

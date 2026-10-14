@@ -1,5 +1,7 @@
 ---
 id: parthian_empire
+description: >-
+  The Parthian Empire grew from Arsaces I's leadership of the Parni, with 247 BCE conventionally marking the beginning of the Arsacid era rather than a dated conquest of Parthia. His successors expanded across Iran and Mesopotamia at Seleucid expense. Arsacid kings ruled through powerful noble families, provincial governors, and subordinate kingdoms, combining Iranian royal traditions with aspects of Hellenistic culture. Several cities served as royal seats, including Hecatompylos, Ecbatana, and Ctesiphon. Mounted archers and heavily armoured cavalry made Parthian armies formidable opponents of Rome, notably at Carrhae in 53 BCE. Trade routes linked the empire with the Mediterranean and Asia. Repeated succession struggles weakened central power. In 224, Ardashir's victory at Hormozdgan ended Arsacid government and established Sasanian rule instead.
 name: "Parthian Empire"
 wikipedia: https://en.wikipedia.org/wiki/Parthian_Empire
 periods:

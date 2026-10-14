@@ -2,6 +2,17 @@
 id: mamluk_beylicate_egypt
 name: Egypt under the Mamluk beys
 wikipedia: https://en.wikipedia.org/wiki/Ottoman_Egypt
+description: >-
+  Egypt under the Mamluk beys was governed from Cairo by powerful military households during
+  the eighteenth century, while remaining formally an Ottoman province. Its beginning is
+  estimated here from the civil war of 1711. Ottoman pashas still arrived, but the beys
+  controlled revenue, provincial administration and armed followers, often forcing unwanted
+  governors to leave. Rival households competed for the leading offices, especially shaykh
+  al-balad. Ali Bey al-Kabir briefly pushed this autonomy toward declared independence,
+  withholding tribute and striking coins from 1769 while campaigning beyond Egypt. His
+  former commander Muhammad Abu al-Dhahab overturned that effort. Later, Ibrahim Bey and
+  Murad Bey shared power uneasily. Napoleon's invasion in 1798 defeated their armies and
+  replaced their government with French occupation, ending this period.
 periods:
 - start: 1711
   end: 1798

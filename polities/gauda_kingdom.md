@@ -1,5 +1,15 @@
 ---
 id: gauda_kingdom
+description: >-
+  Gauda was a kingdom in Bengal, represented here from an estimated beginning around 550 until 638.
+  Its best-known ruler, Shashanka, governed from Karnasuvarna near modern Murshidabad in West Bengal.
+  He extended authority beyond Bengal into parts of eastern India and became a major rival of Harsha
+  and Bhaskaravarman of Kamarupa. Royal coins and inscriptions, together with later narratives and the
+  accounts associated with Xuanzang, provide evidence for the kingdom. Shashanka supported Shaivism,
+  although hostile religious accounts require care when reconstructing his policies. His death is
+  dated differently by different sources. His son Manava held power only briefly, and the kingdom's
+  territories were subsequently divided among its rivals. The chronology and boundaries remain less
+  certain than the prominence of Shashanka's court.
 name: "Gauda Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Gauda_Kingdom
 periods:

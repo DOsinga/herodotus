@@ -2,6 +2,16 @@
 id: county_sicily
 name: "County of Sicily"
 wikipedia: https://en.wikipedia.org/wiki/County_of_Sicily
+description: >-
+  The County of Sicily was a Norman monarchy that developed during the island's conquest between
+  1071 and 1130. Roger I of the Hauteville family established comital rule in captured territory
+  while his brother Robert Guiscard held wider authority in southern Italy. The county's
+  beginning did not mean the whole island had fallen: resistance continued until the conquest was
+  completed in 1091. Norman rulers governed a population of Muslims, Greek Christians, and Latin
+  Christians, retaining useful elements of earlier administration. Palermo became central to the
+  emerging state, although Roger also maintained a mainland base at Mileto. His widow Adelaide
+  acted as regent for their young sons. Roger II eventually joined Sicily with his southern
+  Italian possessions and became king in 1130.
 periods:
 - start: 1071
   end: 1130

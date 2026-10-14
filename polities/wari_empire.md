@@ -1,6 +1,20 @@
 ---
 id: wari_empire
 name: "Wari Empire"
+description: >-
+  The Wari Empire developed around Huari in Peru's central highlands,
+  approximately between 600 and 1100. Archaeologists identify a powerful
+  political formation through its planned settlements, provincial centres,
+  roads, and distinctive buildings and objects. Its leaders organised labour and
+  connected highland and coastal communities, although the reach of direct
+  government varied and remains debated. Sites such as Pikillacta and Cerro Baul
+  show organised construction and links with the capital. Farming terraces,
+  irrigation, exchange networks, and ceremonial feasting supported these
+  relationships. Wari pottery, buildings, and knotted cords reveal skilled
+  production and systems for handling information, but named rulers and detailed
+  institutions are unknown. The state declined amid environmental and social
+  pressures, with its approximate collapse leaving regional communities outside
+  its former network.
 wikipedia: https://en.wikipedia.org/wiki/Wari_Empire
 periods:
 - start: 600

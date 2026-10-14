@@ -1,5 +1,7 @@
 ---
 id: kalachuri_mahishmati
+description: >-
+  The Kalachuri Kingdom of Mahishmati ruled parts of western and central India during the sixth and early seventh centuries, approximately 550 to 625. Mahishmati, usually identified with Maheshwar on the Narmada, was its reported capital. Three kings are known from inscriptions and coins: Krishnaraja, Shankaragana, and Buddharaja. Their territories included areas of present Maharashtra, Gujarat, and Madhya Pradesh, taking over lands once held by the Guptas, Vakatakas, and other regional powers. The rulers favoured Shiva, and evidence connects their period with early cave monuments at Elephanta and Ellora, although attribution is not certain. Chalukya campaigns from Badami defeated Buddharaja and brought the kingdom to an end. Both its founding and final conquest dates remain estimates based on limited surviving evidence.
 name: "Kalachuri Kingdom of Mahishmati"
 wikipedia: https://en.wikipedia.org/wiki/Early_Kalachuris
 periods:

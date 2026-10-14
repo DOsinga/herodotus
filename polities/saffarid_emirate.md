@@ -1,5 +1,14 @@
 ---
 id: saffarid_emirate
+description: >-
+  The Saffarid Emirate arose in Sistan in 861, with Zaranj, now in southwestern Afghanistan, as
+  its capital. Its founder, Yaqub ibn al-Layth, began as a coppersmith and military leader before
+  building a hereditary emirate through conquest. His armies overthrew the Tahirids, occupied Khorasan, and pushed
+  across Iran, but failed to take Baghdad from the Abbasids. The defeat of his brother
+  Amr by the Samanids in 900 reduced the state to its Sistan heartland. Samanid occupations
+  interrupted local government in 911–912 and 913–922; later emirs recovered authority while accepting tribute obligations.
+  Persian literary patronage distinguished the court alongside its military origins. Ghaznavid conquest ended this emirate
+  in 1003; later ruling houses in Sistan are not continuations of the same political entity.
 name: "Saffarid Emirate"
 wikipedia: https://en.wikipedia.org/wiki/Saffarid_dynasty
 periods:

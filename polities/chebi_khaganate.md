@@ -1,5 +1,7 @@
 ---
 id: chebi_khaganate
+description: >-
+  Chebi's Turkic Khaganate was an Altai-based realm conventionally dated from 645 to 650, although its origins after 630 cannot be fixed precisely. Its ruler, Ashina Hubo, belonged to a branch of the Turkic royal family. After the first Eastern Turkic Khaganate collapsed, he initially submitted to Xueyantuo, then escaped and gathered followers under the title Chebi Khan. His position strengthened after Xueyantuo's destruction, and Karluk and Kyrgyz groups acknowledged his authority. Relations with Tang China deteriorated when he avoided a promised visit and Chinese envoys were killed. The Tang general Gao Kan advanced against him with allied tribal forces. As supporters deserted, Chebi failed to raise a defence and was captured in 650, ending his separate khaganate in the region.
 name: "Chebi's Turkic Khaganate"
 wikipedia: https://en.wikipedia.org/wiki/Chebi_Khan
 periods:

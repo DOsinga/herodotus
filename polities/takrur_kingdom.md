@@ -2,6 +2,15 @@
 id: takrur_kingdom
 name: "Kingdom of Takrur"
 wikipedia: https://en.wikipedia.org/wiki/Takrur
+description: >-
+  Takrur was a kingdom of the middle Senegal River valley, in present Senegal and Mauritania. Its
+  origins are uncertain: traditions suggest beginnings around 500 CE, while written evidence
+  identifies it by the ninth century. Successive royal houses governed a region where farming, river
+  transport and desert trade met. Merchants exchanged gold, salt, grain and cotton cloth through
+  markets connected with North Africa. King War Jabi adopted Islam in the eleventh century, making
+  Takrur an early centre of Muslim rule south of the Sahara. Its rulers allied with the Almoravids and
+  competed for regional trading routes. Later subordination to Mali did not erase local government.
+  Jolof conquered Takrur in 1456, ending the kingdom represented here despite later uses of its name.
 periods:
 - start: 500
   end: 1456

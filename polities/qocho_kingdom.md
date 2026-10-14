@@ -2,6 +2,18 @@
 id: qocho_kingdom
 name: "Kingdom of Qocho"
 wikipedia: https://en.wikipedia.org/wiki/Qocho
+description: >-
+  Qocho was a Uyghur kingdom in the oasis belt of present Xinjiang, established by
+  refugees after the collapse of the steppe Uyghur Khaganate. Its government began in
+  843 around Karasahr and Kucha, later making Gaochang its main seat and Beshbalik a
+  summer residence. Rulers bearing the title idiqut governed settled agricultural
+  communities and important Silk Road towns. Buddhist monasteries, manuscripts, and
+  cave paintings show strong Chinese and Central Asian influences, alongside other
+  religious traditions. The kingdom accepted Qara Khitai and then Mongol overlordship
+  while retaining local government. Uyghur officials also served the Mongol
+  administration. This record ends in 1278 with the establishment of Yuan regional
+  supervision, rather than following the displaced royal title through its later
+  history outside the kingdom.
 periods:
 - start: 843
   end: 1278

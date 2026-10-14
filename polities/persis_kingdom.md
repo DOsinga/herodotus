@@ -1,5 +1,12 @@
 ---
 id: persis_kingdom
+description: >-
+  The Kingdom of Persis occupied Fars in southwestern Iran, with Istakhr as an important royal centre. This record covers its
+  local kings from about 132 BCE until 224 CE, under the wider power of the Parthian Arsacids. The kings retained
+  their own dynasty and minted coins bearing royal titles, preserving a Persian court after earlier Seleucid and Frataraka rule. Their
+  coinage provides much of the evidence for rulers whose histories are otherwise poorly documented. Religious images and local traditions connected
+  their authority with the Persian past. In the early third century, Babak and his sons expanded their family's power within
+  Persis. Ardashir overcame his rivals and defeated the Parthian king in 224, transforming this regional kingdom into the Sasanian Empire.
 name: "Kingdom of Persis"
 wikipedia: https://en.wikipedia.org/wiki/Persis
 periods:

@@ -1,5 +1,17 @@
 ---
 id: mecklenburg_strelitz
+description: >-
+  Mecklenburg-Strelitz was a small hereditary monarchy in northern Germany, formed by the
+  Treaty of Hamburg in 1701 after a dynastic succession dispute. It combined the
+  southeastern Stargard territory with the separate western district of Ratzeburg. The
+  dukes first resided at Strelitz and later at Neustrelitz. They shared an estates based
+  political system with neighbouring Mecklenburg-Schwerin, in which landed nobles and
+  towns retained considerable influence over domestic affairs. Royal marriages connected
+  the ruling family with Britain, Prussia, and Hanover. The state joined Napoleon's
+  Confederation of the Rhine before entering the German Confederation in 1815 as a grand
+  duchy. In 1867 it became part of the North German Confederation, surrendering
+  independent military and foreign policy. Its local monarchy nevertheless survived until
+  1918.
 name: Mecklenburg-Strelitz
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Mecklenburg-Strelitz
 periods:

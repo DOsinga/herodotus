@@ -2,6 +2,17 @@
 id: wuping_hunan
 name: "Wuping Government of Hunan"
 wikipedia: https://en.wikipedia.org/wiki/Ma_Chu
+description: >-
+  The Wuping government ruled much of Hunan in southern China from 952 to 963, after
+  local generals expelled the Southern Tang occupation army. It followed the destruction
+  of the Ma family's Chu kingdom rather than restoring that dynasty. Successive military
+  governors from the Liu, Wang, and Zhou families controlled the region, usually from
+  Langzhou, now Changde. Their authority rested on armies and the provincial
+  institutions inherited from earlier regimes. Zhou Xingfeng, who governed from 956 to
+  962, consolidated power through harsh treatment of rivals. This regional independence
+  belonged to the final phase of China's divided Five Dynasties and Ten Kingdoms era.
+  After Zhou's death, conflict surrounding his successor gave the expanding Song dynasty
+  an opening to annex Hunan in 963.
 periods:
 - start: 952
   end: 963

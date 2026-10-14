@@ -1,5 +1,18 @@
 ---
 id: langkasuka_kingdom
+description: >-
+  Langkasuka was a Hindu-Buddhist kingdom on the Malay Peninsula, conventionally
+  represented from around 150 to 1450. Chinese accounts describe a monarchy with a
+  walled capital and rulers who sent envoys overseas. Their retrospective
+  foundation story places its beginnings in the second century, but no founding
+  year is known. Yarang near Pattani in southern Thailand is the leading
+  archaeological candidate for its centre, though its location and reach remain
+  debated. Its position connected maritime exchange with routes across the
+  peninsula, bringing influences from India and neighbouring Southeast Asian
+  kingdoms. Relations with Srivijaya and Tambralinga included tribute without
+  necessarily ending local royal government. Its disappearance around the
+  fifteenth century is linked to the rise of Pattani, rather than a dated final
+  conquest.
 name: "Langkasuka Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Langkasuka
 periods:

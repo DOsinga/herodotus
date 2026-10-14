@@ -1,5 +1,17 @@
 ---
 id: babylonia
+description: >-
+  This Babylonian kingdom governed southern Mesopotamia after the Kassite dynasty fell in
+  1155 BCE. Kings of the Second Dynasty of Isin restored local rule, and Nebuchadnezzar I
+  recovered Babylon's captured sacred statue of Marduk from Elam. Later dynasties faced
+  tribal migrations, internal conflict and growing Assyrian pressure. Babylon remained a
+  major religious, commercial and scholarly centre, with temples and urban elites playing
+  important roles beside the monarchy. Tiglath-Pileser III assumed its throne in 729 BCE.
+  Native government returned under Merodach-baladan II and Mushezib-Marduk, whose
+  resistance ended when Sennacherib destroyed Babylon in 689 BCE. Shamash-shum-ukin's
+  revolt created another separate government from 652 to 648 BCE. These episodes precede
+  the later Neo-Babylonian Empire and do not represent continuous independence throughout
+  Assyrian domination.
 name: "Babylonia"
 wikipedia: https://en.wikipedia.org/wiki/Babylonia
 periods:

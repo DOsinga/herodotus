@@ -1,5 +1,16 @@
 ---
 id: iceland
+description: >-
+  Iceland became a sovereign kingdom in 1918, sharing a monarch with Denmark while
+  retaining its own government. Denmark handled foreign affairs by agreement until the
+  German occupation of Denmark in 1940. Iceland then assumed those responsibilities, while
+  British and later American forces occupied the island during the Second World War. A
+  referendum led to the establishment of a republic in 1944. Reykjavík is the capital, and
+  the Althing forms the national parliament, with executive government led by a prime
+  minister. Fishing has shaped the economy and foreign relations, including disputes with
+  Britain over fishing limits. Geothermal and hydroelectric energy support industry.
+  Despite its small population and remote North Atlantic location, Iceland remains a
+  sovereign parliamentary republic with close Nordic ties.
 name: Iceland
 wikipedia: https://en.wikipedia.org/wiki/Iceland
 periods:

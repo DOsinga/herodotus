@@ -1,5 +1,7 @@
 ---
 id: carolingian_francia
+description: >-
+  Carolingian Francia united western and central Europe under the Frankish ruling family from 751 to 843. Pepin took the kingship from the Merovingians, and his son Charlemagne expanded the realm through campaigns against Lombards, Saxons and Avars. Charlemagne's imperial coronation in Rome in 800 added a revived western imperial title to his existing kingdoms. His court at Aachen became an important royal and scholarly centre, although government remained mobile. Counts, bishops and royal envoys administered territories and carried orders from the monarch. Church reform and renewed Latin learning accompanied conquest and political consolidation. After Louis the Pious died, his sons fought over the inheritance. The Treaty of Verdun in 843 divided the united government into western, middle and eastern kingdoms.
 name: "Carolingian Francia"
 wikipedia: https://en.wikipedia.org/wiki/Carolingian_Empire
 periods:

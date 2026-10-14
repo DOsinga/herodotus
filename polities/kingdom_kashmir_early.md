@@ -1,5 +1,16 @@
 ---
 id: kingdom_kashmir_early
+description: >-
+  This kingdom governed the Kashmir Valley in the western Himalayas before the foundation of
+  the Kashmir Sultanate. Its span begins approximately in 625 with Karkota rule and
+  continues through the Utpala, Lohara and later native regimes to 1339. Kings and queens
+  ruled from the Srinagar region, supported or challenged by ministers, military retainers
+  and landed nobles. Temples, Buddhist institutions and Sanskrit scholarship made Kashmir an
+  intellectual centre. Lalitaditya's reign is associated with expansion and the Martand Sun
+  Temple; Avantivarman's government supported irrigation and settlement. Queen Didda
+  exercised royal authority before the Lohara succession. Later factional struggles and
+  invasions weakened government. Much of this history relies on Kalhana's Rajatarangini and
+  its continuations. Shah Mir's establishment of a sultanate ended this sequence.
 name: "Kingdom of Kashmir before the Sultanate"
 wikipedia: https://en.wikipedia.org/wiki/History_of_Kashmir
 periods:

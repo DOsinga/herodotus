@@ -1,5 +1,15 @@
 ---
 id: taifa_malaga
+description: >-
+  The Taifa of Malaga was a Muslim kingdom on the southern coast of Iberia, centred on the
+  Mediterranean port of Malaga. Its first period began in 1026 when the Hammudid ruler Yahya
+  withdrew from Cordoba and established a separate royal government. His successors retained
+  caliphal claims while competing with Seville and neighbouring Granada. Granada absorbed the
+  kingdom in 1057, but Malaga recovered separate rule in 1073. The Almoravids conquered it in
+  1090. Their later decline allowed another restoration in 1145, which ended under the
+  Almohads in 1153. A final independent period began in 1229 during the breakdown of Almohad
+  power. Nasrid Granada incorporated Malaga around 1238, or 1239 in some accounts, making the
+  coastal city part of its emerging emirate.
 name: "Taifa of Málaga"
 wikipedia: https://en.wikipedia.org/wiki/Taifa_of_M%C3%A1laga
 periods:

@@ -1,6 +1,8 @@
 ---
 id: eswatini
 name: Eswatini
+description: >-
+  Eswatini is a southern African kingdom between South Africa and Mozambique, independent from British protection since 1968. Known internationally as Swaziland until 2018, it inherited a monarchy rooted in the nineteenth century consolidation of the Swazi people. Mbabane serves as the administrative capital, while Lobamba houses royal and parliamentary institutions. Independence initially brought a parliamentary constitution, but Sobhuza II suspended it in 1973 and concentrated authority in the crown. Subsequent government has combined royal power, royal and traditional councils, and parliamentary institutions operating through the tinkhundla system rather than competitive party politics. Sugar production, manufacturing, and close economic ties with South Africa shape the country. The monarchy has continued through constitutional changes, public protests, and demands for wider political participation.
 wikipedia: https://en.wikipedia.org/wiki/Eswatini
 periods:
 - start: 1968

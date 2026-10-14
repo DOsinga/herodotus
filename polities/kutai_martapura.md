@@ -1,5 +1,16 @@
 ---
 id: kutai_martapura
+description: >-
+  Kutai Martapura was an upriver Hindu kingdom around Muara Kaman on the Mahakam River in
+  eastern Borneo. Its beginning here in 399 represents the conventional dating of Sanskrit
+  inscriptions on sacrificial stone pillars, not a known foundation year. These yupa
+  inscriptions name Kudungga, his son Aswawarman and his grandson Mulawarman, whose gifts
+  to Brahmin priests demonstrate royal patronage and links with Indian religious
+  traditions. They provide some of the earliest written evidence for kingship in present
+  Indonesia. Much of the kingdom's subsequent history is less securely documented, and its
+  long continuity depends partly on later traditions. It remained distinct from Kutai
+  Kartanegara farther downstream. In 1635, that neighbouring kingdom conquered Martapura,
+  ending the Hindu court remembered in the regional chronicles.
 name: "Kutai Martapura"
 wikipedia: https://en.wikipedia.org/wiki/Kutai
 periods:

@@ -1,5 +1,16 @@
 ---
 id: ganden_phodrang
+description: >-
+  The Ganden Phodrang was Tibet's government centred on Lhasa, founded in 1642 when Güshi
+  Khan granted political authority to the Fifth Dalai Lama. It joined Buddhist leadership
+  with civil administration, using regents, ministers and later the Kashag council. The
+  Potala Palace became its best known seat. Mongol intervention interrupted its control from
+  1705, followed by Dzungar occupation; the Tibetan administration resumed after Qing troops
+  expelled the Dzungars in 1720. Qing representatives and garrisons influenced its affairs,
+  although Tibetan officials continued governing. After the Qing collapse, Lhasa conducted
+  its own affairs amid disputed sovereignty. Chinese military intervention and the 1951
+  agreement narrowed its position. The government ended in 1959 after the uprising, the
+  Dalai Lama's flight and dissolution of the administration.
 name: Ganden Phodrang
 wikipedia: https://en.wikipedia.org/wiki/Ganden_Phodrang
 periods:

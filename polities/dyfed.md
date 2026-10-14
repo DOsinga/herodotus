@@ -1,5 +1,7 @@
 ---
 id: dyfed
+description: >-
+  Dyfed was a kingdom in southwestern Wales that emerged after Roman rule ended, approximately in the fifth century. Its territory included much of modern Pembrokeshire and western Carmarthenshire, with Carmarthen as a representative centre. The kingdom inherited the name and lands of the Demetae. Medieval genealogies connect its royal family with Irish settlers, while bilingual Latin and ogham inscriptions show a mixture of Roman, Irish and British traditions. A memorial stone provides evidence for the sixth-century ruler Vortiporius. Christian communities, especially around St Davids, became important features of the region. Dyfed sometimes expanded into neighbouring valleys before losing territory to other Welsh kingdoms. Hywel inherited it after Llywarch's death, and around 920 joined its government with Seisyllwg to form Deheubarth.
 name: "Kingdom of Dyfed"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Dyfed
 periods:

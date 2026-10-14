@@ -2,6 +2,17 @@
 id: taifa_almeria
 name: "Taifa of Almería"
 wikipedia: https://en.wikipedia.org/wiki/Taifa_of_Almer%C3%ADa
+description: >-
+  Almería was a Muslim kingdom on the southeastern coast of Iberia, formed during the
+  collapse of Córdoba's caliphate around 1012. Its emirs governed from a fortified port
+  whose silk workshops and Mediterranean maritime trade made it wealthy despite its small
+  territory. Early rulers such as Khayran expanded the Alcazaba and mosque, while later
+  courts attracted poets and scholars. Rival kingdoms repeatedly challenged its position.
+  Valencia imposed a governor in 1038, but local rule returned in 1042 under the Banu
+  Sumadih family. The Almoravids conquered the taifa in 1091. A later restoration around
+  1140 lasted only until Alfonso VII's forces captured Almería in 1147. These separate
+  periods record actual local government, not continuous independence throughout the
+  city's prosperous medieval commercial history.
 periods:
 - start: 1012
   end: 1038

@@ -1,5 +1,7 @@
 ---
 id: uganda
+description: >-
+  Uganda is a landlocked East African republic, independent from Britain since 1962, with its capital at Kampala near Lake Victoria. Its territory brought together older kingdoms and other communities under colonial rule. Independence initially preserved a parliamentary government and a special position for Buganda, but Milton Obote centralised authority and established a presidential system. Idi Amin seized power in 1971 and ruled through violence until his overthrow during war with Tanzania in 1979. Further conflict followed, including the guerrilla war that brought the National Resistance Movement to power in 1986. Uganda has retained the same state identity through these changes of regime. Agriculture, regional trade, and the Nile basin shape its economy, while contested political power remains a central issue.
 name: Uganda
 wikipedia: https://en.wikipedia.org/wiki/Uganda
 periods:

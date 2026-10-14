@@ -1,5 +1,15 @@
 ---
 id: kingdom_pontus
+description: >-
+  Pontus was a monarchy on the southern Black Sea coast of northern Anatolia, founded by
+  Mithridates I in 281 BCE. Its Persian royal family governed a land where Greek coastal
+  cities, Anatolian communities, and Iranian traditions met. Amaseia was the early royal
+  seat; Sinope later became the capital. Mithridates VI expanded around the Black Sea and
+  challenged Roman power through three major wars. Pompey's victory ended his kingdom in
+  63 BCE. This record resumes with the smaller kingdom Antony entrusted to Polemon in 37
+  BCE. Its rulers acknowledged Rome but retained armies and their own local government.
+  The restored kingdom survived into the imperial period until Nero annexed it in 62 CE,
+  bringing its remaining territory under direct Roman administration.
 name: "Kingdom of Pontus"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Pontus
 periods:

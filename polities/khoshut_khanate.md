@@ -1,5 +1,16 @@
 ---
 id: khoshut_khanate
+description: >-
+  The Khoshut Khanate was an Oirat Mongol monarchy based around Kokonor, today's Qinghai,
+  from 1642 to 1717. Its founder, Güshi Khan, defeated rival rulers in Tibet and helped
+  establish the dominance of the Gelug school of Buddhism. The khans supplied military
+  backing to the Dalai Lama's government, but central Tibet was not continuously governed
+  directly from the Khoshut court. Their own base remained among the pastoral communities
+  of the northeastern Tibetan plateau. In 1705, Lhazang Khan intervened in Lhasa, killed
+  the regent, and took direct control. His replacement of the sixth Dalai Lama deepened
+  opposition among Tibetan religious leaders. Dzungar forces invaded in 1717, killed
+  Lhazang, and ended the khanate's rule, beginning another struggle for Tibet and its
+  neighboring regions.
 name: Khoshut Khanate
 wikipedia: https://en.wikipedia.org/wiki/Khoshut_Khanate
 periods:

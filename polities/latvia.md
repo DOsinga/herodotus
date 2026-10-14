@@ -1,5 +1,17 @@
 ---
 id: latvia
+description: >-
+  Latvia is a Baltic state centred on Riga, established as an independent republic in 1918
+  after the collapse of imperial rule during the First World War. Its independence war
+  secured a parliamentary state, although Kārlis Ulmanis imposed authoritarian government
+  through a coup in 1934. Soviet occupation and annexation ended its independent
+  government in 1940. Nazi Germany occupied the country during the war, followed by
+  renewed Soviet rule. Deportations, repression and migration transformed society during
+  this interruption. A popular independence movement developed in the late Soviet period,
+  and Latvia restored effective sovereignty in 1991. It returned to parliamentary
+  government under its earlier constitutional framework. Membership in NATO and the
+  European Union followed in 2004, anchoring Latvia within wider European political
+  institutions.
 name: Latvia
 wikipedia: https://en.wikipedia.org/wiki/Latvia
 periods:

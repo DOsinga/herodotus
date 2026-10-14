@@ -1,5 +1,17 @@
 ---
 id: kassite_babylonia
+description: >-
+  Kassite Babylonia was a monarchy in southern Mesopotamia whose history here begins
+  after the Hittite sack of Babylon in 1595 BCE. Kassite rulers adopted Babylonian
+  royal traditions, supported temples, and united the country through provincial
+  administration. Babylon remained important, while Dur-Kurigalzu became another royal
+  seat. Letters exchanged with Egypt show its kings participating in the diplomacy,
+  marriages, and gift exchanges of the great Bronze Age powers. Legal tablets and
+  carved stones recording land grants reveal estates, obligations, and royal patronage.
+  Assyrian conquest under Tukulti-Ninurta interrupted Kassite government at Babylon
+  around 1225. Adad-shuma-usur restored it around 1217, but wars with neighboring
+  powers continued. Elam's conquest in 1155 ended the dynasty, although administrative
+  institutions and Babylonian cultural life survived under subsequent rulers.
 name: "Kassite Babylonia"
 wikipedia: https://en.wikipedia.org/wiki/Kassites
 periods:

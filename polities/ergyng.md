@@ -1,5 +1,7 @@
 ---
 id: ergyng
+description: >-
+  Ergyng was a small early Brittonic kingdom in the borderlands of modern Wales and England, roughly between the fifth and seventh centuries. Its heartland lay between the Monnow and Wye rivers, extending into Herefordshire and Monmouthshire. The name probably recalls the Roman town of Ariconium, although its status as a royal centre is uncertain. Traditions preserved around Llandaff associate the kingdom with rulers such as Peibio and Gwrgan, and with the Christian teacher Dubricius. These accounts leave its chronology and relationship with neighbouring Gwent unclear. Marriage connected Ergyng's royal family to Meurig of Gwent, and separate rule conventionally ended around 650. The region later became known as Archenfield, retaining Welsh language and customs long after its incorporation into English territory.
 name: "Ergyng"
 wikipedia: https://en.wikipedia.org/wiki/Ergyng
 periods:

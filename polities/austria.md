@@ -2,6 +2,17 @@
 id: austria
 name: Austria
 wikipedia: https://en.wikipedia.org/wiki/Austria
+description: >-
+  Austria became a republic in 1918 after the Habsburg empire collapsed, retaining Vienna
+  as its capital. The smaller state faced economic hardship and bitter political divisions
+  between socialist and conservative movements. Parliamentary democracy gave way to
+  authoritarian government in the 1930s, before Nazi Germany annexed the country in 1938.
+  That occupation forms the gap in this record. An Austrian government was restored in
+  1945, while the Allied powers occupied the country until 1955. The State Treaty ended
+  occupation, and Austria declared permanent neutrality. Its constitution provides for a
+  federal parliamentary republic with nine states and an elected president. Reconstruction
+  and cooperation between major parties brought stability. Austria joined the European
+  Union in 1995 and remains a separate country within Europe.
 periods:
 - start: 1918
   end: 1938

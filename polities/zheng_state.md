@@ -1,5 +1,7 @@
 ---
 id: zheng_state
+description: >-
+  Zheng was a small but influential state in central China, centred on Xinzheng in present day Henan. Its ruling family belonged to the Zhou royal house, and its dukes initially served as royal ministers. This record begins in 770 BCE, when the Zhou court moved east and regional rulers gained greater freedom. Under Duke Zhuang, Zheng defeated a coalition led by the Zhou king and briefly dominated neighbouring states. Its position on important trading routes supported wealthy merchants, but also exposed it to pressure from larger powers, especially Chu and Jin. The minister Zichan became known for publishing laws and managing difficult alliances. Rival noble families weakened the government, and Han conquered Zheng in 375 BCE, taking over its capital.
 name: "Zheng (state)"
 wikipedia: https://en.wikipedia.org/wiki/Zheng_(state)
 periods:

@@ -1,5 +1,16 @@
 ---
 id: danishmend_malatya
+description: >-
+  The Danishmendid beylik of Malatya was a Turkish ruled principality in eastern Anatolia,
+  centred on the city then known as Melitene. It emerged when the Danishmendid lands divided
+  after Mehmed's death in 1142, although the division is sometimes dated a year later. Ayn
+  al Dawla established the local branch, separate from the rulers based at Sivas and
+  Kayseri. His descendants governed a region caught between expanding Seljuk power and other
+  neighbouring states. Succession disputes brought several changes of ruler during the
+  1170s. Nasreddin Muhammad returned to power in 1175 and accepted Seljuk overlordship
+  without immediately surrendering local government. The Sultanate of Rum occupied Malatya
+  in 1178, ending the Danishmendid territorial state; surviving family members subsequently
+  entered service under Seljuk rulers.
 name: "Danishmendid Beylik of Malatya"
 wikipedia: https://en.wikipedia.org/wiki/Danishmendids
 periods:

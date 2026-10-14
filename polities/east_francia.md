@@ -1,5 +1,15 @@
 ---
 id: east_francia
+description: >-
+  East Francia was the eastern kingdom created by the Treaty of Verdun in 843, when
+  Charlemagne's empire was divided among his grandsons. Louis the German ruled lands east of
+  the Rhine, using centres including Regensburg rather than a capital. Carolingian kings
+  governed through regional nobles and church leaders, but powerful duchies increasingly
+  shaped succession and royal authority. After the dynasty's eastern line ended in 911,
+  kingship passed to Conrad I and then the Saxon rulers Henry I and Otto I. Their government
+  strengthened through alliances, warfare and control of appointments. Otto's victories and
+  Italian campaigns led to his imperial coronation in 962. That event marks the continuation
+  of this eastern royal government under the identity of the Holy Roman Empire.
 name: "East Francia"
 wikipedia: https://en.wikipedia.org/wiki/East_Francia
 periods:

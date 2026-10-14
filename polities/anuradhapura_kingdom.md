@@ -2,6 +2,17 @@
 id: anuradhapura_kingdom
 name: "Anuradhapura Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Anuradhapura_Kingdom
+description: >-
+  Anuradhapura was a long lived monarchy in Sri Lanka, represented here from an estimated
+  437 BCE to 1017 CE. Its early chronology comes from traditions about Pandukabhaya and is
+  not a securely dated foundation. Kings usually ruled from Anuradhapura, although authority
+  across the island varied and rival centres sometimes challenged them. Buddhist
+  institutions became central to royal patronage and culture after Buddhism's introduction
+  during Devanampiya Tissa's reign. Irrigation tanks and canals supported farming in the dry
+  zone, while monasteries, stupas, and sculpture marked the capital's wealth. Several
+  dynasties and locally established Tamil rulers formed part of the kingdom's history. Chola
+  forces captured Anuradhapura in 993, but Mahinda V's court survived in Rohana until his
+  capture in 1017 ended the polity.
 periods:
 - start: -437
   end: 1017

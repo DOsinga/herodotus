@@ -1,5 +1,16 @@
 ---
 id: cornouaille_early
+description: >-
+  Early Cornouaille was a Breton ruling community in the southwest of the Armorican peninsula,
+  represented here by Quimper. Its estimated existence from around 450 to 845 rests partly on
+  traditions about rulers such as Rivelen, Daniel, and Budic rather than a secure contemporary
+  chronology. Migration from Britain helped shape the region's language, churches, and
+  connections across the Channel. The name Cornouaille shares its origin with Cornwall,
+  reflecting these links, but the two places were not one territory. Local rulers belonged to
+  the patchwork of early Breton governments, not necessarily a single kingdom covering all
+  Brittany. Incorporation into Nominoe's expanding Breton realm is estimated around 845.
+  Quimper became an important religious centre, though a fixed early capital cannot be
+  securely identified.
 name: "Early Kingdom of Cornouaille"
 wikipedia: https://en.wikipedia.org/wiki/Cornouaille
 periods:

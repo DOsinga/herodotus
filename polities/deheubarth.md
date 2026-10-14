@@ -1,5 +1,15 @@
 ---
 id: deheubarth
+description: >-
+  Deheubarth united lands in southwestern Wales under Hywel Dda around 920, bringing Dyfed
+  and Seisyllwg into one royal government. Its rulers were associated with Dinefwr, whose
+  castle became a dynastic stronghold. The name originally meant the southern part rather
+  than a neatly bounded kingdom, and the extent of royal control changed repeatedly.
+  Northern Welsh rulers took over in 1018 and again under Gruffudd ap Llywelyn from 1055 to
+  1063. Norman conquest after Rhys ap Tewdwr's death in 1093 caused another long
+  interruption. Native power recovered from 1136 and reached renewed strength under Rhys ap
+  Gruffudd, the Lord Rhys. He negotiated with English kings while ruling much of the
+  southwest. His death in 1197 brought division among successors into local lordships.
 name: "Kingdom of Deheubarth"
 wikipedia: https://en.wikipedia.org/wiki/Deheubarth
 periods:

@@ -1,5 +1,7 @@
 ---
 id: han_hou_jing
+description: >-
+  Hou Jing's Han was a short-lived military government centred on Jiankang, modern Nanjing, during the collapse of Liang authority in southern China. This record begins with Hou's capture of the capital in 549 and ends with its recovery in 552. A general who had served northern regimes before joining Liang, Hou rebelled and imprisoned the imperial family. He first governed through captive Liang emperors, while surviving members of the dynasty maintained separate power elsewhere. His troops extended control along the lower Yangtze, amid destruction and resistance. Hou eventually took the imperial title and called his state Han. Liang forces under Wang Sengbian and Chen Baxian defeated his army and recovered Jiankang; Hou fled and was killed afterward during his escape.
 name: "Hou Jing's Han"
 wikipedia: https://en.wikipedia.org/wiki/Hou_Jing
 periods:

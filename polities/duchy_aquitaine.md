@@ -2,6 +2,18 @@
 id: duchy_aquitaine
 name: "Duchy of Aquitaine"
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Aquitaine
+description: >-
+  Aquitaine was a duchy in southwestern France, whose autonomous government is recorded
+  here in two periods. The first begins around 660 with Felix's ducal rule and ends
+  with Frankish conquest in 769. Later independent hereditary government emerged around
+  Ranulf in 887, with Poitiers an important seat. Dukes exercised authority through
+  nobles, towns and church institutions over lands extending towards the Pyrenees.
+  Their court became associated with troubadour poetry and the wider culture of
+  southern France. Eleanor inherited Aquitaine in 1137 and retained her own title
+  through marriages to the French and English kings. Those personal unions did not
+  immediately remove local ducal government. Her death in 1204 ends this record;
+  English kings subsequently administered their Aquitanian possessions through
+  appointed officers.
 periods:
 - start: 660
   end: 769

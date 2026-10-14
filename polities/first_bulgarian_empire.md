@@ -1,6 +1,19 @@
 ---
 id: first_bulgarian_empire
 name: "First Bulgarian Empire"
+description: >-
+  The First Bulgarian Empire existed in the Balkans from 681 to 1018, combining
+  Bulgar leadership with a largely Slavic population. Founded under Asparuh
+  after victories against Byzantium, it grew from a Danubian kingdom into a
+  major regional power. Its monarchs initially followed older religious
+  traditions before Boris adopted Christianity in the ninth century. Preslav and
+  Ohrid became important centres of Slavic writing, church life, and learning.
+  Under Simeon, Bulgarian armies challenged Constantinople and the rulers
+  claimed imperial rank. Byzantine conquest of the eastern capital in 971 left a
+  surviving western Bulgarian government, later associated with Samuel and
+  Ohrid. Long wars exhausted this remaining state. Its final strongholds
+  submitted to Emperor Basil II in 1018, bringing Bulgaria under direct
+  Byzantine rule.
 wikipedia: https://en.wikipedia.org/wiki/First_Bulgarian_Empire
 periods:
 - start: 681

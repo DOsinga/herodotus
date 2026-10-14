@@ -1,5 +1,7 @@
 ---
 id: vladimir_suzdal
+description: >-
+  Vladimir-Suzdal was a princely state in northeastern Rus, recorded here from 1132 until Moscow took control in 1331. Yuri Dolgoruky developed its towns and challenged the princes of Kiev. His son Andrey moved the governing seat to Vladimir in 1157, built churches, and asserted the north's growing political weight. Rurikid princes governed through their courts and local elites, but succession disputes and divisions among heirs gradually produced separate principalities. Mongol armies devastated the region in 1238 and killed Prince Yuri II. Later grand princes paid tribute and needed the Golden Horde's approval, while continuing to govern their own domains. Moscow and Tver competed for Vladimir's title; Ivan I of Moscow secured it in 1331, bringing the city under Moscow's government.
 name: Vladimir-Suzdal
 wikipedia: https://en.wikipedia.org/wiki/Vladimir-Suzdal
 periods:

@@ -2,6 +2,16 @@
 id: athens
 name: "Classical Athens"
 wikipedia: https://en.wikipedia.org/wiki/Classical_Athens
+description: >-
+  Athens was a Greek city-state in Attica whose democratic government developed after Cleisthenes'
+  reforms in 508 BCE. Male citizens debated policy in an assembly and served on councils and juries,
+  while women, enslaved people and resident foreigners lacked citizenship. Maritime trade, silver
+  mines and naval strength helped Athens lead resistance to Persia and turn the Delian League into an
+  empire. Its temples, drama and philosophy flourished alongside wars and disputes over popular rule.
+  Defeat by Sparta ended its imperial ascendancy, but the city later recovered influence. Macedonian
+  garrisons and imposed governments repeatedly interrupted independent rule after 322 BCE. Periods of
+  renewed autonomy followed before Roman intervention and Sulla's sack in 86 BCE ended the independent
+  policy represented by this record.
 periods:
 - start: -508
   end: -322

@@ -1,5 +1,7 @@
 ---
 id: lagash
+description: >-
+  Lagash was a Sumerian city-state in southern Mesopotamia, with independent periods in the third millennium BCE separated by outside rule. Its territory included Lagash, Girsu and Nina, supported by irrigated agriculture. Girsu was the governing and religious centre, housing the temple of Ningirsu. Inscriptions preserve rulers such as Ur-Nanshe, Eannatum and Urukagina, and describe struggles with neighbouring Umma over fields and water. Lugalzagesi defeated Urukagina before the region entered the Akkadian imperial system. After Akkad collapsed, a second local dynasty restored independent government. Gudea is known for temple building and the statues recording his devotion and authority. This revival ended when Ur-Nammu brought Lagash under Ur's rule. Its temples and settlements continued, but governors no longer represented an independent state.
 name: "Lagash"
 wikipedia: https://en.wikipedia.org/wiki/Lagash
 periods:

@@ -1,5 +1,14 @@
 ---
 id: circipanian_polity
+description: >-
+  The Circipanes were a West Slavic people around the Peene, Trebel, and Recknitz rivers in
+  northeastern Germany. Their separate tribal government is represented here from approximately 789 to 983, and
+  briefly from 1057 to about 1060. Fortified settlements at Demmin, Teterow, and Malchin anchored their
+  territory, although no permanent capital is securely known. They joined the Lutician federation during the
+  successful rebellion against imperial authority in 983. That association united neighboring tribes without turning them
+  into a single hereditary kingdom. Rivalries within the federation later set the Circipanes and Kessinians
+  against the Redarians and Tollensians. After the federation fractured, Obotrite intervention overcame the Circipanes and
+  brought their land under provincial government, ending the short revival of their separate political authority.
 name: "Circipanian Polity"
 wikipedia: https://en.wikipedia.org/wiki/Circipanes
 periods:

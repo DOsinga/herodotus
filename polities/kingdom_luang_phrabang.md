@@ -1,5 +1,16 @@
 ---
 id: kingdom_luang_phrabang
+description: >-
+  The Kingdom of Luang Phrabang emerged in northern Laos in 1707 when Lan Xang divided into
+  rival kingdoms. Its hereditary monarchy ruled from Luang Prabang, an Buddhist center
+  beside the Mekong. Kings drew legitimacy from royal descent and Theravada Buddhism while
+  dealing with tributary districts and competing neighboring courts. The realm faced
+  pressure from Burma and Siam, whose rulers sometimes demanded allegiance without wholly
+  replacing local government. Nineteenth century raids and the Haw wars weakened its
+  authority. King Oun Kham sought outside support after attacks on the capital. French
+  expansion and conflict with Siam resulted in a protectorate in 1893. The royal court
+  survived under colonial supervision, but control of war and foreign relations passed to
+  France at that point.
 name: Kingdom of Luang Phrabang
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Luang_Phrabang
 periods:

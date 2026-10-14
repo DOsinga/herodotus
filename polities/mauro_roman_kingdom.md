@@ -1,5 +1,16 @@
 ---
 id: mauro_roman_kingdom
+description: >-
+  The Mauro-Roman Kingdom developed around Altava in western Algeria as Roman authority weakened
+  during the fifth century, with 429 used here as an approximate beginning. Its Christian rulers
+  governed communities retaining both Roman provincial traditions and Berber social ties. An
+  inscription of 508 identifies Masuna as king of the Moors and Romans and names officials
+  serving his government. The kingdom resisted Vandals and initially cooperated with Byzantine
+  forces during their reconquest of North Africa. Relations later turned hostile, especially
+  under Garmul, whose attacks threatened Byzantine territory and commanders. Byzantine forces
+  defeated him around 578, ending the larger kingdom represented here. Romano-Berber communities
+  did not vanish: a reduced Altava state and other regional centres continued, though the
+  political organization remains debated.
 name: "Mauro-Roman Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Mauro-Roman_Kingdom
 periods:

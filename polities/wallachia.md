@@ -1,5 +1,16 @@
 ---
 id: wallachia
+description: >-
+  Wallachia was a principality between the Carpathian Mountains and the lower Danube, in
+  southern Romania. Basarab I secured its independence from Hungary through victory at
+  Posada in 1330. Princes, also called voivodes, governed alongside powerful local boyar
+  families and an Orthodox church hierarchy. Târgoviște and later Bucharest served as
+  important seats of rule. Wallachian rulers alternated resistance and accommodation toward
+  the expanding Ottoman Empire; tribute did not initially remove their local government.
+  Ottoman appointment of Phanariot princes from 1716 marks the interruption shown here.
+  Native princes returned in 1822 after the upheavals of 1821. In 1859 Wallachia and
+  Moldavia elected the same ruler, Alexandru Ioan Cuza, creating the United Principalities
+  and laying the foundation for the modern unified Romanian state.
 name: Wallachia
 wikipedia: https://en.wikipedia.org/wiki/Wallachia
 periods:

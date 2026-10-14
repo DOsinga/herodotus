@@ -1,6 +1,8 @@
 ---
 id: hyksos_egypt
 name: "Hyksos kingdom"
+description: >-
+  The Hyksos kingdom ruled northern Egypt from Avaris in the eastern Nile Delta during the Second Intermediate Period, approximately 1650 to 1550 BCE. Its rulers formed the Fifteenth Dynasty and came from communities with strong western Asian connections. They adopted Egyptian royal titles and governing practices while maintaining ties across the eastern Mediterranean. Their kingdom controlled Lower Egypt, whereas competing Egyptian rulers remained farther south; claims about its wider territory are uncertain. Avaris had developed through earlier settlement and migration, and the kingdom's rise need not imply one sudden foreign invasion. Conflict with the Theban rulers intensified under Seqenenre, Kamose, and Ahmose. Ahmose captured Avaris around 1550 BCE, ending Hyksos rule and bringing northern Egypt into the emerging New Kingdom.
 wikipedia: https://en.wikipedia.org/wiki/Fifteenth_Dynasty_of_Egypt
 periods:
 - start: -1650

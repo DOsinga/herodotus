@@ -1,5 +1,12 @@
 ---
 id: republika_srpska_1992
+description: >-
+  Republika Srpska was a Bosnian Serb wartime state that governed territory in Bosnia and Herzegovina between 1992 and 1995. Its
+  political leadership operated from Pale, with a president, assembly and government, while its army fought to secure Serb controlled areas.
+  It rejected the authority of independent Bosnia and Herzegovina and received substantial support from Serbia. The war involved sieges, mass
+  displacement and systematic persecution of non-Serb communities. Bosnian Serb forces committed genocide at Srebrenica in 1995, alongside other crimes prosecuted
+  by international courts. The Dayton peace agreement ended the conflict and preserved Republika Srpska as one of two entities within
+  Bosnia and Herzegovina. This record concerns its wartime government, not a separate sovereign state continuing after the Dayton constitutional settlement.
 name: Republika Srpska (1992–1995)
 wikipedia: https://en.wikipedia.org/wiki/Republika_Srpska
 periods:

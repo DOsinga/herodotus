@@ -2,6 +2,17 @@
 id: lubeck
 name: Lübeck
 wikipedia: https://en.wikipedia.org/wiki/Free_City_of_Lübeck
+description: >-
+  Lübeck was a self-governing trading city near Germany's Baltic coast, represented
+  here from 1250 until French annexation in 1810 and again from 1813 to 1867. It had
+  received imperial freedom in 1226 and developed its own council government and
+  influential municipal law. As the leading city of the Hanseatic League, it
+  coordinated commercial interests and wars involving merchants across northern Europe.
+  Salt, shipping and access to inland routes helped sustain its wealth. Lutheran reform
+  and changing patterns of trade later altered its religious and economic life. French
+  control during the Napoleonic period interrupted its independence. After restoration,
+  Lübeck remained a republic and city-state. Joining the North German Confederation in
+  1867 transferred control of war and foreign policy to that federation.
 periods:
 - start: 1250
   end: 1810

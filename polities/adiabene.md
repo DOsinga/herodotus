@@ -1,5 +1,16 @@
 ---
 id: adiabene
+description: >-
+  Adiabene was a kingdom centred on Arbela, modern Erbil, in northern Mesopotamia,
+  represented from 164 BCE to 379 CE with a Roman interruption. Its lands lay around the
+  Zab rivers and sometimes extended towards Nineveh and Nisibis. Kings operated within
+  the Parthian political world, balancing alliances with neighbouring powers. In the
+  first century CE, Queen Helena and members of her family adopted Judaism and became
+  known for their support of Jerusalem. The region contained diverse religious
+  communities and later became important to Syriac Christianity. Trajan occupied it in
+  116, but Roman control ended the following year. Kings remained under Sasanian
+  overlordship thereafter; the nature of their autonomy is uncertain, and 379 follows
+  the last recorded ruler, not a clear change.
 name: "Adiabene"
 wikipedia: https://en.wikipedia.org/wiki/Adiabene
 periods:

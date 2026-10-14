@@ -1,5 +1,16 @@
 ---
 id: erlitou
+description: >-
+  Erlitou was an early urban centre in the Yellow River region of China, near modern Luoyang
+  in Henan. Represented here from approximately 1900 to 1500 BCE, it developed a palace
+  district, planned roads, elite burials, and workshops producing bronze ritual vessels and
+  ornaments. These remains suggest organized political authority and control over skilled
+  production, though no contemporary texts name its rulers. Many scholars associate Erlitou
+  with the Xia dynasty of later tradition, but that identification remains debated. Its city
+  expanded through several building phases before declining as nearby Erligang centres rose.
+  Palace construction continued during this overlap, and excavations do not demonstrate a
+  violent conquest. This record names the proposed early state after the site rather than
+  assuming a dynasty.
 name: "Erlitou"
 wikipedia: https://en.wikipedia.org/wiki/Erlitou_culture
 periods:

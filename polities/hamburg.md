@@ -1,5 +1,15 @@
 ---
 id: hamburg
+description: >-
+  Hamburg was a self governing trading city on the Elbe in northern Germany, represented from
+  1250 to 1810 and again from 1814 to 1867. Its merchant dominated council directed a civic
+  republic whose port connected inland markets with North Sea commerce. Partnership with Lübeck
+  helped build the Hanseatic trading network, and Hamburg retained wide practical autonomy
+  despite claims from Holstein and Denmark. The Reformation made it Lutheran, while overseas
+  trade sustained its importance after the Hanse declined. Napoleon annexed the city to France in
+  1810, interrupting its government until liberation in 1814. Restored Hamburg joined the German
+  Confederation and recovered from a devastating fire in 1842. Entry into the North German
+  Confederation in 1867 transferred military and foreign policy authority.
 name: Hamburg
 wikipedia: https://en.wikipedia.org/wiki/Hamburg
 periods:

@@ -1,5 +1,17 @@
 ---
 id: utigur_polity
+description: >-
+  The Utigurs were a nomadic ruling community of the eastern Don and Azov steppe
+  during the sixth century. Their separate government is represented here from
+  approximately 500 to 576, with a regional marker rather than a capital.
+  Byzantine writers described them as closely related to the neighbouring
+  Kutrigurs, sharing language and customs but following different rulers. Under
+  Sandilch, Utigur forces attacked the Kutrigurs after Emperor Justinian
+  encouraged conflict between the two communities. These wars weakened both groups
+  and helped outside powers expand their influence. The surviving accounts reveal
+  military leadership and diplomacy more clearly than everyday administration. By
+  576, an Utigur army under Anagai operated within the Turkic forces attacking
+  Bosporus, marking the loss of separate government in this record.
 name: "Utigur Polity"
 wikipedia: https://en.wikipedia.org/wiki/Utigurs
 periods:

@@ -1,5 +1,16 @@
 ---
 id: ripuarian_cologne
+description: >-
+  The Frankish Kingdom of Cologne was a regional monarchy along the Rhine, associated
+  with the people later called Ripuarian Franks. Its beginning around 450 is an estimate
+  for a distinct royal government rather than a securely dated foundation. The best
+  known ruler, Sigebert the Lame, controlled the area around Cologne and Zülpich. He
+  allied with Clovis, helping against the Alamanni and later the Visigoths. According to
+  Gregory of Tours, Clovis encouraged Sigebert's son Chlodoric to murder his father,
+  then arranged Chlodoric's death as well. Clovis offered protection to the kingdom's
+  people and became their king. The takeover is conventionally placed in 509, though the
+  chronology and details remain disputed. The kingdom consequently became part of the
+  expanding Merovingian Frankish realm.
 name: "Frankish Kingdom of Cologne"
 wikipedia: https://en.wikipedia.org/wiki/Sigebert_the_Lame
 periods:

@@ -1,5 +1,17 @@
 ---
 id: kingdom_marwar
+description: >-
+  Marwar was a Rathore Rajput kingdom in western Rajasthan, with its beginnings
+  conventionally placed in 1226. Its rulers first held centres around Pali and Mandore
+  before Rao Jodha founded Jodhpur in 1459. The monarchy expanded under Maldeo but faced
+  rivalry with neighbouring Rajput states and larger northern empires. Mughal conquest
+  interrupted native government in 1581, which returned in 1583 under a ruler
+  acknowledging imperial authority. Aurangzeb's occupation in 1679 began another
+  interruption, followed by prolonged Rathore resistance. Ajit Singh recovered Jodhpur in
+  1707. Later rulers faced succession disputes, noble opposition and pressure from Maratha
+  forces. In 1818, a treaty placed Marwar under East India Company protection, ending
+  independent foreign and military policy. Its dynasty continued governing a princely
+  state afterward.
 name: Kingdom of Marwar
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Marwar
 periods:

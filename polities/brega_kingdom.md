@@ -1,5 +1,14 @@
 ---
 id: brega_kingdom
+description: >-
+  Brega was an early medieval Irish kingdom across parts of modern Meath, Louth and Dublin,
+  including the royal site of Tara. This record begins around 580 with the court associated
+  with Áed Sláine, whose descendants formed the Síl nÁedo Sláine branch of the southern Uí
+  Néill. Its kings ruled a landscape of communities and competing aristocratic families, with influence extending
+  across the Boyne valley toward the Irish Sea. Tara connected their ambitions with the wider
+  high kingship of Ireland, but did not make every Irish kingdom their territory. Dynastic rivalry
+  eventually produced separate northern and southern governments under the Uí Chonaing and Uí Chernaig. The
+  estimated division around 700 marks that lasting separation, despite later claims to rule all Brega.
 name: "Kingdom of Brega"
 wikipedia: https://en.wikipedia.org/wiki/Kings_of_Brega
 periods:

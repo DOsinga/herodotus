@@ -2,6 +2,18 @@
 id: habbari_emirate
 name: "Habbari Emirate of Sindh"
 wikipedia: https://en.wikipedia.org/wiki/Habbari_Emirate
+description: >-
+  The Habbari Emirate governed lower Sindh from Mansura, in present Pakistan, after
+  Abbasid authority weakened during the ninth century. Umar al-Habbari received
+  appointment in 854, with effective autonomy here dated to 861. His descendants ruled as
+  hereditary emirs while acknowledging the caliph's religious standing. Their government
+  inherited administrative practices from earlier Arab rule and presided over a population
+  that included Muslim and Hindu communities. Mansura prospered through caravan commerce
+  linking Persia with the Indian subcontinent, and visiting geographers described its
+  wealth and urban life. This state was distinct from the emirate centred on Multan.
+  Ghaznavid expansion eventually ended Habbari government. The record follows a conquest
+  date of 1025, although accounts disagree over the precise final years of the dynasty's
+  rule.
 periods:
 - start: 861
   end: 1025

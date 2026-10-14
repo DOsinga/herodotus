@@ -1,5 +1,7 @@
 ---
 id: samos_realm
+description: >-
+  Samo's Realm was a Slavic tribal union in central Europe, established around 623 after resistance to Avar domination. Samo, described by the Chronicle of Fredegar as a Frankish merchant, gained leadership through his role in the fighting. His authority linked several communities, but the union's boundaries, institutions, and centre cannot be mapped with confidence. Moravia, western Slovakia, and neighbouring Danubian areas figure prominently in reconstructions; Devin is only a proposed centre. In 631, Samo's forces defeated an army sent by the Frankish king Dagobert at Wogastisburg, whose location is also disputed. The Sorbian ruler Dervan subsequently joined his alliance. Samo ruled until his death around 658, after which the union disappears from contemporary evidence and its political fate remains uncertain.
 name: "Samo's Realm"
 wikipedia: https://en.wikipedia.org/wiki/Samo
 periods:

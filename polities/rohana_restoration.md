@@ -1,5 +1,16 @@
 ---
 id: rohana_restoration
+description: >-
+  The Sinhalese kingdom in Rohana represents native resistance in southern Sri Lanka after Chola
+  forces captured King Mahinda V in 1017. The mountainous southern region provided refuge from
+  the conquerors, whose strongest administration lay farther north. Mahinda's son Kassapa, known
+  as Vikramabahu, and later claimants attempted to preserve royal authority and recover the
+  island. Their government was a contested monarchy rather than a secure successor ruling all
+  former Anuradhapura territory. Chola campaigns, short reigns, and rival contenders repeatedly
+  disrupted restoration efforts. Mahagama marks the southern royal region, not a permanently
+  documented capital. This record ends with Vijayabahu's accession in 1055, when the continuing
+  resistance becomes the Polonnaruwa kingdom; he recovered its northern capital only in 1070
+  after campaigns against occupation.
 name: "Sinhalese Kingdom in Rohana"
 wikipedia: https://en.wikipedia.org/wiki/Chola_conquest_of_Anuradhapura
 periods:

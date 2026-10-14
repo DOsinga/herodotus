@@ -2,6 +2,18 @@
 id: principality_polotsk
 name: Principality of Polotsk
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Polotsk
+description: >-
+  The Principality of Polotsk was a medieval monarchy centered on the Western
+  Dvina in present-day Belarus. This record begins with Bryachislav's succession
+  in 1001 and follows periods when local princes governed independently of Kyiv.
+  Descendants of Izyaslav formed a distinct branch of the Rurik dynasty,
+  competing with other Rus' rulers for territory and trade routes. Vseslav
+  expanded Polotsk's influence and became associated with its Saint Sophia
+  Cathedral. Kyiv imposed direct rule after his capture in 1067 and again when
+  Mstislav exiled the dynasty in 1129; local government returned after each
+  interruption. Dynastic divisions weakened the principality, while Baltic trade
+  and conflicts with crusading orders shaped its western frontier. Lithuanian
+  princes took control in 1307, ending the independent government recorded here.
 periods:
 - start: 1001
   end: 1067

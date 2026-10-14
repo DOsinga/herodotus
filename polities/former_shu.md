@@ -1,5 +1,15 @@
 ---
 id: former_shu
+description: >-
+  Former Shu was a kingdom centred on Chengdu in southwestern China from 907 to 925, during the
+  fragmentation following the Tang dynasty's collapse. Its founder, Wang Jian, had built regional
+  power as a Tang military governor before declaring himself emperor. The Sichuan basin's
+  agricultural wealth and protective mountain approaches helped sustain a separate court while
+  northern dynasties fought for supremacy. Wang's government inherited Chinese imperial
+  institutions and supported regional culture. His son Wang Yan succeeded him, but court
+  extravagance and weak leadership undermined the regime. The temporary use of the name Han in
+  917 and 918 did not create another polity. A Later Tang invasion conquered the kingdom in 925.
+  Former Shu is distinct from the later Meng dynasty's Shu.
 name: "Former Shu"
 wikipedia: https://en.wikipedia.org/wiki/Former_Shu
 periods:

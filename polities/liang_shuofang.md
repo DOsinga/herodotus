@@ -2,6 +2,16 @@
 id: liang_shuofang
 name: "Liang of Shuofang"
 wikipedia: https://en.wikipedia.org/wiki/Liang_Shidu
+description: >-
+  Liang of Shuofang was a frontier state in northern China, covering parts of today's northern
+  Shaanxi and western Inner Mongolia from 617 to 628. Liang Shidu, a former Sui military officer
+  from a local family, built a force during the rebellions against Emperor Yang and proclaimed
+  himself emperor. He governed from Shuofang and used the era name Yonglong. An alliance with the
+  Eastern Turkic khagans supplied support and helped him resist Tang conquest longer than most
+  rival Chinese rulers. His territory gradually shrank as Tang armies advanced and followers
+  defected. When turmoil weakened his Turkish allies, Tang launched a campaign in 628. Liang's
+  cousin Liang Luoren killed him and surrendered the remaining government, completing Tang's
+  defeat of this rival state.
 periods:
 - start: 617
   end: 628

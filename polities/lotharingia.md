@@ -2,6 +2,15 @@
 id: lotharingia
 name: "Lotharingia"
 wikipedia: https://en.wikipedia.org/wiki/Lotharingia
+description: >-
+  Lotharingia lay between the Rhine and the western Frankish lands, spanning parts of today's France,
+  Germany, Belgium, Netherlands, and Luxembourg. It began as Lothair II's kingdom in the partition of
+  Middle Francia at Prüm in 855. His death in 869 left no legitimate heir, and neighbouring kings
+  divided the realm. Arnulf restored a separate kingship for his son Zwentibold in 895. After
+  Zwentibold died in 900, regional nobles and dukes continued governing while shifting allegiance
+  between East and West Francia. Its old Frankish centres made it a prized borderland, not merely an
+  empty strip between kingdoms. Duke Gilbert died rebelling against Otto I in 939, after which royal
+  appointment of dukes replaced local autonomy. Division into two duchies followed later.
 periods:
 - start: 855
   end: 869

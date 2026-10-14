@@ -1,5 +1,16 @@
 ---
 id: kalachuri_kalyani
+description: >-
+  The Kalachuri Kingdom of Kalyani controlled parts of the Deccan in present Karnataka and
+  Maharashtra from 1157 to 1183. Its rulers had previously served the Western Chalukyas, but
+  Bijjala captured their capital, Kalyani, and asserted imperial authority. The kingdom was a
+  hereditary monarchy supported by regional officials. Kannada and Sanskrit inscriptions,
+  coinage, and religious foundations provide evidence of its administration and patronage. The
+  period also saw the movement associated with Basava and the emergence of the Lingayat
+  tradition, amid tensions concerning religion and social order. Bijjala's successors struggled
+  to maintain the realm as other regional powers expanded. The Chalukyas gradually recovered
+  territory and regained Kalyani in 1183, ending the independent government represented here
+  rather than the dynasty's earlier subordinate history.
 name: "Kalachuri Kingdom of Kalyani"
 wikipedia: https://en.wikipedia.org/wiki/Kalachuris_of_Kalyani
 periods:

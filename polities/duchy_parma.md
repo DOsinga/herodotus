@@ -1,5 +1,15 @@
 ---
 id: duchy_parma
+description: >-
+  The Duchy of Parma was a hereditary state in northern Italy, founded in 1545 when Pope
+  Paul III granted Parma and Piacenza to his son Pier Luigi Farnese. The Farnese court
+  developed the territory as a small monarchy between larger European powers. After the
+  dynasty ended, Bourbon rulers inherited the duchy, but Austrian control interrupted its
+  separate government from 1735 to 1748. Bourbon rule resumed before French administration
+  began after Duke Ferdinand's death in 1802. The duchy returned in 1814 under Marie Louise,
+  Napoleon's former wife, and later passed back to the Bourbon Parma family. Parma remained
+  its seat throughout these changes. During Italian unification, the ruling duchess fled in
+  1859, and the territory came under the Kingdom of Sardinia.
 name: Duchy of Parma
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Parma_and_Piacenza
 periods:

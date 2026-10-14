@@ -2,6 +2,8 @@
 id: thuringian_kingdom
 name: "Thuringian Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Thuringi
+description: >-
+  The Thuringian Kingdom developed in central Germany during the fifth century, with its emergence placed approximately at 450 here. Its Germanic rulers controlled lands beyond the Rhine as Roman power receded, and reached their greatest strength in the early sixth century. Royal families pursued alliances with neighboring kingdoms; Herminafrid married a niece of the Ostrogothic king Theodoric. Rivalry among brothers and Frankish intervention helped undermine the dynasty. Frankish armies conquered the kingdom in 531, sometimes dated 532, ending this independent royal government. Scithingi, identified traditionally with Burgscheidungen, represents a possible royal seat rather than a proven capital. The Thuringian people and regional identity continued after conquest under Frankish dukes, and later episodes of autonomy belonged to a different political setting.
 periods:
 - start: 450
   end: 531

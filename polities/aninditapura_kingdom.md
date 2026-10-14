@@ -1,5 +1,16 @@
 ---
 id: aninditapura_kingdom
+description: >-
+  Aninditapura was an early Khmer kingdom known chiefly through inscriptions and later royal
+  genealogies. This record places its separate court in the Angkor region of Cambodia during
+  roughly 700 to 802, though its location and political boundaries remain disputed. Its
+  rulers belonged to a royal line associated with Baladitya and Nrpatindravarman, and family
+  connections linked it with Sambhupura. The surviving evidence describes kings, religious
+  foundations, and donations rather than a complete account of government. Aninditapura
+  belongs to the patchwork of courts often grouped under the Chinese name Chenla, not
+  necessarily one united state. Its estimated endpoint marks incorporation into Jayavarman
+  II's expanding kingdom, which laid the foundations of the Khmer Empire. Both the
+  chronology and regional identification remain working reconstructions.
 name: "Aninditapura Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Chenla
 periods:

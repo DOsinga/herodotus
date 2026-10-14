@@ -2,6 +2,17 @@
 id: khwarazm_mamunid
 name: "Kingdom of Khwarazm (Gurganj)"
 wikipedia: https://en.wikipedia.org/wiki/Ma'munids
+description: >-
+  This kingdom governed the irrigated lower Amu Darya region of Central Asia from Gurganj
+  between 995 and 1017. Its rulers belonged to the Mamunid family and used the title
+  Khwarazmshah. Mamun's conquest of Kath in 995 replaced the Afrighid court and united
+  Khwarazm under the northern capital. The fertile oasis retained its distinctive Iranian
+  language and culture despite surrounding deserts and steppes. Gurganj also became a
+  notable centre of scholarship, attracting Avicenna, mathematicians, physicians, and
+  writers. Its rulers also sponsored buildings, including a minaret associated with Mamun
+  II. Pressure from Mahmud of Ghazni forced an acknowledgment of his supremacy, provoking
+  opposition among local officers. Mamun II's murder supplied Mahmud with a pretext for
+  conquest in 1017, ending the family's government.
 periods:
 - start: 995
   end: 1017

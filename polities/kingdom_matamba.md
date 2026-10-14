@@ -2,6 +2,8 @@
 id: kingdom_matamba
 name: Kingdom of Matamba
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Matamba
+description: >-
+  Matamba was a kingdom in the Baixa de Cassanje region of present Angola, east of Malanje. First documented in 1530 as a tributary of Kongo, it was an established state whose earlier origins remain unclear. Kings and queens governed it, with royal councils and powerful military leaders influencing succession. Queen Njinga conquered Matamba in the early seventeenth century and made it the base of her combined Ndongo and Matamba domains. She fought Portuguese expansion, sought Dutch support, and later negotiated peace while supporting Christianity. Her successors continued balancing diplomacy, warfare, and the slave trade. Portuguese claims of vassalage did not immediately end local government. Incorporation into Portuguese Angola came in the late nineteenth century, represented here by an estimated 1880.
 periods:
 - start: 1530
   end: 1880

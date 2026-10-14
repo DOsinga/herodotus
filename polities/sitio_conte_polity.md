@@ -2,6 +2,8 @@
 id: sitio_conte_polity
 name: "Sitio Conte chiefdom"
 type: chiefdom
+description: >-
+  The Sitio Conte chiefdom represents a ranked community in central Panama, known chiefly from a cemetery beside the Río Grande de Coclé. Rich burials dated approximately 450 to 900 contain gold ornaments, elaborate brightly painted pottery, carved animal materials, and other valuable objects. Their unequal distribution and arrangements around principal individuals suggest powerful local leaders and dependants, rather than evidence for a documented kingdom. Some graves may represent chiefly families or associated groups, making the extent of one political community uncertain. The record therefore concerns this local centre, not the whole Gran Coclé cultural region. Archaeological interpretation also faces limits from early excavation methods. Cemetery use ended around 900, although domestic remains suggest people continued living at the site afterwards.
 wikipedia: https://en.wikipedia.org/wiki/Sitio_Conte
 periods:
 - start: 450

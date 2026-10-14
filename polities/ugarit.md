@@ -1,6 +1,17 @@
 ---
 id: ugarit
 name: "Ugarit"
+description: >-
+  Ugarit was a coastal kingdom in northern Syria, near modern Latakia, represented here from
+  about 1450 to 1350 BCE. Its kings governed a centre connecting inland Syria with eastern
+  Mediterranean shipping routes. Trade linked its merchants with Egypt, Cyprus, Aegean
+  communities, and neighbouring Levantine cities. Palace administration and diplomatic
+  correspondence reveal a literate royal government, while excavated tablets preserve religious
+  stories, economic records, and the alphabetic cuneiform script. The kingdom acknowledged
+  Egyptian supremacy while retaining its own affairs. Around 1350 BCE, Niqmaddu II accepted a
+  treaty with the Hittite ruler Suppiluliuma I that restricted independent diplomacy and bound
+  Ugarit to Hittite foreign policy. Local kings continued thereafter, but this record ends at
+  that loss of autonomy, before the city's destruction.
 wikipedia: https://en.wikipedia.org/wiki/Ugarit
 periods:
 - start: -1450

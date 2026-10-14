@@ -1,5 +1,16 @@
 ---
 id: mecklenburg
+description: >-
+  Mecklenburg occupied the Baltic coast of northeastern Germany and grew from the lands of the Slavic
+  Obotrites. In 1167 Henry the Lion restored Prince Pribislav as a vassal, allowing a native ruling
+  family to continue after conquest. His descendants adopted Christianity and presided over German
+  settlement, towns, and changing relations with neighboring powers. They received ducal rank in 1348
+  within the Holy Roman Empire. The dynasty repeatedly divided its inheritance into separately
+  administered branches, making Mecklenburg's political history more complicated than a single
+  uninterrupted court. Schwerin was an important seat, but other branches ruled elsewhere. Reunions
+  alternated with new partitions. The settlement of 1701 created Mecklenburg-Schwerin and
+  Mecklenburg-Strelitz, ending the broader entity represented here while preserving the family and
+  name.
 name: Duchy of Mecklenburg
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Mecklenburg
 periods:

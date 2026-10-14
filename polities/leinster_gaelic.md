@@ -1,6 +1,16 @@
 ---
 id: leinster_gaelic
 name: Gaelic Kingdom of Leinster
+description: >-
+  The Gaelic Kingdom of Leinster governed eastern Ireland from an estimated fifth-century beginning
+  until the loss of separate native government in 1603. Kingship passed among rival branches of the
+  Laigin, later rotating between three families of the northern Uí Dúnlainge. In the eleventh century
+  the southern Uí Cheinnselaig regained the leading position, producing the Mac Murchadha dynasty.
+  Diarmait Mac Murchadha's efforts to recover his throne helped bring Norman forces to Ireland in the
+  twelfth century. Their conquests sharply reduced the territory controlled by native kings, but the
+  Caomhánach branch continued to rule a smaller domain. Later rulers resisted English expansion and
+  negotiated with neighboring powers. Enniscorthy represents this later royal region, not a capital
+  serving the kingdom throughout its history.
 wikipedia: https://en.wikipedia.org/wiki/Kings_of_Leinster
 periods:
 - start: 450

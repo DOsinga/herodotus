@@ -1,5 +1,16 @@
 ---
 id: indo_greek_west
+description: >-
+  The Western Indo-Greek kingdom represents rulers who held both the Kabul region and
+  Gandhara between approximately 130 and 100 BCE. Their territory connected the valleys
+  south of the Hindu Kush with centres such as Taxila in present-day Pakistan. These
+  monarchs emerged from the fragmented Greek kingdoms established after Alexander's
+  conquests, but their exact succession and boundaries remain uncertain. Coins provide
+  much of the evidence, combining Greek royal portraits and titles with local scripts and
+  religious imagery. Antialcidas is also known through the Heliodorus pillar, which
+  records his envoy's presence at an Indian court. Contacts crossed cultural and political
+  borders rather than creating a purely Greek society. Around 100 BCE, the western
+  territories separated into governments in the Paropamisadae and Gandhara.
 name: "Western Indo-Greek kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Indo-Greek_Kingdom
 periods:

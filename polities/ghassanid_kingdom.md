@@ -1,5 +1,17 @@
 ---
 id: ghassanid_kingdom
+description: >-
+  The Ghassanid Kingdom joined Arab tribes under Jafnid rulers along the Byzantine
+  frontier in Syria and neighboring lands. Securely attested leadership begins in 473,
+  rather than with the earlier dates of legendary genealogies. Kings based around
+  Jabiyah governed communities while serving Byzantium as military allies and frontier
+  commanders. They fought the Lakhmids, who supported Sasanian Persia, and became
+  influential during the sixth century. Their support for Miaphysite Christianity
+  sometimes strained relations with the imperial church and court. Emperor Maurice
+  dissolved the frontier administration in 582, replacing it with multiple chiefs;
+  restored government followed in 585. Byzantine defeat at Yarmuk in 636 ended
+  Ghassanid control of its governing territory, although Christian communities and
+  members of the ruling family survived the conquest.
 name: "Ghassanid Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Ghassanids
 periods:

@@ -1,5 +1,15 @@
 ---
 id: becan_polity
+description: >-
+  Becan was a Maya regional centre in what is now Campeche, Mexico, represented here from about
+  300 BCE to 900 CE. Its ancient name and rulers are not securely known. A broad ditch and
+  ramparts enclosed its ceremonial core, making its fortifications unusually prominent among Maya
+  sites. Settlement began earlier, around 550 BCE, and grew into a substantial population centre
+  during the late Preclassic period. Activity declined during the early Classic before renewed
+  growth around 500 brought large buildings in the distinctive Rio Bec style. Imported objects
+  show connections with Teotihuacan. Major construction and elite monuments stopped around 830.
+  The estimated endpoint concerns political institutions, not complete abandonment: pottery
+  indicates that smaller communities continued living there for several centuries afterward.
 name: "Becan"
 wikipedia: https://en.wikipedia.org/wiki/Becan
 periods:

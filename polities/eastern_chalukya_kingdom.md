@@ -1,5 +1,17 @@
 ---
 id: eastern_chalukya_kingdom
+description: >-
+  The Eastern Chalukya Kingdom of Vengi occupied coastal Andhra in southeastern India
+  from approximately 642 to 1075. Vishnuvardhana had governed the region for Badami
+  Chalukyas before their collapse allowed his successors to rule independently. A
+  hereditary monarchy developed around Vengi and later centres, supported by ministers,
+  military commanders and local landholding families. Inscriptions record grants and the
+  ties connecting rulers to temples and settlements. Dynastic disputes repeatedly
+  invited intervention by the Rashtrakutas, western Chalukyas and Cholas, but native
+  kings continued governing through changing overlordships. Court patronage helped
+  Telugu literature flourish, notably through Nannaya's work under Rajaraja Narendra.
+  Marriage alliances drew the ruling house closer to the Cholas. After Vijayaditya VII
+  died in 1075, Chola royal viceroys replaced the local kings.
 name: "Eastern Chalukya Kingdom of Vengi"
 wikipedia: https://en.wikipedia.org/wiki/Eastern_Chalukyas
 periods:

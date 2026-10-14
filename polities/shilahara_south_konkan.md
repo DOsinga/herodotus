@@ -1,6 +1,17 @@
 ---
 id: shilahara_south_konkan
 name: "Shilahara Kingdom of South Konkan"
+description: >-
+  The southern Shilahara kingdom governed the coastal strip between the Western Ghats and
+  Arabian Sea, around Kharepatan and Goa, from approximately 765 to 1020. Sanaphulla founded
+  this branch with Rashtrakuta support, separately from the later courts at Thane and
+  Kolhapur. Its hereditary rulers controlled forts, towns, and coastal territory while
+  responding to the larger powers of the Deccan. The Kharepatan copperplates issued by
+  Rattaraja in 1008 supply much of its history, recording his ancestors and their campaigns.
+  They describe fort building at Vallipattana and struggles around Chandor in Goa. After
+  Rashtrakuta power collapsed, the southern court acknowledged the Western Chalukyas.
+  Rattaraja was its last known king. Chalukya expansion ended the branch around 1020, although
+  the exact final date remains uncertain.
 wikipedia: https://en.wikipedia.org/wiki/Shilahara
 periods:
 - start: 765

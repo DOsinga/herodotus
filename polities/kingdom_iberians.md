@@ -1,5 +1,17 @@
 ---
 id: kingdom_iberians
+description: >-
+  The Kingdom of the Iberians was a Georgian monarchy in Tao-Klarjeti, across parts of
+  northeastern Turkey and southwestern Georgia, from 888 to 1008. Adarnase's assumption
+  of kingship began its royal period after earlier Bagratid princely rule. Its rulers
+  operated among powerful neighboring kingdoms, Arab emirs, and the Byzantine Empire,
+  drawing authority from noble alliances and dynastic inheritance. Artanuji was an
+  earlier center, but no single capital represents every reign. Monasteries in the
+  region fostered Georgian religious life, writing, and architecture. Different
+  Bagratid branches governed separate territories, and Upper Tao's Byzantine annexation
+  should not be confused with this royal line's fate. In 1008 Bagrat III inherited
+  Gurgen's kingdom and joined it with his Abkhazian realm, creating the united Kingdom
+  of Georgia.
 name: "Kingdom of the Iberians"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_the_Iberians
 periods:

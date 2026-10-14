@@ -2,6 +2,18 @@
 id: bremen
 name: Bremen
 wikipedia: https://en.wikipedia.org/wiki/Bremen
+description: >-
+  Bremen was a self-governing commercial city on the Weser in northwestern Germany.
+  This record covers its council government from 1250 until French annexation in 1810,
+  and its restored independence from 1813 to 1867. Although its archbishops claimed
+  lordship, the city's merchants and council increasingly directed its affairs.
+  Hanseatic connections linked Bremen to wider northern European trade, and the
+  Reformation brought Lutheran and later Reformed influences. Imperial recognition in
+  1646 confirmed its standing as a free city. Napoleonic annexation interrupted that
+  autonomy before local government returned. In the nineteenth century, overseas
+  commerce expanded, helped by the new harbour at Bremerhaven. Bremen remained a
+  republic, but joining the North German Confederation in 1867 transferred its military
+  and foreign policy to federal authorities.
 periods:
 - start: 1250
   end: 1810

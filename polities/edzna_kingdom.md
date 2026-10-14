@@ -1,5 +1,17 @@
 ---
 id: edzna_kingdom
+description: >-
+  Edzna was a Maya kingdom centred in present Campeche, Mexico. Although the site was
+  inhabited centuries earlier, its emergence as a major urban government is estimated here
+  around 200 CE. Rulers presented their authority through religious ceremony and
+  monumental construction, leaving temples, plazas, inscriptions and a ball court. The
+  city developed an extensive system of canals and reservoirs that managed seasonal water,
+  supported farming and helped sustain its population. During the Late Classic, its own
+  royal government operated within Calakmul's alliance network. Architectural styles
+  connected Edzna with other centres across the Maya region. Around 1000, the royal
+  building sequence ended, providing the estimated endpoint for this record. Settlement
+  continued much later, but the continuity of its political institutions remains
+  uncertain.
 name: "Kingdom of Edzna"
 wikipedia: https://en.wikipedia.org/wiki/Edzna
 periods:

@@ -1,5 +1,16 @@
 ---
 id: later_gupta_magadha
+description: >-
+  The Later Gupta kingdom was based in Magadha, in present day Bihar, from approximately 490
+  to 750, with an interruption around 600. Its rulers shared the Gupta name but are not
+  securely identified as descendants of the earlier imperial dynasty. Inscriptions provide
+  much of their genealogy and record campaigns against neighbouring powers. The kings
+  competed with the Maukharis for influence in the Ganges valley and fought rulers of Gauda
+  and Kamarupa. Loss of Magadha displaced the court before Harsha restored Madhavagupta's
+  government around 606. Recognition of Harsha's supremacy did not eliminate the local royal
+  administration. Later rulers, notably Adityasena, renewed regional ambitions. Yashovarman
+  of Kannauj eventually defeated the kingdom. The dates of its first rulers and final
+  conquest remain uncertain.
 name: "Later Gupta Kingdom of Magadha"
 wikipedia: https://en.wikipedia.org/wiki/Later_Gupta_dynasty
 periods:

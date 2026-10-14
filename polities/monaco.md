@@ -2,6 +2,17 @@
 id: monaco
 name: Monaco
 wikipedia: https://en.wikipedia.org/wiki/Monaco
+description: >-
+  Monaco is a small principality on the Mediterranean coast, surrounded on land by France.
+  This record begins with the Grimaldi family's seizure of its fortress in 1297. Their rule
+  survived repeated struggles with Genoa and changing relationships with larger neighbours.
+  France annexed Monaco in 1793, and the principality was restored in 1814 after Napoleon's
+  defeat. A treaty with France in 1861 confirmed its sovereignty while transferring Menton and
+  Roquebrune to France. The prince remains an important part of its constitutional government,
+  alongside an elected National Council and a minister of state. Casino development, tourism
+  and financial services transformed the modest coastal territory. Monaco retains its own
+  institutions and foreign relations, although France is responsible for its defence under
+  bilateral agreements.
 periods:
 - start: 1297
   end: 1793

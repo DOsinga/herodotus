@@ -1,5 +1,15 @@
 ---
 id: ostrogothic_kingdom
+description: >-
+  The Ostrogothic Kingdom governed Italy and neighbouring lands from 493 to 553, beginning when
+  Theodoric defeated and killed Odoacer. Ravenna was its main capital, and Theodoric combined Gothic
+  military leadership with much of the Roman civil administration, Senate, and legal tradition. Goths
+  and Romans retained important distinctions, including religious differences between Arian rulers and
+  predominantly Catholic subjects. The kingdom prospered under Theodoric but faced succession disputes
+  and worsening relations with Constantinople after his death. Justinian's armies invaded in 535,
+  beginning a long war that devastated Italy. Ravenna fell in 540, yet Gothic kings continued
+  resistance, with later courts operating from Pavia. Totila recovered territory before defeat; Teia's
+  fall at Mons Lactarius in 553 marks the end of the kingdom here.
 name: "Ostrogothic Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Ostrogothic_Kingdom
 periods:

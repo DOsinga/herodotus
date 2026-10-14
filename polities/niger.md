@@ -2,6 +2,18 @@
 id: niger
 name: Niger
 wikipedia: https://en.wikipedia.org/wiki/Niger
+description: >-
+  Niger is a landlocked West African state, independent from France since 1960, with
+  its capital at Niamey on the Niger River. Much of its territory lies in the Sahara,
+  while farming communities and most of the population occupy the southern belt. The
+  colonial boundaries brought together Hausa, Zarma, Tuareg, Kanuri and other peoples
+  with histories extending across neighbouring countries. Hamani Diori first governed
+  through a civilian one-party system. Repeated coups subsequently alternated military
+  governments with attempts at multiparty constitutional rule. The 2023 coup again
+  replaced an elected presidency with military leadership. Uranium mining, agriculture
+  and livestock are important to its economy. Drought, insurgency and disputes over
+  foreign partnerships have shaped public life, without ending the continuity of the
+  independent state.
 periods:
 - start: 1960
   end: null

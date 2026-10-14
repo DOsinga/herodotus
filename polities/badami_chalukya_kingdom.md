@@ -2,6 +2,16 @@
 id: badami_chalukya_kingdom
 name: "Badami Chalukya Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Chalukya_dynasty
+description: >-
+  The Badami Chalukya Kingdom ruled much of India's Deccan plateau from 543 to 753, with its royal
+  seat at Vatapi, now Badami in Karnataka. Pulakeshin I established the dynasty as the Kadamba
+  kingdom weakened. His successors built a monarchy supported by provincial officials and allied
+  local rulers. Pulakeshin II expanded its reach and stopped Harsha's advance at the Narmada, but
+  the Pallavas captured Badami in 642. Chalukya government survived elsewhere until Vikramaditya I
+  recovered the capital. The kingdom's cave shrines and temples at Badami, Aihole and Pattadakal
+  show experiments that helped shape later Indian architecture. Sanskrit and Kannada inscriptions
+  document its rulers. In 753 the Rashtrakuta leader Dantidurga overthrew Kirtivarman II, ending
+  this Chalukya state's rule in the western Deccan.
 periods:
 - start: 543
   end: 753

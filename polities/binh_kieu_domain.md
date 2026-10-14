@@ -1,5 +1,15 @@
 ---
 id: binh_kieu_domain
+description: >-
+  Bình Kiều was the local domain of Ngô Xương Xí in northern Vietnam from 965 to 968. A
+  son of the king Ngô Xương Ngập, he became head of the royal household after his uncle
+  Ngô Xương Văn died in battle. The central Ngô government then fragmented, leaving
+  competing military rulers across the country. Xí retained authority around Bình Kiều,
+  identified with the Triệu Sơn area of present Thanh Hóa, rather than controlling Vietnam
+  as a whole. His position joined royal descent with local military power during the
+  period traditionally called the Twelve Warlords. Đinh Bộ Lĩnh steadily overcame these
+  rival domains. Xí submitted in 968, ending his separate government as Đinh established a
+  new monarchy based at Hoa Lư.
 name: "Bình Kiều under Ngô Xương Xí"
 wikipedia: https://en.wikipedia.org/wiki/Ng%C3%B4_X%C6%B0%C6%A1ng_X%C3%AD
 periods:

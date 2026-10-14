@@ -1,5 +1,16 @@
 ---
 id: kingdom_essex
+description: >-
+  The Kingdom of Essex was an East Saxon monarchy in southeastern England, traditionally
+  founded in 527 and lasting until 825. Its territory included present Essex and, at
+  various times, London and surrounding lands. Colchester was an important royal town.
+  Surviving records are sparse, and the earliest kings and their dates remain uncertain.
+  Members of the royal family sometimes shared rule or governed different districts.
+  Christianity gained royal support in the seventh century, although early conversions
+  were followed by returns to pagan worship. Essex frequently acknowledged stronger kings
+  in Kent or Mercia while retaining its native rulers, charters and coinage. London passed
+  out of its control earlier. In 825, King Sigered surrendered to Egbert of Wessex, ending
+  the East Saxon kingdom.
 name: "Kingdom of Essex"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Essex
 periods:

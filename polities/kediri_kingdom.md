@@ -1,5 +1,16 @@
 ---
 id: kediri_kingdom
+description: >-
+  Kediri was a Hindu Buddhist monarchy in eastern Java, centred on Daha near modern
+  Kediri in the Brantas valley. Its first period began with the division of Airlangga's
+  kingdom in 1042 and lasted until 1222. Also called Panjalu, it competed with and
+  eventually absorbed neighbouring Janggala. Kings such as Jayabhaya supported a court
+  culture remembered for Old Javanese poetry, including adaptations of Indian epics.
+  Rice agriculture sustained the kingdom, while trade linked Java with wider Asian
+  networks. Kertajaya's defeat by Ken Arok at Ganter brought it under Singhasari.
+  Jayakatwang briefly restored a ruling court at Daha in 1292 after overthrowing
+  Singhasari's king. Mongol intervention and Raden Wijaya's rise ended that revival in
+  1293, opening the way for the Majapahit kingdom.
 name: Kediri Kingdom
 wikipedia: https://en.wikipedia.org/wiki/Kediri_Kingdom
 periods:

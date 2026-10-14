@@ -1,5 +1,7 @@
 ---
 id: duchy_croatia_early
+description: >-
+  The Duchy of Croatia developed along the eastern Adriatic and its inland hinterland around the beginning of the ninth century. Its dukes ruled through local elites, with Nin among several seats rather than a permanent capital. Borna appears in Frankish records, while later charters identify Croatian rulers clearly. The duchy stood between Frankish influence, Byzantine coastal interests and neighbouring Slavic territories. Christianity and ties with Rome helped shape royal legitimacy, notably under Branimir. Trpimir's dynasty became an important ruling family, though succession was not uninterrupted. Dukes fought over coastal access and relations with Venice and other powers. Tomislav's designation as king in 925 marks the transition to the Croatian kingdom, without establishing an exact coronation date or a founding ceremony.
 name: "Early Duchy of Croatia"
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Croatia
 periods:

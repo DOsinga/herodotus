@@ -1,6 +1,16 @@
 ---
 id: oudh_state
 name: Oudh State
+description: >-
+  Oudh was a state in the fertile plains of northern India, governing itself from 1722 until the
+  subsidiary treaty of 1801. Saadat Khan began consolidating authority as a Mughal provincial
+  governor, and his successors turned that office into a hereditary nawabship. They retained
+  imperial titles while pursuing their own military and political interests. The court moved
+  through Ayodhya and Faizabad before settling at Lucknow, which became known for architecture,
+  poetry, music, and Shiite religious patronage. Agricultural revenues attracted the East India
+  Company's attention. Defeat at Buxar in 1764 brought growing financial and military dependence.
+  The 1801 agreement ceded territory and placed defence and foreign relations under Company
+  control. Nawabs continued domestic rule until Britain annexed the remaining state in 1856.
 wikipedia: https://en.wikipedia.org/wiki/Oudh_State
 periods:
 - start: 1722

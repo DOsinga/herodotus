@@ -1,5 +1,14 @@
 ---
 id: great_moravia
+description: >-
+  Great Moravia was a Slavic kingdom centered in Moravia and western Slovakia, represented here from
+  Mojmír's consolidation in 833 to its estimated collapse in 907. Hereditary rulers of the Mojmír
+  dynasty governed through fortified centers, including Mikulčice, whose rank among royal residences remains uncertain. The
+  realm repeatedly fought and negotiated with the East Frankish kingdom, expanding most strongly under Svatopluk
+  I. Rastislav invited the Byzantine missionaries Cyril and Methodius in 863, encouraging Christian teaching in
+  a Slavic language and the development of the Glagolitic alphabet. Religious disputes connected local politics
+  with Rome and neighboring clergy. Succession struggles weakened the kingdom after Svatopluk's death. Magyar attacks
+  helped bring down its government between 902 and 907, although the sequence remains imperfectly documented.
 name: "Great Moravia"
 wikipedia: https://en.wikipedia.org/wiki/Great_Moravia
 periods:

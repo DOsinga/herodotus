@@ -1,5 +1,17 @@
 ---
 id: lubaantun_polity
+description: >-
+  Lubaantun was a Maya urban community in the hills of southern Belize, active
+  approximately between 700 and 900. Its strongest development occurred during the
+  eighth and ninth centuries. The ancient city's name and sequence of rulers are
+  unknown, so its political history is reconstructed mainly from buildings and excavated
+  objects. Large terraces, pyramids and ball courts suggest organised labour and a local
+  governing centre. Builders used fitted stone blocks without mortar, with rounded
+  corners and distinctive projecting courses. Numerous moulded ceramic whistles and
+  figurines depict people, ritual dress and activities. The city's position near
+  waterways connected inland production, including cacao, with wider trade networks. It
+  was abandoned around the end of the Classic period, leaving no clearly documented
+  successor government.
 name: "Lubaantun"
 wikipedia: https://en.wikipedia.org/wiki/Lubaantun
 periods:

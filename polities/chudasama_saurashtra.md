@@ -2,6 +2,17 @@
 id: chudasama_saurashtra
 name: "Chudasama Kingdom of Saurashtra"
 wikipedia: https://en.wikipedia.org/wiki/Chudasama_dynasty
+description: >-
+  The Chudasama kingdom governed parts of Saurashtra, the peninsula of western Gujarat,
+  from a traditionally dated foundation around 875 until 1472. Its Hindu kings first ruled
+  from Vamanasthali and later made Junagadh an important seat. Early rulers survive mainly
+  in conflicting bardic traditions, while inscriptions and Jain chronicles provide firmer
+  evidence for later centuries. The kings fought the Chaulukyas and sometimes accepted the
+  overlordship of more powerful Gujarati states without losing their own local government.
+  Girnar's fortified landscape became central to their power. As Delhi and then Gujarat
+  expanded, the Chudasamas alternated between independence and subordinate relations.
+  Sultan Mahmud Begada's conquest culminated in the capture of Girnar in 1472, the defeat
+  of Mandalika III, and the annexation of the kingdom.
 periods:
 - start: 875
   end: 1472

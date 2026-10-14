@@ -1,6 +1,16 @@
 ---
 id: spoleto
 name: "Duchy of Spoleto"
+description: >-
+  The Duchy of Spoleto emerged during the Lombard conquest of central Italy, traditionally dated to
+  571. Its dukes ruled from Spoleto over changing territories in the central Apennines, commanding
+  routes between Rome, Ravenna and the Adriatic. Although they acknowledged Lombard kings and later
+  Frankish and imperial overlords, they often conducted their own wars, alliances and negotiations.
+  Dukes such as Ariulf dealt directly with the papacy, while the later Widonid family produced rulers
+  who became kings and emperors. Authority and territory shifted repeatedly through succession
+  disputes, outside intervention and grants to the Church. Emperor Frederick Barbarossa destroyed
+  Spoleto in 1155 after resistance to his demands. Papal power subsequently grew, and control in 1201
+  ended the duchy as a separately governed entity.
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Spoleto
 periods:
 - start: 571

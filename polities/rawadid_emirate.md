@@ -2,6 +2,8 @@
 id: rawadid_emirate
 name: "Rawadid Emirate"
 wikipedia: https://en.wikipedia.org/wiki/Rawadid_dynasty
+description: >-
+  The Rawadid Emirate governed Tabriz and neighboring districts of Iranian Azerbaijan, emerging around 900 from a family's earlier role in caliphal administration. Its rulers were Muslim emirs of Arab ancestry who became closely associated with Kurdish society. Expansion against the Sallarids in the late tenth century made them an regional power, with interests extending toward Armenia. Wahsudan, the best documented ruler, received praise from the Persian poet Qatran Tabrizi and dealt with incoming Oghuz groups through settlement, alliance, and warfare. Earthquakes and Turkish military pressure weakened the emirate. Acceptance of Seljuk supremacy in 1054 did not immediately replace its own government. That ended when Alp Arslan removed Mamlan in 1071; subsequent careers of Rawadid relatives did not restore this state.
 periods:
 - start: 900
   end: 1071

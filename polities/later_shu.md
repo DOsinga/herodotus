@@ -1,5 +1,15 @@
 ---
 id: later_shu
+description: >-
+  Later Shu was a Chinese monarchy based at Chengdu in present-day Sichuan from 934 to
+  965, during the Five Dynasties and Ten Kingdoms period. Its founder, Meng Zhixiang, had
+  served Later Tang after that dynasty conquered the earlier kingdom of Former Shu. He
+  built his own regional power and declared himself emperor in 934, establishing a new
+  state rather than continuing the Wang family's kingdom. He died that same year, and his
+  son Meng Chang governed for the remainder of Later Shu's existence. The surrounding
+  mountains helped separate Sichuan from the northern dynasties, but could not preserve
+  its independence during Song expansion. Song forces conquered the kingdom in 965, and
+  Meng Chang surrendered, bringing Sichuan under the reunited empire's government.
 name: "Later Shu"
 wikipedia: https://en.wikipedia.org/wiki/Later_Shu
 periods:

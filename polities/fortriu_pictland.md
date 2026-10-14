@@ -1,5 +1,15 @@
 ---
 id: fortriu_pictland
+description: >-
+  Fortriu was a leading Pictish kingdom in northern Scotland, probably centred on Moray and Easter
+  Ross rather than the southern location once assumed. Its royal government is represented here
+  from an estimated 600 to the conventional transition to Alba in 843. Burghead stands for an
+  important northern centre, not a identified capital. Kings associated with Fortriu exercised
+  influence over other Pictish communities and fought neighbouring Northumbrian, British and
+  Gaelic rulers. Their prominence helped make Fortriu's name a shorthand for wider Pictland in
+  some accounts. Forts, sculpture and surviving annal entries illuminate the realm, but leave much
+  uncertain. Viking warfare and dynastic changes accompanied the emergence of Alba under Kenneth
+  MacAlpin and his successors, a process extending beyond any single year.
 name: "Pictish Kingdom of Fortriu"
 wikipedia: https://en.wikipedia.org/wiki/Fortriu
 periods:

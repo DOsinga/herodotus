@@ -1,5 +1,15 @@
 ---
 id: tang_dynasty
+description: >-
+  The Tang ruled China from 618 to 907, interrupted by Wu Zetian's separate Zhou regime from 690
+  to 705. Founded by the Li family during the collapse of Sui rule, it governed through
+  emperors, ministries, provincial officials, and an expanding system of examinations. Chang'an
+  became a great international city, connected to Central Asian trade and filled with merchants,
+  religious communities, and foreign visitors. Poetry, painting, and printing flourished
+  alongside campaigns into Inner Asia. The An Lushan rebellion devastated the empire and
+  strengthened military governors, although the court survived. Later rebellions and regional
+  independence further reduced its power. The court moved to Luoyang before Zhu Wen ended Tang
+  rule in 907 and established Later Liang. Tang institutions influenced East Asian societies.
 name: "Tang dynasty"
 wikipedia: https://en.wikipedia.org/wiki/Tang_dynasty
 periods:

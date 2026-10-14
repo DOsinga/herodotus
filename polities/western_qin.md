@@ -1,5 +1,16 @@
 ---
 id: western_qin
+description: >-
+  Western Qin was a kingdom in northwestern China, governed by the Qifu clan of Xianbei
+  origin. It controlled parts of modern Gansu and later northeastern Qinghai during the
+  Sixteen Kingdoms period. Qifu Guoren founded its independent government in 385 amid
+  Former Qin's collapse. His successors used royal titles and shifted their capitals
+  repeatedly; Fuhan, near modern Linxia, became the longest-lasting seat. In 400, Qifu
+  Gangui surrendered to Later Qin, interrupting the kingdom's separate rule. He restored
+  it in 409, and his son Qifu Chipan expanded its lands, absorbing Southern Liang.
+  Diplomatic submission to stronger neighbors accompanied continued local government.
+  Pressure from rival states eventually reduced its position. Xia captured the last king,
+  Qifu Mumo, in 431 and destroyed the kingdom.
 name: "Western Qin"
 wikipedia: https://en.wikipedia.org/wiki/Western_Qin
 periods:

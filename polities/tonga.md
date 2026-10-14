@@ -1,5 +1,16 @@
 ---
 id: tonga
+description: >-
+  Tonga is an island kingdom in the southwestern Pacific, governed from Nukuʻalofa on Tongatapu.
+  George Tupou I united the islands under his monarchy in 1845, drawing together older chiefly
+  traditions and a new Christian political order. A written constitution followed in 1875,
+  setting out royal government, rights, and institutions. In 1900 Tonga became a British
+  protected state: its monarchy survived, but Britain controlled external affairs. That period
+  forms the gap in this record, which resumes with full independence in 1970. Tonga has retained
+  its indigenous royal dynasty while expanding parliamentary representation and transferring more
+  executive responsibility to elected government. Its history includes continuing debates over
+  the balance between king, nobles, and commoners, alongside the challenges facing a dispersed
+  island nation.
 name: Tonga
 wikipedia: https://en.wikipedia.org/wiki/Tonga
 periods:

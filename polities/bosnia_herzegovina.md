@@ -1,5 +1,16 @@
 ---
 id: bosnia_herzegovina
+description: >-
+  Bosnia and Herzegovina is a Balkan state governed from Sarajevo, independent since the breakup
+  of Yugoslavia in 1992. Its declaration of independence was followed by a war involving Bosniak,
+  Serb, and Croat forces, mass displacement, and atrocities. The Dayton peace agreement ended the
+  war in 1995 and established the framework of the continuing state. National institutions
+  include a collective presidency, parliament, and council of ministers, while substantial
+  authority belongs to the Federation of Bosnia and Herzegovina and Republika Srpska. Brčko has a
+  separate district arrangement. International supervision through the High Representative
+  remains part of the settlement. The country's political life is shaped by power sharing, ethnic
+  representation, and disputes over central authority, alongside efforts to rebuild and deepen
+  European integration.
 name: Bosnia and Herzegovina
 wikipedia: https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
 periods:

@@ -1,6 +1,15 @@
 ---
 id: dal_riata
 name: "Dál Riata"
+description: >-
+  Dál Riata was a Gaelic kingdom spanning western Scotland and northeastern Ireland, linked by the waters
+  of the North Channel. Its emergence is placed around 500, although stories naming Fergus Mór as
+  its founder do not provide a secure foundation date. In Scotland, several royal kindreds held districts
+  including Kintyre, Islay, Lorn and Cowal. Dunadd was an important fortified royal centre, and sea travel
+  connected territories that appear divided on a modern map. The monastery of Iona gave the kingdom
+  a role in Christian learning and missionary activity. Warfare with neighbouring Picts and Northumbrians reshaped its
+  fortunes. Its later history is poorly understood; incorporation into Alba is conventionally placed in 843, without
+  implying a precisely documented or sudden political union.
 wikipedia: https://en.wikipedia.org/wiki/D%C3%A1l_Riata
 periods:
 - start: 500

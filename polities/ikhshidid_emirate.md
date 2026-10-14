@@ -1,5 +1,15 @@
 ---
 id: ikhshidid_emirate
+description: >-
+  The Ikhshidid Emirate governed Egypt and parts of Syria from 935 to 970, with its
+  principal court at Fustat. Muhammad ibn Tughj secured Egypt in 935 and received the
+  title al Ikhshid from the Abbasid caliph. Although it recognized the caliph's standing,
+  the government controlled its own administration and army. Its territory also included
+  Palestine and influence over the holy cities of Arabia. After the founder's death, the
+  former slave Kafur became the strongest figure behind his heirs and eventually ruled
+  openly. Court politics, military pressures, and years of famine weakened the state after
+  Kafur's death. Fatimid forces conquered Egypt in 969. An Ikhshidid remnant continued in
+  Syria until March 970, when its ruler was defeated and captured, ending resistance.
 name: "Ikhshidid Emirate"
 wikipedia: https://en.wikipedia.org/wiki/Ikhshidid_dynasty
 periods:

@@ -1,5 +1,16 @@
 ---
 id: caliphate_cordoba
+description: >-
+  The Caliphate of Córdoba governed much of Muslim Iberia from 929 to 1031, with
+  possessions and influence across the Strait of Gibraltar. Abd al-Rahman III proclaimed
+  himself caliph, turning the existing Umayyad emirate into a rival of the Abbasid and
+  Fatimid caliphates. Córdoba became a wealthy capital of trade, scholarship and
+  monumental building, while the nearby palace city of Madinat al-Zahra displayed royal
+  power. The caliphs ruled through officials and armies, but the chamberlain Almanzor
+  eventually held effective control behind a young ruler. After his family lost power,
+  civil war began in 1009. Provinces became independent taifa states before Córdoba itself
+  abolished the caliphate in 1031, leaving a smaller local government in place amid the
+  wider fragmentation of Muslim Iberia.
 name: "Caliphate of Córdoba"
 wikipedia: https://en.wikipedia.org/wiki/Caliphate_of_C%C3%B3rdoba
 periods:
