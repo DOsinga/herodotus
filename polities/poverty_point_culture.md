@@ -10,5 +10,5 @@ point:
   name: "Poverty Point"
   latitude: 32.64
   longitude: -91.41
-note: "The start follows the conventional date; years before 1500 BCE have not been audited. Links the article on the site. Both dates are estimates."
+note: "Links the article on the site. Both dates are estimates."
 ---

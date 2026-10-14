@@ -64,6 +64,10 @@ transitions:
   `Y <= end`.
   Different polities can share a changeover year.
 - The last period's `end` is `null` for a polity that still exists.
+- Dates in the second and third millennia BCE depend on the chronology
+  chosen. Use the middle chronology for Mesopotamia and Syria, with Hammurabi
+  reigning 1792–1750 BCE, and the conventional Egyptian dynastic dates. Notes
+  need not repeat this.
 - `point` is a representative place, normally the capital or seat of
   government, with its name. It is a marker for the polity, not a claim about
   its territory. The dots exist for debugging, so two polities sharing a

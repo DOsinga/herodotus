@@ -10,5 +10,5 @@ point:
   name: "Jutland"
   latitude: 55.5
   longitude: 9.5
-note: "The start follows the conventional date; years before 1500 BCE have not been audited. Both dates are estimates; the Jastorf culture follows. The point is representative."
+note: "Both dates are estimates; the Jastorf culture follows. The point is representative."
 ---

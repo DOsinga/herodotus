@@ -9,7 +9,7 @@ point:
   name: "Kerma"
   latitude: 19.6
   longitude: 30.41
-note: "The start follows the conventional date; years before 1500 BCE have not been audited. Links the article on the Kerma culture, which covers the kingdom. Thutmose I's conquest ended it."
+note: "Links the article on the Kerma culture, which covers the kingdom. Thutmose I's conquest ended it."
 transitions:
 - year: -1500
   kind: absorbed_into
