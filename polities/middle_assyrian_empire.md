@@ -9,11 +9,8 @@ point:
   name: "Assur"
   latitude: 35.46
   longitude: 43.26
-note: "Starts with Ashur-uballit I's independence from Mitanni."
+note: "Starts with Ashur-uballit I, who ended Mitanni's overlordship and made Assyria a great power."
 transitions:
-- year: -1363
-  kind: broke_away_from
-  from: [mitanni]
 - year: -912
   kind: succeeded_by
   into: [neo_assyrian_empire]
