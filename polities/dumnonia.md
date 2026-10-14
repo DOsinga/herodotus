@@ -1,6 +1,17 @@
 ---
 id: dumnonia
 name: "Dumnonia"
+description: >-
+  Dumnonia was a Brittonic kingdom in southwestern Britain, covering Devon, Cornwall, and
+  adjoining districts after Roman government disappeared. Its emergence around 450 is an
+  estimate, and surviving evidence gives only an incomplete picture of its kings and
+  institutions. The kingdom drew its name from the earlier Dumnonii people and maintained
+  links across the sea with Brittany. Imported Mediterranean pottery at Tintagel shows the
+  wealth and overseas connections of an elite centre, without proving it was a capital.
+  Christian rulers and churchmen participated in wider debates, including correspondence
+  between Aldhelm and King Geraint. Expansion by Wessex gradually reduced Dumnonian
+  territory. Geraint's defeat in 710 marks the transition used here to a Cornish kingdom,
+  rather than an immediate conquest of the west.
 wikipedia: https://en.wikipedia.org/wiki/Dumnonia
 periods:
 - start: 450

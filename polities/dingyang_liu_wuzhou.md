@@ -2,6 +2,16 @@
 id: dingyang_liu_wuzhou
 name: "Dingyang"
 wikipedia: https://en.wikipedia.org/wiki/Liu_Wuzhou
+description: >-
+  Dingyang was Liu Wuzhou's short lived state in northern China during the collapse of
+  the Sui dynasty. Founded at Mayi in 617, it controlled northern Shanxi and adjoining
+  areas with military support from the Eastern Turks. Liu killed the local Sui governor,
+  opened food stores to the hungry, and raised an army. He adopted an imperial style,
+  although sources differ over whether his title was khan or emperor. His general Song
+  Jingang drove south against the newly established Tang dynasty and captured Taiyuan in
+  619, threatening the Tang rulers' original base. Li Shimin counterattacked, wore down
+  the opposing army, and recovered the region in 620. Liu fled to his Turkish patrons,
+  ending Dingyang's territorial government before his death in exile.
 periods:
 - start: 617
   end: 620

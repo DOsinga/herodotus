@@ -1,5 +1,16 @@
 ---
 id: brunswick_wolfenbuttel
+description: >-
+  Brunswick-Wolfenbüttel was a Welf principality in northern Germany, originating in the
+  Brunswick share of the 1269 division of Brunswick-Lüneburg. Its rulers retained the ducal title
+  while governing lands repeatedly reshaped by inheritance, partition and reunification. Disputes
+  with Brunswick's citizens encouraged the court to move to Wolfenbüttel in 1432, where a palace,
+  chancery and other institutions concentrated princely government. The court became known for
+  its library and cultural patronage. Religious conflict, including the Reformation and the
+  Thirty Years' War, affected the principality's fortunes. The residence later returned to
+  Brunswick. French forces occupied the state in 1806, and its lands entered the Kingdom of
+  Westphalia in 1807. Restoration after Napoleon's defeat produced the Duchy of
+  Brunswick rather than reviving the old principality.
 name: Brunswick-Wolfenbüttel
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Brunswick-Wolfenbüttel
 periods:

@@ -1,5 +1,7 @@
 ---
 id: lamanai_polity
+description: >-
+  Lamanai was a Maya governing centre beside the New River Lagoon in northern Belize, represented here from about 400 BCE to 1544 CE. Earlier occupation preceded its growth into a monumental city. Temples, carved monuments, elite burials, and inscriptions provide evidence of rulers and public ritual during the Classic period. Its name, associated with a submerged crocodile, appears in ancient inscriptions and later Spanish records. Lamanai continued through the Postclassic period instead of disappearing with the collapse of many southern lowland cities. Waterways supported trade, and copper objects reveal connections across the Maya world. Spanish colonial administration began in 1544. Continued settlement and later resistance show the community's endurance, but do not establish the restoration of its earlier independent court.
 name: "Lamanai"
 wikipedia: https://en.wikipedia.org/wiki/Lamanai
 periods:

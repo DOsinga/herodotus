@@ -2,6 +2,17 @@
 id: duchy_modena
 name: Duchy of Modena and Reggio
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Modena_and_Reggio
+description: >-
+  The Duchy of Modena and Reggio governed lands in northern Italy under the Este family
+  and later their Austria-Este successors. This record begins in 1598, when the loss of
+  Ferrara to the papacy made Modena the dynasty's principal seat. Dukes maintained a
+  hereditary court, administration and army, while patronage supported notable artistic
+  and cultural collections. French occupation interrupted their rule from 1702 to 1707,
+  and Austrian occupation did so from 1742 to 1749. Napoleon's advance removed the duke in
+  1796 and placed the territory within successive republican and imperial arrangements.
+  Restoration in 1814 brought the Austria-Este branch to power. The final duke fled in
+  1859 during Italian unification, after which the duchy's lands were joined to Sardinia,
+  ending separate government.
 periods:
 - start: 1598
   end: 1702

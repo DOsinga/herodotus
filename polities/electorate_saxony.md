@@ -1,5 +1,16 @@
 ---
 id: electorate_saxony
+description: >-
+  Electoral Saxony was a Wettin monarchy in central Germany, represented here from the
+  acquisition of Saxe-Wittenberg in 1423 until elevation to a kingdom in 1806. After
+  the family's partition in 1485, this record follows the Albertine rulers at Dresden,
+  initially dukes rather than electors. They obtained the electoral title from their
+  Ernestine cousins in 1547. Saxony became an important Lutheran territory, although
+  Augustus the Strong converted to Catholicism to gain the Polish crown. His court
+  made Dresden a celebrated centre of art and architecture. Prussia occupied and
+  directly administered Saxony during the Seven Years' War, creating the gap from 1756
+  to 1763. Government resumed afterward. Following Napoleon's defeat of Prussia,
+  Saxony entered his alliance and became a kingdom in 1806.
 name: Electorate of Saxony
 wikipedia: https://en.wikipedia.org/wiki/Electorate_of_Saxony
 periods:

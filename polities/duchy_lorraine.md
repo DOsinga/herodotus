@@ -1,5 +1,7 @@
 ---
 id: duchy_lorraine
+description: >-
+  The Duchy of Lorraine occupied lands around Nancy in northeastern France, between the French kingdom and the Holy Roman Empire. Descended from Upper Lorraine, it is represented as independently governed from 1250, with interruptions for Burgundian and French administration. Hereditary dukes balanced imperial ties against French pressure. Charles the Bold occupied the duchy in 1475, but his defeat and death at Nancy in 1477 restored ducal rule. French interventions repeatedly displaced its government during the seventeenth century. Duke Leopold later governed from Lunéville despite renewed occupation. In 1737, Francis Stephen exchanged Lorraine for Tuscany, and Stanisław Leszczyński received the title. French officials then directed administration, ending the duchy's separate government before its annexation to France upon Stanisław's death in 1766.
 name: Duchy of Lorraine
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Lorraine
 periods:

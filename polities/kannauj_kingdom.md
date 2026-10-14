@@ -1,5 +1,16 @@
 ---
 id: kannauj_kingdom
+description: >-
+  The post-Harsha kingdom of Kannauj was a succession of local royal governments in northern
+  India's Ganges plain, recorded from 647 to 836. Harsha's death did not leave his extensive
+  empire intact, but Kannauj remained an important court under rulers including Arunashva,
+  Yashovarman, and the Ayudha kings. Yashovarman supported poets such as Vakpati and Bhavabhuti
+  and sent an envoy to Tang China in 731. Literary accounts praise wide conquests, although
+  historians question their scale. His alliance with Kashmir's Lalitaditya ended in defeat, whose
+  effect on local government remains disputed. Later rulers faced competition from the Palas,
+  Rashtrakutas, and Gurjara-Pratiharas for this prestigious political centre. This record ends
+  with Nagabhata II's conventional incorporation in 836, not with Yashovarman's earlier loss to
+  Kashmir.
 name: "Post-Harsha Kingdom of Kannauj"
 wikipedia: https://en.wikipedia.org/wiki/Yashovarman
 periods:

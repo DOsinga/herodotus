@@ -1,5 +1,17 @@
 ---
 id: zhongshan_state
+description: >-
+  Zhongshan was a small monarchy in northern China, in present Hebei, during the
+  Warring States period. Associated in written sources with the Di peoples, its origins
+  and cultural identity remain debated. This record begins with its restoration in 414
+  BCE, interrupted by Wei's conquest in 407. Restored again around 380, it governed
+  from Lingshou, a fortified capital sheltered by the Taihang Mountains. Its kings
+  adopted practices shared with neighboring Chinese states while maintaining
+  distinctive artistic traditions. Excavated royal tombs contain elaborate bronze
+  vessels, animal figures, and inscriptions, providing unusually rich evidence for its
+  court. Knife coins also show commercial ties, especially with Yan. Zhongshan survived
+  among much larger rivals until Zhao conquered it in 296 BCE, ending its separate
+  government.
 name: "Zhongshan (state)"
 wikipedia: https://en.wikipedia.org/wiki/Zhongshan_(state)
 periods:

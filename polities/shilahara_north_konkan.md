@@ -1,5 +1,16 @@
 ---
 id: shilahara_north_konkan
+description: >-
+  The northern Shilahara kingdom governed the Konkan coast around Thane in western India from
+  approximately 800 until 1265. It was one of three separately ruled Shilahara branches, not a
+  single state covering all their lands. Its hereditary rulers initially acknowledged Rashtrakuta
+  overlordship and later dealt with other powerful neighbours while retaining local government.
+  Their territory included many coastal settlements and trading centres around present day Mumbai
+  and Thane. Inscriptions preserve royal names, grants and relationships with religious
+  institutions. Temple patronage formed an important part of their rule, including the celebrated
+  Shiva temple at Ambarnath. The dynasty's exceptionally long survival reflected its ability to
+  navigate changing regional powers. That separate government ended when the Seuna rulers
+  conquered northern Konkan in 1265.
 name: "Shilahara Kingdom of North Konkan"
 wikipedia: https://en.wikipedia.org/wiki/Shilahara
 periods:

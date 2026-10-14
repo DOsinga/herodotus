@@ -1,5 +1,16 @@
 ---
 id: polonnaruwa_kingdom
+description: >-
+  The Polonnaruwa Kingdom was a Sri Lankan monarchy whose independent rule begins here with
+  Vijayabahu's southern kingship in 1055. He recovered Polonnaruwa from the Cholas in 1070 and
+  made it the centre of a reunited realm. Kings governed through officials and supported Buddhist
+  institutions, while the capital also retained Hindu shrines. Parakramabahu I strengthened royal
+  power, sponsored irrigation works and intervened abroad. Reservoirs and canals sustained
+  cultivation in the dry northern plains, and monuments reflect the court's wealth and religious
+  patronage. Later succession struggles brought changes of ruler, including queens and local
+  usurpers, without necessarily creating new states. Kalinga Magha's invasion in 1215 destroyed
+  this royal government; subsequent southern courts and occupation of the capital belong to
+  different political circumstances.
 name: "Polonnaruwa Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Polonnaruwa_Kingdom
 periods:

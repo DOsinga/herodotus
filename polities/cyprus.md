@@ -1,6 +1,19 @@
 ---
 id: cyprus
 name: Cyprus
+description: >-
+  Cyprus became an independent republic in the eastern Mediterranean in 1960,
+  with its capital at Nicosia. The settlement ending British rule established a
+  presidential government intended to share power between Greek and Turkish
+  Cypriots, while Britain retained two sovereign military base areas. Disputes
+  over constitutional arrangements led to intercommunal violence and the
+  breakdown of shared government. A Greek backed coup in 1974 was followed by
+  Turkish military invasion, leaving the island divided and displacing many
+  residents. The internationally recognised republic continued to govern the
+  south, while a separate Turkish Cypriot administration controlled the north.
+  United Nations forces maintain a buffer zone between them. Cyprus joined the
+  European Union in 2004, though European law remains suspended in areas outside
+  government control.
 wikipedia: https://en.wikipedia.org/wiki/Cyprus
 periods:
 - start: 1960

@@ -1,5 +1,15 @@
 ---
 id: mataram_sultanate
+description: >-
+  The Mataram Sultanate was an Islamic monarchy based in inland Java, emerging from Pajang's
+  decline in 1584. Its early court stood at Kotagede, later moving to several other capitals.
+  Senopati and his successors expanded through warfare and alliances, while royal authority drew
+  on both Islamic ideas and older Javanese traditions. Under Sultan Agung, Mataram conquered
+  Surabaya and dominated much of Java and Madura, but failed to capture Dutch Batavia. Later
+  rebellions and succession wars drew the Dutch East India Company into court politics. Military
+  assistance came with territorial and commercial concessions that steadily reduced independence.
+  In 1749 Pakubuwono II ceded sovereignty to the company. The later partition into Surakarta and
+  Yogyakarta preserved royal courts under Dutch protection, not independent government.
 name: Mataram Sultanate
 wikipedia: https://en.wikipedia.org/wiki/Mataram_Sultanate
 periods:

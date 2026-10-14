@@ -1,5 +1,7 @@
 ---
 id: taifa_denia
+description: >-
+  The Taifa of Dénia was a Muslim kingdom on the eastern coast of Iberia, independently governed from 1010 to 1076. Mujahid al-Amiri, a former servant and official of the Cordoban court, founded it as the caliphate broke apart. Its port supported a strong fleet, maritime trade and raids across the western Mediterranean. Mujahid brought the Balearic Islands under his rule and attempted to conquer Sardinia, but fleets from Pisa and Genoa defeated him. His son Ali succeeded in 1045 and presided over decades of commercial prosperity. Scholars, Christians and Jewish merchants contributed to the kingdom's life. The islands later gained autonomy. Zaragoza conquered the mainland state in 1076, ending this independent Dénia government rather than beginning a continuous later taifa.
 name: "Taifa of Dénia"
 wikipedia: https://en.wikipedia.org/wiki/Taifa_of_D%C3%A9nia
 periods:

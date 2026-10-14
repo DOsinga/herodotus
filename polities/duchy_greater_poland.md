@@ -1,5 +1,15 @@
 ---
 id: duchy_greater_poland
+description: >-
+  The Duchy of Greater Poland developed in western Poland when Bolesław III's testament
+  divided his lands in 1138. Mieszko III received the region, whose important political
+  centres included Poznań, Gniezno, and Kalisz. Piast dukes governed it through a period of
+  family rivalries, partitions, and reunifications, while competing for wider authority over
+  Poland. Przemysł II reunited much of Greater Poland and became king in 1295, but his murder
+  the following year renewed the struggle for control. Wenceslaus II of Bohemia took power in
+  1300, interrupting separate government. After his rule ended, Henry of Głogów and his sons
+  controlled the region before Władysław the Elbow-high prevailed in 1314. Greater Poland
+  joined the restored Polish kingdom when Władysław was crowned king in 1320.
 name: Duchy of Greater Poland
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Greater_Poland
 periods:

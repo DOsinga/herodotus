@@ -1,5 +1,15 @@
 ---
 id: tetrarchy_antipas
+description: >-
+  The Tetrarchy of Galilee and Perea was Herod Antipas's share of his father's kingdom,
+  ruled from 4 BCE until 39 CE. Its two districts lay on opposite sides of the Jordan
+  region, separated by other territories. Augustus confirmed Antipas as tetrarch rather than
+  king, but the Herodian ruler managed his own court, construction projects and army under
+  Roman patronage. He rebuilt Sepphoris and founded Tiberias beside the Sea of Galilee
+  around 20 CE, naming it for Emperor Tiberius. His execution of John the Baptist and
+  appearance in accounts of Jesus made him prominent in Christian tradition. A marriage
+  dispute helped trigger war with Nabataea. Caligula eventually exiled him and transferred
+  his lands to Agrippa I, ending the separate local tetrarchy.
 name: "Tetrarchy of Galilee and Perea"
 wikipedia: https://en.wikipedia.org/wiki/Herod_Antipas
 periods:

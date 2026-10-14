@@ -1,5 +1,7 @@
 ---
 id: kingdom_mercia
+description: >-
+  Mercia was an Anglo-Saxon kingdom in the English Midlands, traditionally beginning around 527. Its rulers governed from shifting royal centres, with Tamworth becoming especially important. Penda made Mercia a major power in the seventh century, and later kings adopted Christianity. Under Aethelbald and Offa, it dominated much of southern England; Offa's Dyke marked part of its western frontier. Northumbrian rule and Egbert's brief conquest interrupted its independent government. Viking conquest then divided its territory, but Aethelred and Aethelflaed continued ruling western Mercia and campaigning against Scandinavian settlements. Wessex took direct control in 918. A short restored Mercian government under Edgar existed from 957 to 959, after which the region remained within England, retaining a strong regional identity and administrative traditions.
 name: "Kingdom of Mercia"
 wikipedia: https://en.wikipedia.org/wiki/Mercia
 periods:

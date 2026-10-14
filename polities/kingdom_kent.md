@@ -1,5 +1,15 @@
 ---
 id: kingdom_kent
+description: >-
+  Kent was an early English kingdom in southeastern Britain, traditionally founded by Hengist in
+  455. That origin story is uncertain, but archaeology shows strong connections with Germanic
+  settlers and the Frankish mainland. Kings governed from several royal centres, with Canterbury
+  becoming important; eastern and western Kent sometimes had separate rulers. Under Aethelberht,
+  Augustine's arrival in 597 began a major Christian mission, and royal law was written in Old
+  English. Coastal ports supported trade across the Channel. Kent later faced growing Mercian
+  pressure and a brief West Saxon takeover in 686. Local kingship returned before Offa imposed
+  direct rule in 785. Eadberht Praen restored a government in 796, but Coenwulf's conquest in 798
+  ended its final period of separate royal control.
 name: "Kingdom of Kent"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Kent
 periods:

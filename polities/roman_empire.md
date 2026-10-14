@@ -1,5 +1,7 @@
 ---
 id: roman_empire
+description: >-
+  The Roman Empire began with Augustus in 27 BCE and united lands around the Mediterranean under emperors whose power rested heavily on the army. Republican offices and the Senate continued, but the ruler controlled provinces, military commands, and appointments. Roads, cities, taxation, and law connected territories stretching from Britain to Egypt and the Near East. Citizenship gradually widened, reaching most free inhabitants in 212. Periods of prosperity alternated with civil wars, invasions, and crises. Diocletian introduced shared imperial rule, while Constantine founded Constantinople and supported Christianity. This record treats multiple courts as one polity until the conventional permanent division in 395. Eastern and western administrations then followed separate paths, while preserving Roman institutions and claims to the same imperial heritage.
 name: "Roman Empire"
 wikipedia: https://en.wikipedia.org/wiki/Roman_Empire
 periods:

@@ -1,5 +1,7 @@
 ---
 id: glywysing_morgannwg
+description: >-
+  Glywysing was a Welsh kingdom that emerged after Roman rule in southeastern Wales, around the fifth century. Its territory broadly corresponded to later Glamorgan, though borders and royal centres shifted. Medieval traditions connected its ruling families with Glywys and divided its lands into several districts. Kings often joined Glywysing with neighbouring Gwent; Morgan the Old governed both from 942 to 974. Morgannwg became a name for their combined lands and later for Glywysing itself. Gruffudd ap Llywelyn conquered the region in 1055 and incorporated it into his wider Welsh government. Native rule returned after his death in 1063. Norman expansion then reduced the kingdom, and Robert Fitzhamon's conquest around 1091 ended its royal court, though descendants retained smaller local lordships.
 name: "Kingdom of Glywysing and Morgannwg"
 wikipedia: https://en.wikipedia.org/wiki/Glywysing
 periods:

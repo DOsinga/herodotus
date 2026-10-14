@@ -1,5 +1,16 @@
 ---
 id: ghurid_sultanate
+description: >-
+  The Ghurid Sultanate grew from the mountain region of Ghur in present Afghanistan during
+  the twelfth and early thirteenth centuries. Its hereditary rulers adopted Islam and
+  sponsored Persian literature, architecture and court culture. Initially surrounded by
+  stronger Ghaznavid and Seljuk powers, they expanded after regional conflicts weakened
+  their neighbours. Ghiyath al-Din Muhammad governed the western domains while his brother
+  Muhammad of Ghor led conquests into northern India, where commanders established enduring
+  Muslim governments. The minaret at Jam survives as an monument of their patronage. This
+  record represents their Afghan centred state from 1100 to 1213. After Muhammad's
+  assassination in 1206, succession disputes and pressure from Khwarazm fractured royal
+  power. Khwarazmian conquest ended the remaining Ghurid governments in the following years.
 name: Ghurid Sultanate
 wikipedia: https://en.wikipedia.org/wiki/Ghurid_dynasty
 periods:

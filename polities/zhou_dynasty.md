@@ -1,5 +1,15 @@
 ---
 id: zhou_dynasty
+description: >-
+  The Zhou dynasty established its government in northern China after defeating the Shang around
+  1046 BCE. Kings first ruled from Haojing and granted territories to relatives and allies,
+  creating a network of hereditary lords. They justified their authority through the Mandate of
+  Heaven, linking legitimate kingship to proper conduct. After attacks on the western capital,
+  the court moved to Luoyang in 770 BCE. Regional states then became independent, fighting wars
+  and developing administrations. Zhou kings retained ritual prestige but governed a shrinking
+  territory, eventually little more than their domain around the capital. This record follows
+  that royal government, not all states claiming Zhou allegiance. Qin conquered the domain in 256
+  BCE, ending the dynasty's political rule after nearly eight centuries.
 name: "Zhou dynasty"
 wikipedia: https://en.wikipedia.org/wiki/Zhou_dynasty
 periods:

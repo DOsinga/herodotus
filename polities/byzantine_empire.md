@@ -1,5 +1,17 @@
 ---
 id: byzantine_empire
+description: >-
+  The Byzantine Empire was the eastern continuation of Rome, governed from
+  Constantinople by Christian emperors and a civil administration. This record begins
+  with the imperial division of 395, rather than the capital's earlier foundation. Its
+  inhabitants called themselves Romans, although Greek gradually became the principal
+  language of government. Justinian recovered parts of the western Mediterranean, but
+  later wars and Arab conquests greatly reduced imperial territory. The state survived
+  through changing military systems, diplomacy, and periods of renewed expansion.
+  Constantinople remained a major centre of commerce and Orthodox Christianity.
+  Crusaders captured it in 1204, breaking the empire into rival successor states. The
+  Nicaean emperors recovered the capital in 1261. A weakened restored empire endured
+  until Ottoman conquest of Constantinople in 1453.
 name: Byzantine Empire
 wikipedia: https://en.wikipedia.org/wiki/Byzantine_Empire
 periods:

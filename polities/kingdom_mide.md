@@ -1,5 +1,7 @@
 ---
 id: kingdom_mide
+description: >-
+  Mide was an Irish kingdom centred on the middle of the island, emerging from Uí Néill expansion around the fifth century. This record estimates its beginning at 500 and uses Uisneach as its western royal centre. The kings of Clann Cholmáin, a southern Uí Néill branch, became its leading dynasty. Several also claimed the high kingship of Ireland, drawing authority from alliances without permanently ruling the whole island. Mide's relationship with neighbouring Brega varied, and its marker does not imply constant control over that separate region. Competition with other provincial kings and Breifne weakened and divided the kingdom during the eleventh and twelfth centuries. Henry II's grant to Hugh de Lacy and Norman occupation in 1172 ended its political existence.
 name: "Kingdom of Mide"
 wikipedia: https://en.wikipedia.org/wiki/Mide
 periods:

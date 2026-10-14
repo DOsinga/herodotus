@@ -1,5 +1,16 @@
 ---
 id: hohokam_culture
+description: >-
+  Hohokam culture developed in the deserts of southern Arizona, especially along the Salt and
+  Gila rivers, from roughly 300 to 1450. Archaeologists recognise it through settlements,
+  pottery, canals, and other shared material traditions, not a known unified state. Villagers
+  diverted river water through irrigation networks to grow maize, beans, squash, and cotton.
+  Snaketown was an important early centre, with houses, ceremonial spaces, and ballcourts linking
+  communities through gatherings and exchange. Later settlements included enclosed compounds and
+  platform mounds, showing changes in social organisation whose precise governing structures
+  remain uncertain. Trade carried shell and other goods across the Southwest and into
+  Mesoamerican networks. Major communities declined during the fifteenth century; their
+  disappearance from these centres does not mean their descendants vanished.
 name: "Hohokam culture"
 type: culture
 wikipedia: https://en.wikipedia.org/wiki/Hohokam

@@ -1,5 +1,16 @@
 ---
 id: samnite_league
+description: >-
+  The Samnite League linked Oscan speaking communities in the mountains of south central
+  Italy, approximately from 500 to 290 BCE. Its four groups were the Pentri, Caudini,
+  Hirpini, and Caraceni. Bovianum represents the region rather than a firmly established
+  federal capital. Local communities retained their own institutions, and common military
+  leaders coordinated campaigns; the league was not a centralised monarchy. Farming,
+  livestock raising, seasonal movement of herds, and trade supported its settlements.
+  Relations with Rome shifted from alliance to three major wars. The Samnites famously
+  trapped a Roman army at the Caudine Forks in 321 BCE, but could not prevent Rome's
+  eventual victory. Peace in 290 made them Roman allies, ending independent foreign policy
+  while their communities and identity continued.
 name: "Samnite League"
 wikipedia: https://en.wikipedia.org/wiki/Samnites
 periods:

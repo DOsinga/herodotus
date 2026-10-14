@@ -1,5 +1,16 @@
 ---
 id: kano_kingdom
+description: >-
+  The Kingdom of Kano was a Hausa monarchy centred on the city of Kano in present-day
+  northern Nigeria. Its traditional beginning around 999 comes from the Kano
+  Chronicle's account of Bagauda, rather than a securely dated founding. Early rulers
+  used Sheme before establishing Kano as their main seat. The kingdom grew around
+  farming, crafts, and commerce linking the savanna with Saharan routes. Islam spread
+  through traders and royal patronage, particularly under rulers such as Muhammad
+  Rumfa, without immediately replacing older beliefs. Kano sometimes acknowledged
+  Bornu's supremacy but retained its own rulers and administration. Succession
+  disputes and warfare shaped its later history. The Fulani jihad ended the monarchy
+  with Alwali's final defeat in 1807, after which Kano became an Islamic emirate.
 name: "Kingdom of Kano"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Kano
 periods:

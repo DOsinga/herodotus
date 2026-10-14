@@ -1,5 +1,16 @@
 ---
 id: yemen
+description: >-
+  The Republic of Yemen was formed in 1990 through the union of North Yemen and South Yemen,
+  bringing together territories at the southwestern corner of the Arabian Peninsula. Ali
+  Abdullah Saleh became president, with a unified parliament and constitution. A southern
+  attempt to secede led to civil war in 1994, after which Saleh consolidated power. Protests
+  during the Arab Spring forced his departure and opened a troubled political transition.
+  Houthi forces later seized Sanaa, and intervention by a Saudi led coalition in 2015
+  intensified the war. This record follows the internationally recognised republican
+  government, which has operated from Aden rather than the Houthi administration in Sanaa.
+  Rival authorities, armed factions, and a severe humanitarian crisis have fragmented the
+  state's control.
 name: Yemen
 wikipedia: https://en.wikipedia.org/wiki/Yemen
 periods:

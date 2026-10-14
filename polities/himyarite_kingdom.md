@@ -1,5 +1,15 @@
 ---
 id: himyarite_kingdom
+description: >-
+  Himyar was a kingdom in the highlands of present day Yemen, conventionally dated from 110
+  BCE. Its kings ruled from Zafar and later Sanaa, extending their power over Saba, Qataban
+  and Hadramawt and into the Arabian interior. Agriculture and long distance trade connected
+  the kingdom with the Red Sea and Indian Ocean worlds. Royal inscriptions show a shift from
+  local polytheism toward Judaism in late antiquity, followed by Christian rule. Dhu Nuwas's
+  persecution of Christians helped provoke an Aksumite invasion in 525. After a period of
+  Aksumite government, Abraha established his own administration around 535. Persian
+  intervention briefly restored a Himyarite ruler before direct Sasanian administration ended
+  the kingdom around 575, although some accounts date the final conquest slightly later.
 name: "Himyarite Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Himyarite_Kingdom
 periods:

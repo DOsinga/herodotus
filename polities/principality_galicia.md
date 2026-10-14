@@ -1,5 +1,16 @@
 ---
 id: principality_galicia
+description: >-
+  The Principality of Galicia developed in western Rus', in what is now western Ukraine,
+  from 1124 to 1199. Princes of the Rostislavichi family governed separately from Kyiv,
+  and Volodymyrko united their lands around Halych in 1141. Its position near Poland and
+  Hungary encouraged trade, diplomacy and intervention by neighbouring rulers. Yaroslav
+  Osmomysl strengthened the principality during the later twelfth century. Princely
+  authority remained constrained by influential boyars and townspeople, who could support
+  rival claimants or expel rulers. A disputed succession brought a brief Hungarian
+  occupation in 1188 and 1189 before the native dynasty returned. After its final ruler
+  died in 1199, Roman of Volhynia took Halych and joined Galicia with his own
+  principality, creating the larger state of Galicia Volhynia.
 name: Principality of Galicia
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Galicia
 periods:

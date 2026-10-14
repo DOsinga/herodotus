@@ -1,5 +1,16 @@
 ---
 id: duklja
+description: >-
+  Duklja was a medieval principality and kingdom along the Adriatic coast, mainly in present day
+  Montenegro, with Bar as a representative centre. Its beginnings are estimated around 900. Local
+  rulers navigated competing Bulgarian and Byzantine power before direct Byzantine government
+  interrupted its separate existence in 1018. Stefan Vojislav restored self government around
+  1040 and founded the dynasty that dominated its later history. Mihailo obtained royal
+  recognition, while his son Constantine Bodin expanded influence into neighbouring inland lands.
+  Relations with Rome and Constantinople shaped both diplomacy and church affairs. Dynastic
+  disputes later weakened Duklja and allowed neighbouring Raška to gain ground. Stefan Nemanja
+  conquered it in 1186, incorporating its remaining territory into the Serbian realm despite the
+  survival of local titles.
 name: "Duklja"
 wikipedia: https://en.wikipedia.org/wiki/Duklja
 periods:

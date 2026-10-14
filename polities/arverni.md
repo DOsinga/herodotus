@@ -1,5 +1,14 @@
 ---
 id: arverni
+description: >-
+  The Arverni were a powerful Gallic people in the Massif Central of present France, particularly
+  the fertile Allier valley and Limagne basin. Their independent government is represented here from approximately
+  200 to 50 BCE. Kings initially led a wide network of allies and dependent peoples,
+  supported by agriculture, trade, and fortified settlements. Rome defeated King Bituitus in 121 BCE, limiting
+  Arvernian influence without taking over their internal government. Aristocratic magistrates subsequently replaced the monarchy. In
+  52 BCE, Vercingetorix rose to lead a coalition against Julius Caesar, defeating the Romans at
+  Gergovia before surrendering after the siege of Alesia. Caesar's conquest ended their independent political role.
+  The Arverni continued as a community within Roman Gaul and gave their name to Auvergne.
 name: "Arverni"
 wikipedia: https://en.wikipedia.org/wiki/Arverni
 periods:

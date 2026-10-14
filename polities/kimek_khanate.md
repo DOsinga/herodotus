@@ -2,6 +2,17 @@
 id: kimek_khanate
 name: "Kimek Khanate"
 wikipedia: https://en.wikipedia.org/wiki/Kimek_Khanate
+description: >-
+  The Kimek Khanate was a steppe confederation centred on the Irtysh River in present
+  Kazakhstan, conventionally dated from about 880 to 1035. Medieval Muslim writers describe a
+  union of several tribes, including Kimeks and Kipchaks, led by a ruler who claimed the title
+  khagan. Pastoral life and movement across grazing lands shaped its power, while settlements
+  and trade also connected it with neighbouring regions. The centre called Imakia is
+  imperfectly located, so the Irtysh marker represents an approximate seat rather than an
+  identified capital. Expansion brought its communities into contact and conflict with Oghuz
+  and Pecheneg groups. During the eleventh century the confederation fragmented and Kipchak
+  leadership became more prominent. That later predominance did not preserve an unchanged
+  Kimek government.
 periods:
 - start: 880
   end: 1035

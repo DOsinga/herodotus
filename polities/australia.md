@@ -2,6 +2,18 @@
 id: australia
 name: Australia
 wikipedia: https://en.wikipedia.org/wiki/Australia
+description: >-
+  Australia is a federal parliamentary democracy and constitutional monarchy occupying
+  the Australian continent, Tasmania, and smaller islands. Canberra is its capital,
+  while most people live in coastal cities. Six British colonies federated in 1901, but
+  this record begins in 1942, when wartime decisions and adoption of the Statute of
+  Westminster marked control over external affairs. The country retained the British
+  monarch as sovereign while developing its own institutions and alliances. After the
+  Second World War, large immigration programmes changed a society long shaped by
+  restrictive racial policies. Indigenous Australians maintained much older connections
+  to the land despite dispossession under colonisation. Mining, agriculture, and
+  services underpin its economy. Australia remains a Commonwealth member with strong
+  ties across the Pacific and Asia.
 periods:
 - start: 1942
   end: null

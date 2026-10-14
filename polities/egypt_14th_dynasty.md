@@ -1,5 +1,7 @@
 ---
 id: egypt_14th_dynasty
+description: >-
+  Egypt's Fourteenth Dynasty governed a separate kingdom in the Nile Delta during the Second Intermediate Period, dated here approximately 1725 to 1650 BCE. Its rulers included kings with Canaanite names, reflecting the eastern Delta's strong connections with the Levant. Avaris represents their likely political centre, although ancient accounts placed the dynasty at Xois and scholars disagree about its beginnings and extent. Royal names survive mainly through seals, monuments and later king lists, leaving many reigns difficult to reconstruct. Nehesy is among the better attested rulers. This was a regional monarchy alongside other Egyptian governments, not a dynasty ruling the entire country. Famine and possible disease may have weakened its short-lived kings before Hyksos expansion replaced the kingdom around 1650 BCE.
 name: "Egypt under the 14th dynasty"
 wikipedia: https://en.wikipedia.org/wiki/Fourteenth_Dynasty_of_Egypt
 periods:

@@ -1,5 +1,16 @@
 ---
 id: emirate_diriyah
+description: >-
+  The Emirate of Diriyah, often called the first Saudi state, expanded from central
+  Arabia between 1744 and 1818. It began with an alliance between Muhammad bin Saud,
+  ruler of Diriyah, and the religious reformer Muhammad ibn Abd al-Wahhab. The Saud
+  family supplied hereditary leadership, while the reform movement promoted its strict
+  interpretation of Sunni Islam. Successive rulers brought much of Najd under their
+  authority and advanced towards the Gulf and the holy cities of Mecca and Medina. These
+  conquests challenged Ottoman claims and provoked a campaign directed through Egypt's
+  ruler Muhammad Ali. Egyptian armies pushed inland under Ibrahim Pasha and besieged
+  Diriyah. Its surrender in 1818 ended the emirate and destroyed its capital, but Saudi
+  rule later revived elsewhere inland.
 name: Emirate of Diriyah
 wikipedia: https://en.wikipedia.org/wiki/First_Saudi_state
 periods:

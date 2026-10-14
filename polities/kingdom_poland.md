@@ -1,5 +1,16 @@
 ---
 id: kingdom_poland
+description: >-
+  The Kingdom of Poland began with Bolesław I's coronation in 1025, giving
+  royal status to the Piast state in central Europe. Early kings balanced
+  territorial expansion with struggles against neighbouring powers and powerful local elites. Bolesław
+  III's division of his lands in 1138 produced separately governed duchies rather
+  than a united monarchy. Władysław the Elbow-high restored the crown in 1320,
+  with Kraków becoming the principal royal centre. Later rulers strengthened towns, law,
+  and royal administration, while the nobility gained privileges and influence in parliament.
+  The Jagiellonian kings joined Poland to Lithuania through shared rulers, but both
+  retained separate government. The Union of Lublin in 1569 created the Polish
+  Lithuanian Commonwealth, replacing that arrangement with a common state and joint parliament.
 name: Kingdom of Poland
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Poland
 periods:

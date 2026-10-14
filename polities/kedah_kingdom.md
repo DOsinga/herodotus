@@ -1,5 +1,16 @@
 ---
 id: kedah_kingdom
+description: >-
+  Kedah was a royal state on the northwestern Malay Peninsula, where river valleys and
+  coastal ports connected inland settlements with Indian Ocean commerce. This record follows
+  its traditional royal chronology from 330, while treating that founding date and the
+  conventional conversion to Islam in 1136 as uncertain. Early Hindu and Buddhist
+  connections are visible in the region's archaeology, but settlements and ironworking alone
+  do not prove a kingdom. Native rulers continued through changing relationships with
+  Srivijaya and Siam, eventually governing as Muslim sultans. Siamese invasion in 1821
+  displaced the court and began direct occupation. Separate rule resumed in 1842. The 1909
+  Anglo Siamese treaty brought British supervision, ending this record, although the Kedah
+  monarchy continued within later Malayan political arrangements.
 name: "Kingdom and Sultanate of Kedah"
 wikipedia: https://en.wikipedia.org/wiki/Sultanate_of_Kedah
 periods:

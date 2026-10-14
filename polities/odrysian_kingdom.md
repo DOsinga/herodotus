@@ -1,5 +1,16 @@
 ---
 id: odrysian_kingdom
+description: >-
+  The Odrysian Kingdom arose in Thrace around 480 BCE, joining communities across parts of
+  present Bulgaria, Greece, and European Turkey under powerful kings. Teres and Sitalces
+  expanded its influence, drawing tribute from subjects and cultivating relations with
+  Greek cities. Royal authority depended on leading families and could fragment among
+  competing rulers. Philip II of Macedon conquered the kingdom in the fourth century BCE;
+  this record marks the interruption in 342. Seuthes III restored a smaller kingdom around
+  330 and founded Seuthopolis. Later Thracian royal government continued through changing
+  dynasties and Roman influence. The record treats the Roman client monarchy as a
+  continuation, although the linked article distinguishes the Sapaean kingdom. Claudius
+  ended that monarchy in 46 CE and annexed Thrace.
 name: "Odrysian Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Odrysian_kingdom
 periods:

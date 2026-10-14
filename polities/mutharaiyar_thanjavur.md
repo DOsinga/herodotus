@@ -1,5 +1,17 @@
 ---
 id: mutharaiyar_thanjavur
+description: >-
+  The Mutharaiyar kingdom of Thanjavur ruled parts of the Kaveri delta in southern India,
+  conventionally dated from about 600 to 850. Its Tamil rulers maintained a territorial
+  court while acknowledging Pallava overlordship. Inscriptions identify rulers including
+  Kuvavan Maran, Ilangovadiaraiyan and Suvaran Maran, and link their authority to
+  Thanjavur and Vallam. Rock cut temples at Narthamalai and other centres show their
+  patronage of early stone architecture and religious art. Mutharaiyar leaders fought in
+  the struggles between Pallavas and Pandyas, while supporting religious institutions and
+  leaving records of grants and victories. Their origins remain debated, and an
+  identification with the earlier Kalabhras lacks firm support. Vijayalaya Chola's
+  capture of Thanjavur around 850 ended this kingdom, although Mutharaiyar families and
+  titles survived afterward.
 name: "Mutharaiyar Kingdom of Thanjavur"
 wikipedia: https://en.wikipedia.org/wiki/Mutharaiyar_dynasty
 periods:

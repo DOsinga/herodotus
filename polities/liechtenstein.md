@@ -1,6 +1,8 @@
 ---
 id: liechtenstein
 name: Liechtenstein
+description: >-
+  Liechtenstein is a small Alpine principality between Switzerland and Austria, created in 1719 by uniting Vaduz and Schellenberg under the Liechtenstein dynasty. Originally an immediate territory of the Holy Roman Empire, it became sovereign when that empire dissolved in 1806. Membership in the German Confederation followed, but its dissolution in 1866 left the principality outside subsequent German unification. Vaduz is the capital. Constitutional government developed during the nineteenth century and was reshaped in 1921, combining an elected parliament with substantial powers retained by the hereditary prince. After the First World War, economic links shifted from Austria toward Switzerland through customs and monetary agreements. Industry and financial services transformed the formerly rural economy, while the principality preserved its longstanding separate statehood.
 wikipedia: https://en.wikipedia.org/wiki/Liechtenstein
 periods:
 - start: 1719

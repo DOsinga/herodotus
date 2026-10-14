@@ -1,5 +1,16 @@
 ---
 id: holy_roman_empire
+description: >-
+  The Holy Roman Empire began with Otto I's imperial coronation in 962, joining the German
+  kingship to claims of Roman imperial authority. This record follows the period when emperors
+  exercised government over the German kingdom, ending in 1250. Kings were elected by leading
+  nobles and crowned emperor by the pope; their courts moved between royal estates rather than
+  occupying one permanent capital. Bishops and dukes administered territories, while imperial
+  campaigns extended into Italy. Conflicts over church appointments and struggles with powerful
+  princes tested royal authority. Frederick Barbarossa's removal of Henry the Lion demonstrated
+  the emperor's powers. After Frederick II's death, territorial rulers increasingly governed
+  separately. The Empire continued until 1806, but here its later structure is represented by its
+  members.
 name: Holy Roman Empire
 wikipedia: https://en.wikipedia.org/wiki/Holy_Roman_Empire
 periods:

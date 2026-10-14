@@ -1,5 +1,14 @@
 ---
 id: kingdom_abkhazia
+description: >-
+  The Kingdom of Abkhazia developed along the eastern Black Sea and across western Georgia after
+  Leon II broke with Byzantine authority around 778. Its hereditary kings ruled from Kutaisi, organizing
+  their lands through regional duchies and building on Abasgian and Lazic territories. The kingdom expanded
+  eastward into Kartli and became an important force among the competing Georgian and Armenian courts.
+  Christianity connected it with Byzantium, but Georgian increasingly replaced Greek in church life and written
+  culture. Its population included several languages and communities, making modern ethnic labels poor guides to
+  the medieval realm. Dynastic conflict weakened royal power in the tenth century. Bagrat took the
+  Abkhazian throne in 978, then inherited the Iberian crown in 1008, forming the Georgian kingdom.
 name: "Kingdom of Abkhazia"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Abkhazia
 periods:

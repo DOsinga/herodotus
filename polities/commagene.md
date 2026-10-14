@@ -1,5 +1,16 @@
 ---
 id: commagene
+description: >-
+  Commagene was a kingdom around Samosata on the upper Euphrates, in southeastern Turkey. It
+  emerged from Seleucid rule around 163 BCE and occupied a strategic position between Roman,
+  Armenian and Parthian powers. Its royal family combined Iranian ancestry claims with Greek
+  language and court traditions. Antiochus I expressed this mixture through the monumental
+  sanctuary on Mount Nemrut, where statues honoured himself and deities with Greek and
+  Iranian identities. Kings maintained their own forces while negotiating relations with
+  Rome. Tiberius annexed the kingdom in 17 CE, beginning a period of provincial rule. Royal
+  government returned under Antiochus IV in 38, though Roman interference continued. In 72
+  Vespasian ordered a annexation, ending the monarchy and incorporating its territory into
+  the Roman Empire.
 name: "Kingdom of Commagene"
 wikipedia: https://en.wikipedia.org/wiki/Commagene
 periods:

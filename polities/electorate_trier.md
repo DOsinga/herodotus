@@ -1,5 +1,15 @@
 ---
 id: electorate_trier
+description: >-
+  The Electorate of Trier was a church principality along the Moselle and Rhine in western
+  Germany, represented here from 1250 until 1803. Its archbishop governed secular lands as
+  well as holding religious office, and was one of the princes entitled to elect the Holy
+  Roman Emperor. Trier supplied the state's name, but later electors increasingly resided at
+  Koblenz and Ehrenbreitstein. Its territorial authority did not cover exactly the same area
+  as the archdiocese. Castle building, tolls and disputes with towns helped shape princely
+  power. During the French Revolutionary Wars, France occupied the lands west of the Rhine,
+  including Trier, in 1794. The remaining eastern territory survived until secularisation in
+  1803, when the church state was dissolved and transferred to Nassau-Weilburg.
 name: Electorate of Trier
 wikipedia: https://en.wikipedia.org/wiki/Electorate_of_Trier
 periods:

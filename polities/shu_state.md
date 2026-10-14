@@ -1,5 +1,16 @@
 ---
 id: shu_state
+description: >-
+  Shu was an ancient kingdom on the Chengdu Plain in the Sichuan Basin, represented here
+  from approximately 1000 to 316 BCE. Mountains separated it from the northern Chinese
+  states, allowing traditions to develop beyond effective Zhou control. Its early
+  history survives mainly in later stories about successive royal houses, making
+  individual rulers and events difficult to verify. Archaeological finds at Jinsha
+  illuminate the region's elaborate ritual life, following the earlier Sanxingdui
+  culture. Shu interacted with neighbouring Ba, Chu and Qin as communications across the
+  mountains developed. A dispute involving its rulers and neighbours helped draw Qin
+  into the basin. Qin conquered Shu in 316 BCE, replacing independent kingship with
+  outside control. Its fertile territory became crucial to Qin's later expansion.
 name: "Shu (state)"
 wikipedia: https://en.wikipedia.org/wiki/Shu_(kingdom)
 periods:

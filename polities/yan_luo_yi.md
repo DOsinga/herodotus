@@ -1,5 +1,16 @@
 ---
 id: yan_luo_yi
+description: >-
+  Luo Yi's Youzhou state was a military government around present Beijing during the
+  collapse of China's Sui dynasty, represented here from about 617 to 623. Luo, formerly
+  a Sui officer, gained support by defeating rebels and distributing supplies before
+  removing rival officials and taking regional command. His authority rested on the
+  local army and the resources accumulated for Sui campaigns against Goguryeo. He
+  resisted competing northern rulers, including Dou Jiande, and eventually accepted
+  recognition from the emerging Tang court. Tang granted him the title Prince of Yan and
+  the imperial surname Li, but he initially retained his regional command. In 623 he
+  moved to Chang'an and surrendered that position. His later unsuccessful revolt was
+  separate from this earlier territorial government.
 name: "Luo Yi's Youzhou State"
 wikipedia: https://en.wikipedia.org/wiki/Luo_Yi
 periods:

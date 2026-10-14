@@ -1,5 +1,15 @@
 ---
 id: jinghai_native
+description: >-
+  The native government of Jinghai ruled the Red River region of northern Vietnam during the
+  early tenth century, with its centre at Dai La. Khuc Thua Du took local authority in 905 as
+  Tang power weakened. He and his successors retained the Chinese title of military governor
+  rather than declaring a kingship, but administered the region themselves. Khuc Hao
+  reorganised the system of districts and taxation, strengthening native control
+  despite recognition from Chinese courts. Southern Han invaded in 930 and captured Khuc Thua
+  My, interrupting this government. Duong Dinh Nghe recovered the region in 931. Further
+  rivalry followed his assassination, before Ngo Quyen defeated Southern Han forces. His
+  establishment of kingship in 939 gave the autonomous state a new identity.
 name: "Native Government of Jinghai"
 wikipedia: https://en.wikipedia.org/wiki/Kh%C3%BAc_clan
 periods:

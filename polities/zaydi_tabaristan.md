@@ -1,5 +1,16 @@
 ---
 id: zaydi_tabaristan
+description: >-
+  The Zaydi Emirate of Tabaristan governed the southern Caspian coast of northern Iran from
+  864 to 900 and again from 914 to 928. Hasan ibn Zayd established its government with local
+  support against Tahirid authority. Its rulers claimed descent from the family of the
+  Prophet Muhammad and joined political leadership with the religious claims of Zaydi
+  Shiism. Amol served as an important centre, while the mountains and neighbouring Daylam
+  supplied refuge and soldiers. Samanid conquest interrupted the emirate in 900. Hasan
+  al-Utrush restored it in 914 after spreading Zaydi teaching among nearby communities.
+  Rival branches and military commanders then contested power. Another conquest in 928 ended
+  this Tabaristan government, though Zaydi rulers and religious communities continued
+  elsewhere in northern Iran.
 name: "Zaydi Emirate of Tabaristan"
 wikipedia: https://en.wikipedia.org/wiki/Alid_dynasties_of_northern_Iran
 periods:

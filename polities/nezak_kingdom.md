@@ -1,5 +1,16 @@
 ---
 id: nezak_kingdom
+description: >-
+  The Nezak Kingdom ruled lands south of the Hindu Kush, particularly Kapisa and Ghazni in
+  present Afghanistan, from approximately 484 to 665. Its chronology and many rulers are
+  known mainly through coins rather than continuous history. These coins identify Nezak
+  kings and show a distinctive crown topped by a buffalo head, borrowing other designs
+  from Sasanian money. Their ethnic origins remain disputed despite the conventional name
+  Nezak Huns. Kapisa was a royal centre and supported a varied religious landscape,
+  including Buddhist establishments described by Chinese travellers. The rulers interacted
+  with neighbouring Alchon groups and later faced growing Arab pressure. Around 665, the
+  Turk Shahi government replaced the Nezak monarchy. Some coin designs continued, making
+  the exact transition difficult to reconstruct.
 name: "Nezak Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Nezak_Huns
 periods:

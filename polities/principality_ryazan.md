@@ -1,5 +1,7 @@
 ---
 id: principality_ryazan
+description: >-
+  Ryazan was a Russian principality along the Oka River, governed by princes descended from the Chernigov branch of the Rurikids. It emerged separately in 1129 and survived, with one interruption, until Moscow annexed it in 1521. Rivalry with Vladimir brought repeated attacks; from 1208 to 1212, Vladimir's ruler controlled the land through his own appointees. Local princely government then returned. Batu's Mongol army destroyed Old Ryazan in 1237, killing inhabitants, and the court later moved to Pereyaslavl Ryazansky, today's Ryazan. The princes paid tribute to the Golden Horde while continuing to run their own affairs. Their frontier position required bargaining with both steppe rulers and Moscow. Muscovite pressure finally ended the principality under Vasily III in the early sixteenth century.
 name: Principality of Ryazan
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Ryazan
 periods:

@@ -2,6 +2,17 @@
 id: silla
 name: "Silla"
 wikipedia: https://en.wikipedia.org/wiki/Silla
+description: >-
+  Silla developed in southeastern Korea around Seorabeol, now Gyeongju. Its traditional
+  foundation in 57 BCE is not securely established, and the kingdom grew gradually from an
+  earlier chiefdom. Kings and queens governed alongside an aristocracy whose hereditary bone
+  ranks shaped officeholding and social privilege. Buddhism became a support of royal
+  authority and left temples, sculpture and monuments around the capital. Silla absorbed
+  neighbouring Gaya states and allied with Tang China to defeat Baekje and Goguryeo in the
+  seventh century. It then resisted Tang attempts to control the peninsula, establishing rule
+  over much of Korea. Later aristocratic conflict and regional rebellions weakened the
+  monarchy. During the Later Three Kingdoms struggle, its territory shrank until King
+  Gyeongsun surrendered to Goryeo in 935.
 periods:
 - start: -57
   end: 935

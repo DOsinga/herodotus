@@ -2,6 +2,17 @@
 id: kingdom_galicia
 name: "Kingdom of Galicia"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Galicia
+description: >-
+  Galicia occupied the northwestern Iberian Peninsula and had separate royal
+  governments during two short periods recorded here. Ordoño ruled Galicia after the
+  division of the Asturian realm in 910, before combining it with León upon his
+  accession there in 914. A later partition gave Galicia to García in 1065, together
+  with lands extending south into what became Portugal. Kings depended on noble
+  families, bishops, and monasteries, while Santiago de Compostela grew as a religious
+  and political centre. García's brothers contested his inheritance and conquered the
+  realm in 1071. Alfonso VI of León subsequently controlled all Galicia. The Galician
+  royal title survived within larger monarchies for centuries, but those later titles
+  do not represent the separate governments covered by this record.
 periods:
 - start: 910
   end: 914

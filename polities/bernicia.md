@@ -2,6 +2,17 @@
 id: bernicia
 name: "Bernicia"
 wikipedia: https://en.wikipedia.org/wiki/Bernicia
+description: >-
+  Bernicia was an Anglian kingdom centred on Bamburgh in northeastern England and
+  southeastern Scotland. Tradition dates King Ida's accession to 547, though the beginnings
+  of the monarchy are uncertain. Its territory grew among older British communities, and the
+  kingdom's name itself probably preserves a British origin. Bernician rulers fought
+  neighbouring British kingdoms and expanded towards the Forth. Aethelfrith joined Bernicia
+  with Deira around 604, creating the first Northumbrian union. Separate government returned
+  after Edwin's death in 633, before Oswald reunited the kingdoms in 634. Another period of
+  separate courts began in 644 under Oswiu in Bernicia and Oswine in Deira. This record ends
+  that final separation in 654, when lasting union made Bernicia the northern core of the
+  Northumbrian kingdom.
 periods:
 - start: 547
   end: 604

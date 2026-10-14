@@ -1,6 +1,15 @@
 ---
 id: hoysala_kingdom
 name: Hoysala Kingdom
+description: >-
+  The Hoysala kingdom ruled much of present Karnataka and adjoining southern Indian territory from the eleventh
+  century to 1346. Its kings emerged from the hill country of Malnad and initially acknowledged the
+  Western Chalukyas while building their own regional power. Belur and later Halebidu became royal centres. Vishnuvardhana's
+  victories against the Cholas expanded Hoysala control, and later rulers intervened in Tamil politics. The monarchy
+  governed through officials, military commanders and local landholding institutions. Royal patronage supported Kannada and Sanskrit literature,
+  Jain communities and Hindu temples. Elaborately carved temples at Belur, Halebidu and elsewhere remain its best
+  known monuments. Delhi Sultanate invasions and subsequent warfare weakened the kingdom. After its final rulers disappeared,
+  Hoysala territories passed into the expanding Vijayanagara state.
 wikipedia: https://en.wikipedia.org/wiki/Hoysala_Kingdom
 periods:
 - start: 1026

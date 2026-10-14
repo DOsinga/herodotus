@@ -1,5 +1,7 @@
 ---
 id: strathclyde
+description: >-
+  Strathclyde was a Brittonic kingdom in northern Britain, emerging after Roman rule and represented here from about 450 to around 1030. Its centre was the stronghold of Alt Clut at Dumbarton Rock, overlooking the Clyde. Kings governed communities speaking Cumbric, a language related to Welsh, and dealt with neighbouring Northumbrians, Picts and Gaelic rulers. In 870, Vikings from Dublin captured Dumbarton after a siege and carried away many captives. The kingdom survived, with its court apparently moving to Govan, and expanded southward into Cumbrian lands. Its later kings faced English invasions and growing Scottish pressure while retaining their own government. Incorporation into Scotland is poorly documented; the approximate end used here reflects that uncertain eleventh-century change, not the Viking attack.
 name: "Kingdom of Strathclyde"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Strathclyde
 periods:

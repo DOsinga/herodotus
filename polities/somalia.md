@@ -1,5 +1,16 @@
 ---
 id: somalia
+description: >-
+  Somalia lies in the Horn of Africa, with Mogadishu as its capital and a coastline
+  facing the Indian Ocean and Gulf of Aden. The republic formed in 1960 through the
+  union of former British Somaliland and the Italian administered trust territory.
+  Parliamentary government gave way to military rule under Siad Barre after a 1969 coup.
+  War, repression, and rebellion culminated in the national government's collapse in
+  1991. This record leaves a gap during the ensuing fragmentation rather than treating
+  international recognition as effective government. A transitional federal
+  administration governed again from 2006, initially at Baidoa and later in Mogadishu
+  with Ethiopian support. Federal institutions replaced it in 2012. Regional autonomy
+  and conflict with al Shabaab continue to limit central control.
 name: Somalia
 wikipedia: https://en.wikipedia.org/wiki/Somalia
 periods:

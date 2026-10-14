@@ -1,5 +1,16 @@
 ---
 id: haiti
+description: >-
+  Haiti occupies the western part of Hispaniola in the Caribbean and became independent from
+  France in 1804. Its revolution grew from an uprising of enslaved people in the plantation
+  colony of Saint Domingue, defeating attempts to restore French control and slavery.
+  Independent governments included empires, a northern kingdom, and republics before the
+  later republican state. France's demand for compensation burdened the country with debt,
+  while political conflict and outside pressure repeatedly weakened its governments. United
+  States occupation interrupted local control from 1915 to 1934. Afterward, the Duvalier
+  dictatorship shaped decades of public life before falling in 1986. Haiti has continued as
+  a sovereign country through contested elections, coups, disasters, and severe insecurity,
+  with Port au Prince remaining its political centre.
 name: Haiti
 wikipedia: https://en.wikipedia.org/wiki/Haiti
 periods:

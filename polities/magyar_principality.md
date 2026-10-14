@@ -1,5 +1,7 @@
 ---
 id: magyar_principality
+description: >-
+  The Principality of Hungary emerged around 895 as Magyar groups established themselves in the Carpathian Basin. It began as a tribal alliance led by Árpád and his successors, with chieftains retaining substantial power over their own territories. Early leadership may have combined sacred and military offices, though the details remain debated. Magyar mounted armies raided across Europe before defeats, particularly at Lechfeld in 955, helped redirect expansion and diplomacy. During the tenth century, communities increasingly adopted settled life, and Christianity gained ground. Géza strengthened princely authority and cultivated ties with western neighbours. His son Stephen defeated rivals and built a Christian monarchy. Stephen's coronation, conventionally placed here in 1000, marks the transition from the principality to the Kingdom of Hungary.
 name: "Principality of Hungary"
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Hungary
 periods:

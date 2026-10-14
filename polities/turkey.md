@@ -1,5 +1,7 @@
 ---
 id: turkey
+description: >-
+  Turkey's modern state began with the nationalist government established at Ankara in 1920, while the Ottoman government remained in occupied Istanbul. Mustafa Kemal and the Grand National Assembly fought foreign occupation and rejected the proposed partition of Anatolia. Victory and the Treaty of Lausanne secured international recognition, followed by proclamation of the republic in 1923. The new government abolished Ottoman institutions, introduced secular reforms, and promoted a national identity through education, law, and language policy. Later decades brought multiparty elections, military interventions, industrial growth, and conflict over Kurdish rights. Turkey joined NATO and developed economic ties with Europe while pursuing its own regional interests. Governed from Ankara, it continues as a republic spanning Anatolia and eastern Thrace, with presidential institutions.
 name: Turkey
 wikipedia: https://en.wikipedia.org/wiki/Turkey
 periods:

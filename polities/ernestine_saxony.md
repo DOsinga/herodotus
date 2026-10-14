@@ -1,5 +1,15 @@
 ---
 id: ernestine_saxony
+description: >-
+  Ernestine Saxony emerged from the division of Wettin lands in 1485 and lasted until the Erfurt
+  partition of 1572. Ernest and his descendants held the Saxon electoral title, with Wittenberg
+  as their principal seat. The territory combined lands in Saxony and Thuringia under hereditary
+  princely government within the Holy Roman Empire. Frederick the Wise founded Wittenberg's
+  university and protected Martin Luther, making his lands central to the Reformation. His
+  successors supported Lutheran reforms and the Protestant Schmalkaldic League. Defeat in the
+  Schmalkaldic War brought a decisive reversal in 1547: the Ernestines lost their electoral
+  title and much territory to the Albertine branch. They continued as Thuringian dukes before
+  their remaining lands divided into Saxe-Weimar and a separately governed Coburg-Eisenach share.
 name: Ernestine Saxony
 wikipedia: https://en.wikipedia.org/wiki/Ernestine_duchies
 periods:

@@ -1,5 +1,16 @@
 ---
 id: eshnunna
+description: >-
+  Eshnunna was a kingdom centred on Tell Asmar in the Diyala valley of modern Iraq. Its
+  separate government began around 2026 BCE, when local rulers stopped using the regnal
+  dates of Ur's kings. Governors and later kings presented themselves as servants of the
+  city's god Tishpak. The kingdom expanded across the Diyala region and competed with
+  Babylon, Mari, Assyria and Elam for towns and trade routes. Its surviving laws are
+  among Mesopotamia's important early legal collections, covering prices, property and
+  personal injury. Hammurabi conquered Eshnunna in 1762 BCE. After his death, local
+  government returned, with Iluni among its rulers. Samsu-iluna eventually suppressed
+  that renewed independence around 1729 BCE. Excavated temples, palaces and tablets
+  preserve evidence of its earlier urban life.
 name: "Eshnunna"
 wikipedia: https://en.wikipedia.org/wiki/Eshnunna
 periods:

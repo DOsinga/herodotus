@@ -1,5 +1,16 @@
 ---
 id: sasanian_empire
+description: >-
+  The Sasanian Empire ruled Iran and much of Mesopotamia from 224 to 651. Ardashir I
+  founded it after defeating his Parthian rival, and Ctesiphon became its principal
+  capital. A king of kings governed through noble families, provincial officials and an
+  influential Zoroastrian religious establishment. Its armies repeatedly fought Rome and
+  Byzantium, while diplomacy and trade connected the empire with Central Asia, India and
+  China. Sasanian rulers supported monumental architecture, silverwork and administrative
+  reforms whose influence outlasted their state. The long war with Byzantium ending in
+  628 left both empires weakened, and succession struggles further disrupted government.
+  Arab Muslim armies captured Ctesiphon and defeated major forces, but the remaining royal
+  government continued until Yazdegerd III's death in 651 ended its resistance.
 name: "Sasanian Empire"
 wikipedia: https://en.wikipedia.org/wiki/Sasanian_Empire
 periods:

@@ -2,6 +2,15 @@
 id: zengid_state
 name: "Zengid State"
 wikipedia: https://en.wikipedia.org/wiki/Zengid_dynasty
+description: >-
+  The Zengid State united Mosul and Aleppo under Imad al Din Zengi between 1127 and 1146. A
+  military ruler of Turkoman origin, Zengi received Mosul as a Seljuk atabeg and gained Aleppo the
+  following year. He governed these territories in his own right while retaining the titles and
+  claims associated with Seljuk authority. His position connected northern Iraq, Upper Mesopotamia
+  and northern Syria, but rival Muslim rulers and Crusader states limited his ambitions. The
+  capture of Edessa in 1144 was his famous success and helped provoke the Second Crusade. Zengi
+  was killed during a siege in 1146. His sons divided the government: Saif al Din Ghazi held
+  Mosul, while Nur al Din ruled Aleppo, creating separate branches of Zengid power.
 periods:
 - start: 1127
   end: 1146

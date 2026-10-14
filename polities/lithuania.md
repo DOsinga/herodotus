@@ -1,5 +1,17 @@
 ---
 id: lithuania
+description: >-
+  Lithuania is a Baltic republic whose modern independent government began in 1918 after
+  the collapse of imperial rule. Its interwar state governed from Kaunas while Vilnius
+  remained disputed and largely under Polish control. Parliamentary politics gave way to
+  Antanas Smetona's authoritarian presidency after the coup of 1926. Soviet occupation and
+  annexation in 1940 interrupted independence, followed by German occupation and renewed
+  Soviet rule. Lithuania declared independence restored in 1990 and secured its effective
+  recovery in 1991. Vilnius is the capital of the present republic, whose constitution
+  divides authority among an elected president, parliament, and government. Membership in
+  NATO and the European Union followed in 2004. The country's modern history combines
+  revived national institutions with the lasting consequences of twentieth-century
+  occupations.
 name: Lithuania
 wikipedia: https://en.wikipedia.org/wiki/Lithuania
 periods:

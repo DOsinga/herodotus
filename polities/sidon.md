@@ -1,5 +1,16 @@
 ---
 id: sidon
+description: >-
+  Sidon was a Phoenician city kingdom on the coast of present day Lebanon, with independent
+  government estimated from around 1200 BCE. Its harbours connected craftsmen and merchants
+  to Mediterranean trade, while glassmaking, purple dye production, and metalwork made the
+  city famous. Hereditary kings ruled its territory and supported temples of local gods,
+  including Eshmun and Astarte. Rivalry with Tyre and pressure from empires shaped its
+  history. Esarhaddon's destruction of Sidon in 677 BCE interrupted its royal government.
+  Native kings returned around 575 BCE and later served Persian rulers with ships and
+  tribute while governing locally. Royal inscriptions and sarcophagi preserve evidence of
+  this court. Artaxerxes III crushed a revolt in 345 BCE, bringing this period of government
+  to an end.
 name: "Sidon"
 wikipedia: https://en.wikipedia.org/wiki/Sidon
 periods:

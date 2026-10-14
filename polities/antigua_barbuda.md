@@ -1,5 +1,17 @@
 ---
 id: antigua_barbuda
+description: >-
+  Antigua and Barbuda is an island state in the eastern Caribbean, independent from
+  Britain since 1981. Its capital, St. John's, stands on Antigua, while Barbuda has its
+  own local council. The country is a parliamentary constitutional monarchy, sharing a
+  monarch with other Commonwealth realms but governing through its own elected
+  institutions. British settlement brought plantation agriculture and enslaved African
+  labor, whose legacy shaped the population and political movements. Labor organizing and
+  expanded voting rights helped build the path toward self-government and independence.
+  Tourism became central to the economy as sugar production declined. Hurricanes pose
+  recurring threats to the islands, notably the devastation of Barbuda by Hurricane Irma
+  in 2017. The state remains part of regional Caribbean organizations and the
+  Commonwealth.
 name: Antigua and Barbuda
 wikipedia: https://en.wikipedia.org/wiki/Antigua_and_Barbuda
 periods:

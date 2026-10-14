@@ -1,5 +1,16 @@
 ---
 id: kingdom_wessex
+description: >-
+  Wessex was an Anglo Saxon kingdom in southern England, traditionally founded in 519 and
+  centered on Winchester. Its early foundation stories are not securely dated. Kings
+  expanded from the upper Thames region toward the southwest, ruling through nobles and
+  royal assemblies. Mercian domination interrupted its government when Cenwalh was expelled
+  between 645 and 648. Later rulers gained authority over neighboring English kingdoms, but
+  Viking invasions threatened its survival. Alfred defeated a Danish army at Edington in 878
+  and strengthened defenses through fortified towns, military reforms, and royal
+  administration. His successors Edward and Æthelstan extended this power across England.
+  Æthelstan's conquest of York in 927 completed the transformation into the Kingdom of
+  England, rather than preserving Wessex as a separate state.
 name: "Kingdom of Wessex"
 wikipedia: https://en.wikipedia.org/wiki/Wessex
 periods:

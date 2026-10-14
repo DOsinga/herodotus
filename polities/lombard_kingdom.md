@@ -1,5 +1,16 @@
 ---
 id: lombard_kingdom
+description: >-
+  The Lombard kingdom occupied much of northern and central Italy after Alboin led his
+  people into the peninsula in 568. Pavia became the royal administrative capital in 572,
+  but strong regional dukes limited the kings' authority. Following the deaths of the
+  first rulers, the kingless Rule of the Dukes lasted from 574 to 584, when Authari
+  restored royal government. Lombard settlement divided Italy between their territories,
+  Byzantine possessions, and other local powers. Kings gradually adopted Roman practices,
+  issued laws, and moved from paganism or Arian Christianity towards Catholicism. Conflict
+  with the papacy helped bring Frankish intervention. Charlemagne conquered the kingdom in
+  774 and took the Lombard royal title. Separately governed Lombard territories, notably
+  Benevento, continued beyond the fall of Pavia.
 name: "Kingdom of the Lombards"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_the_Lombards
 periods:

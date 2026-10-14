@@ -2,6 +2,8 @@
 id: yenisei_kyrgyz
 name: "Yenisei Kyrgyz Khaganate"
 wikipedia: https://en.wikipedia.org/wiki/Yenisei_Kyrgyz_Khaganate
+description: >-
+  The Yenisei Kyrgyz Khaganate was centered in southern Siberia's Yenisei valleys and Minusinsk basin. Its recorded beginning in 693 follows recognition of Bars Bek as khagan, not the first appearance of Kyrgyz communities. Khagans and local leaders governed people engaged in pastoralism, farming, and regional exchange. They survived periods of Turkic and Uyghur overlordship, then destroyed the Uyghur ruling center in 840. That victory brought military prestige across the steppe, but does not establish lasting Kyrgyz territorial government throughout Mongolia. Their political center remained the Yenisei homeland despite later Khitan pressure. Submission to Genghis Khan in 1207 initially left local government intact. Refusal to provide troops prompted Jochi's campaign in 1218, bringing the remaining independent leadership under direct Mongol control.
 periods:
 - start: 693
   end: 1218

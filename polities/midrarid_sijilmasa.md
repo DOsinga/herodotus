@@ -1,5 +1,16 @@
 ---
 id: midrarid_sijilmasa
+description: >-
+  The Emirate of Sijilmasa governed an oasis region in southeastern Morocco from
+  approximately 757 to 976. It began as a community of Sufri Kharijites whose members
+  elected a leader, before hereditary families established firmer control. The origins and
+  genealogy of the later Midrarid rulers are disputed, so the community's foundation should
+  not be confused with the dynasty's beginning. Sijilmasa became a wealthy northern gateway
+  for trade across the Sahara, linking Maghrebi merchants with gold producing regions
+  farther south. This commerce supported local rule and attracted outside intervention.
+  During the tenth century, rulers navigated pressure from the Fatimids and the Umayyads of
+  Córdoba. Local government survived shifting allegiances and attacks until conquest in 976
+  ended the emirate's separate local political existence.
 name: "Midrarid Emirate of Sijilmasa"
 wikipedia: https://en.wikipedia.org/wiki/Midrarid_dynasty
 periods:

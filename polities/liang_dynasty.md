@@ -1,5 +1,16 @@
 ---
 id: liang_dynasty
+description: >-
+  The Liang dynasty governed much of southern China from 502 to 557, chiefly from Jiankang,
+  modern Nanjing. Xiao Yan, a Southern Qi general, seized the throne and became Emperor Wu. His
+  long reign supported scholarship, literature, and Buddhism, while the court maintained
+  contacts reaching beyond China. Imperial government rested on the ruling Xiao family and
+  officials drawn from southern elite society. Hou Jing's rebellion shattered this order: he
+  captured Jiankang in 549 and eventually proclaimed his own regime. Liang princes continued
+  governing elsewhere, including Jiangling, rather than disappearing with the capital's fall.
+  Northern intervention and struggles among the princes weakened their recovery. Chen Baxian
+  ultimately took the surviving Liang throne in 557, founding the Chen dynasty over a reduced
+  realm.
 name: "Liang dynasty"
 wikipedia: https://en.wikipedia.org/wiki/Liang_dynasty
 periods:

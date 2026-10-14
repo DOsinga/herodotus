@@ -1,5 +1,17 @@
 ---
 id: ukraine
+description: >-
+  Ukraine is an Eastern European republic independent since 1991, with its capital
+  at Kyiv. It emerged from the Soviet Union after parliament declared independence
+  and voters endorsed that decision in a referendum. Its government combines an
+  elected president with a cabinet accountable to the Verkhovna Rada, the
+  parliament. Rich farmland, Black Sea ports and industrial regions have shaped its
+  economy. Political struggles over corruption, democratic institutions and foreign
+  alignment produced the Orange Revolution in 2004 and the Revolution of Dignity in
+  2014. Russia annexed Crimea and supported armed separatists in eastern Ukraine
+  that year. A full scale Russian invasion followed in 2022. Ukraine's government
+  continued functioning and defending its sovereignty, while war displaced millions
+  and damaged cities, farms and infrastructure.
 name: Ukraine
 wikipedia: https://en.wikipedia.org/wiki/Ukraine
 periods:

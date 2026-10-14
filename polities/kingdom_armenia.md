@@ -1,5 +1,7 @@
 ---
 id: kingdom_armenia
+description: >-
+  The Kingdom of Armenia occupied the Armenian Highlands between larger Mediterranean and Iranian powers. This record follows its monarchy from Artaxias I's independence in 189 BCE through its abolition in 428 CE, excluding periods of direct Roman and Sasanian control. Artaxata was one of several royal capitals. Under Tigranes the Great, Armenia briefly expanded into a large empire before Roman victories reduced its reach. Later Arsacid kings balanced powerful noble families with competing Roman and Persian demands, often receiving outside support for their thrones. Christianity became the kingdom's official religion in the early fourth century, transforming its institutions and cultural connections. Partition weakened the state. In 428 the Sasanians removed the last king and replaced royal government with appointed marzbans.
 name: "Kingdom of Armenia"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Armenia_(antiquity)
 periods:

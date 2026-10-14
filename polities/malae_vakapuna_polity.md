@@ -1,5 +1,7 @@
 ---
 id: malae_vakapuna_polity
+description: >-
+  Malae Vakapuna represents a local chiefly centre on Tongatapu, Tonga's largest island, approximately between 400 and 1200. Its large earth mound stands on a hill overlooking central Tongatapu and the Fanga Uta Lagoon. Excavation and radiocarbon dating place the beginning of construction between 350 and 500, with completion several generations later. Nearby mounds, roads and open spaces suggest an increasingly organised settlement landscape rather than an isolated monument. Archaeologists interpret the mound's size and position as evidence for emerging leadership and control of land, but no named rulers or written constitution survive. This record concerns that local centre, not a united Polynesian state. Its estimated endpoint marks incorporation into the later centralised Tui Tonga polity, rather than a demonstrated destruction.
 name: "Malae Vakapuna Chiefdom"
 type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/History_of_Tonga

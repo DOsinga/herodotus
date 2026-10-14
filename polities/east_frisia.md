@@ -1,5 +1,16 @@
 ---
 id: east_frisia
+description: >-
+  East Frisia was a county, later a principality, on the North Sea coast of present northern
+  Germany. Its separate government lasted from 1464, when Emperor Frederick III made Ulrich
+  Cirksena a count, until 1744. The Cirksena family developed its authority from earlier
+  local chieftains, governing a region with strong traditions of Frisian freedom. Counts and
+  princes faced powerful estates and the commercial city of Emden, whose resistance limited
+  attempts at greater central control. Aurich became the seat of government. The Reformation
+  left Lutheran and Reformed communities alongside other religious groups, while Dutch
+  influence shaped regional politics. The rulers gained princely rank in 1654. When the last
+  male Cirksena ruler died in 1744, Prussia took possession and ended the independent
+  regime.
 name: East Frisia
 wikipedia: https://en.wikipedia.org/wiki/County_of_East_Frisia
 periods:

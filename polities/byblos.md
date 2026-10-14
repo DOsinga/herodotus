@@ -2,6 +2,17 @@
 id: byblos
 name: "Byblos"
 wikipedia: https://en.wikipedia.org/wiki/Byblos
+description: >-
+  Byblos was a coastal city kingdom in present-day Lebanon, recorded here from approximately
+  2700 BCE until its submission to Alexander in 332 BCE. Its harbor connected the wooded
+  mountains of Lebanon with Egypt, exporting timber and receiving luxury goods and gifts.
+  Temples, royal tombs and imported objects reveal the city's wealth and long commercial
+  relationships. Local kings governed through successive periods of Egyptian, Assyrian,
+  Babylonian and Persian influence. The Amarna letters preserve their diplomatic appeals and
+  conflicts during the Late Bronze Age. Later Phoenician rulers maintained maritime trade
+  and produced inscriptions important to the history of alphabetic writing. Tribute and
+  military obligations did not eliminate their local authority. Macedonian conquest placed
+  the city under outside governors, ending the kingdom's autonomy.
 periods:
 - start: -2700
   end: -332

@@ -2,6 +2,18 @@
 id: duchy_milan
 name: Duchy of Milan
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Milan
+description: >-
+  The Duchy of Milan was a northern Italian state centred on the wealthy commercial
+  cities and farmland of Lombardy. Created in 1395 for Gian Galeazzo Visconti, it
+  became a major rival of Venice and other Italian powers. Visconti rule gave way
+  briefly to the Ambrosian Republic before Francesco Sforza restored the duchy in 1450.
+  Its court supported Renaissance art, architecture, and manufacturing, while Milan's
+  strategic position attracted outside intervention. French conquest in 1499 began
+  repeated alternations between French control and restored Sforza government,
+  reflected in this record's separate periods. Swiss and imperial armies helped
+  determine these changes. The death of the last Sforza duke in 1535 brought permanent
+  Habsburg control, ending the duchy's separate government under the rulers recorded
+  here.
 periods:
 - start: 1395
   end: 1499

@@ -1,5 +1,16 @@
 ---
 id: oghuz_yabgu_state
+description: >-
+  The Oghuz Yabgu State was a loosely organised Turkic political confederation associated
+  with the steppes and towns around the lower Syr Darya and Aral Sea. Its formation around
+  750 is an estimate, and Yangikent became its centre after westward movements of Oghuz
+  groups. A ruler titled yabgu led the confederation, while a separate military commander
+  directed its forces. Mobile herding communities and settled riverine trading centres
+  connected its economy. Oghuz rulers allied with the Rus against the Khazars and Volga
+  Bulgars, but taxation disputes and struggles involving the Seljuk branch weakened their
+  authority. Shah Malik briefly conquered Khwarazm before his defeat in the 1040s. Kipchak
+  pressure helped disperse the remaining groups; this record estimates the confederation's
+  final collapse around 1055.
 name: "Oghuz Yabgu State"
 wikipedia: https://en.wikipedia.org/wiki/Oghuz_Yabgu_State
 periods:

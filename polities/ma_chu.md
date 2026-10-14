@@ -1,5 +1,15 @@
 ---
 id: ma_chu
+description: >-
+  Ma Chu was a kingdom centred on Changsha in southern China from 907 to 951, during the
+  fragmentation following the Tang dynasty. Its territory covered much of Hunan and parts of
+  northeastern Guangxi. Founder Ma Yin had served as a regional military governor before
+  establishing his hereditary court. Recognition and titles from northern emperors did not
+  replace local Ma government. Chu's economy benefited from exports of tea, silk and horses,
+  with light taxation encouraging trade and farming. After Ma Yin's death, disputes among
+  his sons weakened the monarchy. Southern Tang forces conquered the court in 951 and
+  removed the ruling family to Jinling. Local commanders later expelled those forces, but
+  their governments were separate successors rather than continued Ma rule.
 name: "Ma Chu"
 wikipedia: https://en.wikipedia.org/wiki/Ma_Chu
 periods:

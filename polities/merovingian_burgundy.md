@@ -1,5 +1,16 @@
 ---
 id: merovingian_burgundy
+description: >-
+  Merovingian Burgundy was a Frankish royal territory in what is now eastern France
+  and western Switzerland, recorded separately from 534 to 558 and from 561 to 613.
+  It followed the Frankish conquest of the earlier Burgundian kingdom, not the
+  creation of the later kingdom of Arles. Merovingian inheritance divided the
+  Frankish lands among members of the royal family, giving Burgundy its own court
+  and rulers at intervals. Guntram governed from Chalon and became an important
+  mediator in the family's wars. Later kings of Austrasia also ruled the Burgundian
+  share through regional institutions. Reunification under Chlothar II in 613 ended
+  this separate government. Burgundy retained a strong regional identity afterward,
+  but later royal titles did not consistently represent an governing state.
 name: "Merovingian Burgundy"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Burgundy
 periods:

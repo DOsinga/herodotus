@@ -1,5 +1,17 @@
 ---
 id: achaean_league
+description: >-
+  The Achaean League was a federation of Greek cities in the Peloponnese, revived
+  around 280 BCE after an earlier league had disappeared. Member cities kept local
+  institutions but shared federal assemblies, elected officials, armies, and decisions
+  about war and diplomacy. Aegium served as an important meeting place and religious
+  center. Under Aratus, the league expanded beyond its original Achaean communities,
+  taking Corinth and challenging Macedonian influence. Conflict with Sparta eventually
+  forced it to seek Macedonian assistance, before cooperation with Rome helped weaken
+  Macedonia. Philopoemen strengthened its army and extended its control across the
+  peninsula. Although formally democratic, wealthy leaders dominated federal politics.
+  Growing tensions with Rome ended in the Achaean War of 146 BCE, after which Rome
+  dissolved the federation.
 name: "Achaean League"
 wikipedia: https://en.wikipedia.org/wiki/Achaean_League
 periods:

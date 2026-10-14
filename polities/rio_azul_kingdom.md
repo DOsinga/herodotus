@@ -1,5 +1,7 @@
 ---
 id: rio_azul_kingdom
+description: >-
+  The Kingdom of Rio Azul was an Early Classic Maya court in northeastern Guatemala, represented here from approximately 250 to 530. Its city stood near routes linking the Petén interior with the Caribbean through river systems. Palace complexes, temples, inscriptions and painted royal tombs provide evidence for its elite and ceremonial life. During the late fourth century, Tikal and its central Mexican allies brought Rio Azul into their sphere, replacing or subordinating local leaders. The site subsequently helped Tikal challenge Calakmul and control trade. Its concentrated population also suggests a frontier military role. Destruction and abandonment around 530 ended this royal centre. Later settlement, apparently connected with nearby Kinal, does not establish that the earlier court returned to independent government.
 name: "Kingdom of Rio Azul"
 wikipedia: https://en.wikipedia.org/wiki/Rio_Azul
 periods:

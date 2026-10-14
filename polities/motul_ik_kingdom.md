@@ -1,5 +1,16 @@
 ---
 id: motul_ik_kingdom
+description: >-
+  The Kingdom of Ik was a Maya polity centred on Motul de San Jose, north of Lake Peten
+  Itza in present day Guatemala. Its court is represented here approximately from 300 to
+  950, although settlement began much earlier and occupation continued afterward. Kings
+  and nobles governed the capital and nearby settlements, including a lakeside port at
+  La Trinidad de Nosotros. The Ik emblem glyph identifies royal authority on monuments
+  and painted vessels. Ceramics depict named nobles, dances, feasts, diplomacy, and
+  warfare in especially vivid court scenes. The kingdom shifted its allegiance between
+  Tikal and Calakmul as regional power changed, and later faced pressure from Dos Pilas.
+  Its government's estimated end belongs to the wider political changes of the Terminal
+  Classic.
 name: "Kingdom of Ik"
 wikipedia: https://en.wikipedia.org/wiki/Motul_de_San_Jos%C3%A9
 periods:

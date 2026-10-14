@@ -2,6 +2,17 @@
 id: nguyen_lords
 name: Nguyễn lords
 wikipedia: https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_lords
+description: >-
+  The Nguyễn lords governed southern Vietnam through a hereditary ruling house, separating
+  effectively from the northern court in 1600. Although they initially acknowledged the Lê
+  emperors, those emperors were controlled by the rival Trịnh lords. Nguyễn rulers built
+  their own administration and armies, traded through Hội An, and used Portuguese help to
+  manufacture cannon. Their wars with the Trịnh ended in a prolonged division of Vietnam.
+  Expansion southward took lands from Champa and Cambodia and brought Vietnamese settlers
+  into the Mekong delta. The Tây Sơn rebellion destroyed most of the ruling family in 1777.
+  Nguyễn Ánh restored governments around Saigon, lost them, and returned in 1788. His
+  victory after prolonged warfare reunited Vietnam under the Nguyễn imperial dynasty in
+  1802.
 periods:
 - start: 1600
   end: 1777

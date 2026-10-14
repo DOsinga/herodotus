@@ -1,5 +1,16 @@
 ---
 id: old_assyria
+description: >-
+  Old Assyria was the city state of Assur on the Tigris, represented from about 2025 to 1364
+  BCE with an interruption under Shamshi-Adad's northern kingdom. Its rulers normally
+  described themselves as stewards of the god Ashur rather than absolute kings. A city
+  assembly and other officials shared authority over administration, justice and commerce.
+  Assyrian merchants carried tin and textiles into Anatolia, leaving thousands of clay
+  tablets at trading settlements such as Kanesh. These records preserve contracts, family
+  correspondence and business disputes. Shamshi-Adad took Assur in 1808 BCE; local rule
+  later returned amid poorly documented struggles. Even under Mitanni's overlordship, Assur
+  retained its own kings. Ashur-uballit I's accession marked the transition from this
+  trading city state towards the Middle Assyrian kingdom.
 name: "Old Assyria"
 wikipedia: https://en.wikipedia.org/wiki/Old_Assyrian_period
 periods:

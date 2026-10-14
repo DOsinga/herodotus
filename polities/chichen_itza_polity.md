@@ -1,5 +1,16 @@
 ---
 id: chichen_itza_polity
+description: >-
+  Chichén Itzá became a major Maya political centre in northern Yucatán, in present
+  Mexico, around 750 CE. Its period of dominance extended through the Terminal Classic and
+  into the early Postclassic, with decline estimated here around 1200. Monumental
+  buildings, extensive roads, a great ball court and the sacred cenote show its importance
+  as a centre of power, exchange and pilgrimage. Its rulers and leading families drew on
+  connections across Mesoamerica. Shared imagery with central Mexican sites has prompted
+  theories of Toltec involvement, but does not establish that Chichén Itzá was a conquered
+  province. Whether government rested with kings or several elite lineages remains
+  debated. The loss of political dominance did not end settlement or later religious
+  visits to the cenote.
 name: "Polity of Chichén Itzá"
 wikipedia: https://en.wikipedia.org/wiki/Chichen_Itza
 periods:

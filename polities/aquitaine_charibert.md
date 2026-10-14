@@ -1,5 +1,16 @@
 ---
 id: aquitaine_charibert
+description: >-
+  Charibert II's Aquitaine was a short lived Merovingian kingdom in southwestern Gaul,
+  governed from Toulouse between 629 and 632. It arose after the death of Clotaire II,
+  when Charibert contested the succession against his half brother Dagobert. Rather than
+  gain Neustria, Charibert received a separate realm including Toulouse, Cahors, Agen,
+  Perigueux, and Saintes. His court belonged to the Frankish royal tradition but
+  governed this southern territory separately while Dagobert controlled the other
+  Frankish kingdoms. Charibert also extended his authority into Gascony through
+  campaigns against local resistance. Relations between the brothers were not always
+  hostile: Charibert became godfather to Dagobert's son. After Charibert died in 632,
+  his young heir Chilperic also died, and Dagobert took over the kingdom and its lands.
 name: "Charibert II's Aquitaine"
 wikipedia: https://en.wikipedia.org/wiki/Charibert_II
 periods:

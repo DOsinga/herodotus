@@ -2,6 +2,16 @@
 id: balhae
 name: "Balhae"
 wikipedia: https://en.wikipedia.org/wiki/Balhae
+description: >-
+  Balhae was a multiethnic kingdom in northeastern Asia from 698 to 926, spanning parts of modern
+  northeastern China, northern Korea, and Russia's coastal Far East. Dae Joyeong founded it among
+  communities connected with fallen Goguryeo and the Mohe peoples. Its kings developed a court
+  and administrative system that borrowed extensively from Tang China while governing separately.
+  Relations with Tang moved from warfare toward diplomacy, and missions to Japan created another
+  important overseas connection. The kingdom used several capitals; Sanggyeong eventually became
+  its principal seat, with a planned city and substantial palace remains. Buddhism, agriculture,
+  and regional trade helped shape its society. Khitan forces conquered Balhae in 926, ending its
+  monarchy, although refugees and successor movements carried parts of its legacy.
 periods:
 - start: 698
   end: 926

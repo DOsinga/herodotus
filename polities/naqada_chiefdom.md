@@ -1,5 +1,15 @@
 ---
 id: naqada_chiefdom
+description: >-
+  Naqada was a predynastic centre on the west bank of the Nile in Upper Egypt, associated with
+  ancient Nubt, the City of Gold. This record estimates its chiefdom's existence between 3500 and
+  3200 BCE. Wealth from farming and routes to Eastern Desert gold helped support craft production
+  and a ranked society. Cemeteries contain tombs and furnished burials alongside more modest
+  graves, providing evidence for powerful local elites rather than a documented dynasty. The
+  centre was also associated with the god Set. Naqada competed with other emerging centres,
+  especially Thinis and Nekhen, during the formation of Egyptian states. Its absorption by Thinis
+  is a reconstruction with uncertain timing. The local chiefdom should not be confused with the
+  wider Naqada archaeological culture.
 name: "Naqada"
 type: chiefdom
 wikipedia: https://en.wikipedia.org/wiki/Naqada

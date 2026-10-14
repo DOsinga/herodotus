@@ -1,5 +1,15 @@
 ---
 id: kingdom_jorvik
+description: >-
+  The Kingdom of Jórvík was a Scandinavian monarchy centered on York in northern England,
+  established after Viking forces captured the city in 866–867. It governed the southern part of
+  Northumbria and developed close connections with the Scandinavian rulers of Dublin. Danish and
+  Norwegian leaders competed for its throne, while York's local merchants and craftspeople linked
+  the city to trade across the Irish Sea and North Sea. Christianity continued alongside incoming
+  Scandinavian traditions, and rulers issued coins from the city. English kings repeatedly conquered
+  the kingdom, so its independent history includes several interruptions rather than continuous
+  rule. Scandinavian kings returned after 939 and during further contests in the 940s. Eric
+  Bloodaxe's expulsion in 954 ended the kingdom; English-appointed earls governed thereafter.
 name: Kingdom of Jórvík
 wikipedia: https://en.wikipedia.org/wiki/Scandinavian_York
 periods:

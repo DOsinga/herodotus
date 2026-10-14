@@ -1,5 +1,17 @@
 ---
 id: duchy_bavaria
+description: >-
+  The Duchy of Bavaria occupied southeastern Germany and, in its earlier form,
+  extensive Alpine lands. Agilolfing dukes governed from approximately 555 until
+  Charlemagne removed their rule in 788. Arnulf restored a separately governed duchy in
+  907, but royal appointment of its dukes followed Eberhard's deposition in 938. The
+  Wittelsbach family later held Bavaria, exercising its own government from 1250.
+  Repeated inheritance partitions created separate duchies, so this record includes
+  only periods of unified rule rather than every Bavarian branch. Regensburg was the
+  early court; Munich became the later seat. Albert IV reunited Bavaria after the
+  Landshut succession war in 1505 and secured primogeniture. During the Thirty Years'
+  War, Maximilian's elevation in 1623 transformed the duchy into the Electorate of
+  Bavaria.
 name: Duchy of Bavaria
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Bavaria
 periods:

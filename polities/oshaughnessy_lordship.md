@@ -1,5 +1,16 @@
 ---
 id: oshaughnessy_lordship
+description: >-
+  The O'Shaughnessy lordship governed Cenél Áeda in southern County Galway, Ireland, around
+  Gort and the Slieve Aughty region. Its ruling family belonged to the Uí Fiachrach Aidhne and
+  traced its name to Seachnasach, a tenth-century ancestor. Separate local government is
+  estimated from around 1100 as the kingdom of Aidhne fragmented. The chiefs held lands around
+  Beagh, Kilmacduagh, and Kiltartan, alongside related families including the O'Hynes and
+  O'Cahills. Castles at Gort, Fiddaun, and Ardamullivan later expressed their local power.
+  This record ends in 1585 with the Composition of Connacht and growing crown control, not the
+  disappearance of the family. O'Shaughnessy estates survived into the seventeenth century,
+  but continued ownership did not mean that the lordship still governed independently of royal
+  authority.
 name: "O'Shaughnessy Lordship of Cenel Aeda"
 wikipedia: https://en.wikipedia.org/wiki/%C3%93_Seachnasaigh
 periods:

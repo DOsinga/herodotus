@@ -1,6 +1,15 @@
 ---
 id: multan_emirate
 name: "Emirate of Multan"
+description: >-
+  The Emirate of Multan was a Muslim state centred on Multan in the Punjab, in present
+  Pakistan. Its rulers emerged from Abbasid provincial appointments, but the caliphate's crisis around 861 allowed local
+  independence. The early government belonged to the Banu Munabbih. In the tenth century an Isma'ili movement
+  replaced them and acknowledged the Fatimid caliphs, creating an important eastern outpost of their religious influence.
+  Multan's position connected trade routes across the Punjab and Indus region, while its rulers negotiated with
+  neighbouring Indian kingdoms and the rising Ghaznavids. Mahmud of Ghazni attacked in 1006 and imposed tribute
+  without immediately ending local government. A further conquest in 1010 removed the emirate and incorporated its
+  territory into the Ghaznavid Empire under direct control.
 wikipedia: https://en.wikipedia.org/wiki/Emirate_of_Multan
 periods:
 - start: 861

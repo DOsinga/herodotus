@@ -1,6 +1,17 @@
 ---
 id: amalfi
 name: "Republic and Duchy of Amalfi"
+description: >-
+  Amalfi was a small maritime state on Italy's southern coast, governing itself from 839
+  with interruptions until about 1100. Citizens first elected a prefect after escaping
+  Lombard domination; its rulers adopted the ducal title in 958. Merchant wealth supported a
+  powerful coastal community whose ships and trading colonies connected Byzantine and
+  Islamic ports with Italy. Amalfitans maintained commercial links with Constantinople and
+  the Fatimid world, making the town an early rival of later maritime republics. Salerno
+  directly controlled it between 1039 and 1052. Norman rule began in 1073, followed by a
+  final autonomous restoration in 1096. That restoration ended around 1100. The famous Pisan
+  sack of 1137 damaged an already subordinated town, rather than marking its original loss
+  of independence.
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Amalfi
 periods:
 - start: 839

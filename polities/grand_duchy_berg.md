@@ -1,6 +1,16 @@
 ---
 id: grand_duchy_berg
 name: Grand Duchy of Berg
+description: >-
+  The Grand Duchy of Berg was created by Napoleon in 1806 on the eastern bank of the Rhine,
+  with Düsseldorf as its capital. It combined the former Duchy of Berg with neighbouring
+  territories, including part of Cleves, during the reorganisation that ended the Holy Roman
+  Empire. Napoleon installed his brother in law Joachim Murat as ruler, and Berg joined the
+  Confederation of the Rhine. Its short period under Murat linked local government to French
+  military and political interests while retaining a distinct territorial administration. In
+  1808 Murat became king of Naples, and Napoleon assumed control of Berg. The duchy's title
+  survived under imperial management until 1813, but this record ends when its own ruler
+  ceased directing its affairs in 1808.
 wikipedia: https://en.wikipedia.org/wiki/Grand_Duchy_of_Berg
 periods:
 - start: 1806

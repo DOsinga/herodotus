@@ -1,5 +1,17 @@
 ---
 id: hamdanid_aleppo
+description: >-
+  The Hamdanid Emirate of Aleppo governed northern Syrian territory from 944 to 1002,
+  separately from the family's government in Mosul. Sayf al-Dawla seized Aleppo and
+  built a court led by an Arab military dynasty with Shia Muslim affiliations. His
+  campaigns against Byzantium made him a celebrated defender of the frontier, although
+  repeated defeats reduced his territory and damaged its prosperity. Aleppo's court
+  attracted the poet al-Mutanabbi and other writers, giving the emirate lasting cultural
+  importance. Byzantine forces sacked the capital in 962. Later rulers balanced
+  Byzantine pressure with Fatimid influence, paying tribute while retaining their own
+  administration. Military servants increasingly controlled the court. In 1002, Lu'lu'
+  displaced the remaining Hamdanid ruler and continued Aleppo's government under a new
+  ruling house.
 name: "Hamdanid Emirate of Aleppo"
 wikipedia: https://en.wikipedia.org/wiki/Hamdanid_dynasty
 periods:

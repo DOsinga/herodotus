@@ -1,5 +1,16 @@
 ---
 id: pengwern
+description: >-
+  Pengwern was a British royal centre in the borderlands of present Shropshire and Wales,
+  represented here from about 550 to 655. Welsh tradition associates it with Cyndrwyn and
+  his son Cynddylan, whose court and downfall survive chiefly in poetry. Whether this was
+  a fully independent regional kingdom, a subordinate court, or an early seat of Powys
+  remains disputed. Shrewsbury is a traditional identification, not a securely excavated
+  capital. Cynddylan appears in accounts of alliances and wars involving Mercia and
+  Northumbria during the seventh century. Poems attributed to his sister Heledd mourn a
+  ruined court and lost family. This record follows the separate government interpretation
+  and uses 655 as an approximate end, marking Mercian expansion rather than a precisely
+  documented conquest.
 name: "Pengwern"
 wikipedia: https://en.wikipedia.org/wiki/Pengwern
 periods:

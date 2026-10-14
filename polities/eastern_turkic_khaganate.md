@@ -1,5 +1,16 @@
 ---
 id: eastern_turkic_khaganate
+description: >-
+  The Eastern Turkic Khaganate governed the Mongolian plateau and neighbouring steppe lands
+  after the first Turkic empire's final division in 603. Its rulers came from the Ashina clan
+  and commanded a confederation of pastoral peoples through the authority of the khagan.
+  Ötüken served as a central court region rather than a precisely fixed capital. Cavalry
+  armies and diplomacy made the eastern Turks powerful neighbours of the Sui and Tang states
+  in China, whose internal conflicts offered opportunities for intervention. Under Illig
+  Khagan, warfare, severe weather, and tribal opposition weakened the confederation. Tang
+  armies defeated him and captured him in 630, ending independent government. Later courts
+  sponsored by Tang are not continued here; another independent Turkic empire arose decades
+  after this.
 name: "Eastern Turkic Khaganate"
 wikipedia: https://en.wikipedia.org/wiki/Eastern_Turkic_Khaganate
 periods:

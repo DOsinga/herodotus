@@ -1,5 +1,7 @@
 ---
 id: arwad
+description: >-
+  Arwad was a Phoenician island kingdom off the coast of present Syria, near modern Tartus. Its independent governing life is estimated here from about 1200 to 332 BCE. The small island supported a densely built city whose ships, sailors, and mainland connections gave it influence beyond its shores. Local kings ruled while navigating the demands of larger Assyrian, Babylonian, and Persian powers. Tribute and naval service did not always prevent them from making their own decisions. Under Persian rule, Arwad joined Tyre and Sidon in a confederation with a common council at Tripolis. When Alexander invaded in 332 BCE, its royal family submitted and provided ships for his siege of Tyre. Later urban prosperity outlasted this earlier kingdom's independent government.
 name: "Arwad"
 wikipedia: https://en.wikipedia.org/wiki/Arwad
 periods:

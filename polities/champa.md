@@ -1,6 +1,17 @@
 ---
 id: champa
 name: Champa
+description: >-
+  Champa occupied the coast of central and southern Vietnam from a traditional founding in 192
+  until its final annexation in 1832. Cham kings ruled shifting centres rather than a
+  uniformly centralised territory, drawing wealth from farming, seaborne trade, and links
+  across Southeast Asia. Hindu and Buddhist traditions shaped temples and royal inscriptions;
+  Islam later spread among Cham communities. Vijaya became a capital around the beginning of
+  the second millennium. Warfare with the Khmer Empire interrupted local government during two
+  recorded occupations. Conflict with Đại Việt steadily reduced Cham territory, culminating in
+  Vijaya's fall in 1471. The southern kingdom of Panduranga continued under Cham rulers
+  despite Vietnamese pressure. Emperor Minh Mạng abolished its remaining government in 1832,
+  incorporating the last territory.
 wikipedia: https://en.wikipedia.org/wiki/Champa
 periods:
 - start: 192

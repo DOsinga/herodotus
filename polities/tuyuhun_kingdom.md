@@ -1,5 +1,16 @@
 ---
 id: tuyuhun_kingdom
+description: >-
+  The Tuyuhun Kingdom was a monarchy centred around Qinghai Lake and the upper Yellow
+  River, in northwestern China. Its conventional beginning in 284 marks the government
+  of Murong Tuyuhun, whose followers belonged to the Xianbei world. His successors ruled
+  pastoral communities and other peoples across Qinghai and neighbouring lands, using
+  royal and khagan titles. The kingdom controlled routes linking China with Central Asia
+  and became known for its horses. Chinese dynasties alternately fought and negotiated
+  with its rulers. In the seventh century, Tang expansion and the rising Tibetan Empire
+  placed it under mounting pressure. Tibetan conquest expelled Nuohebo's court in 663. A
+  failed Tang restoration campaign in 670 did not restore its homeland, although refugee
+  rulers continued under Tang protection.
 name: "Tuyuhun Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Tuyuhun
 periods:

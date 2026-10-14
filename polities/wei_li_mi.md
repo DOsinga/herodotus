@@ -1,5 +1,15 @@
 ---
 id: wei_li_mi
+description: >-
+  Li Mi's Wei was a short-lived rebel government in central and eastern Henan during
+  the Sui dynasty's collapse, operating in 617 and 618. Li joined the Wagang rebels
+  led by Zhai Rang and helped them capture the great imperial granaries near Luoyang.
+  Distributing stored grain drew hungry people and soldiers to their cause. Recognised
+  as Duke of Wei, Li established officials and an independent reign title, although he
+  never took Luoyang itself. His murder of Zhai weakened trust among the commanders.
+  Fighting against Yuwen Huaji further exhausted his forces. Wang Shichong defeated
+  him in 618, taking over his territorial base. Li then submitted to the newly founded
+  Tang, before a failed return to rebellion and his death the following year.
 name: "Li Mi's Wei"
 wikipedia: https://en.wikipedia.org/wiki/Li_Mi_(Sui_dynasty)
 periods:

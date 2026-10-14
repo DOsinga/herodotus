@@ -1,5 +1,16 @@
 ---
 id: kutrigur_polity
+description: >-
+  The Kutrigurs formed a mobile political community on the steppe west of the Sea of Azov
+  during the sixth century. This record begins around 500 and follows their separate rule
+  until 568. Byzantine writers described mounted warriors led by rulers such as Zabergan,
+  often using the broad label Huns for groups whose identities remain debated. Kutrigur
+  forces raided the Byzantine Balkans and approached Constantinople in 559, where Belisarius
+  helped repel them. Byzantine diplomacy also encouraged their eastern neighbours, the
+  Utigurs, to attack them. Some Kutrigurs entered imperial territory, while others became
+  connected with the rising Avar power. The endpoint follows Avar ruler Bayan's command of
+  Kutrigur troops, interpreted here as absorption into his government rather than
+  disappearance of their people.
 name: "Kutrigur Polity"
 wikipedia: https://en.wikipedia.org/wiki/Kutrigurs
 periods:

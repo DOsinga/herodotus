@@ -1,5 +1,16 @@
 ---
 id: guinea
+description: >-
+  Guinea is a West African republic on the Atlantic coast, independent since 1958, with its
+  capital at Conakry. Voters rejected membership in the proposed French Community, choosing
+  immediate independence under Ahmed Sékou Touré. His government established one-party rule,
+  pursued socialist policies, and suppressed opposition. After Touré died in 1984, the army
+  took power under Lansana Conté, whose long presidency eventually allowed multiparty politics
+  without ending authoritarian government. Further coups and disputed elections marked later
+  decades, including the overthrow of Alpha Condé in 2021. Despite these changes, the country
+  continues as one state. Its population includes Fulani, Malinke, and Susu communities among
+  others. Bauxite mining is central to the economy, while agriculture supports many households
+  across coastal, highland, and forest regions.
 name: Guinea
 wikipedia: https://en.wikipedia.org/wiki/Guinea
 periods:

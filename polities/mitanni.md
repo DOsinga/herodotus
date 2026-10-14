@@ -1,5 +1,16 @@
 ---
 id: mitanni
+description: >-
+  Mitanni was a Bronze Age monarchy across northern Mesopotamia and Syria, represented here from
+  approximately 1550 to 1340 BCE. Its population was largely Hurrian, while royal names, treaties
+  and horse training terminology preserve distinctive Indo Aryan connections. Kings ruled from
+  Washukanni, whose location is uncertain and probably corresponds to Tell Fakhariyah. At its
+  height Mitanni controlled important Syrian kingdoms and contested regional influence with
+  Egypt. Diplomatic reconciliation brought marriage alliances with Egyptian pharaohs, recorded in
+  the Amarna correspondence. Royal succession disputes later weakened the state as Hittite and
+  Assyrian pressure increased. Suppiluliuma I restored the prince Shattiwaza under a restrictive
+  treaty around 1340, ending the independent government represented here. A reduced kingdom
+  survived under competing overlords before eventual Assyrian conquest.
 name: "Mitanni"
 wikipedia: https://en.wikipedia.org/wiki/Mitanni
 periods:

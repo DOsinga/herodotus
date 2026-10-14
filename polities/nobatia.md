@@ -1,5 +1,15 @@
 ---
 id: nobatia
+description: >-
+  Nobatia was a kingdom along the Nile in Lower Nubia, in present southern Egypt and northern
+  Sudan. It formed around 400 after the decline of Kush, with Pachoras, now the archaeological
+  site of Faras, becoming its capital. Early royal burials associated with the Ballana culture
+  show wealthy rulers and links with surrounding regions. King Silko's inscription records
+  victories over the Blemmyes and provides evidence of royal authority. The kingdom adopted
+  Christianity in the sixth century, developing connections with Egypt's Coptic church and
+  replacing earlier religious traditions. Nobatia eventually joined its southern neighbour
+  Makuria under circumstances that remain unclear. This record uses 650 as an approximate date
+  for that incorporation, although the union is only securely attested by the eighth century.
 name: "Nobatia"
 wikipedia: https://en.wikipedia.org/wiki/Nobatia
 periods:

@@ -1,5 +1,16 @@
 ---
 id: halin_kingdom
+description: >-
+  Halin was a Pyu kingdom in the Mu River valley of present Myanmar, represented here from
+  about 200 to 832 CE. The starting date estimates the rise of its royal urban centre rather
+  than the first settlement. Inscriptions mention native kings and queens, while excavations
+  reveal brick walls, gates, religious buildings, reservoirs and a city organised around
+  water management. Salt production helped make Halin an important centre among the separate
+  Pyu states. Its writing and urban forms belonged to a wider regional culture that later
+  influenced Burmese kingdoms. Chinese accounts describe a Nanzhao attack in 832,
+  conventionally associated with Halin. That identification and its political consequences
+  remain debated; occupation continued afterwards, and the raid does not prove lasting
+  foreign government.
 name: Kingdom of Halin
 wikipedia: https://en.wikipedia.org/wiki/Pyu_city-states
 periods:

@@ -1,5 +1,15 @@
 ---
 id: egypt_new_kingdom
+description: >-
+  Egypt's New Kingdom lasted from about 1550 to 1069 BCE, beginning with Ahmose's expulsion of the
+  Hyksos and reunification of the Nile valley. Pharaohs of the Eighteenth, Nineteenth, and Twentieth
+  dynasties ruled through officials, armies, and powerful temple estates. Campaigns extended Egyptian
+  control into Nubia and the Levant, bringing tribute, wealth, and diplomatic rivalry with other great
+  kingdoms. Thebes remained a religious and royal centre, though courts also operated at Memphis,
+  Amarna, and Pi-Ramesses. Hatshepsut's building and trading ventures, Akhenaten's religious reforms,
+  and Ramesses II's wars and monuments distinguish the period. Later rulers faced warfare, economic
+  strain, and growing priestly power. After Ramesses XI, kings at Tanis and Amun's high priests at
+  Thebes divided the country's government between two centres.
 name: "New Kingdom of Egypt"
 wikipedia: https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt
 periods:

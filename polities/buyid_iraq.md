@@ -2,6 +2,18 @@
 id: buyid_iraq
 name: "Buyid Emirate of Iraq"
 wikipedia: https://en.wikipedia.org/wiki/Buyid_dynasty
+description: >-
+  The Buyid Emirate of Iraq was a regional monarchy based in Baghdad, beginning
+  when Ahmad ibn Buya seized the city in 945. Known as Mu'izz al-Dawla, he
+  governed Iraq while leaving the Abbasid caliph as a ceremonial source of
+  legitimacy. Buyid rulers came from Daylam and followed Shi'a Islam, but
+  maintained the Sunni caliphate rather than replacing it. Their government
+  relied on military forces, officials, and revenues from Iraqi lands and
+  cities. Baghdad's branch repeatedly competed with relatives ruling Fars and
+  other Iranian territories. This record excludes intervals when Fars rulers
+  directly controlled Iraq, rather than treating the entire dynasty as one
+  state. After renewed local rule under emirs, the Seljuk takeover of Baghdad in
+  1055 ended Buyid authority there.
 periods:
 - start: 945
   end: 978

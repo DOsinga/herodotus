@@ -1,5 +1,14 @@
 ---
 id: golconda_sultanate
+description: >-
+  The Golconda Sultanate ruled much of the eastern Deccan from 1518 to 1687 under the
+  Qutb Shahi dynasty. Its first centre was the fortified city of Golconda, near modern Hyderabad
+  in southern India. Muhammad Quli Qutb Shah founded Hyderabad in 1591, giving the kingdom a
+  new capital marked by the Charminar. The sultans held strong executive, military and judicial powers,
+  assisted by ministers and regional officials. Diamond trading, textiles and coastal commerce supported its wealth.
+  Persian court traditions developed alongside Telugu and Dakhini literary culture, and Hindu officials served within
+  a Muslim monarchy. Golconda joined other Deccan states against Vijayanagara, but later faced increasing Mughal
+  pressure. Aurangzeb captured its fortress in 1687 and ended the kingdom's independent Qutb Shahi government.
 name: Golconda Sultanate
 wikipedia: https://en.wikipedia.org/wiki/Golconda_Sultanate
 periods:

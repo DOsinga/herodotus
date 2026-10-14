@@ -1,5 +1,17 @@
 ---
 id: maitraka_valabhi
+description: >-
+  The Kingdom of Valabhi governed parts of western India from approximately 475 to 776,
+  centred on Vallabhi in Saurashtra. Bhatarka established the Maitraka ruling house as
+  Gupta authority weakened, initially retaining a general's title. His successors
+  adopted royal titles and developed a hereditary monarchy. Most rulers honoured Shiva,
+  but the kingdom also supported Buddhist learning and Jain communities. Vallabhi became
+  a educational centre, and copperplate land grants provide evidence for its rulers and
+  administration. The kingdom maintained local government under Harsha's temporary
+  overlordship, then recovered greater independence after his death. Marriages and
+  diplomacy linked its court with other Indian rulers. Later traditions associate its
+  destruction with Arab attacks, but the exact circumstances are disputed, and its final
+  date remains approximate.
 name: "Kingdom of Valabhi"
 wikipedia: https://en.wikipedia.org/wiki/Maitraka_dynasty
 periods:

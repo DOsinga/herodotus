@@ -2,6 +2,16 @@
 id: buyid_ray
 name: "Buyid Emirate of Ray"
 wikipedia: https://en.wikipedia.org/wiki/Buyid_dynasty
+description: >-
+  The Buyid Emirate of Ray governed parts of central Iran under a Daylamite ruling family. Rukn al
+  Dawla established his government around Isfahan in 935 and made Ray his capital in 943. Samanid
+  forces expelled him in 945, before restoration around 947. Although related Buyid rulers
+  sometimes claimed seniority, Ray retained its own court and administration. Its hereditary emirs
+  commanded armies largely drawn from Daylam, while ministers such as Sahib ibn Abbad supported an
+  Arabic literary culture. Family divisions produced additional courts across Jibal, which this
+  record does not combine indiscriminately. Later rulers faced pressure from regional rivals and
+  military factions. In 1029 Mahmud of Ghazni captured Ray and displaced its government, bringing
+  this Buyid state's existence to an end.
 periods:
 - start: 935
   end: 945

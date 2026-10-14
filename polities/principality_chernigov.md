@@ -1,5 +1,14 @@
 ---
 id: principality_chernigov
+description: >-
+  The Principality of Chernigov was a Rus state east of the Dnieper, centered on Chernihiv
+  and the Desna basin. This record follows its separate government from 1132 to approximately 1310.
+  Princes of the Olgovichi branch of the Rurikid dynasty ruled it and repeatedly contested the
+  throne of Kyiv. Towns, agriculture, and trade supported a territory that divided into smaller appanages
+  as members of the ruling family established their own courts. Mongol forces sacked Chernihiv in
+  1239, but princely government continued over reduced lands, increasingly from Bryansk. Michael of Chernigov was
+  executed by the Horde in 1246; his son Roman maintained the remaining principality. Around 1310,
+  princes from the Smolensk line took Bryansk, ending this surviving phase of Olgovichi territorial government.
 name: Principality of Chernigov
 wikipedia: https://en.wikipedia.org/wiki/Principality_of_Chernigov
 periods:

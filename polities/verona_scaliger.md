@@ -1,5 +1,7 @@
 ---
 id: verona_scaliger
+description: >-
+  The Lordship of Verona was a hereditary government ruled by the della Scala family in northern Italy from 1262 to 1387. Emerging from communal offices, the Scaligers concentrated authority while retaining elements of the city's civic framework. Cangrande I expanded rule over Vicenza, Padua, and Treviso, making Verona a major regional power and supporting writers and artists, including Dante. Under Mastino II, its reach extended farther, but a coalition of rival states forced substantial territorial losses. Later rulers built bridges, palaces, and other public works while family violence weakened political stability. Antonio della Scala exhausted his resources in conflict with Milan and fled in 1387. Gian Galeazzo Visconti took control, ending the Scaliger lordship despite later attempts to recover Verona.
 name: Lordship of Verona
 wikipedia: https://en.wikipedia.org/wiki/Scaliger
 periods:

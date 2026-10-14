@@ -1,5 +1,15 @@
 ---
 id: el_tajin_polity
+description: >-
+  El Tajin was a major urban centre in what is now Veracruz, Mexico, flourishing approximately
+  from 600 to 1200. Its regional government is inferred from monumental construction and
+  settlement patterns; the identities of its rulers and the extent of their authority remain
+  disputed. The city occupied a useful position on routes between the Gulf coast and inland
+  Mesoamerica. Temples, palaces, terraced elite residences, and numerous ballcourts reveal a
+  wealthy society with marked differences in status. The Pyramid of the Niches exemplifies its
+  distinctive architecture, while carved ballcourt panels connect ritual games with sacrifice.
+  El Tajin belonged to the Classic Veracruz cultural world, not a single state embracing every
+  Totonac community. Its great monumental centre was abandoned around the twelfth century.
 name: "El Tajin"
 wikipedia: https://en.wikipedia.org/wiki/El_Taj%C3%ADn
 periods:

@@ -1,5 +1,7 @@
 ---
 id: najdat_state
+description: >-
+  The Najdat State was a short-lived Kharijite government in central and eastern Arabia during the second Muslim civil war. Its territorial consolidation in Yamama is placed here around 685, when followers accepted Najda ibn Amir as their leader. The movement opposed rival caliphal claims and distinguished itself from other Kharijites through disagreements over religious conduct and membership. Its forces expanded into Bahrain and parts of southern Arabia, drawing strength from regions far from the caliphate's main armies. Internal disputes over doctrine, leadership, and relations with Damascus split the movement. Najda was murdered, but successors continued to govern and fight. Campaigns by rival caliphal forces destroyed their territorial power around 693. Religious adherents survived beyond the collapse of this independent state.
 name: "Najdat State"
 wikipedia: https://en.wikipedia.org/wiki/Najdat
 periods:

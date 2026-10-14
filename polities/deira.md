@@ -2,6 +2,16 @@
 id: deira
 name: "Deira"
 wikipedia: https://en.wikipedia.org/wiki/Deira
+description: >-
+  Deira was a medieval kingdom in what is now Yorkshire, between the Humber and the Tees. Its Anglian
+  royal community probably emerged around the fifth century, but Aella is the first securely named
+  king in the late sixth century. York became a centre in a landscape retaining traces of Roman and
+  British settlement. Deiran kings competed with neighbouring Bernicia, and their union produced
+  Northumbria. Edwin ruled the combined kingdom and accepted Christianity in 627, strengthening
+  connections with other English courts and missionaries. Separate Deiran government briefly returned
+  after his death and again under Oswine and Aethelwald. Those episodes are distinguished here from
+  periods of unified Northumbrian rule. The final union is conventionally dated to 654, although its
+  timing remains debated.
 periods:
 - start: 450
   end: 604

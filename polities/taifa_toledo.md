@@ -2,6 +2,17 @@
 id: taifa_toledo
 name: "Taifa of Toledo"
 wikipedia: https://en.wikipedia.org/wiki/Taifa_of_Toledo
+description: >-
+  The taifa of Toledo was a Muslim kingdom in central Iberia, emerging as Córdoba's
+  authority broke down in the early eleventh century. This record begins in 1018, when
+  Ismail expelled the caliphate's governor, before later adopting a royal title. The
+  Dhunnunid family ruled from Toledo over a broad inland territory including important
+  towns and routes across the central peninsula. Its rulers competed with neighbouring
+  taifas and negotiated with Christian monarchs, sometimes paying tribute or seeking
+  military assistance. Al-Mamun extended Toledo's influence into Valencia and Córdoba, but
+  his successors struggled with court opposition and mounting outside pressure. Alfonso VI
+  of León and Castile captured Toledo in 1085, ending its independent government and
+  placing its strategic heartland under the expanding Castilian crown.
 periods:
 - start: 1018
   end: 1085

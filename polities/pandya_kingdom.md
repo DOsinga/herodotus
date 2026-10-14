@@ -1,6 +1,17 @@
 ---
 id: pandya_kingdom
 name: Pandya Kingdom
+description: >-
+  The Pandya Kingdom was a Tamil monarchy centred on Madurai and the southern coast of
+  India. Its early historical phase is represented from approximately 300 BCE, when
+  inscriptions, foreign accounts, coins, and poetry provide evidence beyond legendary royal
+  genealogies. Pearl fisheries and maritime trade connected its ports with distant markets.
+  Kalabhra expansion interrupted royal power around 250, before Kadungon's restoration
+  around 560. Later conflicts with the Cholas brought conquest around 920 and another brief
+  restoration under Vira Pandya in the tenth century. Native kings returned in the later
+  period represented from 1101. Thirteenth century rulers expanded widely across southern
+  India and into Sri Lanka, supporting major temples. Succession struggles and Delhi's
+  invasions ended the Madurai kingdom's separate government in 1323.
 wikipedia: https://en.wikipedia.org/wiki/Pandya_dynasty
 periods:
 - start: -300

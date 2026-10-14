@@ -2,6 +2,19 @@
 id: sultanate_zanzibar
 name: Sultanate of Zanzibar
 wikipedia: https://en.wikipedia.org/wiki/Sultanate_of_Zanzibar
+description: >-
+  The Sultanate of Zanzibar was an East African monarchy centered on Stone Town,
+  founded in 1856 after the division of the Omani ruler's dominions. Its sultans
+  controlled Zanzibar's islands and changing stretches of the mainland coast,
+  drawing wealth from cloves, ivory, and the slave trade. Arab merchant networks
+  connected the court with inland Africa and the Indian Ocean. European pressure
+  restricted slavery and progressively reduced the sultan's mainland
+  possessions. British protection in 1890 removed independent control over
+  foreign affairs, creating a gap in this record despite continued local royal
+  government. Independence returned in December 1963 under a constitutional
+  monarchy. In January 1964, revolution overthrew Sultan Jamshid and established
+  a republic, ending the sultanate before Zanzibar's subsequent union with
+  neighboring Tanganyika.
 periods:
 - start: 1856
   end: 1890

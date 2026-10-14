@@ -1,5 +1,15 @@
 ---
 id: hamdanid_mosul
+description: >-
+  The Hamdanid Emirate of Mosul governed northern Iraq and parts of the Jazira during the
+  tenth century. Nasir al-Dawla secured lasting power in 935 after defeating caliphal forces,
+  accepting tribute obligations while running his own government. The family's roots lay among
+  the Arab Taghlib, and control of fertile agricultural lands and taxation supported its army.
+  Nasir briefly dominated Baghdad but could not retain authority there. Rivalry with the
+  Buyids repeatedly brought invasion, tribute agreements, and withdrawal to mountain
+  strongholds. His son Abu Taghlib replaced him in 967 and inherited these struggles. Buyid
+  conquest ended Hamdanid government in 978. A brief restoration by Hamdanid brothers in 989
+  failed to last, and the Uqaylids took control of Mosul in the following year.
 name: "Hamdanid Emirate of Mosul"
 wikipedia: https://en.wikipedia.org/wiki/Nasir_al-Dawla
 periods:

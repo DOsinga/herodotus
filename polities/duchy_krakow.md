@@ -1,5 +1,14 @@
 ---
 id: duchy_krakow
+description: >-
+  The Duchy of Kraków grew from the senior province created by Bolesław III's division of
+  Poland in 1138. Its capital in Lesser Poland carried prestige, making possession of Kraków a
+  prize for competing Piast princes. The intended rule of seniority soon failed, and military strength,
+  inheritance and alliances determined who governed. Rulers included members of the Silesian and other Piast
+  branches, while the Mongol invasion disrupted attempts to reunite Poland in the thirteenth century. Wenceslaus
+  II of Bohemia took Kraków in 1291 and governed through his officials, creating the gap
+  recorded here. Władysław the Elbow-high recovered the city in 1306. His coronation in 1320 joined
+  Kraków to the restored Polish kingdom and ended its separate political role as a duchy.
 name: Duchy of Kraków
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Kraków
 periods:

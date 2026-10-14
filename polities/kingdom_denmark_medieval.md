@@ -2,6 +2,18 @@
 id: kingdom_denmark_medieval
 name: Kingdom of Denmark (936–1397)
 wikipedia: https://en.wikipedia.org/wiki/History_of_Denmark
+description: >-
+  Medieval Denmark grew around Jutland, the Danish islands, and lands across the straits in
+  southern Scandinavia. This record begins approximately with Gorm the Old's reign in 936
+  and ends with the Kalmar Union in 1397. Kings governed alongside nobles, assemblies, and
+  an increasingly powerful Christian church. Harald Bluetooth's conversion linked royal
+  consolidation with Christianity, while later rulers built churches, towns, and stronger
+  institutions. Danish armies and fleets also expanded into Baltic territories, including
+  Estonia. Succession disputes, aristocratic resistance, and royal debts periodically
+  weakened the monarchy. From 1332 to 1340, Holstein counts governed the pledged kingdom
+  during a kingless interregnum. Valdemar IV rebuilt royal authority. Margaret I
+  subsequently brought Denmark, Norway, and Sweden together under the shared monarchy
+  established at Kalmar.
 periods:
 - start: 936
   end: 1332

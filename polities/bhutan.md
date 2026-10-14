@@ -1,5 +1,7 @@
 ---
 id: bhutan
+description: >-
+  Bhutan is a Himalayan state between Tibet and India, whose political continuity here begins with Ngawang Namgyal's arrival in 1616. He unified competing valleys during the following decades, built fortress monasteries, and established a dual system joining religious and civil authority. Punakha became an important seat of that government. Regional governors later competed for power, before Ugyen Wangchuck became hereditary king in 1907. Treaties with Britain and subsequently India required guidance in foreign relations, while Bhutan retained its own government and is treated here as independent throughout. The monarchy gradually introduced elected institutions, culminating in a constitution and parliamentary government in 2008. Buddhist traditions remain important to public life, alongside efforts to balance development, environmental protection, and its national identity.
 name: Bhutan
 wikipedia: https://en.wikipedia.org/wiki/Bhutan
 periods:

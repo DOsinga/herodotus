@@ -2,6 +2,17 @@
 id: liang_xiao_xian
 name: "Xiao Xian's Liang"
 wikipedia: https://en.wikipedia.org/wiki/Xiao_Xian
+description: >-
+  Xiao Xian's Liang was a short lived imperial state in southern China during the collapse
+  of the Sui dynasty. Xiao, a descendant of the earlier Liang ruling family, joined
+  rebellion in 617 and claimed to restore his ancestors' dynasty. From Jiangling, his
+  government controlled much of present Hubei and Hunan, with authority extending into
+  Guangxi and northern Vietnam. He established an imperial court and attracted commanders
+  whose armies helped expand his territory. Rivalries within this coalition weakened its
+  cohesion as Tang forces advanced. In 621, Li Jing and Li Xiaogong attacked Jiangling
+  while Liang's troops were scattered. Xiao surrendered before approaching relief forces
+  could reach him. Tang annexed his state and executed him at Chang'an, ending this
+  particular Liang restoration.
 periods:
 - start: 617
   end: 621

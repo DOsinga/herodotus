@@ -1,6 +1,16 @@
 ---
 id: zengid_aleppo
 name: "Zengid Emirate of Aleppo"
+description: >-
+  The Zengid Emirate of Aleppo emerged as a separate Syrian government in 1146, when Zengi's
+  territories were divided after his death. His son Nur al-Din ruled Aleppo while another
+  branch held Mosul. Nur al-Din expanded his power against Crusader states and incorporated
+  Damascus in 1154, building a Muslim state across Syria. He supported Sunni religious
+  schools, hospitals, and public works, and sent commanders to Egypt, where Saladin
+  eventually rose to power. The emirate combined hereditary leadership with a military
+  administration rooted in the Seljuk world. Nur al-Din died in 1174, leaving a young son
+  and rival commanders. Saladin took Damascus that year, but Aleppo remained under Zengid
+  government until 1183, when its absorption brought it into the growing Ayyubid state.
 wikipedia: https://en.wikipedia.org/wiki/Zengid_dynasty
 periods:
 - start: 1146

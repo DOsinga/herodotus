@@ -1,5 +1,17 @@
 ---
 id: kingdom_khotan
+description: >-
+  Khotan was an oasis monarchy along the southern edge of the Taklamakan Desert in
+  present Xinjiang. Its founding around 300 BCE is uncertain, but its government lasted
+  until the Karakhanid conquest in 1006. Rivers descending from the Kunlun Mountains
+  sustained fields, orchards, and settlements in an otherwise harsh landscape. Jade
+  trading connected the oasis with China, while Silk Road traffic brought goods,
+  travelers, and religious ideas. Khotan became an Buddhist center, producing texts in
+  its Iranian language and supporting monasteries. Its rulers navigated Chinese,
+  Tibetan, and other regional overlordships without losing their native court
+  throughout those periods. The old capital at Yotkan is approximately located west of
+  modern Hotan. Muslim conquest ended the Buddhist kingdom and gradually transformed
+  its culture.
 name: "Kingdom of Khotan"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Khotan
 periods:

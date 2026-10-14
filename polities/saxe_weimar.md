@@ -1,5 +1,16 @@
 ---
 id: saxe_weimar
+description: >-
+  Saxe-Weimar was a Thuringian monarchy ruled by the Ernestine branch of the Wettin
+  family from 1572. Repeated partitions divided its lands among relatives, producing a
+  patchwork of small territories rather than a compact state. This record follows the
+  senior line through its later union with Saxe-Eisenach in 1741 and their formal
+  merger in 1809. The Weimar court became especially influential through support for
+  Goethe, Schiller, and other writers and thinkers. Raised to a grand duchy in 1815,
+  the state adopted a constitution the following year. It belonged to successive German
+  confederations while retaining its own ruler and administration. Joining the North
+  German Confederation in 1867 transferred war and foreign policy to federal control.
+  The local monarchy nevertheless survived until 1918.
 name: Saxe-Weimar
 wikipedia: https://en.wikipedia.org/wiki/Saxe-Weimar-Eisenach
 periods:

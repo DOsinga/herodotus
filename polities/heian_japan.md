@@ -1,5 +1,7 @@
 ---
 id: heian_japan
+description: >-
+  Japan's early imperial government grew from the Yamato political centre in the Kinai region around 300, an approximate date inferred from archaeology. Large burial mounds reveal powerful elites, while alliances and conquest gradually extended the court's authority. Contacts with Korea and China brought Buddhism, writing, technology, and models for administration. The emperors established a formal state with law codes, officials, and provincial government. Nara and later Heian-kyō were successive capitals, not separate kingdoms. During the Heian centuries, Fujiwara regents and retired emperors often exercised power behind the throne. Court culture produced celebrated poetry and literature, while landed estates and warrior families grew stronger. The Minamoto victory in 1185 shifted effective political leadership toward the Kamakura shogunate without abolishing the emperor.
 name: Japan (Yamato–Heian)
 wikipedia: https://en.wikipedia.org/wiki/History_of_Japan
 periods:

@@ -1,6 +1,15 @@
 ---
 id: tulunid_emirate
 name: "Tulunid Emirate"
+description: >-
+  The Tulunid Emirate governed Egypt and, at its height, Syria from 868 to 905. Ahmad ibn
+  Tulun arrived as an Abbasid appointee but built an independent army and took control of provincial
+  finances, creating his own government despite nominal caliphal allegiance. He founded al-Qata'i near Fustat as a
+  royal and military centre, where his mosque still stands. Agricultural revenues and administrative reforms supported expansion
+  into Syria. His son Khumarawayh secured Abbasid recognition through warfare and diplomacy, including a marriage alliance
+  with the caliphal family. Heavy court spending and weak successors later undermined the state, while army
+  factions gained influence. In 905 Abbasid forces reconquered Egypt and Syria, restored direct caliphal rule and
+  destroyed much of al-Qata'i except its surviving mosque.
 wikipedia: https://en.wikipedia.org/wiki/Tulunids
 periods:
 - start: 868

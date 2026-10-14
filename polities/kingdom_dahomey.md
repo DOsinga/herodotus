@@ -1,5 +1,7 @@
 ---
 id: kingdom_dahomey
+description: >-
+  Dahomey was a monarchy centred on Abomey in present southern Benin, developing around 1600 and lasting until French conquest in 1894. Its kings built a central court, provincial administration and standing army, including female regiments often called Amazons. Eighteenth century conquests brought coastal ports such as Ouidah under royal control. Captives taken in warfare were sold into the Atlantic slave trade, a source of revenue and a force shaping relations with neighbouring states. Dahomey paid tribute to Oyo for part of its history before asserting greater independence. Palm oil exports later grew as overseas slavery declined. King Behanzin resisted French expansion, but military defeat ended sovereignty. The French installed Agoli-agbo as a supervised traditional chief rather than an independent king.
 name: Kingdom of Dahomey
 wikipedia: https://en.wikipedia.org/wiki/Dahomey
 periods:

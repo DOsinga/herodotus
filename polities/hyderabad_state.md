@@ -1,5 +1,7 @@
 ---
 id: hyderabad_state
+description: >-
+  Hyderabad State arose in the Deccan in 1724 when the Mughal governor Asaf Jah established effective control over the region. His descendants, the nizams, governed a monarchy whose territories included parts of present Telangana, Maharashtra, and Karnataka. The court combined Persianate administrative traditions with a population speaking several regional languages. Rivalries with Marathas and European companies shaped its eighteenth century politics. The 1798 subsidiary alliance transferred war and foreign relations to the East India Company, ending the independent period followed here. Hyderabad remained a large princely state under British paramountcy. When that system ended in 1947, the nizam sought to remain outside India. Armed conflict, internal unrest, and India's invasion in September 1948 ended the renewed period of separate government.
 name: Hyderabad State
 wikipedia: https://en.wikipedia.org/wiki/Hyderabad_State
 periods:

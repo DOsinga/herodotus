@@ -1,5 +1,7 @@
 ---
 id: eastern_wei
+description: >-
+  Eastern Wei was a northern Chinese state governed from Ye between 534 and 550, following the division of Northern Wei. Gao Huan established its eastern court and installed Yuan Shanjian, a descendant of the former imperial family, as emperor. Although the Yuan ruler retained the throne, Gao Huan and his military following held actual power. The state controlled the eastern portion of the old northern empire and repeatedly fought Western Wei, whose court ruled from Chang'an. Neither side managed to reunite the territory. Gao Huan's death in 547 transferred leadership to his sons, first Gao Cheng and then Gao Yang. In 550, Gao Yang removed the emperor and founded Northern Qi, continuing the eastern government under a new imperial house.
 name: "Eastern Wei"
 wikipedia: https://en.wikipedia.org/wiki/Eastern_Wei
 periods:

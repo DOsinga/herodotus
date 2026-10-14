@@ -1,5 +1,17 @@
 ---
 id: aulikara_dashapura
+description: >-
+  The Aulikara Kingdom of Dashapura occupied western Malwa in present central India, with
+  its seat at modern Mandsaur. This record covers successive local ruling houses
+  approximately from 350 to 545, not one uninterrupted dynasty controlling all Malwa.
+  Sanskrit inscriptions identify kings, ministers, religious foundations, and a prosperous
+  guild of silk weavers. The earlier house included Bandhuvarman, who acknowledged Gupta
+  authority. Another line, known especially through the Risthal inscription, rose to
+  prominence as Gupta power weakened. Prakashadharma defeated the Huna ruler Toramana, and
+  Yashodharman later defeated Mihirakula, claiming wide authority in monumental
+  inscriptions. His expansion was brief, and the kingdom's later history is poorly
+  documented. The conventional end marks the disappearance of Yashodharman's government,
+  after which other regional powers contested Malwa.
 name: "Aulikara Kingdom of Dashapura"
 wikipedia: https://en.wikipedia.org/wiki/Aulikara_dynasty
 periods:

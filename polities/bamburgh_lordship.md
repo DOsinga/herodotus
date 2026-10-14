@@ -1,5 +1,16 @@
 ---
 id: bamburgh_lordship
+description: >-
+  The Lordship of Bamburgh preserved a northern English government after Viking conquest
+  broke the unified kingdom of Northumbria in 867. Centred on the coastal fortress of
+  Bamburgh, it covered former Bernician lands in northern England and southeastern
+  Scotland. Early local kings were followed by rulers of the Eadwulfing family,
+  described variously as kings, earls, and high reeves. Their authority rested on
+  regional power rather than a title. They dealt with Scandinavian rulers at York,
+  expanding Scottish power, and the English crown, while losing territory over time.
+  English overlordship did not immediately remove their local government. The
+  independent period ends here in 1041, when Eadwulf was killed and Siward consolidated
+  control under the English king. Later Bamburgh lords held subordinate positions.
 name: "Lordship of Bamburgh"
 wikipedia: https://en.wikipedia.org/wiki/Rulers_of_Bamburgh
 periods:

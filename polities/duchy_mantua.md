@@ -1,5 +1,16 @@
 ---
 id: duchy_mantua
+description: >-
+  Mantua was a state under Gonzaga rule in northern Italy from 1328 to 1708, becoming a
+  marquisate in 1433 and a duchy in 1530. Its rulers built a hereditary court within the
+  Holy Roman Empire while directing their own local affairs. The city's position among
+  larger Italian powers encouraged diplomacy, marriages, and shifting military alliances.
+  Gonzaga patronage made Mantua a major center of Renaissance painting, architecture, and
+  music, including early opera. The dynasty gained Montferrat through marriage, expanding
+  its interests beyond Lombardy. A succession dispute brought war, an imperial sack, and
+  plague in 1630. The last duke supported France during the War of the Spanish Succession.
+  Emperor Joseph I deposed him, and Austria annexed Mantua in 1708, ending Gonzaga
+  government.
 name: Duchy of Mantua
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Mantua
 periods:

@@ -1,5 +1,7 @@
 ---
 id: southern_ming
+description: >-
+  Southern Ming describes the Ming imperial courts in southern China between 1644 and 1662, after rebels captured Beijing and the Chongzhen emperor died. Loyalists first enthroned the Hongguang emperor at Nanjing, claiming continuity with Ming government. Qing conquest forced subsequent courts southward, while rival princes, ministers, and military commanders competed over succession and strategy. The Longwu and Yongli emperors governed shrinking territories with support from regional armies and naval forces. Zhaoqing was one seat of the Yongli court, not the sole capital throughout this period. The last emperor fled through southwestern China into Burma, where he was eventually handed to Qing forces. His execution in 1662 ended mainland imperial claims, although Zheng loyalists continued Ming resistance from their Taiwanese base.
 name: Southern Ming
 wikipedia: https://en.wikipedia.org/wiki/Southern_Ming
 periods:

@@ -1,5 +1,16 @@
 ---
 id: moche_valley_polity
+description: >-
+  The Moche Valley Polity was a regional state on Peru's northern coast, represented here
+  from about 100 to 750 CE. Its early centre stood near modern Trujillo, between the adobe
+  buildings known as Huaca del Sol and Huaca de la Luna. Excavated temples, elite tombs,
+  workshops, and murals show a society in which political authority and ritual were closely
+  connected. Huaca de la Luna preserves images of supernatural beings and evidence of
+  ceremonies involving human sacrifice. Marked bricks also suggest contributions from
+  surrounding communities to major construction projects. Later power shifted toward
+  Galindo, although the relationship between these centres remains debated. This record
+  treats that sequence as one regional government, not as an empire uniting every valley
+  sharing Moche culture.
 name: "Moche Valley Polity"
 wikipedia: https://en.wikipedia.org/wiki/Huaca_de_la_Luna
 periods:

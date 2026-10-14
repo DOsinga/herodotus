@@ -1,5 +1,16 @@
 ---
 id: mori_chittor
+description: >-
+  The Mori kingdom was an early medieval government centered on Chittor in southwestern
+  Rajasthan, India. Its recorded span, roughly 610 to 734, rests on conventional historical
+  reconstruction rather than dated founding and conquest events. Mori rulers controlled the
+  hill fortress and surrounding lands before the Guhilas established their authority there.
+  The kingdom is associated with northern Malwa as well as Rajasthan, but this record
+  concerns the Chittor government rather than every claimed Mori or Maurya descendant.
+  Inscriptions and later traditions preserve parts of its history, while details of royal
+  succession remain uncertain. Chitrangada is credited with developing Chittor's
+  fortifications. Accounts connect the defeat of Man Mori with Bappa Rawal's acquisition of
+  Chittor, conventionally marking the transition to the Mewar kingdom.
 name: "Mori Kingdom of Chittor"
 wikipedia: https://en.wikipedia.org/wiki/Mori_dynasty
 periods:

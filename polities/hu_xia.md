@@ -2,6 +2,16 @@
 id: hu_xia
 name: "Hu Xia"
 wikipedia: https://en.wikipedia.org/wiki/Hu_Xia
+description: >-
+  Hu Xia was a monarchy in northern China during the Sixteen Kingdoms period, lasting from
+  407 to 431. Helian Bobo, leader of a Tiefu group with Xiongnu connections, founded it
+  around the Ordos region and later claimed imperial rank. He built the heavily fortified
+  capital Tongwancheng in present northern Shaanxi, whose surviving walls remain a striking
+  trace of the state. Xia expanded into Guanzhong and challenged neighbouring regimes, using
+  both frontier cavalry power and Chinese forms of imperial government. Bobo's successors
+  faced the growing strength of Northern Wei. Wei captured Tongwancheng in 427, forcing the
+  court westward. The last emperor, Helian Ding, continued campaigning until Tuyuhun forces
+  captured him in 431, ending Xia's government; he was subsequently handed to Wei.
 periods:
 - start: 407
   end: 431

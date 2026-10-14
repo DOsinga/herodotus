@@ -1,5 +1,7 @@
 ---
 id: kingdom_shirvan
+description: >-
+  The Kingdom of Shirvan occupied the eastern South Caucasus, largely in present-day Azerbaijan, from 861 to 1538. Its hereditary rulers held the title Shirvanshah and governed from centres including Shamakhi and Baku. Haytham established the ruling line's autonomy during a crisis in Abbasid power. Although originally of Arab ancestry, the dynasty adopted Persian names and cultivated Iranian royal traditions. The kingdom maintained its own court through changing relationships with Seljuks, Georgian kings, Mongols, and Timurids. Tribute and submission often preserved rather than erased local government. Shirvan's rulers supported poetry and architecture, leaving a palace complex in Baku. Safavid expansion eventually overwhelmed the kingdom, and in 1538 Shah Tahmasp replaced its ruler and incorporated Shirvan into his state under direct rule.
 name: "Kingdom of Shirvan"
 wikipedia: https://en.wikipedia.org/wiki/Shirvanshah
 periods:

@@ -1,5 +1,16 @@
 ---
 id: dominican_republic
+description: >-
+  The Dominican Republic occupies the eastern part of Hispaniola, with its capital at Santo
+  Domingo. It became independent from Haiti in 1844, but Spain annexed it in 1861. A restoration
+  government formed in 1863 and fought until Spanish withdrawal in 1865. Independent rule was
+  interrupted again by United States occupation from 1916 to 1924. Republican institutions
+  coexisted with military strongmen, serious financial pressures, and foreign intervention.
+  Rafael Trujillo's dictatorship, lasting from 1930 to 1961, used repression and violence,
+  including the massacre of Haitians near the border. His death was followed by political
+  conflict, civil war, and another American intervention in 1965. The continuing state now has a
+  presidential government and elected Congress, with tourism, services, and agriculture shaping
+  its economy.
 name: Dominican Republic
 wikipedia: https://en.wikipedia.org/wiki/Dominican_Republic
 periods:

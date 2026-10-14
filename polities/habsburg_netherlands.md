@@ -1,6 +1,16 @@
 ---
 id: habsburg_netherlands
 name: Habsburg Netherlands
+description: >-
+  The Habsburg Netherlands brought together provinces of the Low Countries under Habsburg rule from
+  1482 to 1556 in this record. Philip the Handsome inherited Mary of Burgundy's lands, while his
+  father Maximilian defended the inheritance against France and resistant towns. Provincial estates
+  and local privileges survived alongside central councils and governors. Brussels became an important
+  royal seat under Charles V, who was born in Ghent and enlarged the territory through conquest and
+  purchase. The resulting Seventeen Provinces included prosperous trading cities, manufacturing
+  districts, and rural lordships across today's Netherlands, Belgium, and Luxembourg. Charles's
+  Pragmatic Sanction of 1549 linked their succession under one prince. His abdication transferred them
+  to Philip II in 1556, beginning their incorporation into the wider Spanish Monarchy.
 wikipedia: https://en.wikipedia.org/wiki/Habsburg_Netherlands
 periods:
 - start: 1482

@@ -2,6 +2,15 @@
 id: taifa_lleida
 name: "Taifa of Lleida"
 wikipedia: https://en.wikipedia.org/wiki/Taifa_of_L%C3%A9rida
+description: >-
+  The Taifa of Lleida was a Muslim monarchy on the northeastern frontier of Iberia, ruled by members
+  of the Banu Hud family. Yusuf began governing his own realm in 1046 after the division of his
+  father's Zaragoza kingdom. Fighting with Zaragoza ended that first period around 1078, though the
+  conquest's precise date is uncertain. A new division restored separate rule in 1081 under Mundhir,
+  whose lands also included Dénia and Tortosa. His successors faced pressure from Aragon and the
+  Catalan counts, using tribute and alliances to protect their position. Regional losses reduced the
+  kingdom around Lleida. Almoravid conquest ended its own royal government, dated here to 1102
+  although some accounts use 1110. Later governors served the conquerors rather than kings.
 periods:
 - start: 1046
   end: 1078

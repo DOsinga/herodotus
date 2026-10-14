@@ -1,6 +1,16 @@
 ---
 id: dingnan_circuit
 name: "Dingnan Circuit"
+description: >-
+  Dingnan Circuit was a hereditary Tangut government on China's northwestern frontier, centred
+  initially at Xiazhou in present Shaanxi. The Li family took control around 881, turning an imperial
+  military command into a independent regional state. Its rulers accepted titles from successive
+  Chinese dynasties without consistently surrendering their own authority. Li Jipeng's submission in
+  982 briefly allowed Song administration to replace the family government. Li Jiqian recovered a
+  territorial base at Yinzhou in 985 and rebuilt Tangut power through warfare and alliances. Later
+  rulers, including Li Deming, expanded their resources and territory while balancing relations with
+  Song and Liao. In 1038 Li Yuanhao proclaimed an imperial state, Western Xia, transforming the older
+  circuit's political identity rather than ending its ruling lineage.
 wikipedia: https://en.wikipedia.org/wiki/Dingnan_Jiedushi
 periods:
 - start: 881

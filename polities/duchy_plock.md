@@ -1,5 +1,16 @@
 ---
 id: duchy_plock
+description: >-
+  The Duchy of Płock was a Piast principality in Masovia, centered on the town of Płock
+  beside the Vistula in present day Poland. It emerged through divisions of family lands
+  rather than a single lasting separation. Its recorded periods begin in 1275, 1310, and
+  1381, interrupted by reunification or Polish royal government. Hereditary dukes ruled the
+  territory, sometimes acknowledging the Polish king while managing local affairs. Siemowit
+  IV received the Płock share in the final partition, and his descendants continued its
+  government. Dynastic deaths and inheritance disputes gradually reduced its lands. Rawa and
+  Gostynin passed to the Polish crown in 1462. Płock itself remained under ducal government
+  until royal incorporation in 1495, ending this branch of Masovia's separate political
+  history.
 name: Duchy of Płock
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Płock
 periods:

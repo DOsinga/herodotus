@@ -2,6 +2,18 @@
 id: hindu_shahi_kingdom
 name: "Hindu Shahi Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Hindu_Shahis
+description: >-
+  The Hindu Shahi Kingdom ruled parts of Afghanistan and northwestern South Asia from
+  approximately 822 to 1026. Its beginning follows the chronology that places Kallar's
+  overthrow of the Turk Shahis in 822, although scholars have proposed later dates. The
+  dynasty governed as a monarchy, with centres shifting from Kabul to Udabhanda, now
+  Hund, and eventually towards Lahore as territory was lost. Coins, inscriptions and
+  surviving temples help reconstruct a history also described by Muslim chroniclers.
+  The rulers confronted expanding Islamic powers, especially the Ghaznavids. Jayapala
+  and Anandapala fought campaigns but suffered defeats that weakened the kingdom.
+  Losing Kabul did not immediately end Shahi government. Remaining territories and
+  rulers survived farther east until Ghaznavid conquest extinguished the last kingdom
+  in 1026.
 periods:
 - start: 822
   end: 1026

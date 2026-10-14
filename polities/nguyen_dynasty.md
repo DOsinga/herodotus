@@ -1,5 +1,16 @@
 ---
 id: nguyen_dynasty
+description: >-
+  The Nguyễn dynasty united Vietnam in 1802 after Nguyễn Ánh defeated the Tây Sơn and became
+  Emperor Gia Long. His court at Huế governed a long territory stretching from the northern
+  plains to the Mekong delta. Emperors ruled through a Confucian bureaucracy, with
+  examinations, provincial officials, and laws influenced by Chinese models. Minh Mạng
+  strengthened central administration and expanded Vietnamese control while pursuing harsh
+  religious and cultural policies. Conflicts with Siam, rebellions, and resistance to Catholic
+  missionaries strained the state. French and Spanish forces attacked in 1858, beginning
+  successive territorial losses and unequal treaties. This record ends with the 1884 Treaty of
+  Huế, which imposed French protection. The imperial dynasty survived afterwards, but no
+  longer controlled war and foreign relations.
 name: Nguyễn dynasty
 wikipedia: https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_dynasty
 periods:

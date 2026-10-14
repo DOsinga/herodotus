@@ -1,5 +1,15 @@
 ---
 id: sri_ksetra_kingdom
+description: >-
+  Sri Ksetra was a Pyu kingdom centred near modern Pyay in Myanmar's Irrawaddy valley. Its royal
+  state is estimated here to have emerged around 400 CE, distinct from earlier settlement at the
+  site. A walled city, monuments, inscriptions and religious objects show an important urban
+  centre connected with Indian and Chinese trade. Kings supported a rich Buddhist culture, while
+  Hindu imagery and other beliefs also appear in the surviving evidence. Traditional king lists
+  do not provide a secure archaeological chronology. Sri Ksetra's political decline is therefore
+  difficult to date, and attacks elsewhere in the Pyu region cannot simply determine its fate.
+  This record places its incorporation around 1050, during Pagan's expansion, rather than
+  treating every earlier disturbance as its end.
 name: "Sri Ksetra Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Sri_Ksetra_Kingdom
 periods:

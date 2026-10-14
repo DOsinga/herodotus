@@ -2,6 +2,17 @@
 id: duchy_austria
 name: Duchy of Austria
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Austria
+description: >-
+  The Duchy of Austria was a hereditary principality centred on Vienna and the Danube lands
+  of present-day Austria. This record follows its Habsburg government from Rudolf's victory
+  over Ottokar II at the Marchfeld in 1278 until 1453. Earlier Babenberg rule and the
+  disputed succession after 1246 belong to a different political setting. Rudolf granted
+  Austria to his sons in 1282, establishing the dynasty's base. Dukes expanded their
+  holdings while governing within the Holy Roman Empire. Family partitions divided Habsburg
+  lands, though those separate shares are not distinguished here. Rudolf IV sought higher
+  rank through the forged Privilegium Maius, alongside efforts to strengthen Vienna. In
+  1453, Emperor Frederick III recognised Austria's archducal status, turning the duchy into
+  the Archduchy of Austria.
 periods:
 - start: 1278
   end: 1453

@@ -1,5 +1,17 @@
 ---
 id: cisalpine_republic
+description: >-
+  The Cisalpine Republic governed parts of northern Italy from Milan after Napoleon's
+  campaigns against Austria. Created in 1797, it combined territories around Lombardy with
+  neighbouring republican lands and became one of revolutionary France's sister republics.
+  Its constitution followed the French model, with an executive directory, two legislative
+  councils and administrative departments. French influence was strong: Napoleon appointed
+  officials, and French representatives later replaced the government and constitution.
+  Nevertheless, the republic introduced institutions that challenged the dynastic order.
+  Austro-Russian occupation removed its government in 1799, producing the gap recorded
+  here. French victories restored the republic in 1800. In 1802 it was reorganised as the
+  Italian Republic, with Napoleon as president, beginning another stage in the political
+  transformation of the Italian peninsula.
 name: Cisalpine Republic
 wikipedia: https://en.wikipedia.org/wiki/Cisalpine_Republic
 periods:

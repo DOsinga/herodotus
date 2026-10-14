@@ -1,5 +1,16 @@
 ---
 id: tartessos
+description: >-
+  Tartessos was a centre or kingdom associated with southwestern Iberia, especially the
+  lower Guadalquivir valley in modern Spain. Its history is represented here approximately
+  from 900 to 550 BCE, but neither its exact boundaries nor the
+  location of its city is securely known. Greek accounts describe King Arganthonios
+  and contacts with visiting Phocaean merchants. Archaeology reveals rich metalworking, elite goods,
+  settlements, and religious sites connected to exchange with Phoenicians and the Mediterranean
+  world. Silver, copper, and other metals helped support this trade. These remains
+  do not establish a complete picture of royal administration or a single
+  unified state. Tartessos faded from historical accounts as regional society changed, while
+  related material traditions continued beyond the estimated endpoint used for this record.
 name: "Tartessos"
 wikipedia: https://en.wikipedia.org/wiki/Tartessos
 periods:

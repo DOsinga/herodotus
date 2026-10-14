@@ -1,5 +1,16 @@
 ---
 id: atropatene
+description: >-
+  Atropatene was an Iranian kingdom in the region of modern northwestern Iran, lasting
+  from about 323 BCE to 226 CE. It took its name from Atropates, who retained control of
+  northern Media after Alexander's death. Ganzak served as a royal centre, although its
+  location is uncertain. Its kings preserved local rule through changing relations with
+  the Seleucid and Parthian empires, often accepting overlordship without losing their
+  own monarchy. The kingdom stood between larger powers and sometimes sought Roman
+  support against Parthian pressure. Mark Antony's invasion in 36 BCE failed after a
+  difficult campaign. Iranian religious traditions, especially Zoroastrianism, remained
+  important. Atropatene submitted to Ardashir's rising Sasanian state around 226,
+  becoming a province whose name helped give Azerbaijan its later name.
 name: "Atropatene"
 wikipedia: https://en.wikipedia.org/wiki/Atropatene
 periods:

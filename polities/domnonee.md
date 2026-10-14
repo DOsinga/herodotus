@@ -1,5 +1,17 @@
 ---
 id: domnonee
+description: >-
+  Domnonee was an early medieval kingdom in northern Armorica, represented approximately
+  from 500 to 845. Its name reflects connections with Dumnonia in southwestern Britain,
+  and traditions describe settlement by Britons crossing the Channel. Dol-de-Bretagne is
+  its traditional royal seat. Kings governed alongside powerful religious communities,
+  whose saints' lives preserve much of the surviving narrative about the realm. These
+  texts link Breton rulers and monasteries with Britain, but blend historical memories
+  with legend, making precise dates difficult to establish. Judicael's seventh-century
+  kingship belongs to this regional kingdom rather than a united Brittany. Domnonee
+  remained distinct from other Breton realms before ninth-century consolidation under
+  Nominoe. Its recorded ending marks that estimated absorption, not the disappearance of
+  local communities or their cultural ties.
 name: "Domnonee"
 wikipedia: https://en.wikipedia.org/wiki/Domnon%C3%A9e
 periods:

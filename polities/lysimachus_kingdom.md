@@ -1,5 +1,15 @@
 ---
 id: lysimachus_kingdom
+description: >-
+  Lysimachus governed Thrace after Alexander the Great's death in 323 BCE, building a successor
+  state that lasted until his own death in 281 BCE. Initially appointed to oversee Thrace, he
+  ruled on his own account and adopted the royal title in 306 BCE. His position depended on
+  armies, alliances, and struggles with other Macedonian commanders rather than a settled
+  succession system. He founded Lysimachia near the Hellespont and gained western Asia Minor
+  after the defeat of Antigonus at Ipsus. Later he extended his power into Macedonia. The
+  execution of his son Agathocles provoked defections and rebellion. Seleucus invaded, defeated
+  him at Corupedium, and took his Asian lands, while the wider kingdom broke apart amid another
+  round of competing dynastic ambitions.
 name: "Kingdom of Lysimachus"
 wikipedia: https://en.wikipedia.org/wiki/Lysimachus
 periods:

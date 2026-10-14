@@ -1,5 +1,17 @@
 ---
 id: indo_greek_kingdom
+description: >-
+  The early Indo-Greek Kingdom arose from Greek expansion out of Bactria into the
+  northwestern Indian subcontinent around 200 BCE. This record follows the monarchy
+  from Demetrius I's conquests through Menander I's death around 130 BCE, rather than
+  every later Greek kingdom in the region. Its centres included Taxila and Sagala,
+  with rulers controlling shifting lands across Afghanistan, Pakistan, and northern
+  India. Coins combine Greek royal portraits and inscriptions with local languages and
+  symbols, showing efforts to address different communities. Menander became its
+  best-known ruler, remembered in Buddhist literature as the debating king Milinda.
+  Rival kings already governed parts of the realm, and their chronology remains
+  difficult to reconstruct. After Menander, western territories and the Punjab
+  continued under separate royal governments.
 name: "Indo-Greek Kingdom"
 wikipedia: https://en.wikipedia.org/wiki/Indo-Greek_Kingdom
 periods:

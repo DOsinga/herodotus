@@ -1,6 +1,15 @@
 ---
 id: dayining
 name: "Dayining"
+description: >-
+  Dayining was a short-lived monarchy in present Yunnan, southwestern China, ruled by Yang Ganzhen
+  from 929 to 937. Its seat was Yangjumie, near modern Dali, in the former heartland of Nanzhao. The
+  state emerged from a sequence of coups after Nanzhao's collapse. Yang had helped overthrow the Zheng
+  family's Great Changhe kingdom and install Zhao Shanzheng as ruler of Great Tianxing. He then killed
+  Zhao and proclaimed his own kingdom. This rapid succession of courts exposed the power of military
+  officials and competing noble families in the region. Duan Siping gathered an opposition coalition
+  and displaced the Yang regime. The record follows the conventional establishment of Duan's Dali
+  kingdom in 937 as the end, rather than dating the earlier resistance.
 wikipedia: https://en.wikipedia.org/wiki/Dali_Kingdom
 periods:
 - start: 929

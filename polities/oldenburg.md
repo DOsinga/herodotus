@@ -2,6 +2,16 @@
 id: oldenburg
 name: Oldenburg
 wikipedia: https://en.wikipedia.org/wiki/County_of_Oldenburg
+description: >-
+  Oldenburg was a hereditary state in northwestern Germany, centered on the town beside the
+  Hunte River. Its counts governed separately from 1250 until 1667, when the extinction of
+  their line transferred control to Denmark. Danish officials administered the county until
+  the 1773 settlement returned it to a ruler of the Holstein-Gottorp house. Raised to a
+  duchy in 1774, it developed again as a dynastic residence. France annexed it at the end of
+  1810, interrupting its government until restoration in 1813. The Congress of Vienna
+  granted grand ducal rank in 1815. Joining the North German Confederation in 1867 ended its
+  separate control of war and foreign relations. Its rulers nevertheless retained a monarchy
+  within unified Germany until the revolution of 1918.
 periods:
 - start: 1250
   end: 1667

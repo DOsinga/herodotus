@@ -1,5 +1,16 @@
 ---
 id: fatimid_caliphate
+description: >-
+  The Fatimid Caliphate ruled parts of North Africa and the eastern Mediterranean from 909 to
+  1171. Its hereditary caliphs were also Ismaili Shia imams who claimed descent from Fatima,
+  the Prophet Muhammad's daughter, and challenged the Sunni Abbasids. Kutama Berber support
+  helped overthrow the Aghlabids in Ifriqiya. After conquering Egypt in 969, the Fatimids founded
+  Cairo, which became their seat in 973. Their realm at different times included Sicily,
+  Palestine, and other neighboring regions. Trade, scholarship, and institutions such as al-Azhar
+  flourished, although religious policy varied between rulers. Military rivalries, economic
+  crises, and territorial losses later weakened the court, leaving powerful military viziers
+  dominant. Saladin abolished the Fatimid regime in 1171, restoring Sunni allegiance and
+  establishing Ayyubid government in Egypt.
 name: "Fatimid Caliphate"
 wikipedia: https://en.wikipedia.org/wiki/Fatimid_Caliphate
 periods:

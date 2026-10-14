@@ -1,5 +1,17 @@
 ---
 id: kingdom_portugal
+description: >-
+  The Kingdom of Portugal emerged on the western edge of Iberia when Afonso Henriques
+  claimed kingship in 1139. Its rulers expanded southward during the Reconquista and
+  established Lisbon as their capital. A hereditary monarchy, Portugal later developed a
+  far-reaching maritime empire through voyages, trade, conquest and colonisation in
+  Africa, Asia and the Americas. A succession crisis brought it under the Spanish monarchy
+  in 1580, interrupting the separate government represented here. The restoration of 1640
+  established the Braganza dynasty and renewed independence. Brazil became a vital
+  imperial centre, and the royal court moved there during the Napoleonic invasion.
+  Nineteenth-century struggles produced constitutional monarchy after civil war. In 1910,
+  revolution overthrew Manuel II and replaced the kingdom with a republican Portuguese
+  state.
 name: Kingdom of Portugal
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Portugal
 periods:

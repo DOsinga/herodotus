@@ -1,6 +1,18 @@
 ---
 id: kingdom_westphalia
 name: Kingdom of Westphalia
+description: >-
+  The Kingdom of Westphalia existed in central Germany from 1807 to 1813, with
+  its capital at Kassel. Napoleon created it from Hesse, Brunswick, and former
+  Prussian and Hanoverian lands, placing his brother Jerome Bonaparte on the
+  throne. Despite its name, much of its territory lay outside Westphalia. Jerome
+  ruled with a ministry and a constitution designed to make the kingdom a model
+  of Napoleonic reform. It abolished serfdom, reduced feudal privileges,
+  introduced equality before the law, and granted Jewish subjects civil rights.
+  These changes accompanied heavy taxation, military recruitment, and financial
+  demands from France. The disastrous Russian campaign weakened its army. Allied
+  advances after Leipzig ended the kingdom in 1813, and its territories returned
+  to older states and ruling houses.
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Westphalia
 periods:
 - start: 1807

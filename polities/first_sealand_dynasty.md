@@ -1,5 +1,16 @@
 ---
 id: first_sealand_dynasty
+description: >-
+  The First Sealand kingdom governed the marshlands of southern Mesopotamia after breaking away from
+  Babylon under Samsu-iluna. Its dates, approximately 1732 to 1460 BCE here, remain uncertain, and its
+  capital has not been securely identified. Kings known through later lists included Ilum-ma-ili,
+  Gulkišar, and Ayadaragalama. Several adopted Sumerian names, but surviving documents show an
+  Akkadian-speaking administration rooted in southern Babylonian traditions. Economic tablets describe
+  palace resources, livestock, workers, offerings, and exchanges with neighbouring powers. Excavations
+  at Tell Khaiber have added direct evidence of fortified buildings and royal administration to a
+  history once known mainly through brief chronicles. Marsh terrain helped early rulers resist
+  Babylonian campaigns. Eventually the Kassite conqueror Ulamburiash took the Sealand, incorporating
+  it into the kingdom of Babylonia.
 name: "First Sealand kingdom"
 wikipedia: https://en.wikipedia.org/wiki/First_Sealand_dynasty
 periods:

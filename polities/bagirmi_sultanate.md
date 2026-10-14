@@ -1,5 +1,16 @@
 ---
 id: bagirmi_sultanate
+description: >-
+  Bagirmi was a kingdom southeast of Lake Chad, centred on Massenya near the Chari River in
+  present day Chad. Founded around 1522, it was ruled by monarchs called mbang, whose court
+  adopted Islam during the later sixteenth century. The state expanded by bringing
+  neighbouring communities into tributary relationships and drew wealth from agriculture,
+  commerce, and slave raiding. Its rulers often paid tribute to Bornu but also fought to
+  enlarge their own influence. Wadai became another powerful rival, and nineteenth century
+  invasions placed increasing pressure on the kingdom. Rabih az Zubayr attacked it in 1893.
+  In 1897 its ruler accepted French protection, ending separate control of foreign affairs.
+  The royal institution continued under colonial rule and survives as a non-sovereign
+  monarchy.
 name: Sultanate of Bagirmi
 wikipedia: https://en.wikipedia.org/wiki/Sultanate_of_Bagirmi
 periods:

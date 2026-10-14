@@ -1,6 +1,8 @@
 ---
 id: sallarid_tarom
 name: "Sallarid Emirate of Tarom"
+description: >-
+  The Sallarid Emirate of Tarom was a Daylamite Shia Muslim principality in northern Iran, centred on the mountain fortress of Shamiran. Muhammad ibn Musafir is recorded governing it from 919, although the family's earlier origins remain uncertain. His sons deposed him in 941; Wahsudan retained Tarom while Marzuban established a separate government in Azerbaijan. Family rivalries repeatedly connected the two courts without making them one enduring state. Buyid seizure of Shamiran in 989 interrupted local rule until Sallarid authority returned in 997. Later rulers contested neighbouring fortified towns, resisted Ghaznavid attacks, and paid tribute to Seljuk rulers while retaining their stronghold. Musafir's appearance in 1062 is the last secure attestation. The emirate's disappearance around 1070 and Shamiran's destruction remain uncertain.
 wikipedia: https://en.wikipedia.org/wiki/Sallarid_dynasty
 periods:
 - start: 919

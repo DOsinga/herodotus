@@ -1,5 +1,15 @@
 ---
 id: dabuyid_kingdom
+description: >-
+  The Dabuyid Kingdom governed Tabaristan and neighboring Caspian lands in northern Iran from about
+  642 to the Abbasid conquest in 760. Its Zoroastrian rulers preserved Iranian royal traditions after
+  the Sasanian Empire collapsed, using titles such as ispahbadh. Later histories traced their ancestry
+  to the Sasanian family, but the sequence of rulers remains uncertain. Gil Gavbara established the
+  family's authority, and Fuman is represented as its seat. Mountains, forests, and negotiated
+  relationships helped the court withstand Arab campaigns, even while it sometimes paid tribute.
+  Farrukhan the Great strengthened the kingdom, and Khurshid was its last ruler. Abbasid forces
+  overcame the government in 760. Separate dynastic houses in the mountains survived, so that conquest
+  did not extinguish every local Iranian ruler.
 name: "Dabuyid Kingdom of Tabaristan"
 wikipedia: https://en.wikipedia.org/wiki/Dabuyid_dynasty
 periods:

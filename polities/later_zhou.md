@@ -1,5 +1,15 @@
 ---
 id: later_zhou
+description: >-
+  Later Zhou governed much of northern China from Kaifeng between 951 and 960. It was the last of
+  the Five Dynasties that followed the Tang collapse, while other states continued ruling
+  southern and peripheral regions. Guo Wei, a military commander, overthrew Later Han and
+  established an imperial government. He attempted to ease burdens on farmers and strengthen
+  civil administration. His adopted son Chai Rong continued reform and military expansion,
+  gaining territory from Southern Tang while confronting Northern Han and its allies. Chai Rong's
+  death in 959 left a child emperor on the throne. The commander Zhao Kuangyin seized power in
+  960 and founded the Song dynasty. This transferred the northern government to Song without
+  immediately unifying the remaining Chinese states.
 name: "Later Zhou"
 wikipedia: https://en.wikipedia.org/wiki/Later_Zhou
 periods:

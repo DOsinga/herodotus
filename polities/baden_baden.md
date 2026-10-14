@@ -2,6 +2,18 @@
 id: baden_baden
 name: Baden-Baden
 wikipedia: https://en.wikipedia.org/wiki/Margraviate_of_Baden-Baden
+description: >-
+  Baden-Baden was a margraviate in southwestern Germany, formed when Baden's ruling
+  family divided its lands in 1535. Its core lay along the Upper Rhine, with additional
+  scattered lordships farther west. Hereditary margraves governed this territory within
+  the Holy Roman Empire. The ruling line became Catholic, distinguishing it from
+  neighbouring Baden-Durlach, although its religious history included periods of
+  Protestant influence and occupation by that rival branch. The Thirty Years' War and
+  later French wars caused severe destruction. Margrave Louis William and his wife
+  Sibylle supported an ambitious Baroque court and building programme. From 1705 the
+  government resided at Rastatt rather than Baden-Baden. When Augustus George died
+  without an heir in 1771, Baden-Durlach inherited the territory and reunited the two
+  branches' lands.
 periods:
 - start: 1535
   end: 1771

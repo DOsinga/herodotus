@@ -1,5 +1,16 @@
 ---
 id: kingdom_greece
+description: >-
+  The Kingdom of Greece emerged in 1832 after the war of independence against Ottoman
+  rule. Initially centred on southern Greece, it expanded through diplomacy and wars to
+  include much of the modern country. Otto, its first king, ruled absolutely before
+  accepting constitutional government; later monarchs belonged to the Glücksburg family.
+  Athens replaced Nafplio as capital in 1834. Parliamentary politics competed with royal
+  intervention, court rivalries, military influence and rival visions of territorial
+  expansion. Severe defeat in Anatolia brought a vast refugee influx and the republic of
+  1924. Monarchy returned in 1935, but Axis occupation interrupted its government from
+  1941 to 1944. Civil war followed liberation. The military dictatorship abolished the
+  crown in 1973, ending the kingdom's final period of government.
 name: Kingdom of Greece
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Greece
 periods:

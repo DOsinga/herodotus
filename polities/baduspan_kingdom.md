@@ -1,5 +1,15 @@
 ---
 id: baduspan_kingdom
+description: >-
+  The Baduspanid Kingdom of Rustamdar governed mountain districts south of the Caspian Sea in
+  northern Iran. Its traditional beginning in 665 follows Baduspan's establishment in Ruyan, later
+  called Rustamdar. Hereditary rulers used titles including ispahbadh and ustandar, maintaining
+  local authority while stronger neighbors controlled the coastal lowlands. Their mountain position
+  helped them survive the fall of the Dabuyids and acknowledge successive overlords without losing
+  their own government. The Mar'ashis removed the dynasty in 1381, then restored a native ruler in
+  1390. Timur later restricted Kayumarth's territory to Nur, but that surviving government expanded
+  again after his death. Kayumarth died in 1453, and succession struggles divided the realm into
+  separate governments at Nur and Kojur, ending the united kingdom recorded here.
 name: "Baduspanid Kingdom of Rustamdar"
 wikipedia: https://en.wikipedia.org/wiki/Baduspanids
 periods:

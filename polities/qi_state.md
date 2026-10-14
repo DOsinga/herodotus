@@ -1,5 +1,7 @@
 ---
 id: qi_state
+description: >-
+  Qi was a powerful state of eastern China, centred on Linzi in present Shandong, governing its own affairs from 770 to 221 BCE. Originally a Zhou fief, it developed into a hereditary monarchy under the Jiang family. Duke Huan and his minister Guan Zhong strengthened administration and made Qi a leading power during the Spring and Autumn period. The Tian family later displaced the old ruling house, gaining formal recognition in 386 BCE. During the Warring States era, Linzi became a flourishing commercial and intellectual centre associated with the scholars of Jixia. Wars with neighbouring states repeatedly changed Qi's fortunes. In 221 BCE, Qin conquered it last among the major rival kingdoms, completing the unification of China under one emperor.
 name: "Qi (state)"
 wikipedia: https://en.wikipedia.org/wiki/Qi_(state)
 periods:

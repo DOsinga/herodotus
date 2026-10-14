@@ -1,5 +1,15 @@
 ---
 id: duchy_julich
+description: >-
+  Jülich was a hereditary territory west of the Rhine in what is now western Germany and the
+  Netherlands, represented independently from 1250 to 1521. Initially a medieval county, it
+  expanded around the Rur valley and competed with the powerful archbishops of Cologne. Its
+  rulers developed fortified towns and castles, including Jülich and Nideggen, while using
+  marriages and imperial favour to increase their standing. The county became a margraviate in
+  1336 and a duchy in 1356. A later union with Guelders ended in 1423, when Jülich instead joined
+  Berg under a common ruling house. This connection drew its politics across the Rhine.
+  Inheritance through Maria of Jülich-Berg and her husband John of Cleves brought Jülich into the
+  United Duchies in 1521.
 name: Duchy of Jülich
 wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Jülich
 periods:

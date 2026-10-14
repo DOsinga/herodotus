@@ -1,6 +1,16 @@
 ---
 id: electorate_cologne
 name: Electorate of Cologne
+description: >-
+  The Electorate of Cologne was a church principality along the Rhine and in Westphalia, represented
+  as a separate government from 1250 to 1803. Its archbishop ruled territorial possessions as a
+  secular prince and held one of the votes choosing the Holy Roman Emperor. These lands were distinct
+  from the larger area of his spiritual authority. Defeat at Worringen in 1288 weakened his hold over
+  Cologne itself, and the electors eventually governed from Bonn. Attempts to introduce Protestant
+  rule triggered the Cologne War, after which Catholic rulers retained the electorate. French troops
+  occupied its western territories in 1794. The surviving eastern lands included Westphalia and
+  Recklinghausen until secularization in 1803 dismantled the church state and transferred most
+  remaining territory to Hesse-Darmstadt.
 wikipedia: https://en.wikipedia.org/wiki/Electorate_of_Cologne
 periods:
 - start: 1250

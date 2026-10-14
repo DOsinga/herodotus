@@ -1,5 +1,7 @@
 ---
 id: merovingian_francia_late
+description: >-
+  Merovingian Francia grew from Clovis's Frankish kingship around 481 into a kingdom across Gaul and neighbouring lands. Clovis defeated rival rulers, expanded southward, and adopted Catholic Christianity, strengthening ties with the region's bishops. Kings governed through royal households, counts, and local elites, while treating the realm as an inheritance divisible among sons. This record therefore follows periods of reunited government rather than an uninterrupted umbrella over separate Frankish kingdoms. Chlothar and Dagobert briefly reunited courts, but family partitions repeatedly restored distinct centres of power. After Pepin's victory at Tertry in 687, mayors of the palace increasingly directed government beneath Merovingian kings. Charles Martel restored unity after renewed conflict. In 751, Pepin the Short replaced the dynasty and began Carolingian kingship.
 name: "Merovingian Francia"
 wikipedia: https://en.wikipedia.org/wiki/Francia
 periods:

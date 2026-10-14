@@ -1,5 +1,15 @@
 ---
 id: eastern_wu
+description: >-
+  Eastern Wu ruled much of southern China from 222 to 280 during the Three Kingdoms
+  period. Sun Quan inherited a regional power base built by his father and brother, then
+  broke with Cao Wei in 222. He became emperor in 229 and established his principal
+  capital at Jianye, now Nanjing. The Sun monarchy relied on powerful families, military
+  commanders and river defences along the Yangtze. Wu alternately fought and cooperated
+  with Shu while opposing Wei in the north. Its government encouraged settlement and
+  agriculture in the south, but expansion also brought conflict with local peoples.
+  Succession struggles weakened the court after Sun Quan's death. In 280, Jin armies and
+  fleets invaded, and the final emperor, Sun Hao, surrendered, ending Wu.
 name: "Eastern Wu"
 wikipedia: https://en.wikipedia.org/wiki/Eastern_Wu
 periods:

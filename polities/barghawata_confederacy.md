@@ -2,6 +2,16 @@
 id: barghawata_confederacy
 name: "Barghawata Confederacy"
 wikipedia: https://en.wikipedia.org/wiki/Barghawata
+description: >-
+  The Barghawata Confederacy governed the Tamesna region on Morocco's Atlantic coast after the Berber
+  revolt against Umayyad rule, conventionally from 744. It joined several tribes under a royal family
+  associated with Tarif and his son Salih. Medieval accounts describe a distinctive religious movement
+  combining local Berber traditions with Islamic elements and a sacred text attributed to Salih. Not
+  every member tribe adopted that religion, so the confederacy was not religiously uniform. Its rulers
+  maintained independence against attacks from neighbouring powers, including the Fatimids and western
+  Umayyads. Warfare with other Berber groups later weakened it. Almoravid campaigns in 1058 did not
+  eliminate its resistance. The Almohads destroyed its political and religious organisation in 1149,
+  ending centuries of local rule in Tamesna.
 periods:
 - start: 744
   end: 1149

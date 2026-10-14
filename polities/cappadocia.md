@@ -1,5 +1,7 @@
 ---
 id: cappadocia
+description: >-
+  The Kingdom of Cappadocia occupied the inland plateau of central Anatolia from the age of Alexander's conquests until Roman annexation in 17 CE. Its rulers preserved Iranian royal traditions while increasingly adopting Greek titles, coinage and education. Mazaca, later called Caesarea, became a royal centre. Kings governed through nobles, fortified estates and powerful temple establishments whose priests also controlled land and labour. The kingdom stood between stronger neighbours, including the Seleucids, Pontus and Armenia, and its succession disputes repeatedly invited outside intervention. Roman support eventually sustained client kings who still commanded their own forces. Archelaus was the last ruler. After summoning him to Rome, Emperor Tiberius ended the monarchy and made Cappadocia a province, incorporating its resources into Roman administration.
 name: "Kingdom of Cappadocia"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Cappadocia
 periods:

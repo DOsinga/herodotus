@@ -1,5 +1,16 @@
 ---
 id: svear_kingdom
+description: >-
+  The Kingdom of the Svear represents the early royal community of central Sweden,
+  especially the Mälaren region, from an estimated 500 until 970. Old Uppsala was an
+  important political and religious centre, marked by monumental burial mounds and later
+  traditions of royal sacrifice. Sixth century writers mention the Svear, while poems
+  and sagas preserve accounts that mix history with legend. Their kings ruled among
+  local communities and elites, but surviving evidence does not allow a detailed
+  reconstruction of early government. Trade and seafaring connected this region with the
+  Baltic and routes farther east. The transition to medieval Sweden was gradual,
+  involving the Geats as well as the Svear. The date 970 conventionally marks that
+  change, not a sudden documented unification.
 name: "Kingdom of the Svear"
 wikipedia: https://en.wikipedia.org/wiki/Swedes_(Germanic_tribe)
 periods:

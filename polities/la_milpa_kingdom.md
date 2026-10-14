@@ -1,6 +1,19 @@
 ---
 id: la_milpa_kingdom
 name: "Kingdom of La Milpa"
+description: >-
+  La Milpa was a Maya kingdom in northwestern Belize, near the borders with
+  Mexico and Guatemala. Its political centre is represented here from
+  approximately 250 to 850, though settlement began earlier. Temples, royal
+  monuments, plazas, and elite buildings reveal an increasingly organised court
+  during the Early Classic period. Its rulers exercised authority through
+  ceremonial life and the management of farming and water in a landscape without
+  natural water sources. Reservoirs and agricultural terraces helped sustain the
+  surrounding population. Monument building slowed during the Middle Classic,
+  when conflict among larger Maya powers affected the region. Construction and
+  royal displays revived in the eighth century, but the recovery was brief.
+  Unfinished buildings indicate rapid abandonment as the governing centre
+  collapsed around 850.
 wikipedia: https://en.wikipedia.org/wiki/La_Milpa
 periods:
 - start: 250

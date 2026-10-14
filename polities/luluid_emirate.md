@@ -1,5 +1,7 @@
 ---
 id: luluid_emirate
+description: >-
+  The Luluid Emirate governed Mosul and neighbouring districts of northern Mesopotamia from 1234 to 1262. Its founder, Badr al-Din Lu'lu', rose from slavery to become a servant and regent of the Zengid rulers, then took power himself. His court ran Mosul's administration while acknowledging regional powers, including the Ayyubids and later the Mongols. Diplomatic flexibility helped spare the city during the Mongol advance. Lu'lu' supported Hulagu's campaigns, strengthened fortifications and sponsored shrines, caravanserais and illustrated manuscripts. His rule also included violent repression of Yazidi opponents. After his death, his son al-Salih Ismail reversed the alliance and sought support against the Mongols. Their siege and conquest of Mosul in 1262 ended the family's government and brought the city under Ilkhanid control.
 name: "Luluid Emirate of Mosul"
 wikipedia: https://en.wikipedia.org/wiki/Luluid_dynasty
 periods:

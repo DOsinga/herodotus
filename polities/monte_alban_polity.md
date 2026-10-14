@@ -1,5 +1,17 @@
 ---
 id: monte_alban_polity
+description: >-
+  Monte Albán was the centre of a Zapotec state in Mexico's Valley of Oaxaca,
+  emerging around 500 BCE and losing central political power around 800 CE. Built
+  on a hilltop between competing valley communities, the city drew people from
+  earlier settlements and developed into an urban capital. Its rulers organised
+  monumental construction, terraced neighbourhoods, temples, tombs, and a broad
+  ceremonial plaza. Carved figures and inscriptions offer evidence of warfare,
+  captives, and claims over other places, although the identities of rulers remain
+  uncertain. The state expanded across much of the valley and maintained
+  connections with distant centres such as Teotihuacan. Its decline brought a more
+  divided political landscape, not the disappearance of Zapotec society or the end
+  of settlement throughout Oaxaca.
 name: "Zapotec State of Monte Albán"
 wikipedia: https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n
 periods:

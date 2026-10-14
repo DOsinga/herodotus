@@ -1,5 +1,7 @@
 ---
 id: mauretania
+description: >-
+  Mauretania was a North African kingdom encompassing parts of present day Morocco and Algeria, not the modern country of Mauritania. This record begins around 225 BCE, when rulers of the Mauri enter historical accounts. Kings including Bocchus intervened in neighbouring Numidia and negotiated with Rome as Roman influence expanded westward. After Bocchus II died in 33 BCE, Octavian governed the territory directly. In 25 BCE he restored a royal government under Juba II, who ruled with Cleopatra Selene from Iol, renamed Caesarea. Their court joined local traditions with Hellenistic and Roman culture, while coastal industries supplied valuable exports. Their son Ptolemy continued the monarchy until Caligula ordered his execution in 40 CE. Rome then annexed the kingdom following armed resistance.
 name: "Mauretania"
 wikipedia: https://en.wikipedia.org/wiki/Mauretania
 periods:
