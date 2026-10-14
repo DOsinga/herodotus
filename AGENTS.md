@@ -9,17 +9,21 @@ each shown as one dot. The project is rendered inside douwe.com as
 ```
 polities/<id>.md     one file per polity; the canonical data
 places/<id>.md       one file per town, with which polity controlled it when
-database.py          loads and validates the polity and place files
+database.py          loads and validates the files, builds and queries herodotus.sqlite
 validate.py          runs the checks; use it after every data change
-herodotus.py         douwe.com Project subclass; embeds the data in the page
+herodotus.py         douwe.com Project subclass; the page and its year and polity endpoints
 herodotus.html       info block + page template
 static/atlas.js      Leaflet map, year slider, search
 static/territory.js  flood fill that turns places into territory
 static/land-50m.geojson  Natural Earth 1:50m land
 ```
 
-There is no database, import step or generated file. The page loads every
-polity and place file on each request, so a data edit shows up on reload.
+The Markdown files are the only source of data. `database.py` builds
+`herodotus.sqlite` from them whenever a file is newer than the database, so a
+data edit shows up on reload. The database is a cache: it is ignored by git
+and never edited. The page embeds only the polity names, and fetches each
+year (active polities and place control) and each polity's full record from
+`/projects/herodotus/year?y=` and `/projects/herodotus/polity?id=`.
 
 The polity files say who governed; the place files and the territory drawn
 from them say where. [BORDERS.md](BORDERS.md) describes the place format, how

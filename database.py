@@ -1,4 +1,7 @@
+import json
+import os
 import re
+import sqlite3
 from pathlib import Path
 
 import yaml
@@ -15,7 +18,7 @@ def load_records(folder):
     for path in sorted((ROOT / folder).glob("*.md")):
         text = path.read_text(encoding="utf-8")
         _, frontmatter, _ = text.split("---", 2)
-        record = yaml.safe_load(frontmatter)
+        record = yaml.load(frontmatter, Loader=yaml.CSafeLoader)
         assert record["id"] == path.stem, path
         records.append(record)
     return records
@@ -148,3 +151,95 @@ def validate_places(places, polities):
         ids.add(place["id"])
         names.add(place["name"])
         links.add(place["wikipedia"])
+
+PATH = ROOT / "herodotus.sqlite"
+SCHEMA = """
+CREATE TABLE polities (
+    id TEXT PRIMARY KEY, name TEXT, type TEXT, wikipedia TEXT, description TEXT, note TEXT,
+    point_name TEXT, latitude REAL, longitude REAL, transitions TEXT
+);
+CREATE TABLE periods (polity TEXT, start INTEGER, end INTEGER);
+CREATE TABLE places (id TEXT PRIMARY KEY, name TEXT, wikipedia TEXT, latitude REAL, longitude REAL);
+CREATE TABLE control (place TEXT, start INTEGER, end INTEGER, polity TEXT, importance INTEGER);
+CREATE INDEX periods_years ON periods (start, end);
+CREATE INDEX control_years ON control (start, end);
+"""
+ACTIVE = "start <= :year AND (end IS NULL OR :year <= end)"
+
+
+def build():
+    polities = load_polities()
+    places = load_places(polities)
+    partial = PATH.with_suffix(".partial")
+    partial.unlink(missing_ok=True)
+    db = sqlite3.connect(partial)
+    db.executescript(SCHEMA)
+    db.executemany("INSERT INTO polities VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", [
+        (p["id"], p["name"], p.get("type"), p["wikipedia"], p["description"], p.get("note"),
+         p["point"]["name"], p["point"]["latitude"], p["point"]["longitude"],
+         json.dumps(p.get("transitions", []), ensure_ascii=False))
+        for p in polities
+    ])
+    db.executemany("INSERT INTO periods VALUES (?, ?, ?)", [
+        (p["id"], q["start"], q["end"]) for p in polities for q in p["periods"]
+    ])
+    db.executemany("INSERT INTO places VALUES (?, ?, ?, ?, ?)", [
+        (p["id"], p["name"], p["wikipedia"], p["point"]["latitude"], p["point"]["longitude"]) for p in places
+    ])
+    db.executemany("INSERT INTO control VALUES (?, ?, ?, ?, ?)", [
+        (p["id"], s["start"], s["end"], s["polity"], s["importance"]) for p in places for s in p["control"]
+    ])
+    db.commit()
+    db.close()
+    os.replace(partial, PATH)
+
+
+def is_stale():
+    if not PATH.exists():
+        return True
+    sources = [Path(__file__), *ROOT.glob("polities/*.md"), *ROOT.glob("places/*.md")]
+    built = PATH.stat().st_mtime
+    return any(path.stat().st_mtime > built for path in sources)
+
+
+def connect():
+    if is_stale():
+        build()
+    db = sqlite3.connect(PATH)
+    db.row_factory = sqlite3.Row
+    return db
+
+
+def year(value):
+    db = connect()
+    polities = db.execute(
+        f"SELECT id, name, type, latitude, longitude FROM polities"
+        f" WHERE id IN (SELECT polity FROM periods WHERE {ACTIVE}) ORDER BY id",
+        {"year": value},
+    ).fetchall()
+    places = db.execute(
+        f"SELECT places.id, latitude, longitude, polity, importance FROM control"
+        f" JOIN places ON places.id = control.place WHERE {ACTIVE} ORDER BY places.id",
+        {"year": value},
+    ).fetchall()
+    return {"year": value, "polities": [dict(row) for row in polities], "places": [dict(row) for row in places]}
+
+
+def polity(polity_id):
+    db = connect()
+    row = db.execute("SELECT * FROM polities WHERE id = ?", (polity_id,)).fetchone()
+    record = dict(row)
+    record["transitions"] = json.loads(record["transitions"])
+    record["periods"] = [
+        dict(period) for period in db.execute("SELECT start, end FROM periods WHERE polity = ? ORDER BY start", (polity_id,))
+    ]
+    return record
+
+
+def index():
+    db = connect()
+    names = db.execute("SELECT id, name FROM polities ORDER BY name").fetchall()
+    first, last, open_ended = db.execute(
+        "SELECT MIN(start), MAX(COALESCE(end, start)), MAX(end IS NULL) FROM periods"
+    ).fetchone()
+    return {"names": [[row["id"], row["name"]] for row in names], "first": first, "last": last, "open_ended": bool(open_ended)}

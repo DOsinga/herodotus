@@ -1,5 +1,5 @@
 (function () {
-  const database = JSON.parse(document.getElementById("polity-data").textContent);
+  const index = JSON.parse(document.getElementById("polity-index").textContent);
   const yearInput = document.getElementById("atlas-year");
   const yearValue = document.getElementById("atlas-year-value");
   const yearMin = document.getElementById("atlas-year-min");
@@ -12,9 +12,11 @@
   const FILL_OPACITY = { polity: 1, chiefdom: 0.45, culture: 0 };
   const count = document.getElementById("atlas-count");
   const note = document.getElementById("atlas-note");
-  const markers = new Map();
+  const years = new Map();
   let selectedPolity = null;
   let currentYear = 1500;
+  let shownYear = null;
+  let loading = false;
 
   const map = L.map("atlas-map", {
     minZoom: 1,
@@ -26,7 +28,7 @@
   map.createPane("land");
   map.getPane("land").style.zIndex = 300;
   const layer = L.layerGroup().addTo(map);
-  const territory = createTerritory(map, database.places, polityRgb);
+  const territory = createTerritory(map, polityRgb);
   const landLayer = L.geoJSON(null, {
     pane: "land",
     interactive: false,
@@ -90,7 +92,7 @@
       '<span class="atlas-id">' + escapeHtml(polity.id + (polity.type ? " · " + polity.type : "")) + "</span>" +
       "<span>" + escapeHtml(periods) + "</span>" +
       status +
-      "<span>representative point: " + escapeHtml(polity.point.name) + "</span>" +
+      "<span>representative point: " + escapeHtml(polity.point_name) + "</span>" +
       "<p>" + escapeHtml(polity.description) + "</p>" +
       (polity.note ? "<p>" + escapeHtml(polity.note) + "</p>" : "") +
       '<p><a href="' + escapeHtml(polity.wikipedia) + '" target="_blank" rel="noopener">Wikipedia</a></p>';
@@ -102,25 +104,53 @@
       "</strong><span>Click a representative point to inspect the polity and its dates.</span>";
   }
 
-  function selectPolity(polity) {
-    selectedPolity = polity;
-    showYear(currentYear);
+  function fetchJson(url) {
+    return fetch(url).then(function (response) { return response.json(); });
+  }
+
+  function yearData(year) {
+    if (!years.has(year)) years.set(year, fetchJson("/projects/herodotus/year?y=" + year));
+    return years.get(year);
+  }
+
+  function selectPolity(id) {
+    return fetchJson("/projects/herodotus/polity?id=" + encodeURIComponent(id)).then(function (polity) {
+      selectedPolity = polity;
+      return polity;
+    });
   }
 
   function showYear(year) {
     currentYear = year;
-    territory.show(year);
-    layer.clearLayers();
-    markers.clear();
-    const active = database.polities.filter(function (polity) {
-      return activePeriod(polity, year);
+    yearValue.textContent = formatYear(year);
+    if (!loading) load();
+  }
+
+  function load() {
+    const year = currentYear;
+    loading = true;
+    yearData(year).then(function (data) {
+      loading = false;
+      if (year !== currentYear) {
+        load();
+        return;
+      }
+      shownYear = data;
+      render();
     });
+  }
+
+  function render() {
+    const year = shownYear.year;
+    territory.show(year, shownYear.places);
+    layer.clearLayers();
+    const active = shownYear.polities;
 
     let selectedMarker = null;
     active.forEach(function (polity) {
       const isSelected = selectedPolity && selectedPolity.id === polity.id;
       const color = polityColor(polity.id);
-      const marker = L.circleMarker([polity.point.latitude, polity.point.longitude], {
+      const marker = L.circleMarker([polity.latitude, polity.longitude], {
         radius: isSelected ? 9 : 6,
         color: isSelected ? "#20272b" : polity.type ? color : "#fff",
         weight: isSelected ? 3 : polity.type ? 2.5 : 1.5,
@@ -134,9 +164,8 @@
       });
       marker.on("click", function (event) {
         L.DomEvent.stopPropagation(event);
-        selectPolity(polity);
+        selectPolity(polity.id).then(render);
       });
-      markers.set(polity.id, marker);
       if (isSelected) {
         selectedMarker = marker;
       }
@@ -146,7 +175,6 @@
       selectedMarker.bringToFront();
     }
 
-    yearValue.textContent = formatYear(year);
     if (selectedPolity) {
       showCard(selectedPolity, year);
     } else {
@@ -168,20 +196,17 @@
     const rawQuery = searchInput.value.trim();
     if (!rawQuery) return;
     const query = normalizeSearch(rawQuery.replace(/_/g, " "));
-    const polity = database.polities.find(function (candidate) {
-      const name = normalizeSearch(candidate.name);
-      const id = normalizeSearch(candidate.id.replace(/_/g, " "));
-      return id === query || name === query;
-    }) || database.polities.find(function (candidate) {
-      const name = normalizeSearch(candidate.name);
-      const id = normalizeSearch(candidate.id.replace(/_/g, " "));
-      return name.startsWith(query) || id.startsWith(query);
-    }) || database.polities.find(function (candidate) {
-      const name = normalizeSearch(candidate.name);
-      const id = normalizeSearch(candidate.id.replace(/_/g, " "));
-      return name.includes(query) || id.includes(query);
+    const keys = index.names.map(function (entry) {
+      return { id: entry[0], name: normalizeSearch(entry[1]), key: normalizeSearch(entry[0].replace(/_/g, " ")) };
     });
-    if (!polity) {
+    const match = keys.find(function (candidate) {
+      return candidate.key === query || candidate.name === query;
+    }) || keys.find(function (candidate) {
+      return candidate.name.startsWith(query) || candidate.key.startsWith(query);
+    }) || keys.find(function (candidate) {
+      return candidate.name.includes(query) || candidate.key.includes(query);
+    });
+    if (!match) {
       selectedPolity = null;
       showYear(currentYear);
       card.className = "atlas-card";
@@ -189,24 +214,18 @@
       return;
     }
 
-    selectedPolity = polity;
-    if (!activePeriod(polity, currentYear)) {
-      currentYear = polity.periods[0].start;
-      yearInput.value = sliderPosition(currentYear);
-    }
-    showYear(currentYear);
-    searchInput.value = polity.name;
-    map.flyTo([polity.point.latitude, polity.point.longitude], Math.max(map.getZoom(), 4));
+    selectPolity(match.id).then(function (polity) {
+      if (!activePeriod(polity, currentYear)) {
+        yearInput.value = sliderPosition(polity.periods[0].start);
+      }
+      searchInput.value = polity.name;
+      map.flyTo([polity.latitude, polity.longitude], Math.max(map.getZoom(), 4));
+      if (activePeriod(polity, currentYear)) render();
+      else showYear(polity.periods[0].start);
+    });
   }
 
-  const bounds = database.polities.reduce(function (accumulator, polity) {
-    polity.periods.forEach(function (period) {
-      if (period.start < accumulator.min) accumulator.min = period.start;
-      const end = period.end === null ? new Date().getFullYear() : period.end;
-      if (end > accumulator.max) accumulator.max = end;
-    });
-    return accumulator;
-  }, { min: Infinity, max: -Infinity });
+  const bounds = { min: index.first, max: index.open_ended ? new Date().getFullYear() : index.last };
 
   // The slider is linear in the log of years before a point 500 years after the
   // last year, so deep time is compressed and recent centuries get more room.
@@ -230,16 +249,16 @@
   yearMid.textContent = formatYear(sliderYear(SLIDER_STEPS / 2));
   yearMax.textContent = formatYear(bounds.max);
 
-  polityList.replaceChildren.apply(polityList, database.polities.map(function (polity) {
+  polityList.replaceChildren.apply(polityList, index.names.map(function (entry) {
     const option = document.createElement("option");
-    option.value = polity.name;
+    option.value = entry[1];
     return option;
   }));
 
   map.on("click", function () {
     if (selectedPolity) {
       selectedPolity = null;
-      showYear(currentYear);
+      render();
     }
   });
 
