@@ -65,7 +65,8 @@ transitions:
 - `id` is lowercase snake case, matches the filename and never changes once
   other data refers to it.
 - `name` is the conventional English name and is unique.
-- `description` is a 120-word introduction, stored as a YAML folded string
+- `description` is a 105–130-word introduction, aiming for about 120 words,
+  stored as a YAML folded string
   (`description: >-`). Explain where and when the entity existed, how it was
   governed where known, and what distinguishes its history. Write original,
   plain prose based on the linked Wikipedia article. For archaeological

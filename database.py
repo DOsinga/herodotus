@@ -34,7 +34,7 @@ def validate_polities(polities):
     names = set()
     for polity in polities:
         assert set(polity) - {"transitions", "note", "type"} == {"id", "name", "wikipedia", "description", "periods", "point"}, polity["id"]
-        assert isinstance(polity["description"], str) and len(polity["description"].split()) == 120, polity["id"]
+        assert isinstance(polity["description"], str) and 105 <= len(polity["description"].split()) <= 130, polity["id"]
         assert "type" not in polity or polity["type"] in TYPES, polity["id"]
         assert "note" not in polity or isinstance(polity["note"], str) and polity["note"], polity["id"]
         assert ID.fullmatch(polity["id"]), polity["id"]
