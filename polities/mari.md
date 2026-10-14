@@ -13,7 +13,7 @@ point:
   name: "Mari"
   latitude: 34.55
   longitude: 40.89
-note: "The start follows the conventional date; years before 3000 BCE have not been audited. Akkad conquered it; its later military governors, the shakkanakku, became independent rulers by about 2200 BCE, followed by the Lim dynasty. Shamshi-Adad put his son Yasmah-Adad on the throne from 1796 BCE; Zimri-Lim restored the Lim dynasty until Hammurabi took the city."
+note: "Akkad conquered it; its later military governors, the shakkanakku, became independent rulers by about 2200 BCE, followed by the Lim dynasty. Shamshi-Adad put his son Yasmah-Adad on the throne from 1796 BCE; Zimri-Lim restored the Lim dynasty until Hammurabi took the city."
 transitions:
 - year: -2290
   kind: absorbed_into

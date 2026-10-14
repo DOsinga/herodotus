@@ -10,5 +10,5 @@ point:
   name: "Valdivia"
   latitude: -1.95
   longitude: -80.72
-note: "The start follows the conventional date; years before 3000 BCE have not been audited. Both dates are estimates."
+note: "Both dates are estimates."
 ---

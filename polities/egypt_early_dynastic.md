@@ -9,7 +9,7 @@ point:
   name: "Memphis"
   latitude: 29.85
   longitude: 31.25
-note: "The start follows the conventional date; years before 3000 BCE have not been audited. Starts with the unification under the First Dynasty. Thinis was also a royal seat."
+note: "Starts with the unification under the First Dynasty. Thinis was also a royal seat."
 transitions:
 - year: -2686
   kind: succeeded_by

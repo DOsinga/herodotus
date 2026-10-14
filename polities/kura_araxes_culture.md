@@ -10,5 +10,5 @@ point:
   name: "Ararat plain"
   latitude: 40.0
   longitude: 44.5
-note: "The start follows the conventional date; years before 3000 BCE have not been audited. Both dates are estimates; the point is representative."
+note: "Both dates are estimates; the point is representative."
 ---

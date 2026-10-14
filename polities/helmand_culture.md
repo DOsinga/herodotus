@@ -10,5 +10,5 @@ point:
   name: "Shahr-e Sukhteh"
   latitude: 30.6
   longitude: 61.33
-note: "The start follows the conventional date; years before 3000 BCE have not been audited. Both dates are estimates."
+note: "Both dates are estimates."
 ---
