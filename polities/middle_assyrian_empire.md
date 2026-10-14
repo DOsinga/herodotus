@@ -11,6 +11,9 @@ point:
   longitude: 43.26
 note: "Starts with Ashur-uballit I's independence from Mitanni."
 transitions:
+- year: -1363
+  kind: broke_away_from
+  from: [mitanni]
 - year: -912
   kind: succeeded_by
   into: [neo_assyrian_empire]

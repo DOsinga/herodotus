@@ -10,5 +10,5 @@ point:
   name: "Middle Volga"
   latitude: 52.0
   longitude: 50.0
-note: "The start follows the conventional date; years before 1500 BCE have not been audited. Both dates are estimates; the point is representative."
+note: "Both dates are estimates; the point is representative."
 ---
