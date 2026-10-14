@@ -9,7 +9,7 @@ point:
   name: "Kutaisi"
   latitude: 42.25
   longitude: 42.7
-note: "The start follows the conventional date; years before 500 BCE have not been audited. Mithridates VI of Pontus took it about 101 BCE."
+note: "Mithridates VI of Pontus took it about 101 BCE."
 transitions:
 - year: -101
   kind: absorbed_into

@@ -10,5 +10,5 @@ point:
   name: "La Venta"
   latitude: 18.1
   longitude: -94.04
-note: "The start follows the conventional date; years before 500 BCE have not been audited. The Olmec centre; both dates are estimates."
+note: "The Olmec centre; both dates are estimates."
 ---

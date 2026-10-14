@@ -10,5 +10,5 @@ point:
   name: "Pazyryk burials"
   latitude: 50.75
   longitude: 88.1
-note: "The start follows the conventional date; years before 500 BCE have not been audited. Both dates are estimates for the Altai horse nomads known from the frozen burials."
+note: "Both dates are estimates for the Altai horse nomads known from the frozen burials."
 ---

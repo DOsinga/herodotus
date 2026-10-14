@@ -9,7 +9,7 @@ point:
   name: "Shabwa"
   latitude: 15.3689
   longitude: 47.0236
-note: "The start follows the conventional date; years before 500 BCE have not been audited. 800 BCE is an estimate. Ends with Himyar's conquest under Shammar Yahrish, about 300."
+note: "800 BCE is an estimate. Ends with Himyar's conquest under Shammar Yahrish, about 300."
 transitions:
 - year: 300
   kind: absorbed_into

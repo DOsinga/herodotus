@@ -9,7 +9,7 @@ point:
   name: "Persepolis"
   latitude: 29.935
   longitude: 52.89
-note: "The start follows the conventional date; years before 500 BCE have not been audited. Susa and Babylon were also capitals. Ends with Darius III's death."
+note: "Susa and Babylon were also capitals. Ends with Darius III's death."
 transitions:
 - year: -330
   kind: absorbed_into

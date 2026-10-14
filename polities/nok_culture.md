@@ -10,5 +10,5 @@ point:
   name: "Nok"
   latitude: 9.5
   longitude: 8.0
-note: "The start follows the conventional date; years before 500 BCE have not been audited. Both dates are estimates; the end of the culture is poorly dated."
+note: "Both dates are estimates; the end of the culture is poorly dated."
 ---

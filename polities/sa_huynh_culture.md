@@ -10,5 +10,5 @@ point:
   name: "Sa Huỳnh"
   latitude: 14.83
   longitude: 108.95
-note: "The start follows the conventional date; years before 500 BCE have not been audited. Both dates are estimates; Champa follows from 192."
+note: "Both dates are estimates; Champa follows from 192."
 ---

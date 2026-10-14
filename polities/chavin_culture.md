@@ -10,5 +10,5 @@ point:
   name: "Chavín de Huántar"
   latitude: -9.59
   longitude: -77.18
-note: "The start follows the conventional date; years before 500 BCE have not been audited. Both dates are estimates."
+note: "Both dates are estimates."
 ---

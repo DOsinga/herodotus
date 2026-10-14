@@ -9,7 +9,7 @@ point:
   name: "Carthage"
   latitude: 36.853
   longitude: 10.323
-note: "The start follows the conventional date; years before 500 BCE have not been audited. Destroyed by Rome in 146 BCE."
+note: "Destroyed by Rome in 146 BCE."
 transitions:
 - year: -146
   kind: absorbed_into
