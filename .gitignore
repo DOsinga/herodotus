@@ -14,3 +14,6 @@ __pycache__/
 /static/evidence-years.json
 /static/places.json
 /static/registry.json
+
+/herodotus.sqlite
+/herodotus.partial
