@@ -1,5 +1,7 @@
 ---
 id: johor_sultanate
+name: "Johor Sultanate"
+wikipedia: https://en.wikipedia.org/wiki/Johor_Sultanate
 description: >-
   The Johor Sultanate emerged in 1528 as a successor to Malacca after the Portuguese captured
   that city's capital. Alauddin Riayat Shah II established a hereditary Malay Muslim monarchy
@@ -17,7 +19,12 @@ periods:
 - start: 1528
   end: 1824
 point:
-  name: Johor Lama
+  name: "Johor Lama"
   latitude: 1.57
   longitude: 104.02
+note: "The Anglo-Dutch Treaty of 1824 divided the realm into Riau-Lingga in the Dutch sphere and mainland Johor in the British sphere."
+transitions:
+- year: 1824
+  kind: split_into
+  into: [riau_lingga, johor_temenggong]
 ---

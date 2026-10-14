@@ -1,6 +1,6 @@
 ---
 id: kanem_bornu_empire
-name: Kanem–Bornu Empire
+name: "Kanem–Bornu Empire"
 wikipedia: https://en.wikipedia.org/wiki/Kanem%E2%80%93Bornu_Empire
 description: >-
   Kanem–Bornu was a long-lived monarchy around Lake Chad, traditionally traced to about 700 and ending
@@ -15,7 +15,11 @@ periods:
 - start: 700
   end: 1893
 point:
-  name: Ngazargamu
+  name: "Ngazargamu"
   latitude: 13.0472
   longitude: 12.2278
+transitions:
+- year: 1893
+  kind: absorbed_into
+  into: [rabih_state]
 ---
