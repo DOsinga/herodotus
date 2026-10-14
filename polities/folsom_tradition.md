@@ -5,10 +5,10 @@ type: culture
 wikipedia: https://en.wikipedia.org/wiki/Folsom_tradition
 periods:
 - start: -10800
-  end: -8000
+  end: -10200
 point:
   name: "Folsom site"
   latitude: 36.87
   longitude: -103.92
-note: "Both dates are estimates."
+note: "Both dates are calibrated radiocarbon estimates; older uncalibrated dates put the tradition about two thousand years later."
 ---
