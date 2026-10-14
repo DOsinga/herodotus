@@ -13,7 +13,7 @@ point:
   name: "Uruk"
   latitude: 31.32
   longitude: 45.64
-note: "The start follows the conventional date; years before 3000 BCE have not been audited. Lugalzagesi ruled most of Sumer from Uruk until Sargon defeated him. Utu-hengal's kingdom after the Akkadian collapse was taken over by his governor Ur-Nammu as Ur III. The later independent kingdom of Sin-kashid's dynasty fell to Larsa."
+note: "Lugalzagesi ruled most of Sumer from Uruk until Sargon defeated him. Utu-hengal's kingdom after the Akkadian collapse was taken over by his governor Ur-Nammu as Ur III. The later independent kingdom of Sin-kashid's dynasty fell to Larsa."
 transitions:
 - year: -2334
   kind: absorbed_into

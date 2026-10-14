@@ -10,5 +10,5 @@ point:
   name: "Lerna"
   latitude: 37.6
   longitude: 22.75
-note: "The start follows the conventional date; years before 3000 BCE have not been audited. Links the Helladic chronology article. Both dates are conventional; the Mycenaean palace states follow."
+note: "Links the Helladic chronology article. Both dates are conventional; the Mycenaean palace states follow."
 ---

@@ -10,5 +10,5 @@ point:
   name: "Avebury"
   latitude: 51.43
   longitude: -1.85
-note: "The start follows the conventional date; years before 3000 BCE have not been audited. Both dates are conventional; the Bronze Age records for Britain and Ireland follow."
+note: "Both dates are conventional; the Bronze Age records for Britain and Ireland follow."
 ---
