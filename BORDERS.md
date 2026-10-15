@@ -162,6 +162,64 @@ polities that still have no place in a given year with:
 python coverage.py 1250 1500
 ```
 
+### Drafting histories
+
+`draft.py` turns a list of segments into control spans. Each segment is a
+range of years, the candidate polities in order of preference and an
+importance; for every year the first candidate that is active wins, so a
+segment can run straight through a series of partitions:
+
+```python
+import draft
+from draft import spans, follows, roman, burgundy, FRANCE
+
+draft.write("dole", "Dole", "Dole, Jura", 47.0925, 5.4897, spans([
+    (1384, 1476, ["burgundian_state"], 2),
+    (1556, 1673, ["spanish_monarchy"], 2),
+    (1674, None, FRANCE, 2),
+]), note="The county of Burgundy before Valois rule in 1384 has no record.")
+```
+
+It also holds shared sequences, such as the Frankish kingdoms of Burgundy,
+the kingdoms of Italy before 1100 and the French and German regimes since
+1789. Add to them when a region has a sequence many towns share. The script
+only drafts: check its output against the history, commit the place files,
+and edit those files directly afterwards rather than regenerating them.
+
+### Coverage plan
+
+Coverage is built in two passes over the whole world.
+
+1. Breadth. Every polity gets places for all of its active years, so
+   `coverage.py` reports none missing, and large states get their regional
+   centres at importance 3, so that empires come out the right size. Steppe
+   powers get their real seats, such as Sarai or Karakorum.
+2. Depth. Border towns, satellite towns using `follows`, and enough density
+   for borders to fall in the right place, region by region.
+
+Each region below is claimed by one agent at a time. Put your branch next to
+a region before starting and clear it when the work is merged. Regions next
+to each other share border towns; agree on them in the later batch rather
+than editing a place another open branch has touched.
+
+| Region | Pass 1 | Pass 2 |
+|---|---|---|
+| Switzerland and the western Alps | | done (#33) |
+| British Isles | dmo/places-british | |
+| Iberia and the Maghreb | | |
+| France and the Low Countries | | |
+| Germany and Central Europe | | |
+| Italy and the Balkans | | |
+| Scandinavia and the Baltic | | |
+| Russia and the steppe | | |
+| Anatolia, the Levant and Egypt | | |
+| Iran and Mesopotamia | | |
+| South Asia | | |
+| East Asia | | |
+| Southeast Asia | | |
+| Sub-Saharan Africa | | |
+| The Americas | | |
+
 ## Phase two: barriers
 
 Borders can be added as barriers in the same flood fill. The sea is already a

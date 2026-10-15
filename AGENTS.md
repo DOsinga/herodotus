@@ -12,6 +12,7 @@ places/<id>.md       one file per town, with which polity controlled it when
 database.py          loads and validates the files, builds and queries herodotus.sqlite
 validate.py          runs the checks; use it after every data change
 coverage.py          lists active polities without a place in given years
+draft.py             drafts place control from segments of candidate polities
 herodotus.py         douwe.com Project subclass; the page and its year and polity endpoints
 herodotus.html       info block + page template
 static/atlas.js      Leaflet map, year slider, search
