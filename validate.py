@@ -1,4 +1,4 @@
-from database import is_active, load_polities
+from database import is_active, load_places, load_polities
 
 
 polities = load_polities()
@@ -17,4 +17,5 @@ assert {"Tuʻi Haʻatakalaua", "Tuʻi Kanokupolu"} <= names
 assert "Maghrebi sultanates" not in names
 assert "Hausa city-states" not in names
 assert "Maya states" not in names
-print(f"valid: {len(polities)} polities, {len(active_1500)} active in 1500")
+places = load_places(polities)
+print(f"valid: {len(polities)} polities, {len(active_1500)} active in 1500, {len(places)} places")

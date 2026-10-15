@@ -1,0 +1,13 @@
+---
+id: barabar_caves
+name: Barabar Caves
+wikipedia: https://en.wikipedia.org/wiki/Barabar_Caves
+point:
+  latitude: 25.007
+  longitude: 85.063
+control:
+- start: 450
+  end: 600
+  polity: maukhari_gaya
+  importance: 3
+---

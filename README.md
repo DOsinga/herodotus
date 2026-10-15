@@ -9,6 +9,10 @@ contains a stable internal ID, name, Wikipedia link, a 105–130-word descriptio
 active periods, and one representative point. There is no Wikidata import or
 generated candidate list.
 
+A second set of files in `places/` records which polity controlled a town in
+which years. The map spreads colour outward from those towns to suggest
+territory; [BORDERS.md](BORDERS.md) explains how.
+
 Run the data checks with:
 
 ```bash
