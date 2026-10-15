@@ -121,6 +121,7 @@ def validate_point(point, record_id):
 
 def validate_places(places, polities):
     by_id = {polity["id"]: polity for polity in polities}
+    places_by_id = {place["id"]: place for place in places}
     ids = set()
     names = set()
     links = set()
@@ -138,26 +139,48 @@ def validate_places(places, polities):
 
         previous_end = None
         for index, span in enumerate(place["control"]):
-            assert set(span) == {"start", "end", "polity", "importance"}, place["id"]
+            assert set(span) - {"polity", "follows"} == {"start", "end", "importance"}, place["id"]
             assert span["importance"] in (1, 2, 3, 4), place["id"]
             assert isinstance(span["start"], int), place["id"]
             assert previous_end is None or span["start"] > previous_end, place["id"]
-            polity = by_id[span["polity"]]
-            assert polity.get("type") != "culture", (place["id"], span["polity"])
             if span["end"] is None:
                 assert index == len(place["control"]) - 1, place["id"]
             else:
                 assert isinstance(span["end"], int) and span["start"] <= span["end"], place["id"]
+            previous_end = span["end"]
+            if "follows" in span:
+                assert "polity" not in span, place["id"]
+                leader = places_by_id[span["follows"]]
+                assert all("follows" not in other for other in leader["control"]), (place["id"], span["follows"])
+                continue
+            polity = by_id[span["polity"]]
+            assert polity.get("type") != "culture", (place["id"], span["polity"])
             assert any(
                 period["start"] <= span["start"]
                 and (period["end"] is None or span["end"] is not None and span["end"] <= period["end"])
                 for period in polity["periods"]
             ), (place["id"], span["polity"], span["start"])
-            previous_end = span["end"]
 
         ids.add(place["id"])
         names.add(place["name"])
         links.add(place["wikipedia"])
+
+def resolved_control(places):
+    by_id = {place["id"]: place for place in places}
+    rows = []
+    for place in places:
+        for span in place["control"]:
+            if "polity" in span:
+                rows.append((place["id"], span["start"], span["end"], span["polity"], span["importance"]))
+                continue
+            for lead in by_id[span["follows"]]["control"]:
+                start = max(span["start"], lead["start"])
+                ends = [end for end in (span["end"], lead["end"]) if end is not None]
+                end = min(ends) if ends else None
+                if end is None or start <= end:
+                    rows.append((place["id"], start, end, lead["polity"], span["importance"]))
+    return rows
+
 
 PATH = ROOT / "herodotus.sqlite"
 SCHEMA = """
@@ -193,9 +216,7 @@ def build():
     db.executemany("INSERT INTO places VALUES (?, ?, ?, ?, ?)", [
         (p["id"], p["name"], p["wikipedia"], p["point"]["latitude"], p["point"]["longitude"]) for p in places
     ])
-    db.executemany("INSERT INTO control VALUES (?, ?, ?, ?, ?)", [
-        (p["id"], s["start"], s["end"], s["polity"], s["importance"]) for p in places for s in p["control"]
-    ])
+    db.executemany("INSERT INTO control VALUES (?, ?, ?, ?, ?)", resolved_control(places))
     db.commit()
     db.close()
     os.replace(partial, PATH)
@@ -225,11 +246,23 @@ def year(value):
         {"year": value},
     ).fetchall()
     places = db.execute(
-        f"SELECT places.id, latitude, longitude, polity, importance FROM control"
+        f"SELECT places.id, name, latitude, longitude, polity, importance FROM control"
         f" JOIN places ON places.id = control.place WHERE {ACTIVE} ORDER BY places.id",
         {"year": value},
     ).fetchall()
-    return {"year": value, "polities": [dict(row) for row in polities], "places": [dict(row) for row in places]}
+    gaps = db.execute(
+        f"SELECT id, name, latitude, longitude FROM places WHERE id IN ("
+        f" SELECT place FROM control GROUP BY place"
+        f" HAVING MIN(start) <= :year AND (MAX(end IS NULL) OR :year <= MAX(end)))"
+        f" AND id NOT IN (SELECT place FROM control WHERE {ACTIVE}) ORDER BY id",
+        {"year": value},
+    ).fetchall()
+    return {
+        "year": value,
+        "polities": [dict(row) for row in polities],
+        "places": [dict(row) for row in places],
+        "gaps": [dict(row) for row in gaps],
+    }
 
 
 def polity(polity_id):
