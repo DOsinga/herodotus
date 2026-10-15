@@ -15,6 +15,14 @@ control:
   polity: holy_roman_empire
   importance: 2
 - start: 1250
+  end: 1511
+  polity: principality_neuchatel
+  importance: 2
+- start: 1512
+  end: 1528
+  polity: old_swiss_confederacy
+  importance: 2
+- start: 1529
   end: 1805
   polity: principality_neuchatel
   importance: 2

@@ -24,10 +24,10 @@ control:
   polity: habsburg_netherlands
   importance: 2
 - start: 1556
-  end: 1677
+  end: 1673
   polity: spanish_monarchy
   importance: 2
-- start: 1678
+- start: 1674
   end: 1791
   polity: kingdom_france
   importance: 2

@@ -10,19 +10,19 @@ description: >-
   the late fourteenth century and joined the Swiss Confederacy in 1501. After the city
   adopted the Reformation in 1528 the bishops moved their court to Porrentruy, which
   remained the capital until the end. The southern districts allied with Swiss cantons,
-  while the northern lands stayed within the Empire. French revolutionary troops
-  occupied the north in 1792, creating the short-lived Rauracian Republic before
-  annexation, and took the southern districts in 1797.
+  while the northern lands stayed within the Empire. French revolutionary troops took
+  the north in 1792 and the southern districts in 1797, and the last remnant,
+  Schliengen, passed to Baden in 1803.
 periods:
 - start: 1250
-  end: 1792
+  end: 1803
 point:
   name: Porrentruy
   latitude: 47.4153
   longitude: 7.0756
-note: "Starts in 1250 under the Holy Roman Empire rule in AGENTS.md. The city of Basel left the bishop's rule in the 1380s and joined the Confederacy in 1501. The southern districts stayed under the bishop until 1797."
+note: "Starts in 1250 under the Holy Roman Empire rule in AGENTS.md. The city of Basel left the bishop's rule in the 1380s and joined the Confederacy in 1501. France took Porrentruy and the north in 1792, the southern districts in 1797; the bishop kept Schliengen until it went to Baden in 1803."
 transitions:
-- year: 1792
+- year: 1803
   kind: absorbed_into
-  into: [french_first_republic]
+  into: [margraviate_baden]
 ---
