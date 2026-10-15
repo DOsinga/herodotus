@@ -21,5 +21,5 @@ point:
   name: Bern
   latitude: 46.948
   longitude: 7.447
-note: "Starts with the Act of Mediation of 1803. Links the country article. Changes of regime after independence are not split into separate records yet."
+note: "Starts with the Act of Mediation of 1803. Links the country article. Changes of regime after independence are not split into separate records."
 ---

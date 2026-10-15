@@ -1,5 +1,7 @@
 ---
 id: chach_kingdom
+name: "Kingdom of Chach"
+wikipedia: https://en.wikipedia.org/wiki/Tashkent
 description: >-
   Chach was an oasis kingdom around present Tashkent in Central Asia, represented here from
   about 500 to 750 CE. Its royal centres included Ming Urik, though the kingdom covered more
@@ -11,8 +13,6 @@ description: >-
   Xianzhi attacked the kingdom and destroyed its royal government. The ruler's fate helped
   intensify the conflict that led to the battle of Talas. Its starting date and
   representative royal site remain approximate.
-name: "Kingdom of Chach"
-wikipedia: https://en.wikipedia.org/wiki/Tashkent
 periods:
 - start: 500
   end: 750
@@ -20,7 +20,7 @@ point:
   name: "Ming Urik"
   latitude: 41.299
   longitude: 69.28
-note: "500 estimates the fifth–eighth-century principality recorded in the Tashkent history. Ends with Gao Xianzhi's destruction of its royal government in 750. Ming Urik represents a main royal centre; the whole region is not equated with the modern city. Links Tashkent's history."
+note: "500 estimates the fifth–eighth-century principality recorded in the Tashkent history. Ends with Gao Xianzhi's destruction of its royal government in 750. Ming Urik represents a main royal centre; the whole region is not equated with the modern city. Links Tashkent's history. Links the article on Tashkent, the city at its centre, as no article covers the kingdom."
 transitions:
 - year: 750
   kind: absorbed_into

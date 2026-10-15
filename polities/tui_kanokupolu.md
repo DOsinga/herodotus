@@ -1,5 +1,8 @@
 ---
 id: tui_kanokupolu
+name: "Tuʻi Kanokupolu"
+type: chiefdom
+wikipedia: https://en.wikipedia.org/wiki/Tu%CA%BBi_Kanokupolu
 description: >-
   The Tuʻi Kanokupolu was a ruling chiefly line in Tonga, originating around 1610 in western
   Tongatapu. Its founder Ngata was a son of the Tuʻi Haʻa Takalaua ruler and a Samoan mother, and his
@@ -10,13 +13,11 @@ description: >-
   fragmented authority during the eighteenth and early nineteenth centuries. Tāufaʻāhau became Tuʻi
   Kanokupolu in 1845 and, as George Tupou I, used this position to build the unified Tongan monarchy
   that succeeded it.
-name: Tuʻi Kanokupolu
-wikipedia: https://en.wikipedia.org/wiki/Tu%CA%BBi_Kanokupolu
 periods:
 - start: 1610
   end: 1845
 point:
-  name: Kanokupolu
+  name: "Kanokupolu"
   latitude: -21.0777
   longitude: -175.3347
 transitions:

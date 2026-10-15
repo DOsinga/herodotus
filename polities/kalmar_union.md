@@ -1,5 +1,7 @@
 ---
 id: kalmar_union
+name: "Kalmar Union"
+wikipedia: https://en.wikipedia.org/wiki/Kalmar_Union
 description: >-
   The Kalmar Union joined Denmark, Norway and Sweden under a common monarch from 1397 to
   1523. Sweden then included much of Finland, while Norway brought its North Atlantic island
@@ -11,17 +13,16 @@ description: >-
   own regents. Christian II's executions in Stockholm in 1520 deepened opposition. Gustav
   Vasa's election as Swedish king in 1523 ended the union, leaving Denmark and Norway
   together.
-name: Kalmar Union
-wikipedia: https://en.wikipedia.org/wiki/Kalmar_Union
 periods:
 - start: 1397
   end: 1523
 point:
-  name: Copenhagen
+  name: "Copenhagen"
   latitude: 55.6761
   longitude: 12.5683
+note: "Sweden's own governments under Karl Knutsson and the Sture regents are gaps in the union's hold on Sweden and periods of the Swedish record. When Sweden left for good, the union continued as Denmark–Norway."
 transitions:
 - year: 1523
-  kind: split_into
-  into: [kingdom_sweden, denmark_norway]
+  kind: succeeded_by
+  into: [denmark_norway]
 ---

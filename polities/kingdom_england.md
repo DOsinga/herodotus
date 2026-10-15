@@ -1,6 +1,6 @@
 ---
 id: kingdom_england
-name: Kingdom of England
+name: "Kingdom of England"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_England
 description: >-
   The Kingdom of England united the English territories under Athelstan in 927 and lasted
@@ -19,9 +19,10 @@ periods:
 - start: 1660
   end: 1707
 point:
-  name: London
+  name: "London"
   latitude: 51.5072
   longitude: -0.1275
+note: "The English Lordship and Kingdom of Ireland are part of this record, because England governed them through lords deputy and lords lieutenant it appointed."
 transitions:
 - year: 1649
   kind: succeeded_by

@@ -11,7 +11,7 @@ control:
   polity: joseon
   importance: 3
 - start: 1897
-  end: 1910
+  end: 1905
   polity: korean_empire
   importance: 3
 - start: 1948

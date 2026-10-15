@@ -23,5 +23,5 @@ point:
   name: "Yoshinogari"
   latitude: 33.32
   longitude: 130.38
-note: "Links the article on the period. Both dates are estimates; the Yayoi chiefdoms, including Himiko's Yamatai, are not recorded separately. Yoshinogari stands as the point. The Yamato record follows from 300."
+note: "Links the article on the period. Both dates are estimates. Yamatai is a separate record; the other Yayoi chiefdoms are not known well enough to record. Yoshinogari stands as the point. The Yamato record follows from 300."
 ---

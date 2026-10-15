@@ -20,7 +20,7 @@ point:
   name: Montevideo
   latitude: -34.906
   longitude: -56.184
-note: "Links the country article. Changes of regime after independence are not split into separate records yet."
+note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1828
   kind: broke_away_from

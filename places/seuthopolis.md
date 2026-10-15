@@ -11,7 +11,7 @@ control:
   polity: odrysian_kingdom
   importance: 3
 - start: -330
-  end: 46
+  end: -50
   polity: odrysian_kingdom
   importance: 3
 ---

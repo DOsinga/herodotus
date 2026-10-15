@@ -15,5 +15,5 @@ note: "500 estimates the court associated with the early sixth-century Rus Failg
 transitions:
 - year: 1556
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

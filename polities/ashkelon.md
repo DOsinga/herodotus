@@ -1,7 +1,7 @@
 ---
 id: ashkelon
 name: "Ashkelon"
-wikipedia: https://en.wikipedia.org/wiki/Ashkelon
+wikipedia: https://en.wikipedia.org/wiki/Ascalon
 description: >-
   Ashkelon was a coastal city state of the Philistines in the southern Levant, near
   present Israel's Mediterranean shore. This record begins with an estimated Philistine
@@ -21,7 +21,7 @@ point:
   name: "Ashkelon"
   latitude: 31.67
   longitude: 34.55
-note: "Links the article on the city. 1175 BCE estimates the Philistine settlement; it was one of the five cities of the Philistines, each with its own ruler. Nebuchadnezzar destroyed it in 604 BCE."
+note: "Links the article on the ancient city. 1175 BCE estimates the Philistine settlement; it was one of the five cities of the Philistines, each with its own ruler. Nebuchadnezzar destroyed it in 604 BCE."
 transitions:
 - year: -604
   kind: absorbed_into

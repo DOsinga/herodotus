@@ -186,12 +186,19 @@ overlord confirmed or chose can still govern.
   kept governing at home. Unlike Crimea, it could not fight or negotiate on
   its own account. The Indian princely states, the Gulf states before
   independence, Zanzibar, Buganda, Tonga from 1900 to 1970 and the Javanese
-  courts under the Dutch fall here.
+  courts under the Dutch fall here. A treaty that only bound a state to
+  take advice on its foreign relations, without making it a protectorate,
+  does not end it: Bhutan, Afghanistan under the Treaty of Gandamak and
+  Muscat and Oman stay independent.
 - Once the outside power ruled directly, or through a governor, viceroy or
   other official of its own, the polity has been absorbed and its period
-  ends. Naples and Sicily under the Spanish crown and Frisia after Maximilian
-  appointed Albert of Saxony in 1498 end there, even though they kept their
-  own laws and estates.
+  ends. Naples and Sicily under the Spanish crown, Ireland under English lords
+  deputy and lords lieutenant, and Frisia after Maximilian appointed Albert of
+  Saxony in 1498 end there, even though they kept their own laws and estates.
+- A state set up by an occupying power counts as absorbed while the occupier
+  ran it through its own officials or army, as with the Italian Social
+  Republic or Vichy France after November 1942. One with its own government,
+  army and diplomacy stays, as Slovakia did until 1944.
 - An occupation that took control away for some years is a gap between
   periods, as with Genoa under French or Milanese rule.
 

@@ -7,7 +7,7 @@ point:
   longitude: 41.2281
 control:
 - start: 2014
-  end: null
+  end: 2026
   polity: aanes
   importance: 3
 ---

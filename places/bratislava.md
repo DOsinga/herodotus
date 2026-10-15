@@ -7,7 +7,7 @@ point:
   longitude: 17.1097
 control:
 - start: 1526
-  end: 1867
+  end: 1849
   polity: royal_hungary
   importance: 3
 - start: 1939

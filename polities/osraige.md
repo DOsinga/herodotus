@@ -1,5 +1,7 @@
 ---
 id: osraige
+name: "Osraige"
+wikipedia: https://en.wikipedia.org/wiki/Osraige
 description: >-
   Osraige was an Irish kingdom between Munster and Leinster, covering much of modern Kilkenny and
   western Laois. Tradition places its foundation around 150, but early chronology is uncertain.
@@ -10,8 +12,6 @@ description: >-
   institutions, including the diocese of Ossory. Norman conquest greatly reduced the kingdom, but
   Mac Giolla Phádraig rulers retained Upper Ossory. Brian's submission to Henry VIII in 1537
   ended that independent lordship, preceding his ennoblement as a royal baron in 1541.
-name: "Osraige"
-wikipedia: https://en.wikipedia.org/wiki/Osraige
 periods:
 - start: 150
   end: 450
@@ -28,5 +28,5 @@ transitions:
   into: [kingdom_munster]
 - year: 1537
   kind: absorbed_into
-  into: [lordship_ireland]
+  into: [kingdom_england]
 ---

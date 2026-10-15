@@ -1,5 +1,7 @@
 ---
 id: somalia
+name: "Somalia"
+wikipedia: https://en.wikipedia.org/wiki/Somalia
 description: >-
   Somalia lies in the Horn of Africa, with Mogadishu as its capital and a coastline
   facing the Indian Ocean and Gulf of Aden. The republic formed in 1960 through the
@@ -11,18 +13,16 @@ description: >-
   administration governed again from 2006, initially at Baidoa and later in Mogadishu
   with Ethiopian support. Federal institutions replaced it in 2012. Regional autonomy
   and conflict with al Shabaab continue to limit central control.
-name: Somalia
-wikipedia: https://en.wikipedia.org/wiki/Somalia
 periods:
 - start: 1960
   end: 1991
 - start: 2006
   end: null
 point:
-  name: Mogadishu
+  name: "Mogadishu"
   latitude: 2.0392
   longitude: 45.3419
-note: "Formed by the union of the Italian trust territory and British Somaliland. Gap after the national government collapsed in January 1991; the Transitional Federal Government governed again from 2006, first at Baidoa and from December in Mogadishu with Ethiopian support. Al-Shabaab, which has governed much of the south since 2009, is not split out yet. Links the country article. Changes of regime are not split into separate records."
+note: "Formed by the union of the Italian trust territory and British Somaliland. Gap after the national government collapsed in January 1991; the Transitional Federal Government governed again from 2006, first at Baidoa and from December in Mogadishu with Ethiopian support. Al-Shabaab has its own record. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960
   kind: broke_away_from

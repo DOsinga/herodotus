@@ -19,6 +19,14 @@ control:
   polity: lordship_milan
   importance: 3
 - start: 1395
+  end: 1446
+  polity: duchy_milan
+  importance: 3
+- start: 1447
+  end: 1449
+  polity: ambrosian_republic
+  importance: 3
+- start: 1450
   end: 1499
   polity: duchy_milan
   importance: 3
@@ -31,6 +39,10 @@ control:
   polity: duchy_milan
   importance: 3
 - start: 1525
+  end: 1526
+  polity: duchy_milan
+  importance: 3
+- start: 1529
   end: 1535
   polity: duchy_milan
   importance: 3

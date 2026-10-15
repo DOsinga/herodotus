@@ -8,7 +8,7 @@ point:
 control:
 - start: 1450
   end: 1537
-  polity: muisca_confederation
+  polity: muisca_bacata
   importance: 3
 - start: 1819
   end: 1830

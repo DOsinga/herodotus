@@ -27,7 +27,7 @@ control:
   polity: duchy_bavaria
   importance: 3
 - start: 1349
-  end: 1391
+  end: 1363
   polity: upper_bavaria
   importance: 3
 - start: 1392

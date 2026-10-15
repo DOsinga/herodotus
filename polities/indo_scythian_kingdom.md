@@ -20,7 +20,7 @@ point:
   name: "Taxila"
   latitude: 33.7458
   longitude: 72.7875
-note: "Links the Indo-Scythians article. Both dates are estimates: the kingdom of Maues and Azes in Gandhara, until the Indo-Parthian conquest. The Northern Satraps of Mathura are not recorded; the Western Satraps are."
+note: "Links the Indo-Scythians article. Both dates are estimates: the kingdom of Maues and Azes in Gandhara, until the Indo-Parthian conquest. The Northern Satraps of Mathura and the Western Satraps are separate records."
 transitions:
 - year: 19
   kind: absorbed_into

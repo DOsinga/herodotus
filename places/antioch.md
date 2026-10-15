@@ -7,6 +7,10 @@ point:
   longitude: 36.1817
 control:
 - start: -312
+  end: -83
+  polity: seleucid_empire
+  importance: 3
+- start: -69
   end: -63
   polity: seleucid_empire
   importance: 3

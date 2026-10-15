@@ -13,12 +13,19 @@ TYPES = {"chiefdom", "culture"}
 TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by", "broke_away_from"}
 
 
+class UniqueKeyLoader(yaml.CSafeLoader):
+    def construct_mapping(self, node, deep=False):
+        keys = [self.construct_object(key, deep=deep) for key, _ in node.value]
+        assert len(keys) == len(set(keys)), f"duplicate key in {keys}"
+        return super().construct_mapping(node, deep)
+
+
 def load_records(folder):
     records = []
     for path in sorted((ROOT / folder).glob("*.md")):
         text = path.read_text(encoding="utf-8")
         _, frontmatter, _ = text.split("---", 2)
-        record = yaml.load(frontmatter, Loader=yaml.CSafeLoader)
+        record = yaml.load(frontmatter, Loader=UniqueKeyLoader)
         assert record["id"] == path.stem, path
         records.append(record)
     return records

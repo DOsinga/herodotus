@@ -22,7 +22,7 @@ point:
   name: Oslo
   latitude: 59.913
   longitude: 10.739
-note: "In union with Sweden until 1905 but with its own government. Links the country article. Changes of regime after independence are not split into separate records yet. Gap for the German occupation, when the occupier governed and the government was in exile."
+note: "In union with Sweden until 1905 but with its own government. Links the country article. Changes of regime after independence are not split into separate records. Gap for the German occupation, when the occupier governed and the government was in exile."
 transitions:
 - year: 1940
   kind: absorbed_into
