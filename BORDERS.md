@@ -53,6 +53,18 @@ control:
   Importance belongs to the span, not the place: Nijmegen as a legionary
   base matters more than Nijmegen as a Frankish town, and a capital that the
   court left drops a level.
+- A span can follow another place instead of naming a polity:
+
+  ```yaml
+  - start: 1384
+    end: 1798
+    follows: bern
+    importance: 1
+  ```
+
+  Thun then belongs to whoever holds Bern in each of those years, including
+  Bern's gaps. Use it for towns that went wherever their regional centre
+  went. The followed place's own spans must name polities.
 
 The map turns the places into territory with a flood fill over a land grid.
 Each place active in the year spreads over land from its point, and its
@@ -110,6 +122,45 @@ researched, starting with Europe from 1000 to 1500.
 Transitions hint at the next holder of a town, but are not used to fill in
 spans automatically: chaining them goes wrong within a hop or two, as when a
 city absorbed by Spain would stay Spanish after Spain lost it.
+
+### Researching places
+
+Places are researched in batches of about ten neighbouring polities, one
+batch after another, so that each batch builds on the places that exist.
+Batches only run side by side in regions far enough apart that they cannot
+touch the same towns.
+
+For each polity in the batch, collect:
+
+- its capital and major cities, at importance 3 or 4;
+- enough towns that no part of its core lies more than about 100 km from a
+  place, at importance 2;
+- towns where it met a neighbour, at importance 1, so the border falls in
+  the right place. A border town is also the place to record a frontier that
+  moved: the town changes hands, and the border moves with it.
+
+Before adding a town, look for an existing place: same Wikipedia article, or
+a point within a few kilometres. The validator rejects a second file with
+the same link. When the place exists, check its history and extend it; do
+not start a new one.
+
+A new place gets its whole history, not just the span under the polity being
+researched. Walk through the polity records that governed the area, from the
+earliest to the present, and give the town to each one for the years it
+actually governed it, using the who-governed test. Leave a gap where no
+polity we have governed it, such as a free city without its own record, and
+start the first span no earlier than the town's founding. Use `follows` for a
+town that simply went with its regional centre. When the town's real
+governor has no polity record and governed for long enough to matter, add
+the polity, with the usual description and transitions, in the same batch.
+
+A batch is done when every polity in it has places for all of its active
+years and the map on staging looks plausible for the region. List the
+polities that still have no place in a given year with:
+
+```bash
+python coverage.py 1250 1500
+```
 
 ## Phase two: barriers
 

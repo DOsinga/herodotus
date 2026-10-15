@@ -10,6 +10,7 @@
   const card = document.getElementById("atlas-card");
   const SLIDER_STEPS = 2000;
   const FILL_OPACITY = { polity: 1, chiefdom: 0.45, culture: 0 };
+  const PLACE_ZOOM = { 4: 1, 3: 4, 2: 5, 1: 6 };
   const count = document.getElementById("atlas-count");
   const note = document.getElementById("atlas-note");
   const years = new Map();
@@ -27,6 +28,7 @@
   L.control.zoom({ position: "topright" }).addTo(map);
   map.createPane("land");
   map.getPane("land").style.zIndex = 300;
+  const placeLayer = L.layerGroup().addTo(map);
   const layer = L.layerGroup().addTo(map);
   const territory = createTerritory(map, polityRgb);
   const landLayer = L.geoJSON(null, {
@@ -144,7 +146,35 @@
     const year = shownYear.year;
     territory.show(year, shownYear.places);
     layer.clearLayers();
+    placeLayer.clearLayers();
     const active = shownYear.polities;
+    const names = new Map(active.map(function (polity) { return [polity.id, polity.name]; }));
+
+    const zoom = map.getZoom();
+    shownYear.places.concat(shownYear.gaps).forEach(function (place) {
+      if (zoom < PLACE_ZOOM[place.importance || 1]) return;
+      const color = place.polity ? polityColor(place.polity) : "#8a8f91";
+      const size = 6 + 2 * (place.importance || 1);
+      const marker = L.marker([place.latitude, place.longitude], {
+        icon: L.divIcon({
+          className: "atlas-place",
+          iconSize: [size, size],
+          html: '<span style="background:' + (place.polity ? color : "transparent") + ";border-color:" + (place.polity ? "rgba(32, 39, 43, 0.75)" : color) + '"></span>'
+        }),
+        keyboard: false
+      }).addTo(placeLayer);
+      marker.bindTooltip(place.name + (place.polity ? " · " + names.get(place.polity) : " · no record"), {
+        className: "atlas-tooltip",
+        direction: "top",
+        offset: [0, -size / 2]
+      });
+      if (place.polity) {
+        marker.on("click", function (event) {
+          L.DomEvent.stopPropagation(event);
+          selectPolity(place.polity).then(render);
+        });
+      }
+    });
 
     let selectedMarker = null;
     active.forEach(function (polity) {
@@ -181,7 +211,7 @@
       resetCard(year);
     }
     count.textContent = active.length + " polities";
-    note.textContent = "Each dot is one polity's representative point. Half-filled rings are chiefdoms and hollow rings are archaeological cultures. The shading spreads from the towns each polity controlled; it is not a surveyed border.";
+    note.textContent = "Each dot is one polity's representative point. Half-filled rings are chiefdoms and hollow rings are archaeological cultures. Squares are towns, coloured by who governed them; hollow grey squares are towns no recorded polity governed that year. The shading spreads from the towns; it is not a surveyed border.";
   }
 
   function normalizeSearch(text) {
@@ -254,6 +284,10 @@
     option.value = entry[1];
     return option;
   }));
+
+  map.on("zoomend", function () {
+    if (shownYear) render();
+  });
 
   map.on("click", function () {
     if (selectedPolity) {
