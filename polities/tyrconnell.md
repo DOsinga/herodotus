@@ -1,6 +1,6 @@
 ---
 id: tyrconnell
-name: Tyrconnell
+name: "Tyrconnell"
 wikipedia: https://en.wikipedia.org/wiki/Tyrconnell
 description: >-
   Tyrconnell was a Gaelic kingdom in northwestern Ireland, centred on present County
@@ -17,11 +17,11 @@ periods:
 - start: 400
   end: 1607
 point:
-  name: Donegal
+  name: "Donegal"
   latitude: 54.654
   longitude: -8.1107
 transitions:
 - year: 1607
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

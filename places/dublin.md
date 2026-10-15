@@ -14,18 +14,6 @@ control:
   end: 1170
   polity: dublin_kingdom
   importance: 3
-- start: 1177
-  end: 1541
-  polity: lordship_ireland
-  importance: 3
-- start: 1542
-  end: 1649
-  polity: kingdom_ireland
-  importance: 3
-- start: 1660
-  end: 1800
-  polity: kingdom_ireland
-  importance: 3
 - start: 1922
   end: null
   polity: ireland

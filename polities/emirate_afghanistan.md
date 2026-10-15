@@ -1,6 +1,6 @@
 ---
 id: emirate_afghanistan
-name: Emirate of Afghanistan
+name: "Emirate of Afghanistan"
 wikipedia: https://en.wikipedia.org/wiki/Emirate_of_Afghanistan
 description: >-
   The Emirate of Afghanistan developed from a Barakzai principality in Kabul established in
@@ -17,9 +17,10 @@ periods:
 - start: 1823
   end: 1926
 point:
-  name: Kabul
+  name: "Kabul"
   latitude: 34.525
   longitude: 69.178
+note: "The Treaty of Gandamak of 1879 gave Britain control of its foreign relations until 1919, but the emirs governed and fought on their own account, and like Bhutan it is treated as independent throughout."
 transitions:
 - year: 1926
   kind: succeeded_by

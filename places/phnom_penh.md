@@ -7,6 +7,10 @@ point:
   longitude: 104.9282
 control:
 - start: 1431
+  end: 1834
+  polity: kingdom_cambodia
+  importance: 3
+- start: 1841
   end: 1863
   polity: kingdom_cambodia
   importance: 3

@@ -1,5 +1,8 @@
 ---
 id: tui_haatakalaua
+name: "Tuʻi Haʻatakalaua"
+type: chiefdom
+wikipedia: https://en.wikipedia.org/wiki/Tu%CA%BBi_Ha%CA%BBatakalaua
 description: >-
   The Tuʻi Haʻatakalaua were a Tongan ruling line based at Fonuamotu near Muʻa on Tongatapu. This
   record represents their leading political phase between 1535 and 1610, rather than the full
@@ -10,13 +13,11 @@ description: >-
   of the older line. Moʻunga ʻo Tonga appointed sons as regional governors; Ngata's establishment in
   Hihifo began the Tuʻi Kanokupolu line. That branch developed into a rival, while Haʻatakalaua
   titles continued beyond this mapped period.
-name: Tuʻi Haʻatakalaua
-wikipedia: https://en.wikipedia.org/wiki/Tu%CA%BBi_Ha%CA%BBatakalaua
 periods:
 - start: 1535
   end: 1610
 point:
-  name: Fonuamotu
+  name: "Fonuamotu"
   latitude: -21.178
   longitude: -175.12
 transitions:

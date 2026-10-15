@@ -1,5 +1,7 @@
 ---
 id: airgialla
+name: "Kingdom of Airgíalla"
+wikipedia: https://en.wikipedia.org/wiki/Airg%C3%ADalla
 description: >-
   Airgíalla was an Irish overkingdom and confederation in central and southern Ulster,
   represented here from about 600 to 1585. Its foundation by the Three Collas in 331
@@ -11,8 +13,6 @@ description: >-
   kingdom in the twelfth century. Later, Mac Mathghamhna rulers maintained a reduced
   kingdom around Monaghan. In 1585, surrender and regrant to the English crown and the
   creation of County Monaghan conventionally ended its separate existence.
-name: "Kingdom of Airgíalla"
-wikipedia: https://en.wikipedia.org/wiki/Airg%C3%ADalla
 periods:
 - start: 600
   end: 1585
@@ -24,5 +24,5 @@ note: "600 estimates the emergence of the historically attested Airgíalla confe
 transitions:
 - year: 1585
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

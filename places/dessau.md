@@ -7,6 +7,14 @@ point:
   longitude: 12.246
 control:
 - start: 1250
+  end: 1252
+  polity: anhalt
+  importance: 3
+- start: 1396
+  end: 1561
+  polity: anhalt_dessau
+  importance: 3
+- start: 1570
   end: 1602
   polity: anhalt
   importance: 3

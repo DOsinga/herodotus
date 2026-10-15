@@ -1,5 +1,7 @@
 ---
 id: county_tyrol
+name: "County of Tyrol"
+wikipedia: https://en.wikipedia.org/wiki/County_of_Tyrol
 description: >-
   The County of Tyrol controlled Alpine valleys and important passes linking German lands with Italy.
   This record covers its separately governing medieval phase from 1250 until the Habsburg acquisition
@@ -10,16 +12,14 @@ description: >-
   Margaret Maultasch became the last ruling heiress, with her marriages drawing Luxembourg and
   Wittelsbach interests into Tyrolean politics. After her son's death, she transferred Tyrol to Rudolf
   IV of Austria, beginning its Habsburg association.
-name: County of Tyrol
-wikipedia: https://en.wikipedia.org/wiki/County_of_Tyrol
 periods:
 - start: 1250
   end: 1363
 point:
-  name: Merano
+  name: "Merano"
   latitude: 46.667
   longitude: 11.167
-note: "Margaret Maultasch handed Tyrol to Rudolf IV of Habsburg in 1363; from then on it was a Habsburg land, though held by a separate Habsburg line for much of the fifteenth century."
+note: "Margaret Maultasch handed Tyrol to Rudolf IV of Habsburg in 1363; the separate Habsburg line that held it with Further Austria from 1406 to 1490 has its own record."
 transitions:
 - year: 1363
   kind: absorbed_into

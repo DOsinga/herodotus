@@ -7,7 +7,7 @@ point:
   longitude: 3.4267
 control:
 - start: 1940
-  end: 1944
+  end: 1942
   polity: vichy_france
   importance: 3
 ---

@@ -7,10 +7,18 @@ point:
   longitude: 9.598
 control:
 - start: 1375
-  end: 1452
+  end: 1378
   polity: duchy_austria
   importance: 1
-- start: 1453
+- start: 1379
+  end: 1405
+  polity: leopoldine_austria
+  importance: 1
+- start: 1406
+  end: 1489
+  polity: habsburg_tyrol
+  importance: 1
+- start: 1490
   end: 1803
   polity: archduchy_austria
   importance: 1

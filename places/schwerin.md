@@ -7,10 +7,14 @@ point:
   longitude: 11.417
 control:
 - start: 1167
-  end: 1700
+  end: 1621
   polity: mecklenburg
   importance: 3
-- start: 1701
+- start: 1622
+  end: 1627
+  polity: mecklenburg_schwerin
+  importance: 3
+- start: 1631
   end: 1867
   polity: mecklenburg_schwerin
   importance: 3

@@ -1,7 +1,7 @@
 ---
 id: hu_xia
 name: "Hu Xia"
-wikipedia: https://en.wikipedia.org/wiki/Hu_Xia
+wikipedia: https://en.wikipedia.org/wiki/Xia_(Sixteen_Kingdoms)
 description: >-
   Hu Xia was a monarchy in northern China during the Sixteen Kingdoms period, lasting from
   407 to 431. Helian Bobo, leader of a Tiefu group with Xiongnu connections, founded it

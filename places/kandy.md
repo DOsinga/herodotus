@@ -7,6 +7,10 @@ point:
   longitude: 80.6336
 control:
 - start: 1469
+  end: 1582
+  polity: kingdom_kandy
+  importance: 3
+- start: 1591
   end: 1815
   polity: kingdom_kandy
   importance: 3

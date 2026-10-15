@@ -7,6 +7,10 @@ point:
   longitude: 80.029
 control:
 - start: 1215
+  end: 1450
+  polity: jaffna_kingdom
+  importance: 3
+- start: 1467
   end: 1619
   polity: jaffna_kingdom
   importance: 3

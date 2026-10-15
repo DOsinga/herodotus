@@ -11,10 +11,18 @@ control:
   polity: county_tyrol
   importance: 2
 - start: 1363
-  end: 1452
+  end: 1378
   polity: duchy_austria
   importance: 3
-- start: 1453
+- start: 1379
+  end: 1405
+  polity: leopoldine_austria
+  importance: 3
+- start: 1406
+  end: 1489
+  polity: habsburg_tyrol
+  importance: 3
+- start: 1490
   end: 1803
   polity: archduchy_austria
   importance: 3

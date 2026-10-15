@@ -1,5 +1,7 @@
 ---
 id: iveagh_kingdom
+name: "Iveagh"
+wikipedia: https://en.wikipedia.org/wiki/Iveagh
 description: >-
   Iveagh was a Gaelic kingdom in what is now County Down, Northern Ireland, associated
   with the Uí Echach Cobo. Its formation is estimated around 400, although the first
@@ -11,8 +13,6 @@ description: >-
   government. The kingdom's independent period conventionally ends with submission under
   surrender and regrant in 1543. Later family estates and hereditary titles survived
   under the crown rather than independent rule.
-name: "Iveagh"
-wikipedia: https://en.wikipedia.org/wiki/Iveagh
 periods:
 - start: 400
   end: 1543
@@ -24,5 +24,5 @@ note: "400 estimates the formation of the Ui Echach Cobo kingdom, whose first na
 transitions:
 - year: 1543
   kind: absorbed_into
-  into: [kingdom_ireland]
+  into: [kingdom_england]
 ---

@@ -7,7 +7,7 @@ point:
   longitude: -149.57
 control:
 - start: 1788
-  end: 1880
+  end: 1842
   polity: kingdom_tahiti
   importance: 3
 ---

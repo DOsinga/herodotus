@@ -1,6 +1,6 @@
 ---
 id: kingdom_georgia
-name: Kingdom of Georgia
+name: "Kingdom of Georgia"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_Georgia
 description: >-
   The Kingdom of Georgia united Georgian lands in the Caucasus under Bagrat III in 1008
@@ -15,9 +15,10 @@ periods:
 - start: 1008
   end: 1478
 point:
-  name: Tbilisi
+  name: "Tbilisi"
   latitude: 41.7167
   longitude: 44.7833
+note: "Ends in 1478, when Kartli carried on the eastern royal government. The kingdom's formal division into Kartli, Kakheti and Imereti is usually dated to 1490, but Kakheti and Imereti already governed separately and have their own records."
 transitions:
 - year: 1478
   kind: succeeded_by

@@ -7,7 +7,7 @@ point:
   longitude: 80.271
 control:
 - start: 1325
-  end: 1448
+  end: 1424
   polity: reddi_kingdom
   importance: 3
 ---

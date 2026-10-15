@@ -1,5 +1,7 @@
 ---
 id: duchy_czersk
+name: "Duchy of Czersk"
+wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Czersk
 description: >-
   The Duchy of Czersk was a Piast principality in Masovia, centred initially on Czersk
   beside the Vistula. It arose from a division of Masovian lands in 1275 under Konrad
@@ -10,8 +12,6 @@ description: >-
   governing seat in 1413, reflecting its growing importance within the duchy. Dynastic
   inheritance repeatedly changed the borders of these Masovian possessions. When the
   last duke died without an heir in 1526, the Polish king incorporated the territory.
-name: Duchy of Czersk
-wikipedia: https://en.wikipedia.org/wiki/Duchy_of_Czersk
 periods:
 - start: 1275
   end: 1294
@@ -20,10 +20,10 @@ periods:
 - start: 1381
   end: 1526
 point:
-  name: Czersk
+  name: "Czersk"
   latitude: 51.959
   longitude: 21.236
-note: "The Czersk share of the Masovian partitions, governed from Warsaw from 1413. Siemowit III reunited Masovia in 1370. After the 1381 partition Janusz I's line held it, as Polish vassals, until the last duke died in 1526 and the king incorporated it."
+note: "The eastern share of the Masovian partitions, centred first on Czersk and from 1413 on Warsaw. Siemowit III reunited Masovia in 1370. After the 1381 partition Janusz I's line held this share, often called the Duchy of Warsaw, as Polish vassals; it took in Płock's remaining lands in 1495 and lasted until the last duke died in 1526 and the king incorporated it."
 transitions:
 - year: 1294
   kind: merged_into

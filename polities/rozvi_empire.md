@@ -1,6 +1,6 @@
 ---
 id: rozvi_empire
-name: Rozvi Empire
+name: "Rozvi Empire"
 wikipedia: https://en.wikipedia.org/wiki/Rozvi_Empire
 description: >-
   The Rozvi Empire ruled much of the Zimbabwean plateau from the late seventeenth century
@@ -17,7 +17,11 @@ periods:
 - start: 1683
   end: 1866
 point:
-  name: Danamombe
+  name: "Danamombe"
   latitude: -19.947
   longitude: 29.331
+transitions:
+- year: 1866
+  kind: absorbed_into
+  into: [ndebele_kingdom]
 ---

@@ -19,6 +19,10 @@ control:
   polity: khanate_bukhara
   importance: 3
 - start: 1785
+  end: 1873
+  polity: emirate_bukhara
+  importance: 3
+- start: 1917
   end: 1919
   polity: emirate_bukhara
   importance: 3

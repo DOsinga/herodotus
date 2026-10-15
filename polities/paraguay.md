@@ -21,7 +21,7 @@ point:
   name: Asunción
   latitude: -25.28
   longitude: -57.634
-note: "Links the country article. Changes of regime after independence are not split into separate records yet."
+note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1811
   kind: broke_away_from

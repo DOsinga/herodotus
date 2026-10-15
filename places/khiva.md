@@ -7,6 +7,10 @@ point:
   longitude: 60.3639
 control:
 - start: 1511
+  end: 1873
+  polity: khanate_khiva
+  importance: 3
+- start: 1917
   end: 1919
   polity: khanate_khiva
   importance: 3

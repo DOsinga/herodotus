@@ -12,8 +12,16 @@ control:
   polity: holy_roman_empire
   importance: 2
 - start: 1330
-  end: 1414
+  end: 1378
   polity: duchy_austria
+  importance: 2
+- start: 1379
+  end: 1405
+  polity: leopoldine_austria
+  importance: 2
+- start: 1406
+  end: 1414
+  polity: habsburg_tyrol
   importance: 2
 - start: 1501
   end: 1797

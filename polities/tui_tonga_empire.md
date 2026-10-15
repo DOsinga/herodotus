@@ -1,5 +1,8 @@
 ---
 id: tui_tonga_empire
+name: "Tuʻi Tonga Empire"
+type: chiefdom
+wikipedia: https://en.wikipedia.org/wiki/Tu%CA%BBi_Tonga_Empire
 description: >-
   The Tuʻi Tonga Empire describes a Tongan monarchy and sphere of influence
   that emerged around 950 and spread through parts of the Pacific. Its
@@ -11,15 +14,14 @@ description: >-
   conquest or permanent control. Internal conflict and assassinations weakened the ruling line.
   Following Takalaua's death in 1535, government passed to the Tuʻi Haʻatakalaua, while
   the Tuʻi Tonga retained a religious position within Tonga's changing chiefly order.
-name: Tuʻi Tonga Empire
-wikipedia: https://en.wikipedia.org/wiki/Tu%CA%BBi_Tonga_Empire
 periods:
 - start: 950
   end: 1535
 point:
-  name: Muʻa
+  name: "Muʻa"
   latitude: -21.1792
   longitude: -175.117
+note: "Recorded as a chiefdom: the Tuʻi Tonga were sacred paramount chiefs over a network of island chiefdoms, not the heads of a state with its own administration."
 transitions:
 - year: 1535
   kind: succeeded_by
