@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Tsushima_Island
 point:
   latitude: 34.4167
   longitude: 129.3333
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
 control:
 - start: 600
   end: 1184
@@ -22,6 +21,10 @@ control:
 - start: 1336
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1467
+  end: 1586
+  polity: so_clan
   importance: 2
 - start: 1587
   end: 1599

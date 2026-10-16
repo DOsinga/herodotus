@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kumamoto
 point:
   latitude: 32.8031
   longitude: 130.7078
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "The Kikuchi held it until the Ōtomo drove them out in 1550, and the Ryūzōji from 1579 until the Shimazu took it in 1584; neither has a record."
 control:
 - start: 530
   end: 1184
@@ -30,6 +30,14 @@ control:
 - start: 1372
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1550
+  end: 1578
+  polity: otomo_clan
+  importance: 2
+- start: 1584
+  end: 1586
+  polity: shimazu_clan
   importance: 2
 - start: 1587
   end: 1599

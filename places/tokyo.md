@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Tokyo
 point:
   latitude: 35.6875
   longitude: 139.7542
-note: "Called Edo until 1868. Ōta Dōkan built Edo Castle in 1457; the Kantō was held by Sengoku daimyo without records until it submitted to Toyotomi Hideyoshi in 1590."
+note: "Edo Castle was built by Ōta Dōkan in 1457; the Later Hōjō took it from the Uesugi in 1524."
 control:
+- start: 1524
+  end: 1589
+  polity: later_hojo
+  importance: 2
 - start: 1590
   end: 1599
   polity: oda_toyotomi_regime

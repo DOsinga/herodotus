@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Izumo,_Shimane
 point:
   latitude: 35.3669
   longitude: 132.7547
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
 control:
 - start: 500
   end: 1184
@@ -22,6 +21,14 @@ control:
 - start: 1336
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1486
+  end: 1565
+  polity: amago_clan
+  importance: 2
+- start: 1566
+  end: 1584
+  polity: mori_clan
   importance: 2
 - start: 1585
   end: 1599

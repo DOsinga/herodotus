@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Fukuoka
 point:
   latitude: 33.59
   longitude: 130.4017
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "Hakata. The Shōni held it in the first years after the Ōnin War; they have no record."
 control:
 - start: 530
   end: 1184
@@ -30,6 +30,18 @@ control:
 - start: 1372
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1478
+  end: 1556
+  polity: ouchi_clan
+  importance: 2
+- start: 1557
+  end: 1585
+  polity: otomo_clan
+  importance: 2
+- start: 1586
+  end: 1586
+  polity: shimazu_clan
   importance: 2
 - start: 1587
   end: 1599
