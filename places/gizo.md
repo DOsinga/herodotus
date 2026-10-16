@@ -6,7 +6,7 @@ point:
   latitude: -8.1056
   longitude: 156.8389
 control:
-- start: 1899
+- start: 1900
   end: 1921
   polity: united_kingdom_gbi
   importance: 2
