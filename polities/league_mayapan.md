@@ -20,4 +20,8 @@ point:
   name: Mayapan
   latitude: 20.6292
   longitude: -89.4608
+transitions:
+- year: 1441
+  kind: split_into
+  into: [tutul_xiu, sotuta, ah_kin_chel, ceh_pech, cupul, cochuah, chetumal_province, chakan_putum, ah_canul]
 ---
