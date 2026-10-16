@@ -75,6 +75,14 @@ control:
   polity: duchy_aquitaine
   importance: 3
 - start: 1204
+  end: 1450
+  polity: kingdom_england
+  importance: 3
+- start: 1451
+  end: 1451
+  polity: kingdom_france
+  importance: 3
+- start: 1452
   end: 1452
   polity: kingdom_england
   importance: 3

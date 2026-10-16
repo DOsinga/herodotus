@@ -94,7 +94,7 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 2
-- start: 1664
+- start: 1649
   end: 1673
   polity: spanish_monarchy
   importance: 2
