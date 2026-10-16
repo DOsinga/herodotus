@@ -31,10 +31,10 @@ control:
   polity: former_liang
   importance: 2
 - start: 376
-  end: 385
+  end: 384
   polity: former_qin
   importance: 2
-- start: 386
+- start: 385
   end: 399
   polity: western_qin
   importance: 2

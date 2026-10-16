@@ -3,11 +3,59 @@ id: kaesong
 name: Kaesong
 wikipedia: https://en.wikipedia.org/wiki/Kaesong
 point:
-  latitude: 37.985
-  longitude: 126.5433
+  latitude: 37.9717
+  longitude: 126.5528
 control:
-- start: 918
-  end: 1392
-  polity: goryeo
+- start: 475
+  end: 550
+  polity: goguryeo
+  importance: 2
+- start: 551
+  end: 900
+  polity: silla
+  importance: 2
+- start: 901
+  end: 904
+  polity: taebong
   importance: 3
+- start: 905
+  end: 917
+  polity: taebong
+  importance: 2
+- start: 918
+  end: 1231
+  polity: goryeo
+  importance: 4
+- start: 1232
+  end: 1270
+  polity: goryeo
+  importance: 2
+- start: 1271
+  end: 1391
+  polity: goryeo
+  importance: 4
+- start: 1392
+  end: 1896
+  polity: joseon
+  importance: 2
+- start: 1897
+  end: 1904
+  polity: korean_empire
+  importance: 2
+- start: 1905
+  end: 1944
+  polity: empire_japan
+  importance: 2
+- start: 1945
+  end: 1947
+  polity: united_states
+  importance: 2
+- start: 1948
+  end: 1950
+  polity: south_korea
+  importance: 2
+- start: 1951
+  end: null
+  polity: north_korea
+  importance: 2
 ---

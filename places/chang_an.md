@@ -76,6 +76,10 @@ control:
   polity: former_qin
   importance: 4
 - start: 385
+  end: 385
+  polity: western_yan
+  importance: 4
+- start: 386
   end: 416
   polity: later_qin
   importance: 4

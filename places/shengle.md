@@ -36,10 +36,10 @@ control:
   polity: tang_dynasty
   importance: 2
 - start: 916
-  end: 1121
+  end: 1124
   polity: liao_dynasty
   importance: 2
-- start: 1122
+- start: 1125
   end: 1214
   polity: jin_dynasty
   importance: 2

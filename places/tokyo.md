@@ -9,9 +9,9 @@ control:
 - start: 1868
   end: 1946
   polity: empire_japan
-  importance: 3
+  importance: 4
 - start: 1947
   end: null
   polity: japan
-  importance: 3
+  importance: 4
 ---
