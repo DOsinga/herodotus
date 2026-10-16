@@ -52,10 +52,10 @@ control:
   polity: vichy_france
   importance: 3
 - start: 1945
-  end: 1946
+  end: 1945
   polity: north_vietnam
   importance: 3
-- start: 1947
+- start: 1946
   end: 1954
   polity: french_fourth_republic
   importance: 3

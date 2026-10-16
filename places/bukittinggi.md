@@ -19,6 +19,14 @@ control:
   polity: empire_japan
   importance: 3
 - start: 1945
+  end: 1947
+  polity: indonesia
+  importance: 3
+- start: 1948
+  end: 1948
+  polity: kingdom_netherlands
+  importance: 3
+- start: 1949
   end: null
   polity: indonesia
   importance: 3

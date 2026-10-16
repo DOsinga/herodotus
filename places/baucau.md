@@ -23,10 +23,6 @@ control:
   polity: portugal
   importance: 2
 - start: 1975
-  end: 1975
-  polity: democratic_republic_east_timor
-  importance: 2
-- start: 1976
   end: 1999
   polity: indonesia
   importance: 2

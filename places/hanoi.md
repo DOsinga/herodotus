@@ -136,10 +136,10 @@ control:
   polity: vichy_france
   importance: 4
 - start: 1945
-  end: 1946
+  end: 1945
   polity: north_vietnam
   importance: 4
-- start: 1947
+- start: 1946
   end: 1953
   polity: french_fourth_republic
   importance: 4

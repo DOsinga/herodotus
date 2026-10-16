@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Dili
 point:
   latitude: -8.55
   longitude: 125.56
-note: "Indonesia took Dili in December 1975. The UN administered the territory from 1999 to 2002."
+note: "FRETILIN governed Dili from September 1975 until Indonesia took it in December. The UN administered the territory from 1999 to 2002."
 control:
 - start: 1769
   end: 1909
@@ -24,10 +24,6 @@ control:
   polity: portugal
   importance: 3
 - start: 1975
-  end: 1975
-  polity: democratic_republic_east_timor
-  importance: 3
-- start: 1976
   end: 1999
   polity: indonesia
   importance: 2

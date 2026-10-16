@@ -27,7 +27,7 @@ control:
   end: 1974
   polity: portugal
   importance: 2
-- start: 1976
+- start: 1975
   end: 1999
   polity: indonesia
   importance: 2
