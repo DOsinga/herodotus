@@ -10,4 +10,12 @@ control:
   end: 1926
   polity: rif_republic
   importance: 3
+- start: 1927
+  end: 1955
+  polity: spain
+  importance: 1
+- start: 1956
+  end: null
+  polity: morocco
+  importance: 1
 ---
