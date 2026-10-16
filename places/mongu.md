@@ -8,7 +8,7 @@ point:
 note: "Stands for the Lozi capitals on the upper Zambezi floodplain before Lealui; the town itself dates from colonial times."
 control:
 - start: 1650
-  end: 1839
+  end: 1840
   polity: lozi_kingdom
   importance: 3
 - start: 1864

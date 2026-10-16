@@ -11,7 +11,7 @@ control:
   polity: malao_city_state
   importance: 2
 - start: 1415
-  end: 1576
+  end: 1577
   polity: adal_sultanate
   importance: 2
 - start: 1875

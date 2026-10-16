@@ -7,7 +7,7 @@ point:
   longitude: 45.3419
 control:
 - start: 1200
-  end: 1699
+  end: 1700
   polity: ajuran_sultanate
   importance: 4
 - start: 1871
@@ -27,7 +27,7 @@ control:
   polity: italy
   importance: 3
 - start: 1960
-  end: 1990
+  end: 1991
   polity: somalia
   importance: 4
 - start: 2006

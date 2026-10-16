@@ -8,7 +8,7 @@ point:
 note: "The Imamate of Aussa, which held Harar from 1577 to 1647, has no record; nor does Egypt from 1882 to 1885."
 control:
 - start: 1415
-  end: 1576
+  end: 1577
   polity: adal_sultanate
   importance: 4
 - start: 1647

@@ -8,7 +8,7 @@ point:
 note: "Stands for the western floodplain, where the Lozi kingdom began."
 control:
 - start: 1650
-  end: 1839
+  end: 1840
   polity: lozi_kingdom
   importance: 2
 - start: 1864

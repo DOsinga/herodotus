@@ -20,7 +20,7 @@ control:
   polity: united_kingdom
   importance: 1
 - start: 1960
-  end: 1990
+  end: 1991
   polity: somalia
   importance: 1
 ---

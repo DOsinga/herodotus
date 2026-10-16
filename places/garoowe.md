@@ -19,7 +19,7 @@ control:
   polity: italy
   importance: 1
 - start: 1960
-  end: 1990
+  end: 1991
   polity: somalia
   importance: 1
 - start: 1998
