@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Bareilly
 point:
   latitude: 28.3667
   longitude: 79.4306
-note: "The Rohilla state of Rohilkhand held Bareilly from about 1740 until Oudh's conquest of 1774 and has no record."
 control:
 - start: 1537
   end: 1539
@@ -19,6 +18,10 @@ control:
   end: 1739
   polity: mughal_empire
   importance: 2
+- start: 1740
+  end: 1773
+  polity: kingdom_rohilkhand
+  importance: 3
 - start: 1774
   end: 1800
   polity: oudh_state

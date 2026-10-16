@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Delhi
 point:
   latitude: 28.61
   longitude: 77.23
-note: "The Tomara kings who held Delhi before the Chahamana conquest of the 1150s have no record. The Marathas restored Shah Alam II to Delhi in 1771 and ran the city and the court until the British took it in 1803, so those years go to them rather than to the nominal Mughal emperor."
+note: "Lal Kot, the first fortified city of Delhi, was built by the Tomaras around 1052. The Marathas restored Shah Alam II to Delhi in 1771 and ran the city and the court until the British took it in 1803, so those years go to them rather than to the nominal Mughal emperor."
 control:
+- start: 1052
+  end: 1155
+  polity: tomara_delhi
+  importance: 3
 - start: 1156
   end: 1191
   polity: chahamana_shakambhari

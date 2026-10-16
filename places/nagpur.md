@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Nagpur
 point:
   latitude: 21.15
   longitude: 79.09
-note: "The Gond kingdom of Deogarh founded Nagpur around 1702 and has no record."
+note: "Bakht Buland Shah of Deogarh founded Nagpur around 1702."
 control:
+- start: 1702
+  end: 1742
+  polity: gond_deogarh
+  importance: 3
 - start: 1743
   end: 1817
   polity: maratha_empire

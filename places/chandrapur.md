@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Chandrapur
 point:
   latitude: 19.95
   longitude: 79.297
-note: "The Gond kingdom of Chanda governed it until the Bhonsle conquest of 1751 and has no record."
+note: "Khandkya Ballal Shah, who reigned from about 1472 to 1497, founded the town and moved the Gond capital here from Sirpur."
 control:
+- start: 1472
+  end: 1750
+  polity: gond_chanda
+  importance: 3
 - start: 1751
   end: 1817
   polity: maratha_empire

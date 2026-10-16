@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mathura
 point:
   latitude: 27.4925
   longitude: 77.6736
-note: "Mahmud of Ghazni sacked Mathura in 1018; from then until the Ghurids it has no record. The Jats of Bharatpur held it from 1761 to 1774."
+note: "Mahmud of Ghazni sacked Mathura in 1018; from then until the Ghurids it has no record."
 control:
 - start: -350
   end: -323
@@ -66,6 +66,10 @@ control:
 - start: 1555
   end: 1760
   polity: mughal_empire
+  importance: 2
+- start: 1761
+  end: 1773
+  polity: bharatpur_state
   importance: 2
 - start: 1774
   end: 1784

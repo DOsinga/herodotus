@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Thanesar
 point:
   latitude: 29.969
   longitude: 76.819
+note: "The Tomaras, earlier vassals of the Pratiharas in this area, are given the town from their estimated independence around 950."
 control:
 - start: -1200
   end: -351
@@ -31,8 +32,12 @@ control:
   polity: kannauj_kingdom
   importance: 2
 - start: 836
-  end: 1036
+  end: 949
   polity: gurjara_pratihara_empire
+  importance: 2
+- start: 950
+  end: 1155
+  polity: tomara_delhi
   importance: 2
 - start: 1192
   end: 1205

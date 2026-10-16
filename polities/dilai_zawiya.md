@@ -12,13 +12,13 @@ description: >-
   proclaimed sultan at Fez. Salé broke away in 1660 and Fez in 1662. In 1668 the Alaouite
   Moulay Rashid took Dila and destroyed it, ending the brotherhood's rule.
 periods:
-- start: 1637
+- start: 1638
   end: 1668
 point:
   name: Dila (Ait Ishaq)
   latitude: 32.76
   longitude: -5.7233
-note: "The start is the beginning of the zawiya's conquests in northern Morocco in 1637; the capital was built in 1638 and Fez and Meknes taken by 1641. The Republic of Salé kept governing itself under Dila'i suzerainty and has its own record."
+note: "The start is the building of the new capital at Dila in 1638, as the zawiya began its conquests in the north; Fez and Meknes were taken by 1641. The Republic of Salé kept governing itself under Dila'i suzerainty and has its own record."
 transitions:
 - year: 1668
   kind: absorbed_into
