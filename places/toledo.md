@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Toledo,_Spain
 point:
   latitude: 39.862
   longitude: -4.027
-note: "Toledo was in revolt against Córdoba for most of the years 852 to 932."
+note: "Toledo was in revolt against Córdoba for most of the years 852 to 932. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -193
   end: -28
@@ -72,6 +72,14 @@ control:
   polity: bourbon_spain
   importance: 3
 - start: 1808
+  end: 1812
+  polity: first_french_empire
+  importance: 2
+- start: 1813
+  end: 1813
+  polity: spain
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 3

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Badajoz
 point:
   latitude: 38.8794
   longitude: -6.9707
-note: "Founded in 875 by the rebel Ibn Marwan, whose lordship governed itself until Abd al-Rahman III took it in 930; it has no record."
+note: "Founded in 875 by the rebel Ibn Marwan, whose lordship governed itself until Abd al-Rahman III took it in 930; it has no record. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: 930
   end: 1008
@@ -40,6 +40,18 @@ control:
   polity: bourbon_spain
   importance: 2
 - start: 1808
+  end: 1810
+  polity: spain
+  importance: 2
+- start: 1811
+  end: 1811
+  polity: first_french_empire
+  importance: 2
+- start: 1812
+  end: 1813
+  polity: spain
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 2

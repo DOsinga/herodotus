@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Delhi
 point:
   latitude: 28.61
   longitude: 77.23
-note: "The Tomara kings who held Delhi before the Chahamana conquest of the 1150s have no record. The Marathas protected and largely ran the Mughal court from 1771 and especially from 1788, but the city is kept Mughal until the British took it in 1803."
+note: "The Tomara kings who held Delhi before the Chahamana conquest of the 1150s have no record. The Marathas restored Shah Alam II to Delhi in 1771 and ran the city and the court until the British took it in 1803, so those years go to them rather than to the nominal Mughal emperor."
 control:
 - start: 1156
   end: 1191
@@ -32,8 +32,12 @@ control:
   polity: mughal_empire
   importance: 3
 - start: 1639
-  end: 1802
+  end: 1770
   polity: mughal_empire
+  importance: 4
+- start: 1771
+  end: 1802
+  polity: maratha_empire
   importance: 4
 - start: 1803
   end: 1857
