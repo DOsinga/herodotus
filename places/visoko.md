@@ -7,7 +7,15 @@ point:
   longitude: 18.1781
 control:
 - start: 1154
-  end: 1377
+  end: 1376
   polity: banate_bosnia
   importance: 3
+- start: 1377
+  end: 1462
+  polity: kingdom_bosnia
+  importance: 2
+- start: 1463
+  end: null
+  follows: sarajevo
+  importance: 1
 ---
