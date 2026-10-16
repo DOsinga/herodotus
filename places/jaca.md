@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Jaca
 point:
   latitude: 42.571
   longitude: -0.549
-note: "The Carolingian county of Aragon, centred on Jaca before Pamplona took it over in 922, has no record."
+note: "The Carolingian county of Aragon, centred on Jaca before Pamplona took it over in 922, has no record. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -195
   end: -28
@@ -60,6 +60,14 @@ control:
   polity: bourbon_spain
   importance: 1
 - start: 1808
+  end: 1808
+  polity: spain
+  importance: 2
+- start: 1809
+  end: 1813
+  polity: first_french_empire
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 1

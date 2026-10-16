@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Nagoya
 point:
   latitude: 35.1833
   longitude: 136.9
+note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
 control:
 - start: 400
   end: 1184
@@ -19,7 +20,7 @@ control:
   polity: kenmu_government
   importance: 2
 - start: 1336
-  end: 1572
+  end: 1466
   polity: ashikaga_shogunate
   importance: 2
 - start: 1573
