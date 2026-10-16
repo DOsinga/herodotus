@@ -1,0 +1,33 @@
+---
+id: fare_french_polynesia
+name: Fare, French Polynesia
+wikipedia: https://en.wikipedia.org/wiki/Fare,_French_Polynesia
+point:
+  latitude: -16.7333
+  longitude: -151.0333
+control:
+- start: 1769
+  end: 1887
+  polity: kingdom_huahine
+  importance: 2
+- start: 1888
+  end: 1939
+  polity: french_third_republic
+  importance: 2
+- start: 1940
+  end: 1944
+  polity: free_france
+  importance: 2
+- start: 1945
+  end: 1945
+  polity: provisional_government_france
+  importance: 2
+- start: 1946
+  end: 1957
+  polity: french_fourth_republic
+  importance: 2
+- start: 1958
+  end: null
+  polity: france
+  importance: 2
+---
