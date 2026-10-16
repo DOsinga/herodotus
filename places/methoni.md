@@ -1,6 +1,6 @@
 ---
 id: methoni
-name: Methoni
+name: Methoni, Messenia
 wikipedia: https://en.wikipedia.org/wiki/Methoni,_Messenia
 point:
   latitude: 36.8217

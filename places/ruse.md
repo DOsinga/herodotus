@@ -1,6 +1,6 @@
 ---
 id: ruse
-name: Ruse
+name: Ruse, Bulgaria
 wikipedia: https://en.wikipedia.org/wiki/Ruse,_Bulgaria
 point:
   latitude: 43.8231

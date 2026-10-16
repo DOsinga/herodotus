@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Athens
 point:
   latitude: 37.9842
   longitude: 23.7281
-note: "The Ottoman garrison of the Acropolis left in 1833; Athens became the capital in 1834. The Venetian occupation of 1687–1688 is not shown."
+note: "The Ottoman garrison of the Acropolis left in 1833; Athens became the capital in 1834."
 control:
 - start: -508
   end: -323
@@ -64,6 +64,14 @@ control:
   polity: duchy_athens
   importance: 3
 - start: 1456
+  end: 1686
+  polity: ottoman_empire
+  importance: 2
+- start: 1687
+  end: 1687
+  polity: republic_venice
+  importance: 2
+- start: 1688
   end: 1821
   polity: ottoman_empire
   importance: 2

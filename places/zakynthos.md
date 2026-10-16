@@ -1,6 +1,6 @@
 ---
 id: zakynthos
-name: Zakynthos
+name: Zakynthos (city)
 wikipedia: https://en.wikipedia.org/wiki/Zakynthos_(city)
 point:
   latitude: 37.7833

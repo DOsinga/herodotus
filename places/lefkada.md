@@ -1,6 +1,6 @@
 ---
 id: lefkada
-name: Lefkada
+name: Lefkada (city)
 wikipedia: https://en.wikipedia.org/wiki/Lefkada_(city)
 point:
   latitude: 38.8339

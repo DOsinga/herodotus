@@ -1,6 +1,6 @@
 ---
 id: varna
-name: Varna
+name: Varna, Bulgaria
 wikipedia: https://en.wikipedia.org/wiki/Varna,_Bulgaria
 point:
   latitude: 43.2167

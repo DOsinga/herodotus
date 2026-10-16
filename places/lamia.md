@@ -1,6 +1,6 @@
 ---
 id: lamia
-name: Lamia
+name: Lamia (city)
 wikipedia: https://en.wikipedia.org/wiki/Lamia_(city)
 point:
   latitude: 38.9

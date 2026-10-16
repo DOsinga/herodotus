@@ -1,6 +1,6 @@
 ---
 id: split
-name: Split
+name: Split, Croatia
 wikipedia: https://en.wikipedia.org/wiki/Split,_Croatia
 point:
   latitude: 43.51

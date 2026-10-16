@@ -1,6 +1,6 @@
 ---
 id: bender
-name: Bender
+name: Bender, Moldova
 wikipedia: https://en.wikipedia.org/wiki/Bender,_Moldova
 point:
   latitude: 46.8333

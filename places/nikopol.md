@@ -1,6 +1,6 @@
 ---
 id: nikopol
-name: Nikopol
+name: Nikopol, Bulgaria
 wikipedia: https://en.wikipedia.org/wiki/Nikopol,_Bulgaria
 point:
   latitude: 43.7

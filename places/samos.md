@@ -1,6 +1,6 @@
 ---
 id: samos
-name: Samos
+name: Samos (town)
 wikipedia: https://en.wikipedia.org/wiki/Samos_(town)
 point:
   latitude: 37.75

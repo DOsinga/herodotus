@@ -1,6 +1,6 @@
 ---
 id: chios
-name: Chios
+name: Chios (town)
 wikipedia: https://en.wikipedia.org/wiki/Chios_(town)
 point:
   latitude: 38.3725

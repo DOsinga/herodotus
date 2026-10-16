@@ -1,6 +1,6 @@
 ---
 id: corfu
-name: Corfu
+name: Corfu (city)
 wikipedia: https://en.wikipedia.org/wiki/Corfu_(city)
 point:
   latitude: 39.6239

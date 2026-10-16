@@ -1,6 +1,6 @@
 ---
 id: argos
-name: Argos
+name: Argos, Peloponnese
 wikipedia: https://en.wikipedia.org/wiki/Argos,_Peloponnese
 point:
   latitude: 37.6167

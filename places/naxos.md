@@ -1,6 +1,6 @@
 ---
 id: naxos
-name: Naxos
+name: Naxos (city)
 wikipedia: https://en.wikipedia.org/wiki/Naxos_(city)
 point:
   latitude: 37.1
