@@ -7,7 +7,19 @@ point:
   longitude: 104.971
 control:
 - start: 50
-  end: 627
+  end: 626
   polity: funan
-  importance: 3
+  importance: 4
+- start: 627
+  end: 713
+  polity: chenla_kingdom
+  importance: 2
+- start: 802
+  end: 1430
+  polity: khmer_empire
+  importance: 2
+- start: 1431
+  end: null
+  follows: phnom_penh
+  importance: 1
 ---
