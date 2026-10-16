@@ -7,7 +7,11 @@ point:
   longitude: 33.7264
 control:
 - start: -780
-  end: 350
+  end: -591
   polity: kingdom_kush
   importance: 3
+- start: -590
+  end: 350
+  polity: kingdom_kush
+  importance: 4
 ---

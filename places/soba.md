@@ -9,5 +9,5 @@ control:
 - start: 550
   end: 1504
   polity: alodia
-  importance: 3
+  importance: 4
 ---
