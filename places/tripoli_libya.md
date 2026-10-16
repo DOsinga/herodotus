@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tripoli,_Libya
 point:
   latitude: 32.888
   longitude: 13.188
-note: "The Zirids held Tripoli for some years between 1009 and 1022, which is not shown. The Knights Hospitaller held it from 1530 to 1551 and have no record. From 757 to 761 it was held by the Ibadi imam Abu al-Khattab, without a record."
+note: "The Zirids held Tripoli for some years between 1009 and 1022, which is not shown. From 757 to 761 it was held by the Ibadi imam Abu al-Khattab, without a record."
 control:
 - start: -500
   end: -162
