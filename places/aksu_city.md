@@ -38,9 +38,17 @@ control:
   end: 1754
   polity: dzungar_khanate
   importance: 2
+- start: 1755
+  end: 1758
+  polity: altishahr_khoja_state
+  importance: 2
 - start: 1759
   end: 1863
   polity: qing_dynasty
+  importance: 2
+- start: 1864
+  end: 1864
+  polity: kucha_khanate
   importance: 2
 - start: 1865
   end: 1877

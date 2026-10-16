@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Hami
 point:
   latitude: 42.8193
   longitude: 93.5151
-note: "Kara Del, the Chagatayid principality that held Hami under Ming protection from 1389 to 1513, has no record."
 control:
 - start: 630
   end: 689
@@ -35,6 +34,10 @@ control:
   end: 1367
   polity: yuan_dynasty
   importance: 2
+- start: 1389
+  end: 1512
+  polity: kara_del
+  importance: 3
 - start: 1513
   end: 1569
   polity: turpan_khanate

@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Kashgar
 point:
   latitude: 39.47
   longitude: 75.99
-note: "Mirza Abu Bakr Dughlat's state, which held Kashgar from about 1488 to 1514, has no record. The Khoja revolt held Kashgar from 1755 until the Qing conquest of 1759."
 control:
 - start: -200
   end: 789
@@ -36,8 +35,12 @@ control:
   polity: chagatai_khanate
   importance: 2
 - start: 1347
-  end: 1487
+  end: 1479
   polity: moghulistan
+  importance: 2
+- start: 1480
+  end: 1513
+  polity: abu_bakr_dughlat_kingdom
   importance: 2
 - start: 1514
   end: 1704
@@ -47,6 +50,10 @@ control:
   end: 1754
   polity: dzungar_khanate
   importance: 2
+- start: 1755
+  end: 1758
+  polity: altishahr_khoja_state
+  importance: 3
 - start: 1759
   end: 1863
   polity: qing_dynasty

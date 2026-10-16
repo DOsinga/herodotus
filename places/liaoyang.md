@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Liaoyang
 point:
   latitude: 41.279
   longitude: 123.176
-note: "Puxian Wannu's Eastern Xia held Liaodong from 1215 until the Mongol conquest; it has no record."
 control:
 - start: -300
   end: -223
@@ -79,7 +78,11 @@ control:
   end: 1214
   polity: jin_dynasty
   importance: 3
-- start: 1218
+- start: 1215
+  end: 1216
+  polity: eastern_xia
+  importance: 3
+- start: 1217
   end: 1270
   polity: mongol_empire
   importance: 3

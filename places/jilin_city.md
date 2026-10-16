@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Jilin_City
 point:
   latitude: 43.8381
   longitude: 126.5497
-note: "The early Buyeo capital lay here; Eastern Xia, 1215–1233, has no record."
+note: "The early Buyeo capital lay here."
 control:
 - start: -200
   end: 493
@@ -26,6 +26,10 @@ control:
 - start: 1115
   end: 1214
   polity: jin_dynasty
+  importance: 2
+- start: 1215
+  end: 1232
+  polity: eastern_xia
   importance: 2
 - start: 1233
   end: 1270

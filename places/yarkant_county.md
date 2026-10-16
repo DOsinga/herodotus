@@ -27,9 +27,13 @@ control:
   polity: chagatai_khanate
   importance: 2
 - start: 1347
-  end: 1487
+  end: 1464
   polity: moghulistan
   importance: 2
+- start: 1465
+  end: 1513
+  polity: abu_bakr_dughlat_kingdom
+  importance: 3
 - start: 1514
   end: 1704
   polity: yarkent_khanate
@@ -37,6 +41,10 @@ control:
 - start: 1705
   end: 1754
   polity: dzungar_khanate
+  importance: 2
+- start: 1755
+  end: 1758
+  polity: altishahr_khoja_state
   importance: 2
 - start: 1759
   end: 1863

@@ -66,6 +66,10 @@ control:
   end: 1863
   polity: qing_dynasty
   importance: 2
+- start: 1864
+  end: 1866
+  polity: kucha_khanate
+  importance: 2
 - start: 1867
   end: 1877
   polity: yettishar
