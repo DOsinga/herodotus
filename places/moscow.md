@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Moscow
 point:
   latitude: 55.7558
   longitude: 37.6173
+note: "A Polish garrison held the Kremlin in the name of Prince Władysław from 1610 until the militia of Minin and Pozharsky retook it in 1612."
 control:
 - start: 1147
   end: 1262
@@ -19,6 +20,14 @@ control:
   polity: grand_duchy_moscow
   importance: 4
 - start: 1547
+  end: 1609
+  polity: tsardom_russia
+  importance: 4
+- start: 1610
+  end: 1611
+  polity: polish_lithuanian_commonwealth
+  importance: 3
+- start: 1612
   end: 1712
   polity: tsardom_russia
   importance: 4
