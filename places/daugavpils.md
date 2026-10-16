@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Daugavpils
 point:
   latitude: 55.875
   longitude: 26.5356
-note: "The order built Dünaburg castle in 1275; Lithuania held the area from 1281 to 1313. Russian from 1656 to the Truce of Andrusovo in 1667, and from the first partition in 1772. In 1919, between the German withdrawal and the Polish and Latvian capture of the city in January 1920, it was held by Soviet Latvia, which has no record."
+note: "The order built Dünaburg castle in 1275; Lithuania held the area from 1281 to 1313. Russian from 1656 to the Truce of Andrusovo in 1667, and from the first partition in 1772."
 control:
 - start: 1275
   end: 1280
@@ -54,6 +54,10 @@ control:
 - start: 1918
   end: 1918
   polity: german_empire
+  importance: 3
+- start: 1919
+  end: 1919
+  polity: latvian_ssr_1919
   importance: 3
 - start: 1920
   end: 1939

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Riga
 point:
   latitude: 56.9489
   longitude: 24.1064
-note: "The order took the city from the archbishop in 1330. Riga governed itself as a free city from 1562 until it accepted Polish rule in 1581."
+note: "The order took the city from the archbishop in 1330. Riga governed itself as a free city from 1562 until it accepted Polish rule in 1581. The Latvian Socialist Soviet Republic held it from January to May 1919; that year goes to Latvia."
 control:
 - start: 1201
   end: 1329
