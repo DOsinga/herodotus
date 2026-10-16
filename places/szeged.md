@@ -5,7 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Szeged
 point:
   latitude: 46.255
   longitude: 20.145
+note: "Stands in for the Avar heartland between the Danube and the Tisza, where the khagans' Ring has not been located; Avar rule survived Charlemagne's campaigns there until the 820s."
 control:
+- start: 568
+  end: 822
+  polity: avar_khaganate
+  importance: 2
 - start: 900
   end: 999
   polity: magyar_principality

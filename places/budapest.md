@@ -19,7 +19,7 @@ control:
   end: 432
   polity: western_roman_empire
   importance: 3
-- start: 568
+- start: 567
   end: 795
   polity: avar_khaganate
   importance: 2
