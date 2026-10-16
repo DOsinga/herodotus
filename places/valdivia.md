@@ -11,6 +11,10 @@ control:
   end: 1598
   polity: spanish_monarchy
   importance: 2
+- start: 1599
+  end: 1644
+  polity: araucania
+  importance: 2
 - start: 1645
   end: 1715
   polity: spanish_monarchy

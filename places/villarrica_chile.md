@@ -10,6 +10,10 @@ control:
   end: 1601
   polity: spanish_monarchy
   importance: 1
+- start: 1602
+  end: 1882
+  polity: araucania
+  importance: 1
 - start: 1883
   end: null
   polity: chile

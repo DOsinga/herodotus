@@ -13,14 +13,14 @@ description: >-
   only in 1543 did Spanish forces take the province and found Valladolid there.
 periods:
 - start: 1441
-  end: 1542
+  end: 1543
 point:
   name: Saci
   latitude: 20.6894
   longitude: -88.2017
-note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1542."
+note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1543."
 transitions:
-- year: 1542
+- year: 1543
   kind: absorbed_into
   into: [spanish_monarchy]
 ---
