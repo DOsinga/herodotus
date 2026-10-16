@@ -5,8 +5,9 @@ wikipedia: https://en.wikipedia.org/wiki/N'guigmi
 point:
   latitude: 14.2528
   longitude: 13.1108
+note: "Stands for the Lake Chad lands where the Sayfawa kings ruled between leaving Kanem in the 1380s and founding Ngazargamu."
 control:
-- start: 1472
+- start: 1387
   end: 1892
   polity: kanem_bornu_empire
   importance: 2

@@ -6,7 +6,7 @@ point:
   latitude: 9.0667
   longitude: 7.4833
 control:
-- start: 1960
+- start: 1976
   end: null
   polity: nigeria
   importance: 3
