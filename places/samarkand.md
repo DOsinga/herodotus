@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Samarkand
 point:
   latitude: 39.654
   longitude: 66.959
-note: "Maracanda. The Ikhshids of Samarkand kept governing under Arab overlordship until 755."
+note: "Maracanda. The Kangju span follows Chinese reports that the Sogdian towns were subject to Kangju. The Ikhshids of Samarkand kept governing under Arab overlordship until 755."
 control:
 - start: -545
   end: -330

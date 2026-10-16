@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tashkent
 point:
   latitude: 41.299
   longitude: 69.28
-note: "Ming Urik, the old capital of Chach. Tashkent was a city state under its own rulers from 1784 until Kokand took it about 1808."
+note: "Ming Urik, the old capital of Chach. Kangju, the steppe power of the middle Syr Darya, is thought to have centred on this region. Tashkent was a city state under its own rulers from 1784 until Kokand took it about 1808."
 control:
 - start: -200
   end: 449
