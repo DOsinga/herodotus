@@ -3,15 +3,67 @@ id: wittenberg
 name: Wittenberg
 wikipedia: https://en.wikipedia.org/wiki/Wittenberg
 point:
-  latitude: 51.867
-  longitude: 12.648
+  latitude: 51.8671
+  longitude: 12.6484
 control:
+- start: 1180
+  end: 1249
+  polity: holy_roman_empire
+  importance: 1
 - start: 1250
-  end: 1423
+  end: 1422
   polity: saxe_wittenberg
   importance: 3
+- start: 1423
+  end: 1484
+  polity: electorate_saxony
+  importance: 2
 - start: 1485
-  end: 1572
+  end: 1546
   polity: ernestine_saxony
   importance: 3
+- start: 1547
+  end: 1755
+  polity: electorate_saxony
+  importance: 1
+- start: 1756
+  end: 1762
+  polity: kingdom_prussia
+  importance: 1
+- start: 1763
+  end: 1805
+  polity: electorate_saxony
+  importance: 1
+- start: 1806
+  end: 1814
+  polity: kingdom_saxony
+  importance: 1
+- start: 1815
+  end: 1866
+  polity: kingdom_prussia
+  importance: 1
+- start: 1867
+  end: 1870
+  polity: north_german_confederation
+  importance: 1
+- start: 1871
+  end: 1917
+  polity: german_empire
+  importance: 1
+- start: 1918
+  end: 1932
+  polity: weimar_republic
+  importance: 1
+- start: 1933
+  end: 1945
+  polity: nazi_germany
+  importance: 1
+- start: 1949
+  end: 1989
+  polity: east_germany
+  importance: 1
+- start: 1990
+  end: null
+  polity: west_germany
+  importance: 1
 ---
