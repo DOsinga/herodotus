@@ -8,6 +8,14 @@ point:
 note: "The Sakalava kingdom of Boina, which held the town until 1824, has no record."
 control:
 - start: 1824
+  end: 1882
+  polity: merina_kingdom
+  importance: 3
+- start: 1883
+  end: 1885
+  polity: french_third_republic
+  importance: 3
+- start: 1886
   end: 1894
   polity: merina_kingdom
   importance: 3

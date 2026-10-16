@@ -5,12 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Kilwa_Kisiwani
 point:
   latitude: -8.96
   longitude: 39.5128
-note: "The Portuguese garrison of 1505 to 1512 is left out, since the sultans kept ruling the town around it."
+note: "The Portuguese held the town with a fort and a sultan of their choosing from 1505 to 1512."
 control:
 - start: 957
-  end: 1513
+  end: 1504
   polity: kilwa_sultanate
   importance: 4
+- start: 1505
+  end: 1511
+  polity: kingdom_portugal
+  importance: 2
+- start: 1512
+  end: 1513
+  polity: kilwa_sultanate
+  importance: 3
 - start: 1785
   end: 1855
   polity: omani_empire

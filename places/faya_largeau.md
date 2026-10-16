@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Faya-Largeau
 point:
   latitude: 17.9169
   longitude: 19.1167
+note: "Libyan forces, with the rebel GUNT they backed, held the town from 1983 to 1987."
 control:
 - start: 1913
   end: 1939
@@ -27,6 +28,14 @@ control:
   polity: france
   importance: 2
 - start: 1960
+  end: 1982
+  polity: chad
+  importance: 2
+- start: 1983
+  end: 1986
+  polity: libya
+  importance: 2
+- start: 1987
   end: null
   polity: chad
   importance: 2

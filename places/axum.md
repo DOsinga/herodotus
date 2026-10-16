@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Axum
 point:
   latitude: 14.1208
   longitude: 38.7278
-note: "Between Aksum's collapse and the Zagwe the town has no governing record."
+note: "Between Aksum's collapse and the Zagwe the town has no governing record. The lords who governed Tigray during the Era of the Princes, from 1769 to 1854, have no record."
 control:
 - start: 50
   end: 960
@@ -24,6 +24,10 @@ control:
   polity: adal_sultanate
   importance: 3
 - start: 1542
+  end: 1768
+  polity: ethiopian_empire
+  importance: 3
+- start: 1855
   end: 1935
   polity: ethiopian_empire
   importance: 3

@@ -5,9 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Toamasina
 point:
   latitude: -18.155
   longitude: 49.41
-note: "The French occupation of 1883 to 1885 is left out."
 control:
 - start: 1817
+  end: 1882
+  polity: merina_kingdom
+  importance: 3
+- start: 1883
+  end: 1885
+  polity: french_third_republic
+  importance: 3
+- start: 1886
   end: 1894
   polity: merina_kingdom
   importance: 3
