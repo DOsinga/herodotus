@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Marrakesh
 point:
   latitude: 31.6295
   longitude: -7.9811
-note: "From the 1420s to 1524 Marrakesh was held by the Hintata emirs, who governed it with little reference to Fez and have no record."
+note: "The Hintata emirs governed Marrakesh with growing autonomy from the late fourteenth century; the town is theirs from the end of the Marinid dynasty in 1465."
 control:
 - start: 1070
   end: 1146
@@ -18,6 +18,10 @@ control:
 - start: 1269
   end: 1464
   polity: marinid_sultanate
+  importance: 3
+- start: 1465
+  end: 1524
+  polity: hintata_marrakesh
   importance: 3
 - start: 1525
   end: 1658

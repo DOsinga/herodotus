@@ -24,7 +24,7 @@ note: "1018 follows Ismail's expulsion of Córdoba's governor and effective inde
 transitions:
 - year: 1018
   kind: broke_away_from
-  from: [caliphate_cordoba]
+  from: [hammudid_caliphate]
 - year: 1085
   kind: absorbed_into
   into: [kingdom_castile]

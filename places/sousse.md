@@ -28,10 +28,14 @@ control:
   polity: byzantine_empire
   importance: 2
 - start: 670
-  end: 749
+  end: 744
   polity: umayyad_caliphate
   importance: 2
-- start: 750
+- start: 745
+  end: 756
+  polity: fihrid_ifriqiya
+  importance: 2
+- start: 761
   end: 799
   polity: abbasid_caliphate
   importance: 2

@@ -31,10 +31,14 @@ control:
   polity: byzantine_empire
   importance: 2
 - start: 698
-  end: 749
+  end: 744
   polity: umayyad_caliphate
   importance: 2
-- start: 750
+- start: 745
+  end: 756
+  polity: fihrid_ifriqiya
+  importance: 2
+- start: 761
   end: 799
   polity: abbasid_caliphate
   importance: 2
@@ -63,8 +67,12 @@ control:
   polity: ottoman_empire
   importance: 2
 - start: 1659
-  end: 1830
+  end: 1829
   polity: regency_algiers
+  importance: 2
+- start: 1830
+  end: 1836
+  polity: beylik_constantine
   importance: 2
 - start: 1842
   end: 1847

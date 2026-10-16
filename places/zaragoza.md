@@ -32,10 +32,22 @@ control:
   polity: visigothic_kingdom
   importance: 2
 - start: 714
-  end: 750
+  end: 746
   polity: umayyad_caliphate
   importance: 3
+- start: 747
+  end: 755
+  polity: fihrid_andalus
+  importance: 3
 - start: 781
+  end: 871
+  polity: emirate_cordoba
+  importance: 3
+- start: 872
+  end: 883
+  polity: banu_qasi
+  importance: 3
+- start: 884
   end: 928
   polity: emirate_cordoba
   importance: 3

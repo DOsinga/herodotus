@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Niebla,_Spain
 point:
   latitude: 37.3667
   longitude: -6.6833
-note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "From 1016 to 1022 the town was held by local leaders without a record."
 control:
 - start: -206
   end: -28
@@ -32,15 +32,19 @@ control:
   polity: visigothic_kingdom
   importance: 1
 - start: 712
-  end: 750
+  end: 746
   polity: umayyad_caliphate
+  importance: 1
+- start: 747
+  end: 755
+  polity: fihrid_andalus
   importance: 1
 - start: 756
   end: 928
   polity: emirate_cordoba
   importance: 1
 - start: 929
-  end: 1022
+  end: 1015
   polity: caliphate_cordoba
   importance: 1
 - start: 1023

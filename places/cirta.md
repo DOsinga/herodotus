@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Cirta
 point:
   latitude: 36.35
   longitude: 6.6
-note: "Cirta is modern Constantine. From 1830 to 1837 Ahmed Bey governed Constantine on his own, without a record."
+note: "Cirta is modern Constantine."
 control:
 - start: -220
   end: -203
@@ -36,10 +36,14 @@ control:
   polity: byzantine_empire
   importance: 2
 - start: 700
-  end: 749
+  end: 744
   polity: umayyad_caliphate
   importance: 2
-- start: 750
+- start: 745
+  end: 756
+  polity: fihrid_ifriqiya
+  importance: 2
+- start: 761
   end: 799
   polity: abbasid_caliphate
   importance: 2
@@ -72,8 +76,12 @@ control:
   polity: ottoman_empire
   importance: 3
 - start: 1659
-  end: 1830
+  end: 1829
   polity: regency_algiers
+  importance: 3
+- start: 1830
+  end: 1836
+  polity: beylik_constantine
   importance: 3
 - start: 1837
   end: 1847

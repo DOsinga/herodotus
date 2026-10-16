@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ceuta
 point:
   latitude: 35.8883
   longitude: -5.3156
-note: "From 1249 to 1327 Ceuta was ruled by its own Azafid family, which has no record."
+note: "Between 1057 and 1061 Ceuta was held by Barghawata officers of the last Hammudids, and from 1233 to 1249 it changed hands between the Hafsids and local leaders; neither has a record."
 control:
 - start: -225
   end: -34
@@ -47,6 +47,18 @@ control:
   end: 1008
   polity: caliphate_cordoba
   importance: 2
+- start: 1016
+  end: 1025
+  polity: hammudid_caliphate
+  importance: 2
+- start: 1026
+  end: 1056
+  polity: taifa_malaga
+  importance: 2
+- start: 1061
+  end: 1083
+  polity: taifa_ceuta
+  importance: 3
 - start: 1084
   end: 1146
   polity: almoravid_emirate
@@ -55,6 +67,22 @@ control:
   end: 1232
   polity: almohad_caliphate
   importance: 2
+- start: 1249
+  end: 1305
+  polity: azafid_ceuta
+  importance: 3
+- start: 1306
+  end: 1308
+  polity: emirate_granada
+  importance: 2
+- start: 1309
+  end: 1310
+  polity: marinid_sultanate
+  importance: 2
+- start: 1311
+  end: 1326
+  polity: azafid_ceuta
+  importance: 3
 - start: 1327
   end: 1414
   polity: marinid_sultanate
