@@ -1,0 +1,41 @@
+---
+id: dnipro
+name: Dnipro
+wikipedia: https://en.wikipedia.org/wiki/Dnipro
+point:
+  latitude: 48.4675
+  longitude: 35.04
+control:
+- start: 1776
+  end: 1916
+  polity: russian_empire
+  importance: 3
+- start: 1917
+  end: 1917
+  polity: ukrainian_peoples_republic
+  importance: 3
+- start: 1918
+  end: 1918
+  polity: ukrainian_state
+  importance: 3
+- start: 1919
+  end: 1921
+  polity: ukrainian_ssr
+  importance: 3
+- start: 1922
+  end: 1940
+  polity: soviet_union
+  importance: 3
+- start: 1941
+  end: 1942
+  polity: nazi_germany
+  importance: 3
+- start: 1943
+  end: 1990
+  polity: soviet_union
+  importance: 3
+- start: 1991
+  end: null
+  polity: ukraine
+  importance: 3
+---
