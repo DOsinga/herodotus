@@ -19,6 +19,10 @@ control:
   end: 432
   polity: western_roman_empire
   importance: 3
+- start: 433
+  end: 453
+  polity: hunnic_empire
+  importance: 2
 - start: 567
   end: 795
   polity: avar_khaganate
