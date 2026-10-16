@@ -1,10 +1,10 @@
 ---
 id: sokoto
-name: Sokoto State
-wikipedia: https://en.wikipedia.org/wiki/Sokoto_State
+name: Sokoto
+wikipedia: https://en.wikipedia.org/wiki/Sokoto_(city)
 point:
-  latitude: 13.0833
-  longitude: 5.25
+  latitude: 13.0622
+  longitude: 5.2339
 note: "The town was founded in 1809; before that the caliphate's leaders moved between camps nearby."
 control:
 - start: 1804

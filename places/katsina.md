@@ -1,10 +1,10 @@
 ---
 id: katsina
-name: Katsina State
-wikipedia: https://en.wikipedia.org/wiki/Katsina_State
+name: Katsina
+wikipedia: https://en.wikipedia.org/wiki/Katsina_(city)
 point:
-  latitude: 12.25
-  longitude: 7.5
+  latitude: 12.9889
+  longitude: 7.6008
 control:
 - start: 1348
   end: 1806
