@@ -19,7 +19,7 @@ control:
   end: 339
   polity: andhra_ikshvaku
   importance: 2
-- start: 440
+- start: 420
   end: 623
   polity: vishnukundina_kingdom
   importance: 2

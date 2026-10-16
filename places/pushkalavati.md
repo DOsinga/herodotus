@@ -16,10 +16,10 @@ control:
   polity: macedonia
   importance: 2
 - start: -316
-  end: -186
+  end: -201
   polity: maurya_empire
   importance: 2
-- start: -185
+- start: -200
   end: -131
   polity: indo_greek_kingdom
   importance: 2
@@ -36,10 +36,10 @@ control:
   polity: indo_scythian_kingdom
   importance: 2
 - start: 19
-  end: 59
+  end: 29
   polity: indo_parthian_kingdom
   importance: 2
-- start: 60
+- start: 30
   end: 374
   polity: kushan_empire
   importance: 2

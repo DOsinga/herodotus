@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Peshawar
 point:
   latitude: 34.0144
   longitude: 71.5675
-note: "Purushapura was the capital of Kanishka and his successors. After the Mongol conquest of 1221 and until Babur, and again under the Sur Empire, the Peshawar valley was held by Afghan tribes and outside powers without records here."
+note: "The Indo-Greek conquest of Gandhara and Kujula Kadphises' conquest of the Peshawar valley are dated by estimate. Purushapura was the capital of Kanishka and his successors. After the Mongol conquest of 1221 and until Babur, and again under the Sur Empire, the Peshawar valley was held by Afghan tribes and outside powers without records here."
 control:
 - start: -518
   end: -331
@@ -16,10 +16,10 @@ control:
   polity: macedonia
   importance: 2
 - start: -316
-  end: -186
+  end: -201
   polity: maurya_empire
   importance: 2
-- start: -185
+- start: -200
   end: -131
   polity: indo_greek_kingdom
   importance: 2
@@ -36,9 +36,13 @@ control:
   polity: indo_scythian_kingdom
   importance: 2
 - start: 19
-  end: 59
+  end: 29
   polity: indo_parthian_kingdom
   importance: 2
+- start: 30
+  end: 59
+  polity: kushan_empire
+  importance: 3
 - start: 60
   end: 230
   polity: kushan_empire
@@ -60,10 +64,10 @@ control:
   polity: turk_shahi_kingdom
   importance: 3
 - start: 822
-  end: 1000
+  end: 987
   polity: hindu_shahi_kingdom
   importance: 3
-- start: 1001
+- start: 988
   end: 1178
   polity: ghaznavid_empire
   importance: 3
