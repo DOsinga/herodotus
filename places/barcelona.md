@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Barcelona
 point:
   latitude: 41.3851
   longitude: 2.1734
+note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -218
   end: -28
@@ -71,13 +72,9 @@ control:
   polity: bourbon_spain
   importance: 3
 - start: 1808
-  end: 1811
-  polity: spain
-  importance: 3
-- start: 1812
   end: 1813
   polity: first_french_empire
-  importance: 3
+  importance: 2
 - start: 1814
   end: null
   polity: spain

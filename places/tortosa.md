@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tortosa
 point:
   latitude: 40.8125
   longitude: 0.5211
+note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -218
   end: -28
@@ -75,6 +76,14 @@ control:
   polity: bourbon_spain
   importance: 2
 - start: 1808
+  end: 1810
+  polity: spain
+  importance: 2
+- start: 1811
+  end: 1813
+  polity: first_french_empire
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 2

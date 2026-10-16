@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Almería
 point:
   latitude: 36.8333
   longitude: -2.45
+note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: 955
   end: 1011
@@ -55,6 +56,18 @@ control:
   polity: bourbon_spain
   importance: 2
 - start: 1808
+  end: 1809
+  polity: spain
+  importance: 2
+- start: 1810
+  end: 1811
+  polity: first_french_empire
+  importance: 2
+- start: 1812
+  end: 1813
+  polity: spain
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 2

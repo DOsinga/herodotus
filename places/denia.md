@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Dénia
 point:
   latitude: 38.8403
   longitude: 0.1086
+note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -200
   end: -28
@@ -87,6 +88,14 @@ control:
   polity: bourbon_spain
   importance: 1
 - start: 1808
+  end: 1811
+  polity: spain
+  importance: 2
+- start: 1812
+  end: 1813
+  polity: first_french_empire
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 1

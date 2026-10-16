@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Huesca
 point:
   latitude: 42.1333
   longitude: -0.4167
+note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -195
   end: -28
@@ -67,6 +68,18 @@ control:
   polity: bourbon_spain
   importance: 2
 - start: 1808
+  end: 1808
+  polity: spain
+  importance: 2
+- start: 1809
+  end: 1812
+  polity: first_french_empire
+  importance: 2
+- start: 1813
+  end: 1813
+  polity: spain
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 2
