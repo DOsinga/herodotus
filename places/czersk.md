@@ -1,10 +1,10 @@
 ---
 id: czersk
 name: Czersk
-wikipedia: https://en.wikipedia.org/wiki/Czersk
+wikipedia: https://en.wikipedia.org/wiki/Czersk,_Masovian_Voivodeship
 point:
-  latitude: 53.7928
-  longitude: 17.9739
+  latitude: 51.959
+  longitude: 21.236
 control:
 - start: 1138
   end: 1274
