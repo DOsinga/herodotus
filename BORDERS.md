@@ -42,6 +42,19 @@ control:
   to the vassal while the vassal counts as active, not to its overlord.
 - When a place changed hands in a year that two polities share, give that
   year to the newcomer and end the previous span the year before.
+- An occupation that held a town for a while without ending the polity
+  that lost it is still a span of the occupier: Philadelphia is British in
+  1777, Puebla American in 1847, Bornholm Soviet in 1945, even though the
+  United States, Mexico and Denmark stay active. The same changeover rule
+  applies, so the occupier gets the year it took the town and the original
+  holder the year it got it back. A state set up by the occupier counts as
+  the occupier, as with Joseph Bonaparte's Spain or Axis-held Tunisia.
+- Control means governing the town, not holding a title over it. A national
+  ruler without real authority there does not get the town: Delhi goes to
+  the Marathas from 1771, not to the Mughal emperor they protected, and
+  Japanese towns between the Ōnin War and their submission to Hideyoshi are
+  gaps rather than Ashikaga or Oda–Toyotomi, because the daimyo who held them
+  have no records.
 - Changing a polity's periods can invalidate the places that refer to it.
   The validator reports them; fix them in the same change.
 - `importance` sets how far the place's influence reaches, from 1 to 4:

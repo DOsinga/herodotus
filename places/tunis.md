@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tunis
 point:
   latitude: 36.8065
   longitude: 10.1815
-note: "From 1059 to 1159 Tunis was governed by the Khurasanid family, which has no record."
+note: "From 1059 to 1159 Tunis was governed by the Khurasanid family, which has no record. German and Italian forces occupied Tunisia from November 1942 until the Allies took it in May 1943."
 control:
 - start: -600
   end: -147
@@ -76,6 +76,10 @@ control:
   polity: vichy_france
   importance: 3
 - start: 1942
+  end: 1942
+  polity: nazi_germany
+  importance: 3
+- start: 1943
   end: 1943
   polity: free_france
   importance: 3
