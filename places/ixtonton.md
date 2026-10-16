@@ -3,8 +3,8 @@ id: ixtonton
 name: Ixtonton
 wikipedia: https://en.wikipedia.org/wiki/Ixtonton
 point:
-  latitude: 16.322
-  longitude: -89.396
+  latitude: 16.5044
+  longitude: -89.3902
 control:
 - start: 200
   end: 950

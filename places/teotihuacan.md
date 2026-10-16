@@ -9,5 +9,5 @@ control:
 - start: -100
   end: 650
   polity: teotihuacan_polity
-  importance: 3
+  importance: 4
 ---
