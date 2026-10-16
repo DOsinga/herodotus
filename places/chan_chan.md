@@ -7,7 +7,11 @@ point:
   longitude: -79.0747
 control:
 - start: 900
-  end: 1470
+  end: 1469
   polity: chimor
-  importance: 3
+  importance: 4
+- start: 1470
+  end: 1532
+  polity: inca_empire
+  importance: 2
 ---
