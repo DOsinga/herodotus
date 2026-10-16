@@ -15,6 +15,14 @@ control:
   polity: spain
   importance: 2
 - start: 1821
+  end: 1864
+  polity: mexico
+  importance: 2
+- start: 1865
+  end: 1865
+  polity: second_mexican_empire
+  importance: 2
+- start: 1866
   end: null
   polity: mexico
   importance: 2

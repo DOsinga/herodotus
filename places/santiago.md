@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Santiago
 point:
   latitude: -33.438
   longitude: -70.65
-note: "The Chilean juntas of 1810 to 1814 and the government of 1817 have no record."
 control:
 - start: 1475
   end: 1533
@@ -23,11 +22,15 @@ control:
   end: 1809
   polity: spain
   importance: 3
+- start: 1810
+  end: 1813
+  polity: chile
+  importance: 3
 - start: 1814
   end: 1816
   polity: spain
   importance: 3
-- start: 1818
+- start: 1817
   end: null
   polity: chile
   importance: 3

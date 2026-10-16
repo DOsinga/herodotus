@@ -26,6 +26,10 @@ control:
   end: 1810
   polity: spain
   importance: 2
+- start: 1815
+  end: 1816
+  polity: federal_league
+  importance: 2
 - start: 1817
   end: 1823
   polity: kingdom_portugal

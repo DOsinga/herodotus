@@ -19,8 +19,16 @@ control:
   polity: bourbon_spain
   importance: 1
 - start: 1808
-  end: 1810
+  end: 1809
   polity: spain
+  importance: 1
+- start: 1810
+  end: 1813
+  polity: cundinamarca
+  importance: 1
+- start: 1814
+  end: 1815
+  polity: united_provinces_new_granada
   importance: 1
 - start: 1816
   end: 1818

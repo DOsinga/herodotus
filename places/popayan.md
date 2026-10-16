@@ -18,6 +18,10 @@ control:
   end: 1810
   polity: spain
   importance: 3
+- start: 1811
+  end: 1815
+  polity: united_provinces_new_granada
+  importance: 3
 - start: 1816
   end: 1818
   polity: spain

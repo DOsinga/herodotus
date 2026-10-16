@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Quito
 point:
   latitude: -0.22
   longitude: -78.513
-note: "The State of Quito, which governed the city from 1810 to 1812, has no record."
 control:
 - start: 1470
   end: 1533
@@ -22,6 +21,10 @@ control:
 - start: 1808
   end: 1809
   polity: spain
+  importance: 3
+- start: 1810
+  end: 1812
+  polity: state_quito
   importance: 3
 - start: 1813
   end: 1821

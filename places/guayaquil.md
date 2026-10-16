@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Guayaquil
 point:
   latitude: -2.19
   longitude: -79.8875
-note: "The Free Province of Guayaquil, independent from 1820 to 1822, has no record."
 control:
 - start: 1538
   end: 1715
@@ -18,6 +17,10 @@ control:
 - start: 1808
   end: 1819
   polity: spain
+  importance: 3
+- start: 1820
+  end: 1821
+  polity: free_province_guayaquil
   importance: 3
 - start: 1822
   end: 1829

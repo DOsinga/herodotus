@@ -27,6 +27,14 @@ control:
   polity: republic_yucatan
   importance: 3
 - start: 1848
+  end: 1863
+  polity: mexico
+  importance: 3
+- start: 1864
+  end: 1866
+  polity: second_mexican_empire
+  importance: 3
+- start: 1867
   end: null
   polity: mexico
   importance: 3

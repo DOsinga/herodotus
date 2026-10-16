@@ -14,6 +14,14 @@ control:
   end: 1809
   polity: spain
   importance: 1
+- start: 1810
+  end: 1814
+  polity: argentina
+  importance: 1
+- start: 1815
+  end: 1819
+  polity: federal_league
+  importance: 1
 - start: 1820
   end: null
   polity: argentina

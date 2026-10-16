@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Santa_Fe,_Argentina
 point:
   latitude: -31.6333
   longitude: -60.7
-note: "Santa Fe followed Artigas's Federal League until 1820."
 control:
 - start: 1573
   end: 1715
@@ -18,6 +17,14 @@ control:
 - start: 1808
   end: 1809
   polity: spain
+  importance: 2
+- start: 1810
+  end: 1814
+  polity: argentina
+  importance: 2
+- start: 1815
+  end: 1819
+  polity: federal_league
   importance: 2
 - start: 1820
   end: null
