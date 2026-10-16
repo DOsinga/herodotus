@@ -10,4 +10,8 @@ control:
   end: 818
   polity: waithali_kingdom
   importance: 3
+- start: 1430
+  end: null
+  follows: mrauk_u
+  importance: 1
 ---
