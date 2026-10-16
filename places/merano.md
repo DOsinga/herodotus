@@ -15,6 +15,14 @@ control:
   follows: innsbruck
   importance: 1
 - start: 1919
+  end: 1942
+  polity: kingdom_italy
+  importance: 1
+- start: 1943
+  end: 1944
+  polity: nazi_germany
+  importance: 1
+- start: 1945
   end: 1945
   polity: kingdom_italy
   importance: 1

@@ -92,6 +92,14 @@ control:
   polity: kingdom_italy
   importance: 4
 - start: 1866
+  end: 1942
+  polity: kingdom_italy
+  importance: 3
+- start: 1943
+  end: 1944
+  polity: nazi_germany
+  importance: 3
+- start: 1945
   end: 1945
   polity: kingdom_italy
   importance: 3

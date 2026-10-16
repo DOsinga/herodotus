@@ -75,6 +75,10 @@ control:
   end: 1529
   polity: spanish_monarchy
   importance: 2
+- start: 1530
+  end: 1550
+  polity: hospitaller_malta
+  importance: 2
 - start: 1551
   end: 1710
   polity: ottoman_empire
