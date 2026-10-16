@@ -39,8 +39,12 @@ control:
   polity: egypt_tanite
   importance: 2
 - start: -943
-  end: -729
+  end: -838
   polity: egypt_libyan
+  importance: 2
+- start: -837
+  end: -729
+  polity: egypt_23rd_dynasty
   importance: 2
 - start: -728
   end: -672
