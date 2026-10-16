@@ -16,6 +16,14 @@ control:
   polity: zand_iran
   importance: 2
 - start: 1794
+  end: 1855
+  polity: qajar_iran
+  importance: 2
+- start: 1856
+  end: 1856
+  polity: company_rule_india
+  importance: 2
+- start: 1857
   end: 1924
   polity: qajar_iran
   importance: 2

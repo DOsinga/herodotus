@@ -47,21 +47,25 @@ control:
   polity: ilkhanate
   importance: 2
 - start: 1381
-  end: 1506
+  end: 1500
   polity: timurid_empire
   importance: 2
+- start: 1501
+  end: 1506
+  polity: timurid_empire
+  importance: 3
 - start: 1507
   end: 1509
   polity: khanate_bukhara
-  importance: 2
+  importance: 3
 - start: 1510
   end: 1721
   polity: safavid_iran
-  importance: 2
+  importance: 3
 - start: 1726
   end: 1735
   polity: safavid_iran
-  importance: 2
+  importance: 3
 - start: 1736
   end: 1795
   polity: afsharid_iran

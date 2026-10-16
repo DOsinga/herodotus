@@ -68,10 +68,10 @@ control:
   polity: seljuk_iraq
   importance: 3
 - start: 1194
-  end: 1220
+  end: 1230
   polity: khwarazmian_empire
   importance: 3
-- start: 1221
+- start: 1240
   end: 1259
   polity: mongol_empire
   importance: 3

@@ -12,12 +12,8 @@ control:
   polity: bavand_kingdom
   importance: 3
 - start: 1006
-  end: 1042
-  polity: ziyarid_emirate
-  importance: 1
-- start: 1043
   end: 1072
-  polity: seljuk_empire
+  polity: ziyarid_emirate
   importance: 1
 - start: 1073
   end: 1209

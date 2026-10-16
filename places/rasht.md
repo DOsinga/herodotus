@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Rasht
 point:
   latitude: 37.2744
   longitude: 49.5889
-note: "The Ishaqvand rulers of western Gilan governed Rasht from the fall of the Ilkhanate until 1592. Russia held Gilan from 1722 to 1732, and the Jangali movement's Persian Socialist Soviet Republic ruled Rasht in 1920 and 1921."
+note: "The Ishaqvand rulers of western Gilan governed Rasht from the fall of the Ilkhanate until 1592. Russia held Gilan from 1722 to 1732, and the Persian Socialist Soviet Republic, set up with the Red Army's help and counted with Soviet Russia, ruled Rasht in 1920 and 1921."
 control:
 - start: 1307
   end: 1334
@@ -30,6 +30,10 @@ control:
 - start: 1789
   end: 1919
   polity: qajar_iran
+  importance: 3
+- start: 1920
+  end: 1921
+  polity: soviet_russia
   importance: 3
 - start: 1922
   end: 1924

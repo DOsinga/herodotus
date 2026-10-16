@@ -72,7 +72,7 @@ control:
   polity: ilkhanate
   importance: 2
 - start: 1335
-  end: 1410
+  end: 1432
   polity: jalayirid_sultanate
   importance: 2
 ---

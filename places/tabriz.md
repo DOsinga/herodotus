@@ -39,12 +39,12 @@ control:
   polity: abbasid_caliphate
   importance: 2
 - start: 889
-  end: 929
+  end: 899
   polity: sajid_emirate
   importance: 2
-- start: 941
+- start: 900
   end: 983
-  polity: sallarid_azerbaijan
+  polity: rawadid_emirate
   importance: 2
 - start: 984
   end: 1070
@@ -139,12 +139,24 @@ control:
   polity: zand_iran
   importance: 3
 - start: 1789
+  end: 1826
+  polity: qajar_iran
+  importance: 3
+- start: 1827
+  end: 1827
+  polity: russian_empire
+  importance: 3
+- start: 1828
   end: 1924
   polity: qajar_iran
   importance: 3
 - start: 1925
   end: 1944
   polity: pahlavi_iran
+  importance: 3
+- start: 1945
+  end: 1946
+  polity: soviet_union
   importance: 3
 - start: 1947
   end: 1978

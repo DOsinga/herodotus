@@ -140,10 +140,10 @@ control:
   polity: ilkhanate
   importance: 3
 - start: 1335
-  end: 1410
+  end: 1373
   polity: jalayirid_sultanate
   importance: 3
-- start: 1411
+- start: 1374
   end: 1467
   polity: qara_qoyunlu
   importance: 3

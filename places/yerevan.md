@@ -146,11 +146,11 @@ control:
 - start: 1828
   end: 1916
   polity: russian_empire
-  importance: 2
+  importance: 3
 - start: 1917
   end: 1917
   polity: russian_republic
-  importance: 2
+  importance: 3
 - start: 1918
   end: 1919
   polity: armenia_first_republic

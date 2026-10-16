@@ -134,6 +134,10 @@ control:
   end: 1944
   polity: pahlavi_iran
   importance: 1
+- start: 1945
+  end: 1946
+  polity: soviet_union
+  importance: 1
 - start: 1947
   end: 1978
   polity: pahlavi_iran

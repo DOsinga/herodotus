@@ -56,10 +56,10 @@ control:
   polity: buyid_fars
   importance: 2
 - start: 998
-  end: 1042
+  end: 1090
   polity: ziyarid_emirate
   importance: 2
-- start: 1043
+- start: 1091
   end: 1117
   polity: seljuk_empire
   importance: 2

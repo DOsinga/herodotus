@@ -87,6 +87,14 @@ control:
   polity: timurid_empire
   importance: 2
 - start: 1409
+  end: 1410
+  polity: qara_qoyunlu
+  importance: 2
+- start: 1411
+  end: 1432
+  polity: jalayirid_sultanate
+  importance: 2
+- start: 1433
   end: 1467
   polity: qara_qoyunlu
   importance: 2

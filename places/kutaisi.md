@@ -79,10 +79,6 @@ control:
   polity: russian_republic
   importance: 3
 - start: 1918
-  end: 1918
-  polity: transcaucasian_federation
-  importance: 3
-- start: 1919
   end: 1920
   polity: georgia_dr
   importance: 3
