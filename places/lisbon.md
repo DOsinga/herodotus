@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Lisbon
 point:
   latitude: 38.7223
   longitude: -9.1393
+note: "Junot's French army held Lisbon from November 1807 to August 1808."
 control:
 - start: -138
   end: -28
@@ -63,6 +64,14 @@ control:
   polity: spanish_monarchy
   importance: 4
 - start: 1640
+  end: 1806
+  polity: kingdom_portugal
+  importance: 4
+- start: 1807
+  end: 1807
+  polity: first_french_empire
+  importance: 4
+- start: 1808
   end: 1909
   polity: kingdom_portugal
   importance: 4

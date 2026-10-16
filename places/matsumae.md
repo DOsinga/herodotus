@@ -5,12 +5,9 @@ wikipedia: https://en.wikipedia.org/wiki/Matsumae,_Hokkaido
 point:
   latitude: 41.4333
   longitude: 140.1167
+note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
 control:
-- start: 1514
-  end: 1572
-  polity: ashikaga_shogunate
-  importance: 2
-- start: 1573
+- start: 1590
   end: 1599
   polity: oda_toyotomi_regime
   importance: 2

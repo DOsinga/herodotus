@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kairouan
 point:
   latitude: 35.6781
   longitude: 10.0963
-note: "Kusaila held Kairouan from 683 to 688. After the Banu Hilal sacked it in 1057 the town had no settled government until the Almohads."
+note: "Kusaila held Kairouan from 683 to 688. After the Banu Hilal sacked it in 1057 the town had no settled government until the Almohads. German and Italian forces occupied Tunisia from November 1942 until the Allies took it in May 1943."
 control:
 - start: 670
   end: 682
@@ -56,6 +56,10 @@ control:
   polity: vichy_france
   importance: 2
 - start: 1942
+  end: 1942
+  polity: nazi_germany
+  importance: 2
+- start: 1943
   end: 1943
   polity: free_france
   importance: 2

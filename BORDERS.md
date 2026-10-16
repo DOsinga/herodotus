@@ -42,6 +42,19 @@ control:
   to the vassal while the vassal counts as active, not to its overlord.
 - When a place changed hands in a year that two polities share, give that
   year to the newcomer and end the previous span the year before.
+- An occupation that held a town for a while without ending the polity
+  that lost it is still a span of the occupier: Philadelphia is British in
+  1777, Puebla American in 1847, Bornholm Soviet in 1945, even though the
+  United States, Mexico and Denmark stay active. The same changeover rule
+  applies, so the occupier gets the year it took the town and the original
+  holder the year it got it back. A state set up by the occupier counts as
+  the occupier, as with Joseph Bonaparte's Spain or Axis-held Tunisia.
+- Control means governing the town, not holding a title over it. A national
+  ruler without real authority there does not get the town: Delhi goes to
+  the Marathas from 1771, not to the Mughal emperor they protected, and
+  Japanese towns between the Ōnin War and their submission to Hideyoshi are
+  gaps rather than Ashikaga or Oda–Toyotomi, because the daimyo who held them
+  have no records.
 - Changing a polity's periods can invalidate the places that refer to it.
   The validator reports them; fix them in the same change.
 - `importance` sets how far the place's influence reaches, from 1 to 4:
@@ -204,21 +217,35 @@ than editing a place another open branch has touched.
 
 | Region | Pass 1 | Pass 2 |
 |---|---|---|
-| Switzerland and the western Alps | | done (#33) |
-| British Isles | dmo/places-british | |
-| Iberia and the Maghreb | | |
-| France and the Low Countries | | |
-| Germany and Central Europe | | |
-| Italy and the Balkans | | |
-| Scandinavia and the Baltic | | |
-| Russia and the steppe | | |
-| Anatolia, the Levant and Egypt | | |
-| Iran and Mesopotamia | | |
-| South Asia | | |
-| East Asia | | |
-| Southeast Asia | | |
-| Sub-Saharan Africa | | |
-| The Americas | | |
+| Switzerland and the western Alps | done (#33) | done (#33) |
+| British Isles | done (#34) | |
+| Scandinavia and the Baltic | done (#35) | |
+| The Americas | done (#36) | |
+| Iberia and the Maghreb | done (#37) | |
+| South Asia | done (#38) | |
+| East Asia | done (#39) | |
+| France and the Low Countries | dmo/places-france | |
+| Germany and Central Europe | dmo/places-germany | |
+| Italy and the Balkans | dmo/places-italy-balkans | |
+| Russia and the steppe | dmo/places-russia | |
+| Anatolia, the Levant, Egypt and Arabia | dmo/places-levant | |
+| Iran, Mesopotamia, the Caucasus and Central Asia | dmo/places-iran | |
+| Southeast Asia | dmo/places-southeast-asia | |
+| Sub-Saharan Africa | dmo/places-africa | |
+| Oceania | dmo/places-oceania | |
+
+### Colours
+
+Colours are now derived on the fly from a hash of the polity id, so
+neighbours can end up with nearly the same colour, as the Mughals and the
+Qing do in 1650. The plan is to store colours in the polity files instead.
+No single colour per polity can contrast with every neighbour across all of
+history, so a polity's colour may change slowly over its lifetime: the file
+gives colours at a few years and the map interpolates between them. A
+successor that continues the same state keeps its predecessor's colour, so
+the change of record does not show as a change of colour. A script proposes
+the colours by checking which polities touch on the map in each year; once
+committed they are data and can be edited by hand.
 
 ## Phase two: barriers
 
