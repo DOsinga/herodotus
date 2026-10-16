@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Huelva
 point:
   latitude: 37.25
   longitude: -6.95
-note: "Stands in for Tartessos, whose centre in the lower Guadalquivir and Huelva area is not securely identified, and for the taifa based on the nearby island of Saltés."
+note: "Stands in for Tartessos, whose centre in the lower Guadalquivir and Huelva area is not securely identified, and for the taifa based on the nearby island of Saltés. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -900
   end: -550
@@ -84,6 +84,18 @@ control:
   polity: bourbon_spain
   importance: 2
 - start: 1808
+  end: 1809
+  polity: spain
+  importance: 2
+- start: 1810
+  end: 1811
+  polity: first_french_empire
+  importance: 2
+- start: 1812
+  end: 1813
+  polity: spain
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 2
