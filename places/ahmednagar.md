@@ -7,19 +7,7 @@ point:
   longitude: 74.748
 note: "The city was founded in 1494; the first Ahmadnagar seat at Junnar is the separate place for 1490."
 control:
-- start: 1189
-  end: 1312
-  polity: seuna_kingdom
-  importance: 2
-- start: 1313
-  end: 1346
-  polity: delhi_sultanate
-  importance: 2
-- start: 1347
-  end: 1489
-  polity: bahmani_sultanate
-  importance: 2
-- start: 1490
+- start: 1494
   end: 1599
   polity: ahmadnagar_sultanate
   importance: 3

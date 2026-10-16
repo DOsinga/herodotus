@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Lugo
 point:
   latitude: 43.0167
   longitude: -7.55
+note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -13
   end: 394
@@ -59,6 +60,18 @@ control:
   polity: bourbon_spain
   importance: 2
 - start: 1808
+  end: 1808
+  polity: spain
+  importance: 2
+- start: 1809
+  end: 1809
+  polity: first_french_empire
+  importance: 2
+- start: 1810
+  end: 1813
+  polity: spain
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 2
