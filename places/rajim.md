@@ -10,4 +10,8 @@ control:
   end: 900
   polity: nala_kosala
   importance: 3
+- start: 901
+  end: null
+  follows: raipur
+  importance: 1
 ---

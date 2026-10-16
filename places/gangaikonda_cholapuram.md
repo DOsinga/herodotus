@@ -6,8 +6,16 @@ point:
   latitude: 11.2061
   longitude: 79.4494
 control:
-- start: 848
-  end: 1279
+- start: 1025
+  end: 1278
   polity: chola_empire
-  importance: 3
+  importance: 4
+- start: 1279
+  end: 1322
+  polity: pandya_kingdom
+  importance: 2
+- start: 1323
+  end: null
+  follows: thanjavur
+  importance: 1
 ---

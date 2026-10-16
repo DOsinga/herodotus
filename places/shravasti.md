@@ -7,7 +7,11 @@ point:
   longitude: 82.0506
 control:
 - start: -700
-  end: -491
+  end: -492
   polity: kosala
   importance: 3
+- start: -491
+  end: null
+  follows: ayodhya
+  importance: 1
 ---
