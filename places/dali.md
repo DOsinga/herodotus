@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Dali_City
 point:
   latitude: 25.6944
   longitude: 100.1556
-note: "Du Wenxiu's Pingnan state of the Panthay rebellion made Dali its capital from 1856 to 1872 and has no record."
 control:
 - start: 738
   end: 901
@@ -63,6 +62,10 @@ control:
   end: 1855
   polity: qing_dynasty
   importance: 2
+- start: 1856
+  end: 1872
+  polity: pingnan_state
+  importance: 3
 - start: 1873
   end: 1911
   polity: qing_dynasty

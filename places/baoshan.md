@@ -78,6 +78,10 @@ control:
   end: 1855
   polity: qing_dynasty
   importance: 2
+- start: 1856
+  end: 1872
+  polity: pingnan_state
+  importance: 2
 - start: 1873
   end: 1911
   polity: qing_dynasty
