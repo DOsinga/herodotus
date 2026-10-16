@@ -7,7 +7,11 @@ point:
   longitude: 47.0236
 control:
 - start: -800
-  end: 300
+  end: 299
   polity: hadhramaut_kingdom
-  importance: 3
+  importance: 4
+- start: 300
+  end: 524
+  polity: himyarite_kingdom
+  importance: 2
 ---

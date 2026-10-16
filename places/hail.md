@@ -7,7 +7,11 @@ point:
   longitude: 41.683
 control:
 - start: 1836
-  end: 1921
+  end: 1920
   polity: emirate_jabal_shammar
-  importance: 3
+  importance: 4
+- start: 1921
+  end: null
+  polity: saudi_arabia
+  importance: 2
 ---
