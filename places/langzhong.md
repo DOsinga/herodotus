@@ -142,6 +142,10 @@ control:
   end: 1643
   polity: ming_dynasty
   importance: 2
+- start: 1644
+  end: 1646
+  polity: xi_dynasty
+  importance: 2
 - start: 1647
   end: 1648
   polity: qing_dynasty
@@ -154,7 +158,11 @@ control:
   end: 1673
   polity: qing_dynasty
   importance: 2
-- start: 1681
+- start: 1674
+  end: 1679
+  polity: zhou_wu_sangui
+  importance: 2
+- start: 1680
   end: 1911
   polity: qing_dynasty
   importance: 2

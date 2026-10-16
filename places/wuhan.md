@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Wuhan
 point:
   latitude: 30.595
   longitude: 114.2975
-note: "Xu Shouhui's Tianwan and Chen Youliang's Han held the city from 1352 to 1363; Zhang Xianzhong took it in 1643. None of these has a record."
 control:
 - start: -700
   end: -224
@@ -118,6 +117,14 @@ control:
 - start: 1368
   end: 1642
   polity: ming_dynasty
+  importance: 3
+- start: 1643
+  end: 1643
+  polity: xi_dynasty
+  importance: 3
+- start: 1644
+  end: 1644
+  polity: southern_ming
   importance: 3
 - start: 1645
   end: 1852

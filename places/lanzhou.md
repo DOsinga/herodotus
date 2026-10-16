@@ -118,6 +118,10 @@ control:
   end: 1642
   polity: ming_dynasty
   importance: 2
+- start: 1643
+  end: 1644
+  polity: shun_dynasty
+  importance: 2
 - start: 1645
   end: 1665
   polity: qing_dynasty

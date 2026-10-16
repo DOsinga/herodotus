@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Changsha
 point:
   latitude: 28.2282
   longitude: 112.9388
-note: "Wu Sangui's forces held the city from 1674 to 1679; his Zhou has no record."
 control:
 - start: -400
   end: -224
@@ -111,6 +110,10 @@ control:
   end: 1642
   polity: ming_dynasty
   importance: 3
+- start: 1643
+  end: 1643
+  polity: xi_dynasty
+  importance: 3
 - start: 1644
   end: 1646
   polity: southern_ming
@@ -119,7 +122,11 @@ control:
   end: 1673
   polity: qing_dynasty
   importance: 3
-- start: 1681
+- start: 1674
+  end: 1678
+  polity: zhou_wu_sangui
+  importance: 3
+- start: 1679
   end: 1911
   polity: qing_dynasty
   importance: 3

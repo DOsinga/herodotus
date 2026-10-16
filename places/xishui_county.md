@@ -1,7 +1,7 @@
 ---
 id: xishui_county
-name: Xishui County
-wikipedia: https://en.wikipedia.org/wiki/Xishui_County
+name: Xishui County, Hubei
+wikipedia: https://en.wikipedia.org/wiki/Xishui_County,_Hubei
 point:
   latitude: 30.4517
   longitude: 115.2653

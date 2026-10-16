@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kunming
 point:
   latitude: 25.0464
   longitude: 102.7094
-note: "Basalawarmi, Prince of Liang, held Yunnan for the Northern Yuan until 1381. Wu Sangui held it from 1674 to 1681."
+note: "Basalawarmi, Prince of Liang, held Yunnan for the Northern Yuan until 1381."
 control:
 - start: -109
   end: 8
@@ -91,7 +91,11 @@ control:
   end: 1673
   polity: qing_dynasty
   importance: 3
-- start: 1682
+- start: 1674
+  end: 1680
+  polity: zhou_wu_sangui
+  importance: 3
+- start: 1681
   end: 1911
   polity: qing_dynasty
   importance: 3

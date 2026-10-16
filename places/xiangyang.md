@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Xiangyang
 point:
   latitude: 32.01
   longitude: 112.122
-note: "Red Turban bands held the city at times between 1353 and 1359 without a lasting government. Li Zicheng made it his capital in 1643."
+note: "Red Turban bands held the city at times between 1353 and 1359 without a lasting government, and Zhang Xianzhong sacked it in 1641."
 control:
 - start: -688
   end: -279
@@ -131,6 +131,10 @@ control:
   end: 1640
   polity: ming_dynasty
   importance: 2
+- start: 1643
+  end: 1645
+  polity: shun_dynasty
+  importance: 3
 - start: 1646
   end: 1911
   polity: qing_dynasty
