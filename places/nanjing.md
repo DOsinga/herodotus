@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Nanjing
 point:
   latitude: 32.0608
   longitude: 118.7789
-note: "Zhu Yuanzhang held the city from 1356 as Duke and then King of Wu before founding the Ming in 1368; that regime has no record."
 control:
 - start: -585
   end: -474
@@ -134,6 +133,10 @@ control:
 - start: 1275
   end: 1355
   polity: yuan_dynasty
+  importance: 3
+- start: 1356
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 3
 - start: 1368
   end: 1420

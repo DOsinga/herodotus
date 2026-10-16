@@ -98,6 +98,14 @@ control:
   end: 1359
   polity: yuan_dynasty
   importance: 2
+- start: 1360
+  end: 1364
+  polity: chen_han
+  importance: 2
+- start: 1365
+  end: 1367
+  polity: wu_zhu_yuanzhang
+  importance: 2
 - start: 1368
   end: 1642
   polity: ming_dynasty

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Hefei
 point:
   latitude: 31.8206
   longitude: 117.2273
+note: "Zuo Junbi held Luzhou against the rebel states until Zhu Yuanzhang's forces took it in 1364."
 control:
 - start: -500
   end: -224
@@ -109,6 +110,10 @@ control:
 - start: 1276
   end: 1354
   polity: yuan_dynasty
+  importance: 2
+- start: 1364
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 2
 - start: 1368
   end: 1643

@@ -122,6 +122,10 @@ control:
   end: 1356
   polity: yuan_dynasty
   importance: 2
+- start: 1357
+  end: 1367
+  polity: wu_zhu_yuanzhang
+  importance: 2
 - start: 1368
   end: 1643
   polity: ming_dynasty

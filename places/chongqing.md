@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Chongqing
 point:
   latitude: 29.5637
   longitude: 106.5504
-note: "Jiangzhou, the Ba capital. Ming Yuzhen's Xia made it its capital from 1363 to 1371."
+note: "Jiangzhou, the Ba capital. Ming Yuzhen's Xia made it its capital from 1362 to 1371."
 control:
 - start: -1000
   end: -317
@@ -127,6 +127,18 @@ control:
   end: 1356
   polity: yuan_dynasty
   importance: 3
+- start: 1357
+  end: 1359
+  polity: tianwan
+  importance: 3
+- start: 1360
+  end: 1361
+  polity: ming_xia
+  importance: 3
+- start: 1362
+  end: 1370
+  polity: ming_xia
+  importance: 4
 - start: 1371
   end: 1643
   polity: ming_dynasty

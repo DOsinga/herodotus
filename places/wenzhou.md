@@ -75,6 +75,14 @@ control:
   end: 1355
   polity: yuan_dynasty
   importance: 2
+- start: 1356
+  end: 1366
+  polity: fang_guozhen
+  importance: 2
+- start: 1367
+  end: 1367
+  polity: wu_zhu_yuanzhang
+  importance: 2
 - start: 1368
   end: 1643
   polity: ming_dynasty

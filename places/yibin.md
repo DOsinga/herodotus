@@ -114,6 +114,14 @@ control:
   end: 1356
   polity: yuan_dynasty
   importance: 2
+- start: 1357
+  end: 1359
+  polity: tianwan
+  importance: 2
+- start: 1360
+  end: 1370
+  polity: ming_xia
+  importance: 2
 - start: 1371
   end: 1643
   polity: ming_dynasty

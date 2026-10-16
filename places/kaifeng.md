@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kaifeng
 point:
   latitude: 34.7972
   longitude: 114.3076
-note: "Gaps for the Red Turban occupation of 1358–1359 and for the years after the flood of 1642 until Qing rule."
+note: "Gap for the years after the flood of 1642 until Qing rule."
 control:
 - start: -1046
   end: -771
@@ -174,6 +174,10 @@ control:
 - start: 1271
   end: 1357
   polity: yuan_dynasty
+  importance: 3
+- start: 1358
+  end: 1359
+  polity: song_han_liner
   importance: 3
 - start: 1360
   end: 1367

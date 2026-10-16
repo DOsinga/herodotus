@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Shou_County
 point:
   latitude: 32.545
   longitude: 116.7982
-note: "Shouchun, the last capital of Chu. Anfeng, the capital of Han Lin'er's Red Turban Song from 1355, has no record."
+note: "Shouchun, the last capital of Chu. Anfeng, the seat of Han Lin'er's Red Turban Song, lies nearby."
 control:
 - start: -447
   end: -242
@@ -118,6 +118,14 @@ control:
 - start: 1276
   end: 1354
   polity: yuan_dynasty
+  importance: 2
+- start: 1355
+  end: 1362
+  polity: song_han_liner
+  importance: 3
+- start: 1363
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 2
 - start: 1368
   end: 1643
