@@ -5,12 +5,23 @@ wikipedia: https://en.wikipedia.org/wiki/Dole,_Jura
 point:
   latitude: 47.0925
   longitude: 5.4897
-note: "The county of Burgundy before Valois rule in 1384 has no record."
 control:
 - start: 1032
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1294
+  polity: county_burgundy
+  importance: 3
+- start: 1295
+  end: 1314
+  polity: kingdom_france
+  importance: 2
+- start: 1315
+  end: 1383
+  polity: county_burgundy
+  importance: 3
 - start: 1384
   end: 1476
   polity: burgundian_state
