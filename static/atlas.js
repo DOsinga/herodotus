@@ -14,6 +14,7 @@
   const count = document.getElementById("atlas-count");
   const note = document.getElementById("atlas-note");
   const years = new Map();
+  const yearColors = new Map();
   let selectedPolity = null;
   let currentYear = 1500;
   let shownYear = null;
@@ -62,17 +63,23 @@
     return Math.abs(hash) % 360;
   }
 
-  function polityColor(id) {
-    return "hsl(" + polityHue(id) + " 55% 43%)";
-  }
-
-  function polityRgb(id) {
+  function hashedRgb(id) {
     const hue = polityHue(id);
     const chroma = 0.55 * 0.43;
     return [0, 8, 4].map(function (offset) {
       const k = (offset + hue / 30) % 12;
       return Math.round(255 * (0.43 - chroma * Math.max(-1, Math.min(k - 3, 9 - k, 1))));
     });
+  }
+
+  function polityRgb(id) {
+    const color = yearColors.get(id);
+    if (!color) return hashedRgb(id);
+    return [1, 3, 5].map(function (index) { return parseInt(color.slice(index, index + 2), 16); });
+  }
+
+  function polityColor(id) {
+    return "rgb(" + polityRgb(id).join(",") + ")";
   }
 
   function escapeHtml(value) {
@@ -144,6 +151,10 @@
 
   function render() {
     const year = shownYear.year;
+    yearColors.clear();
+    shownYear.polities.forEach(function (polity) {
+      if (polity.color) yearColors.set(polity.id, polity.color);
+    });
     territory.show(year, shownYear.places);
     layer.clearLayers();
     placeLayer.clearLayers();
