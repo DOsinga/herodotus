@@ -1,0 +1,37 @@
+---
+id: kostroma
+name: Kostroma
+wikipedia: https://en.wikipedia.org/wiki/Kostroma
+point:
+  latitude: 57.7681
+  longitude: 40.9269
+control:
+- start: 1152
+  end: 1330
+  polity: vladimir_suzdal
+  importance: 2
+- start: 1331
+  end: 1546
+  polity: grand_duchy_moscow
+  importance: 2
+- start: 1547
+  end: 1720
+  polity: tsardom_russia
+  importance: 2
+- start: 1721
+  end: 1916
+  polity: russian_empire
+  importance: 2
+- start: 1917
+  end: 1921
+  polity: soviet_russia
+  importance: 2
+- start: 1922
+  end: 1990
+  polity: soviet_union
+  importance: 2
+- start: 1991
+  end: null
+  polity: russia
+  importance: 2
+---
