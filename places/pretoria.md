@@ -6,16 +6,28 @@ point:
   latitude: -25.7461
   longitude: 28.1881
 control:
-- start: 1852
-  end: 1877
+- start: 1855
+  end: 1876
   polity: south_african_republic
   importance: 3
+- start: 1877
+  end: 1879
+  polity: united_kingdom_gbi
+  importance: 3
 - start: 1880
-  end: 1902
+  end: 1899
   polity: south_african_republic
+  importance: 4
+- start: 1900
+  end: 1921
+  polity: united_kingdom_gbi
+  importance: 3
+- start: 1922
+  end: 1938
+  polity: united_kingdom
   importance: 3
 - start: 1939
   end: null
   polity: south_africa
-  importance: 3
+  importance: 4
 ---
