@@ -1,28 +1,24 @@
 ---
-id: cartagena
-name: Cartagena
-wikipedia: https://en.wikipedia.org/wiki/Cartagena,_Spain
+id: merida_spain
+name: Mérida
+wikipedia: https://en.wikipedia.org/wiki/Mérida,_Spain
 point:
-  latitude: 37.6019
-  longitude: -0.9842
+  latitude: 38.9
+  longitude: -6.3333
 control:
-- start: -228
-  end: -210
-  polity: carthage
-  importance: 3
-- start: -209
-  end: -28
-  polity: roman_republic
-  importance: 2
-- start: -27
+- start: -25
   end: 394
   polity: roman_empire
-  importance: 2
+  importance: 3
 - start: 395
-  end: 424
+  end: 438
   polity: western_roman_empire
-  importance: 2
-- start: 472
+  importance: 3
+- start: 439
+  end: 456
+  polity: suebic_kingdom
+  importance: 3
+- start: 469
   end: 510
   polity: visigothic_kingdom
   importance: 2
@@ -31,34 +27,38 @@ control:
   polity: ostrogothic_kingdom
   importance: 2
 - start: 526
-  end: 551
+  end: 712
   polity: visigothic_kingdom
   importance: 2
-- start: 552
-  end: 624
-  polity: byzantine_empire
-  importance: 3
-- start: 625
-  end: 713
-  polity: visigothic_kingdom
-  importance: 2
-- start: 714
+- start: 713
   end: 750
   polity: umayyad_caliphate
-  importance: 1
+  importance: 2
 - start: 756
   end: 928
   polity: emirate_cordoba
-  importance: 1
+  importance: 2
 - start: 929
-  end: 1010
+  end: 1008
   polity: caliphate_cordoba
-  importance: 1
-- start: 1011
-  end: 1244
-  follows: murcia
-  importance: 1
-- start: 1245
+  importance: 2
+- start: 1009
+  end: 1093
+  polity: taifa_badajoz
+  importance: 2
+- start: 1094
+  end: 1143
+  polity: almoravid_emirate
+  importance: 2
+- start: 1144
+  end: 1149
+  polity: taifa_badajoz
+  importance: 2
+- start: 1150
+  end: 1229
+  polity: almohad_caliphate
+  importance: 2
+- start: 1230
   end: 1478
   polity: crown_castile
   importance: 2

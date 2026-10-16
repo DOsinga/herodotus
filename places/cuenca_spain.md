@@ -1,5 +1,5 @@
 ---
-id: cuenca
+id: cuenca_spain
 name: Cuenca
 wikipedia: https://en.wikipedia.org/wiki/Cuenca,_Spain
 point:
