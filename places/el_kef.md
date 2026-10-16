@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/El_Kef
 point:
   latitude: 36.1822
   longitude: 8.7147
+note: "German and Italian forces occupied Tunisia from November 1942 until the Allies took it in May 1943."
 control:
 - start: -202
   end: -47
@@ -75,6 +76,10 @@ control:
   polity: vichy_france
   importance: 2
 - start: 1942
+  end: 1942
+  polity: nazi_germany
+  importance: 2
+- start: 1943
   end: 1943
   polity: free_france
   importance: 2
