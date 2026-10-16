@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kazan
 point:
   latitude: 55.7964
   longitude: 49.1089
-note: "1005 is the city's traditional founding date as a Bulgar fortress, which many historians place later. Before the khanate the town stood a few kilometres upstream, at Iske Kazan."
+note: "1005 is the city's traditional founding date as a Bulgar fortress, which many historians place later."
 control:
 - start: 1005
   end: 1235

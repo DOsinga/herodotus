@@ -44,10 +44,10 @@ control:
   polity: soviet_union
   importance: 1
 - start: 1941
-  end: 1943
+  end: 1942
   polity: nazi_germany
   importance: 1
-- start: 1944
+- start: 1943
   end: 1990
   polity: soviet_union
   importance: 1

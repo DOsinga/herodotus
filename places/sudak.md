@@ -39,10 +39,10 @@ control:
   polity: soviet_russia
   importance: 1
 - start: 1922
-  end: 1941
+  end: 1940
   polity: soviet_union
   importance: 1
-- start: 1942
+- start: 1941
   end: 1943
   polity: nazi_germany
   importance: 1

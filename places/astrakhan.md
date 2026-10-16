@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Astrakhan
 point:
   latitude: 46.35
   longitude: 48.035
-note: "The khanate's capital, Hajji Tarkhan, stood a few kilometres upstream of the Russian fortress built in 1558."
+note: "The khanate's capital, Hajji Tarkhan, stood about 12 km upstream of the Russian fortress built in 1558."
 control:
 - start: 1333
   end: 1465
