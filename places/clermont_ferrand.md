@@ -75,10 +75,10 @@ control:
   polity: west_francia
   importance: 2
 - start: 887
-  end: 1203
+  end: 926
   polity: duchy_aquitaine
   importance: 2
-- start: 1204
+- start: 1213
   end: 1791
   polity: kingdom_france
   importance: 2

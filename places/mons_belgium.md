@@ -63,14 +63,42 @@ control:
   polity: habsburg_netherlands
   importance: 2
 - start: 1556
-  end: 1713
+  end: 1690
   polity: spanish_monarchy
   importance: 2
+- start: 1691
+  end: 1696
+  polity: kingdom_france
+  importance: 2
+- start: 1697
+  end: 1708
+  polity: spanish_monarchy
+  importance: 2
+- start: 1709
+  end: 1713
+  polity: dutch_republic
+  importance: 2
 - start: 1714
-  end: 1794
+  end: 1745
   polity: archduchy_austria
   importance: 2
-- start: 1795
+- start: 1746
+  end: 1748
+  polity: kingdom_france
+  importance: 2
+- start: 1749
+  end: 1791
+  polity: archduchy_austria
+  importance: 2
+- start: 1792
+  end: 1792
+  polity: french_first_republic
+  importance: 2
+- start: 1793
+  end: 1793
+  polity: archduchy_austria
+  importance: 2
+- start: 1794
   end: 1803
   polity: french_first_republic
   importance: 2

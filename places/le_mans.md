@@ -82,17 +82,9 @@ control:
   end: 986
   polity: west_francia
   importance: 2
-- start: 987
-  end: 1062
-  polity: kingdom_france
-  importance: 2
 - start: 1063
   end: 1068
   polity: duchy_normandy
-  importance: 2
-- start: 1069
-  end: 1109
-  polity: kingdom_france
   importance: 2
 - start: 1110
   end: 1203

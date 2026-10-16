@@ -67,8 +67,8 @@ control:
   polity: french_third_republic
   importance: 2
 - start: 1940
-  end: 1942
-  polity: vichy_france
+  end: 1943
+  polity: nazi_germany
   importance: 2
 - start: 1944
   end: 1945

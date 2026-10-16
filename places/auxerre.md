@@ -82,7 +82,7 @@ control:
   end: 1003
   polity: duchy_burgundy
   importance: 2
-- start: 1004
+- start: 1371
   end: 1434
   polity: kingdom_france
   importance: 2

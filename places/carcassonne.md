@@ -47,12 +47,8 @@ control:
   polity: carolingian_francia
   importance: 2
 - start: 843
-  end: 923
+  end: 877
   polity: west_francia
-  importance: 2
-- start: 924
-  end: 1208
-  polity: county_toulouse
   importance: 2
 - start: 1226
   end: 1791

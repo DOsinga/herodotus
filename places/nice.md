@@ -111,6 +111,22 @@ control:
   polity: county_savoy
   importance: 2
 - start: 1416
+  end: 1690
+  polity: duchy_savoy
+  importance: 2
+- start: 1691
+  end: 1695
+  polity: kingdom_france
+  importance: 2
+- start: 1696
+  end: 1704
+  polity: duchy_savoy
+  importance: 2
+- start: 1705
+  end: 1712
+  polity: kingdom_france
+  importance: 2
+- start: 1713
   end: 1719
   polity: duchy_savoy
   importance: 2

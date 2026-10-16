@@ -95,6 +95,14 @@ control:
   polity: kingdom_france
   importance: 3
 - start: 1180
+  end: 1419
+  polity: kingdom_france
+  importance: 4
+- start: 1420
+  end: 1435
+  polity: kingdom_england
+  importance: 3
+- start: 1436
   end: 1791
   polity: kingdom_france
   importance: 4

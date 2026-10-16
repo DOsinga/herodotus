@@ -26,6 +26,10 @@ control:
   end: 1793
   polity: french_first_republic
   importance: 3
+- start: 1794
+  end: 1795
+  polity: kingdom_great_britain
+  importance: 3
 - start: 1796
   end: 1803
   polity: french_first_republic

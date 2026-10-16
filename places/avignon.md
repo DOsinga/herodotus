@@ -99,6 +99,10 @@ control:
   polity: kingdom_burgundy
   importance: 2
 - start: 972
+  end: 1128
+  polity: county_provence
+  importance: 2
+- start: 1251
   end: 1308
   polity: county_provence
   importance: 2
@@ -111,6 +115,30 @@ control:
   polity: papal_states
   importance: 4
 - start: 1377
+  end: 1662
+  polity: papal_states
+  importance: 3
+- start: 1663
+  end: 1663
+  polity: kingdom_france
+  importance: 2
+- start: 1664
+  end: 1687
+  polity: papal_states
+  importance: 3
+- start: 1688
+  end: 1689
+  polity: kingdom_france
+  importance: 2
+- start: 1690
+  end: 1767
+  polity: papal_states
+  importance: 3
+- start: 1768
+  end: 1773
+  polity: kingdom_france
+  importance: 2
+- start: 1774
   end: 1790
   polity: papal_states
   importance: 3

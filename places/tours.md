@@ -82,10 +82,6 @@ control:
   end: 986
   polity: west_francia
   importance: 2
-- start: 987
-  end: 1043
-  polity: kingdom_france
-  importance: 2
 - start: 1044
   end: 1203
   polity: county_anjou

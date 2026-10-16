@@ -83,6 +83,14 @@ control:
   polity: west_francia
   importance: 2
 - start: 987
+  end: 1419
+  polity: kingdom_france
+  importance: 2
+- start: 1420
+  end: 1428
+  polity: kingdom_england
+  importance: 2
+- start: 1429
   end: 1791
   polity: kingdom_france
   importance: 2

@@ -10,10 +10,6 @@ control:
   end: 986
   polity: west_francia
   importance: 1
-- start: 987
-  end: 1021
-  polity: kingdom_france
-  importance: 1
 - start: 1022
   end: 1283
   polity: county_champagne

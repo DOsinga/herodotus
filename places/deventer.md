@@ -55,6 +55,14 @@ control:
   polity: spanish_monarchy
   importance: 2
 - start: 1591
+  end: 1671
+  polity: dutch_republic
+  importance: 2
+- start: 1672
+  end: 1673
+  polity: munster
+  importance: 2
+- start: 1674
   end: 1794
   polity: dutch_republic
   importance: 2

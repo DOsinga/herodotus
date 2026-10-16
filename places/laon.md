@@ -111,6 +111,14 @@ control:
   polity: second_french_empire
   importance: 1
 - start: 1870
+  end: 1913
+  polity: french_third_republic
+  importance: 1
+- start: 1914
+  end: 1917
+  polity: german_empire
+  importance: 1
+- start: 1918
   end: 1939
   polity: french_third_republic
   importance: 1

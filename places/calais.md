@@ -15,6 +15,14 @@ control:
   polity: kingdom_england
   importance: 2
 - start: 1558
+  end: 1595
+  polity: kingdom_france
+  importance: 1
+- start: 1596
+  end: 1597
+  polity: spanish_monarchy
+  importance: 1
+- start: 1598
   end: 1791
   polity: kingdom_france
   importance: 1
@@ -43,8 +51,8 @@ control:
   polity: french_third_republic
   importance: 1
 - start: 1940
-  end: 1942
-  polity: vichy_france
+  end: 1943
+  polity: nazi_germany
   importance: 1
 - start: 1944
   end: 1945

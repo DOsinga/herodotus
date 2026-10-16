@@ -103,6 +103,10 @@ control:
   polity: kingdom_burgundy
   importance: 3
 - start: 972
+  end: 1130
+  polity: county_provence
+  importance: 2
+- start: 1251
   end: 1480
   polity: county_provence
   importance: 2

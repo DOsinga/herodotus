@@ -82,7 +82,7 @@ control:
   end: 986
   polity: west_francia
   importance: 2
-- start: 987
+- start: 1185
   end: 1434
   polity: kingdom_france
   importance: 2

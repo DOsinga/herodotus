@@ -115,6 +115,14 @@ control:
   polity: spanish_monarchy
   importance: 2
 - start: 1632
+  end: 1672
+  polity: dutch_republic
+  importance: 2
+- start: 1673
+  end: 1678
+  polity: kingdom_france
+  importance: 2
+- start: 1679
   end: 1794
   polity: dutch_republic
   importance: 2

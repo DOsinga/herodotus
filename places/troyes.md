@@ -74,15 +74,19 @@ control:
   end: 986
   polity: west_francia
   importance: 2
-- start: 987
-  end: 1021
-  polity: kingdom_france
-  importance: 2
 - start: 1022
   end: 1283
   polity: county_champagne
   importance: 3
 - start: 1284
+  end: 1419
+  polity: kingdom_france
+  importance: 2
+- start: 1420
+  end: 1428
+  polity: kingdom_england
+  importance: 2
+- start: 1429
   end: 1791
   polity: kingdom_france
   importance: 2
