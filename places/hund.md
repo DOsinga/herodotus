@@ -6,12 +6,32 @@ point:
   latitude: 34.045
   longitude: 72.434
 control:
+- start: -316
+  end: -186
+  polity: maurya_empire
+  importance: 2
 - start: 370
-  end: 670
+  end: 669
   polity: alchon_kingdom
   importance: 3
+- start: 670
+  end: 821
+  polity: turk_shahi_kingdom
+  importance: 3
 - start: 822
-  end: 1026
+  end: 1000
   polity: hindu_shahi_kingdom
   importance: 3
+- start: 1001
+  end: 1186
+  polity: ghaznavid_empire
+  importance: 2
+- start: 1187
+  end: 1205
+  polity: ghurid_sultanate
+  importance: 2
+- start: 1206
+  end: null
+  follows: taxila
+  importance: 1
 ---
