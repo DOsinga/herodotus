@@ -14,4 +14,12 @@ control:
   end: 790
   polity: panduvamshi_kosala
   importance: 3
+- start: 850
+  end: 1000
+  polity: somavamshi_kingdom
+  importance: 2
+- start: 1741
+  end: null
+  follows: raipur
+  importance: 1
 ---

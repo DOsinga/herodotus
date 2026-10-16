@@ -10,4 +10,8 @@ control:
   end: 1220
   polity: kalachuri_tripuri
   importance: 3
+- start: 1221
+  end: null
+  follows: jabalpur
+  importance: 1
 ---
