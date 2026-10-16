@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bamberg
 point:
   latitude: 49.8914
   longitude: 10.8869
+note: "Swedish from 1632 to 1634."
 control:
 - start: 902
   end: 961
@@ -19,6 +20,14 @@ control:
   polity: holy_roman_empire
   importance: 2
 - start: 1250
+  end: 1631
+  polity: bishopric_bamberg
+  importance: 3
+- start: 1632
+  end: 1633
+  polity: kingdom_sweden
+  importance: 3
+- start: 1634
   end: 1801
   polity: bishopric_bamberg
   importance: 3

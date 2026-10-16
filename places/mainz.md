@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mainz
 point:
   latitude: 49.9994
   longitude: 8.2736
-note: "Roman Mogontiacum, capital of Upper Germany. France held the city from the end of 1797 to 1814."
+note: "Roman Mogontiacum, capital of Upper Germany. France held the city from the end of 1797 to 1814. Swedish from 1631 to 1636."
 control:
 - start: -13
   end: 394
@@ -76,6 +76,14 @@ control:
   polity: holy_roman_empire
   importance: 3
 - start: 1250
+  end: 1630
+  polity: electorate_mainz
+  importance: 3
+- start: 1631
+  end: 1635
+  polity: kingdom_sweden
+  importance: 3
+- start: 1636
   end: 1797
   polity: electorate_mainz
   importance: 3

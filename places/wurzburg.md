@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Würzburg
 point:
   latitude: 49.7833
   longitude: 9.9333
+note: "Swedish from 1631 to 1634."
 control:
 - start: 642
   end: 719
@@ -27,6 +28,14 @@ control:
   polity: holy_roman_empire
   importance: 2
 - start: 1250
+  end: 1630
+  polity: wurzburg
+  importance: 3
+- start: 1631
+  end: 1633
+  polity: kingdom_sweden
+  importance: 3
+- start: 1634
   end: 1802
   polity: wurzburg
   importance: 3

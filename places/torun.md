@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Toruń
 point:
   latitude: 53.0222
   longitude: 18.6111
+note: "Swedish from 1655 to 1658."
 control:
 - start: 1233
   end: 1453
@@ -15,6 +16,14 @@ control:
   polity: kingdom_poland
   importance: 2
 - start: 1569
+  end: 1654
+  polity: polish_lithuanian_commonwealth
+  importance: 2
+- start: 1655
+  end: 1657
+  polity: kingdom_sweden
+  importance: 2
+- start: 1658
   end: 1792
   polity: polish_lithuanian_commonwealth
   importance: 2

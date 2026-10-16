@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Trier
 point:
   latitude: 49.7567
   longitude: 6.6414
-note: "Augusta Treverorum, capital of the Gallic Empire and an imperial residence from 293. The Franks took it around 480."
+note: "Augusta Treverorum, capital of the Gallic Empire and an imperial residence from 293. The Franks took it around 480. French in 1673–1675 and from 1684 to 1698."
 control:
 - start: -16
   end: 259
@@ -104,6 +104,22 @@ control:
   polity: holy_roman_empire
   importance: 2
 - start: 1250
+  end: 1672
+  polity: electorate_trier
+  importance: 3
+- start: 1673
+  end: 1674
+  polity: kingdom_france
+  importance: 3
+- start: 1675
+  end: 1683
+  polity: electorate_trier
+  importance: 3
+- start: 1684
+  end: 1697
+  polity: kingdom_france
+  importance: 3
+- start: 1698
   end: 1793
   polity: electorate_trier
   importance: 3

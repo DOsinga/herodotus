@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Elbląg
 point:
   latitude: 54.1667
   longitude: 19.4
-note: "Seat of the order's master in Prussia until the grand master moved to Marienburg in 1309."
+note: "Seat of the order's master in Prussia until the grand master moved to Marienburg in 1309. Swedish from 1626 to 1635 and from 1655 to 1660."
 control:
 - start: 1237
   end: 1308
@@ -20,6 +20,22 @@ control:
   polity: kingdom_poland
   importance: 2
 - start: 1569
+  end: 1625
+  polity: polish_lithuanian_commonwealth
+  importance: 2
+- start: 1626
+  end: 1634
+  polity: kingdom_sweden
+  importance: 2
+- start: 1635
+  end: 1654
+  polity: polish_lithuanian_commonwealth
+  importance: 2
+- start: 1655
+  end: 1659
+  polity: kingdom_sweden
+  importance: 2
+- start: 1660
   end: 1771
   polity: polish_lithuanian_commonwealth
   importance: 2

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Warsaw
 point:
   latitude: 52.23
   longitude: 21.0111
-note: "Seat of the Masovian dukes of the Czersk line from 1413, and royal residence and capital from 1596."
+note: "Seat of the Masovian dukes of the Czersk line from 1413, and royal residence and capital from 1596. Swedish in 1655 and 1656 during the Deluge."
 control:
 - start: 1300
   end: 1309
@@ -36,6 +36,14 @@ control:
   polity: polish_lithuanian_commonwealth
   importance: 3
 - start: 1596
+  end: 1654
+  polity: polish_lithuanian_commonwealth
+  importance: 4
+- start: 1655
+  end: 1655
+  polity: kingdom_sweden
+  importance: 4
+- start: 1656
   end: 1794
   polity: polish_lithuanian_commonwealth
   importance: 4

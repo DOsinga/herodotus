@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Szczecin
 point:
   latitude: 53.4325
   longitude: 14.5481
-note: "Swedish from 1630 until Prussia took it in 1713, confirmed in 1720."
+note: "Swedish from 1630 until Prussia took it in 1713, confirmed in 1720. French garrison from 1806 to 1813."
 control:
 - start: 1121
   end: 1629
@@ -16,6 +16,14 @@ control:
   polity: kingdom_sweden
   importance: 3
 - start: 1713
+  end: 1805
+  polity: kingdom_prussia
+  importance: 3
+- start: 1806
+  end: 1812
+  polity: first_french_empire
+  importance: 3
+- start: 1813
   end: 1866
   polity: kingdom_prussia
   importance: 3

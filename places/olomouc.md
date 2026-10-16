@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Olomouc
 point:
   latitude: 49.5939
   longitude: 17.2508
-note: "Bolesław I of Poland held Moravia from 999 to 1019. Capital of Moravia until 1641."
+note: "Bolesław I of Poland held Moravia from 999 to 1019. Capital of Moravia until 1641. Swedish garrison from 1642 to 1650."
 control:
 - start: 833
   end: 906
@@ -36,6 +36,14 @@ control:
   polity: archduchy_austria
   importance: 3
 - start: 1641
+  end: 1641
+  polity: archduchy_austria
+  importance: 2
+- start: 1642
+  end: 1649
+  polity: kingdom_sweden
+  importance: 2
+- start: 1650
   end: 1803
   polity: archduchy_austria
   importance: 2

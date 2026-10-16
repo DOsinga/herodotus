@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kraków
 point:
   latitude: 50.0614
   longitude: 19.9372
-note: "Probably held by the Bohemian dukes until Mieszko I took it around 990. Capital of Poland from 1038 until the court moved to Warsaw in 1596. Wenceslaus II of Bohemia held it from 1291 to 1305."
+note: "Probably held by the Bohemian dukes until Mieszko I took it around 990. Capital of Poland from 1038 until the court moved to Warsaw in 1596. Wenceslaus II of Bohemia held it from 1291 to 1305. Swedish from 1655 to 1657 during the Deluge."
 control:
 - start: 955
   end: 989
@@ -44,6 +44,14 @@ control:
   polity: polish_lithuanian_commonwealth
   importance: 4
 - start: 1596
+  end: 1654
+  polity: polish_lithuanian_commonwealth
+  importance: 3
+- start: 1655
+  end: 1656
+  polity: kingdom_sweden
+  importance: 3
+- start: 1657
   end: 1794
   polity: polish_lithuanian_commonwealth
   importance: 3

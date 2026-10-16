@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Prague
 point:
   latitude: 50.0875
   longitude: 14.4214
-note: "The Marcomannic span stands for Maroboduus's kingdom in Bohemia, whose seat is unknown. Prague was an imperial residence under Charles IV and Wenceslaus IV and again under Rudolf II."
+note: "The Marcomannic span stands for Maroboduus's kingdom in Bohemia, whose seat is unknown. Prague was an imperial residence under Charles IV and Wenceslaus IV and again under Rudolf II. Held by Saxony in 1631–1632 and by the Bavarian elector Charles Albert from 1741 to 1742."
 control:
 - start: -9
   end: 19
@@ -36,6 +36,22 @@ control:
   polity: kingdom_bohemia
   importance: 3
 - start: 1620
+  end: 1630
+  polity: archduchy_austria
+  importance: 3
+- start: 1631
+  end: 1631
+  polity: electorate_saxony
+  importance: 3
+- start: 1632
+  end: 1740
+  polity: archduchy_austria
+  importance: 3
+- start: 1741
+  end: 1741
+  polity: electorate_bavaria
+  importance: 3
+- start: 1742
   end: 1803
   polity: archduchy_austria
   importance: 3

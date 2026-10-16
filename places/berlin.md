@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Berlin
 point:
   latitude: 52.52
   longitude: 13.405
-note: "Residence of the Brandenburg electors from 1451. The western sectors from 1949 to 1990 belonged to neither German state and are not shown apart."
+note: "Residence of the Brandenburg electors from 1451. The western sectors from 1949 to 1990 belonged to neither German state and are not shown apart. French occupation from 1806 to 1808."
 control:
 - start: 1237
   end: 1249
@@ -20,6 +20,14 @@ control:
   polity: margraviate_brandenburg
   importance: 3
 - start: 1701
+  end: 1805
+  polity: kingdom_prussia
+  importance: 4
+- start: 1806
+  end: 1807
+  polity: first_french_empire
+  importance: 4
+- start: 1808
   end: 1866
   polity: kingdom_prussia
   importance: 4

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Malbork
 point:
   latitude: 54.0333
   longitude: 19.0333
-note: "Seat of the grand masters from 1309 until the order sold the castle to Poland in 1457."
+note: "Seat of the grand masters from 1309 until the order sold the castle to Poland in 1457. Swedish from 1626 to 1635 and from 1656 to 1660."
 control:
 - start: 1274
   end: 1308
@@ -20,6 +20,22 @@ control:
   polity: kingdom_poland
   importance: 2
 - start: 1569
+  end: 1625
+  polity: polish_lithuanian_commonwealth
+  importance: 2
+- start: 1626
+  end: 1634
+  polity: kingdom_sweden
+  importance: 2
+- start: 1635
+  end: 1655
+  polity: polish_lithuanian_commonwealth
+  importance: 2
+- start: 1656
+  end: 1659
+  polity: kingdom_sweden
+  importance: 2
+- start: 1660
   end: 1771
   polity: polish_lithuanian_commonwealth
   importance: 2
