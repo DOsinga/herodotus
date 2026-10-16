@@ -10,4 +10,8 @@ control:
   end: 1161
   polity: pala_empire
   importance: 3
+- start: 1162
+  end: null
+  follows: pataliputra
+  importance: 2
 ---

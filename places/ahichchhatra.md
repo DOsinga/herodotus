@@ -5,9 +5,42 @@ wikipedia: https://en.wikipedia.org/wiki/Ahichchhatra
 point:
   latitude: 28.37
   longitude: 79.14
+note: "The city was abandoned in the eleventh century."
 control:
 - start: -1100
-  end: -350
+  end: -351
   polity: panchala
   importance: 3
+- start: -350
+  end: -323
+  polity: magadha
+  importance: 2
+- start: -322
+  end: -186
+  polity: maurya_empire
+  importance: 2
+- start: 100
+  end: 230
+  polity: kushan_empire
+  importance: 2
+- start: 350
+  end: 549
+  polity: gupta_empire
+  importance: 2
+- start: 550
+  end: 605
+  polity: maukhari_kannauj
+  importance: 2
+- start: 606
+  end: 646
+  polity: thanesar_kingdom
+  importance: 2
+- start: 647
+  end: 835
+  polity: kannauj_kingdom
+  importance: 2
+- start: 836
+  end: 1018
+  polity: gurjara_pratihara_empire
+  importance: 2
 ---

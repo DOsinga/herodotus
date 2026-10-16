@@ -7,7 +7,11 @@ point:
   longitude: 84.03
 control:
 - start: 1538
-  end: 1555
+  end: 1554
   polity: sur_empire
   importance: 3
+- start: 1555
+  end: null
+  follows: pataliputra
+  importance: 1
 ---
