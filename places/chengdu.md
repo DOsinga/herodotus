@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Chengdu
 point:
   latitude: 30.5728
   longitude: 104.0668
-note: "Gongsun Shu's Chengjia, 25–36, Ming Yuzhen's Xia, 1358–1371, and Zhang Xianzhong's Daxi, 1644–1646, have no record."
 control:
 - start: -1000
   end: -317
@@ -31,6 +30,10 @@ control:
   end: 24
   polity: gengshi_han
   importance: 3
+- start: 25
+  end: 35
+  polity: chengjia
+  importance: 4
 - start: 36
   end: 220
   polity: han_dynasty

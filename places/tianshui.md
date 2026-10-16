@@ -98,6 +98,10 @@ control:
   end: 906
   polity: tang_dynasty
   importance: 2
+- start: 907
+  end: 916
+  polity: qi_li_maozhen
+  importance: 2
 - start: 917
   end: 924
   polity: former_shu

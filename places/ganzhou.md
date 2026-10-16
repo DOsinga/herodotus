@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Ganzhou
 point:
   latitude: 25.831
   longitude: 114.933
-note: "Lu Guangchou held Qianzhou from 885 to 918 and has no record."
 control:
 - start: -223
   end: -222
@@ -72,9 +71,13 @@ control:
   polity: wu_zhou
   importance: 2
 - start: 705
-  end: 906
+  end: 884
   polity: tang_dynasty
   importance: 2
+- start: 885
+  end: 917
+  polity: qian_prefecture_lu_guangchou
+  importance: 3
 - start: 918
   end: 936
   polity: yang_wu

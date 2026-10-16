@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Quanzhou
 point:
   latitude: 24.8744
   longitude: 118.6757
-note: "The Qingyuan Circuit of Liu Congxiao and Chen Hongjin, 949–978, and the Ispah garrison revolt, 1357–1366, have no record."
+note: "The Ispah garrison revolt held the city from 1357 to 1366 and has no record."
 control:
 - start: -110
   end: 8
@@ -71,6 +71,10 @@ control:
   end: 948
   polity: southern_tang
   importance: 2
+- start: 949
+  end: 977
+  polity: qingyuan_circuit
+  importance: 3
 - start: 978
   end: 1276
   polity: song_dynasty

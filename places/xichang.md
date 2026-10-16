@@ -18,6 +18,10 @@ control:
   end: 24
   polity: gengshi_han
   importance: 2
+- start: 25
+  end: 35
+  polity: chengjia
+  importance: 2
 - start: 36
   end: 220
   polity: han_dynasty

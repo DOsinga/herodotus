@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Beijing
 point:
   latitude: 39.9158
   longitude: 116.3908
-note: "Youzhou under Liu Shouguang's Yan, 907–913, has no record."
 control:
 - start: -1045
   end: -771
@@ -110,6 +109,10 @@ control:
 - start: 763
   end: 906
   polity: tang_dynasty
+  importance: 3
+- start: 907
+  end: 912
+  polity: yan_liu_shouguang
   importance: 3
 - start: 913
   end: 922

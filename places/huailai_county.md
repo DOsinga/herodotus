@@ -118,6 +118,10 @@ control:
   end: 906
   polity: tang_dynasty
   importance: 2
+- start: 907
+  end: 912
+  polity: yan_liu_shouguang
+  importance: 2
 - start: 913
   end: 922
   polity: jin_hedong
