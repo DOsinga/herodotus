@@ -7,10 +7,6 @@ point:
   longitude: 77.596
 control:
 - start: 1336
-  end: 1564
-  polity: vijayanagara_empire
-  importance: 2
-- start: 1565
   end: 1591
   polity: vijayanagara_empire
   importance: 3

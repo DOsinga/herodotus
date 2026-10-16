@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Chitradurga
 point:
   latitude: 14.23
   longitude: 76.4
-note: "Nolambavadi, whose seat Henjeru lay to the east, is represented here. The Nayakas of Chitradurga governed from the 1560s until Haidar Ali's conquest of 1779, without a record."
+note: "Ashoka's edicts at Brahmagiri nearby mark the southern edge of the Maurya Empire. Nolambavadi, whose seat Henjeru lay to the east, is represented here. The Nayakas of Chitradurga governed from the 1560s until Haidar Ali's conquest of 1779, without a record."
 control:
+- start: -260
+  end: -186
+  polity: maurya_empire
+  importance: 2
 - start: 735
   end: 967
   polity: nolambavadi

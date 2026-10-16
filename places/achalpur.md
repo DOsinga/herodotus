@@ -37,7 +37,7 @@ control:
 - start: 1596
   end: 1723
   polity: mughal_empire
-  importance: 2
+  importance: 3
 - start: 1724
   end: 1797
   polity: hyderabad_state

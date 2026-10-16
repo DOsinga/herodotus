@@ -29,7 +29,7 @@ control:
 - start: 1686
   end: 1759
   polity: mughal_empire
-  importance: 2
+  importance: 3
 - start: 1760
   end: 1817
   polity: maratha_empire

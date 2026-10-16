@@ -13,7 +13,7 @@ control:
 - start: 1444
   end: 1564
   polity: vijayanagara_empire
-  importance: 2
+  importance: 3
 - start: 1565
   end: 1762
   polity: keladi_nayakas

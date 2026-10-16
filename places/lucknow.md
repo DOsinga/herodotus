@@ -30,7 +30,7 @@ control:
 - start: 1555
   end: 1721
   polity: mughal_empire
-  importance: 2
+  importance: 3
 - start: 1722
   end: 1774
   polity: oudh_state
