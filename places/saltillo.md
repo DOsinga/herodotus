@@ -1,0 +1,25 @@
+---
+id: saltillo
+name: Saltillo
+wikipedia: https://en.wikipedia.org/wiki/Saltillo
+point:
+  latitude: 25.4231
+  longitude: -100.9919
+control:
+- start: 1577
+  end: 1715
+  polity: spanish_monarchy
+  importance: 2
+- start: 1716
+  end: 1807
+  polity: bourbon_spain
+  importance: 2
+- start: 1808
+  end: 1820
+  polity: spain
+  importance: 2
+- start: 1821
+  end: null
+  polity: mexico
+  importance: 2
+---

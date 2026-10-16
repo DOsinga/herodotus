@@ -1,0 +1,25 @@
+---
+id: guanajuato
+name: Guanajuato (city)
+wikipedia: https://en.wikipedia.org/wiki/Guanajuato_(city)
+point:
+  latitude: 21.0178
+  longitude: -101.2567
+control:
+- start: 1554
+  end: 1715
+  polity: spanish_monarchy
+  importance: 2
+- start: 1716
+  end: 1807
+  polity: bourbon_spain
+  importance: 2
+- start: 1808
+  end: 1820
+  polity: spain
+  importance: 2
+- start: 1821
+  end: null
+  polity: mexico
+  importance: 2
+---
