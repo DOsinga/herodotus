@@ -14,4 +14,12 @@ control:
   end: 636
   polity: ghassanid_kingdom
   importance: 3
+- start: 637
+  end: 660
+  polity: rashidun_caliphate
+  importance: 2
+- start: 661
+  end: 749
+  polity: umayyad_caliphate
+  importance: 2
 ---

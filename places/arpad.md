@@ -7,7 +7,11 @@ point:
   longitude: 37.09
 control:
 - start: -900
-  end: -740
+  end: -741
   polity: arpad
   importance: 3
+- start: -740
+  end: -610
+  polity: neo_assyrian_empire
+  importance: 2
 ---
