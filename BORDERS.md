@@ -204,21 +204,35 @@ than editing a place another open branch has touched.
 
 | Region | Pass 1 | Pass 2 |
 |---|---|---|
-| Switzerland and the western Alps | | done (#33) |
-| British Isles | dmo/places-british | |
-| Iberia and the Maghreb | | |
-| France and the Low Countries | | |
-| Germany and Central Europe | | |
-| Italy and the Balkans | | |
-| Scandinavia and the Baltic | | |
-| Russia and the steppe | | |
-| Anatolia, the Levant and Egypt | | |
-| Iran and Mesopotamia | | |
-| South Asia | | |
-| East Asia | | |
-| Southeast Asia | | |
-| Sub-Saharan Africa | | |
-| The Americas | | |
+| Switzerland and the western Alps | done (#33) | done (#33) |
+| British Isles | done (#34) | |
+| Scandinavia and the Baltic | done (#35) | |
+| The Americas | done (#36) | |
+| Iberia and the Maghreb | done (#37) | |
+| South Asia | done (#38) | |
+| East Asia | done (#39) | |
+| France and the Low Countries | dmo/places-france | |
+| Germany and Central Europe | dmo/places-germany | |
+| Italy and the Balkans | dmo/places-italy-balkans | |
+| Russia and the steppe | dmo/places-russia | |
+| Anatolia, the Levant, Egypt and Arabia | dmo/places-levant | |
+| Iran, Mesopotamia, the Caucasus and Central Asia | dmo/places-iran | |
+| Southeast Asia | dmo/places-southeast-asia | |
+| Sub-Saharan Africa | dmo/places-africa | |
+| Oceania | dmo/places-oceania | |
+
+### Colours
+
+Colours are now derived on the fly from a hash of the polity id, so
+neighbours can end up with nearly the same colour, as the Mughals and the
+Qing do in 1650. The plan is to store colours in the polity files instead.
+No single colour per polity can contrast with every neighbour across all of
+history, so a polity's colour may change slowly over its lifetime: the file
+gives colours at a few years and the map interpolates between them. A
+successor that continues the same state keeps its predecessor's colour, so
+the change of record does not show as a change of colour. A script proposes
+the colours by checking which polities touch on the map in each year; once
+committed they are data and can be edited by hand.
 
 ## Phase two: barriers
 
