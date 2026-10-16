@@ -93,6 +93,16 @@ place holds the ground around itself, and a row of small forts holds a line
 against a big city behind it. Where a border comes out wrong, the fix is to
 add the towns that held it.
 
+Inside a sparse empire the strongest single town can leave holes between
+towns of the same polity. So each cell also adds up the influence of the
+winning polity's towns and subtracts that of everyone else, and keeps that
+support when it beats the strongest town. Where only one polity reaches,
+its towns' faint overlaps add up and close the hole; where a rival reaches
+too, the subtraction keeps the strongest-town rule in charge, so border
+towns still decide borders. Towns therefore spread a little further than
+the visible edge, down to an influence of 0.04, so faint overlaps exist to
+be added.
+
 Old polities fade towards their edges, since their reach thinned out with
 distance. From about 1500 to 1800 the fade sharpens, and modern polities are
 coloured right up to where a neighbour takes over.
