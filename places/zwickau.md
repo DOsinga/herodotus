@@ -1,0 +1,58 @@
+---
+id: zwickau
+name: Zwickau
+wikipedia: https://en.wikipedia.org/wiki/Zwickau
+point:
+  latitude: 50.7167
+  longitude: 12.5
+note: "Gap for the imperial city, pledged to the Wettins and finally theirs in 1348."
+control:
+- start: 1118
+  end: 1249
+  polity: holy_roman_empire
+  importance: 1
+- start: 1348
+  end: 1422
+  polity: margraviate_meissen
+  importance: 1
+- start: 1423
+  end: 1755
+  polity: electorate_saxony
+  importance: 2
+- start: 1756
+  end: 1762
+  polity: kingdom_prussia
+  importance: 2
+- start: 1763
+  end: 1805
+  polity: electorate_saxony
+  importance: 2
+- start: 1806
+  end: 1866
+  polity: kingdom_saxony
+  importance: 2
+- start: 1867
+  end: 1870
+  polity: north_german_confederation
+  importance: 2
+- start: 1871
+  end: 1917
+  polity: german_empire
+  importance: 2
+- start: 1918
+  end: 1932
+  polity: weimar_republic
+  importance: 2
+- start: 1933
+  end: 1945
+  polity: nazi_germany
+  importance: 2
+- start: 1949
+  end: 1989
+  polity: east_germany
+  importance: 2
+- start: 1990
+  end: null
+  polity: west_germany
+  importance: 2
+---

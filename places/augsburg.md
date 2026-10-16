@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Augsburg
 point:
   latitude: 48.3689
   longitude: 10.8978
-note: "Augusta Vindelicorum, capital of Raetia. Gap for the bishops' city before it became a free imperial city in 1276. Swedish from 1632 to 1635."
+note: "Augusta Vindelicorum, capital of Raetia. Gap for the bishops' city before it became a free imperial city in 1276."
 control:
 - start: -15
   end: 394
@@ -76,14 +76,6 @@ control:
   polity: holy_roman_empire
   importance: 2
 - start: 1276
-  end: 1631
-  polity: augsburg
-  importance: 3
-- start: 1632
-  end: 1634
-  polity: kingdom_sweden
-  importance: 3
-- start: 1635
   end: 1805
   polity: augsburg
   importance: 3
