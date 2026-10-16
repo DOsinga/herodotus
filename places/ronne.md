@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Rønne
 point:
   latitude: 55.0986
   longitude: 14.7014
-note: "Bornholm was disputed between the crown and the archbishops of Lund in the fourteenth century, so the interregnum of 1332 to 1340 is left open. Lübeck held the island from 1525 to 1576 as security for Danish debts."
+note: "Bornholm was disputed between the crown and the archbishops of Lund in the fourteenth century, so the interregnum of 1332 to 1340 is left open. Lübeck held the island from 1525 to 1576 as security for Danish debts. Soviet forces occupied Bornholm from May 1945 to April 1946."
 control:
 - start: 1275
   end: 1331
@@ -48,6 +48,10 @@ control:
   polity: nazi_germany
   importance: 2
 - start: 1945
+  end: 1945
+  polity: soviet_union
+  importance: 2
+- start: 1946
   end: null
   polity: kingdom_denmark
   importance: 2

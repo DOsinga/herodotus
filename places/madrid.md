@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Madrid
 point:
   latitude: 40.417
   longitude: -3.703
+note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: 865
   end: 928
@@ -39,6 +40,14 @@ control:
   polity: bourbon_spain
   importance: 4
 - start: 1808
+  end: 1812
+  polity: first_french_empire
+  importance: 2
+- start: 1813
+  end: 1813
+  polity: spain
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 4

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Córdoba,_Spain
 point:
   latitude: 37.8882
   longitude: -4.7794
-note: "Córdoba governed itself between 550 and Leovigild's conquest in 572."
+note: "Córdoba governed itself between 550 and Leovigild's conquest in 572. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -206
   end: -28
@@ -76,6 +76,18 @@ control:
   polity: bourbon_spain
   importance: 3
 - start: 1808
+  end: 1809
+  polity: spain
+  importance: 2
+- start: 1810
+  end: 1811
+  polity: first_french_empire
+  importance: 2
+- start: 1812
+  end: 1813
+  polity: spain
+  importance: 2
+- start: 1814
   end: null
   polity: spain
   importance: 3
