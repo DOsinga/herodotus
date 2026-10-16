@@ -23,10 +23,10 @@ control:
   polity: kingdom_cambodia
   importance: 2
 - start: 1757
-  end: 1775
+  end: 1776
   polity: nguyen_lords
   importance: 2
-- start: 1776
+- start: 1777
   end: 1777
   polity: tay_son_dynasty
   importance: 2
