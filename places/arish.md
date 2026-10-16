@@ -87,6 +87,14 @@ control:
   polity: egypt_muhammad_ali
   importance: 1
 - start: 1882
+  end: 1914
+  polity: united_kingdom_gbi
+  importance: 1
+- start: 1915
+  end: 1915
+  polity: ottoman_empire
+  importance: 1
+- start: 1916
   end: 1921
   polity: united_kingdom_gbi
   importance: 1

@@ -16,6 +16,14 @@ control:
   polity: ottoman_empire
   importance: 2
 - start: 1635
+  end: 1832
+  polity: qasimid_state
+  importance: 3
+- start: 1833
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 3
+- start: 1840
   end: 1848
   polity: qasimid_state
   importance: 3

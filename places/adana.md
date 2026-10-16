@@ -88,6 +88,14 @@ control:
   polity: ramadanid_emirate
   importance: 3
 - start: 1517
+  end: 1832
+  polity: ottoman_empire
+  importance: 3
+- start: 1833
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 3
+- start: 1840
   end: 1918
   polity: ottoman_empire
   importance: 3

@@ -131,6 +131,14 @@ control:
   polity: mamluk_sultanate
   importance: 2
 - start: 1516
+  end: 1831
+  polity: ottoman_empire
+  importance: 2
+- start: 1832
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 2
+- start: 1840
   end: 1917
   polity: ottoman_empire
   importance: 2
@@ -147,6 +155,14 @@ control:
   polity: free_france
   importance: 2
 - start: 1943
+  end: 1981
+  polity: lebanon
+  importance: 2
+- start: 1982
+  end: 1984
+  polity: israel
+  importance: 2
+- start: 1985
   end: null
   polity: lebanon
   importance: 2

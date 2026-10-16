@@ -7,6 +7,14 @@ point:
   longitude: 35.2064
 control:
 - start: 1516
+  end: 1830
+  polity: ottoman_empire
+  importance: 2
+- start: 1831
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 2
+- start: 1840
   end: 1916
   polity: ottoman_empire
   importance: 2

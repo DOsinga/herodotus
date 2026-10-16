@@ -40,6 +40,22 @@ control:
   polity: ottoman_empire
   importance: 4
 - start: 1453
+  end: 1828
+  polity: ottoman_empire
+  importance: 3
+- start: 1829
+  end: 1829
+  polity: russian_empire
+  importance: 3
+- start: 1830
+  end: 1877
+  polity: ottoman_empire
+  importance: 3
+- start: 1878
+  end: 1878
+  polity: russian_empire
+  importance: 3
+- start: 1879
   end: 1919
   polity: ottoman_empire
   importance: 3

@@ -64,6 +64,14 @@ control:
   polity: dulkadir_beylik
   importance: 3
 - start: 1522
+  end: 1831
+  polity: ottoman_empire
+  importance: 2
+- start: 1832
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 2
+- start: 1840
   end: 1918
   polity: ottoman_empire
   importance: 2

@@ -48,6 +48,22 @@ control:
   polity: safavid_iran
   importance: 2
 - start: 1535
+  end: 1827
+  polity: ottoman_empire
+  importance: 2
+- start: 1828
+  end: 1828
+  polity: russian_empire
+  importance: 2
+- start: 1829
+  end: 1854
+  polity: ottoman_empire
+  importance: 2
+- start: 1855
+  end: 1855
+  polity: russian_empire
+  importance: 2
+- start: 1856
   end: 1876
   polity: ottoman_empire
   importance: 2

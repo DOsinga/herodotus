@@ -40,10 +40,14 @@ control:
   polity: ottoman_empire
   importance: 2
 - start: 1805
-  end: 1812
+  end: 1811
   polity: emirate_diriyah
   importance: 2
-- start: 1813
+- start: 1812
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 2
+- start: 1840
   end: 1918
   polity: ottoman_empire
   importance: 2

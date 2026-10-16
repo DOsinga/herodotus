@@ -72,6 +72,14 @@ control:
   polity: ottoman_empire
   importance: 2
 - start: 1911
+  end: 1940
+  polity: kingdom_italy
+  importance: 3
+- start: 1941
+  end: 1941
+  polity: united_kingdom
+  importance: 3
+- start: 1942
   end: 1942
   polity: kingdom_italy
   importance: 3

@@ -8,6 +8,14 @@ point:
 note: "British forces held Hodeidah from 1918 and handed it to the Idrisi emir of Asir in 1921."
 control:
 - start: 1635
+  end: 1832
+  polity: qasimid_state
+  importance: 2
+- start: 1833
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 2
+- start: 1840
   end: 1848
   polity: qasimid_state
   importance: 2

@@ -152,10 +152,26 @@ control:
   polity: ayyubid_aleppo
   importance: 4
 - start: 1260
+  end: 1399
+  polity: mamluk_sultanate
+  importance: 3
+- start: 1400
+  end: 1400
+  polity: timurid_empire
+  importance: 3
+- start: 1401
   end: 1515
   polity: mamluk_sultanate
   importance: 3
 - start: 1516
+  end: 1831
+  polity: ottoman_empire
+  importance: 3
+- start: 1832
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 3
+- start: 1840
   end: 1917
   polity: ottoman_empire
   importance: 3

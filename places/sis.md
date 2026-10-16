@@ -24,6 +24,14 @@ control:
   polity: mamluk_sultanate
   importance: 2
 - start: 1516
+  end: 1832
+  polity: ottoman_empire
+  importance: 2
+- start: 1833
+  end: 1839
+  polity: egypt_muhammad_ali
+  importance: 2
+- start: 1840
   end: 1918
   polity: ottoman_empire
   importance: 2
