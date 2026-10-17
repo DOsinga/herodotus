@@ -11,7 +11,11 @@ control:
   polity: hawaiian_kingdom
   importance: 3
 - start: 1893
-  end: 1898
+  end: 1897
   polity: republic_hawaii
+  importance: 3
+- start: 1898
+  end: null
+  polity: united_states
   importance: 3
 ---
