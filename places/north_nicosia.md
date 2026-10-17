@@ -6,6 +6,10 @@ point:
   latitude: 35.19
   longitude: 33.3636
 control:
+- start: 1974
+  end: 1974
+  polity: turkey
+  importance: 3
 - start: 1975
   end: null
   polity: northern_cyprus

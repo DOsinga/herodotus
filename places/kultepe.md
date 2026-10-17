@@ -9,5 +9,5 @@ control:
 - start: -2000
   end: -1700
   polity: kanesh
-  importance: 3
+  importance: 4
 ---

@@ -9,5 +9,13 @@ control:
 - start: -2500
   end: -1500
   polity: kerma
-  importance: 3
+  importance: 4
+- start: -1499
+  end: -1070
+  polity: egypt_new_kingdom
+  importance: 2
+- start: -780
+  end: 350
+  polity: kingdom_kush
+  importance: 2
 ---

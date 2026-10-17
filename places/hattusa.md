@@ -9,5 +9,5 @@ control:
 - start: -1650
   end: -1180
   polity: hittite_empire
-  importance: 3
+  importance: 4
 ---

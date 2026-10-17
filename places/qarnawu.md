@@ -7,7 +7,11 @@ point:
   longitude: 44.78
 control:
 - start: -650
-  end: -100
+  end: -101
   polity: minaean_kingdom
-  importance: 3
+  importance: 4
+- start: -100
+  end: 274
+  polity: saba
+  importance: 2
 ---
