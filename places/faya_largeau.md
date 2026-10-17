@@ -1,0 +1,42 @@
+---
+id: faya_largeau
+name: Faya-Largeau
+wikipedia: https://en.wikipedia.org/wiki/Faya-Largeau
+point:
+  latitude: 17.9169
+  longitude: 19.1167
+note: "Libyan forces, with the rebel GUNT they backed, held the town from 1983 to 1987."
+control:
+- start: 1913
+  end: 1939
+  polity: french_third_republic
+  importance: 2
+- start: 1940
+  end: 1943
+  polity: free_france
+  importance: 2
+- start: 1944
+  end: 1945
+  polity: provisional_government_france
+  importance: 2
+- start: 1946
+  end: 1957
+  polity: french_fourth_republic
+  importance: 2
+- start: 1958
+  end: 1959
+  polity: france
+  importance: 2
+- start: 1960
+  end: 1982
+  polity: chad
+  importance: 2
+- start: 1983
+  end: 1986
+  polity: libya
+  importance: 2
+- start: 1987
+  end: null
+  polity: chad
+  importance: 2
+---
