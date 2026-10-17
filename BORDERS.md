@@ -236,16 +236,39 @@ than editing a place another open branch has touched.
 
 ### Colours
 
-Colours are now derived on the fly from a hash of the polity id, so
-neighbours can end up with nearly the same colour, as the Mughals and the
-Qing do in 1650. The plan is to store colours in the polity files instead.
-No single colour per polity can contrast with every neighbour across all of
-history, so a polity's colour may change slowly over its lifetime: the file
-gives colours at a few years and the map interpolates between them. A
-successor that continues the same state keeps its predecessor's colour, so
-the change of record does not show as a change of colour. A script proposes
-the colours by checking which polities touch on the map in each year; once
-committed they are data and can be edited by hand.
+A polity file can give its colour at one or more years:
+
+```yaml
+colors:
+  1636: "#cd51b8"
+  1735: "#cd51b8"
+  1760: "#5151cd"
+```
+
+The year endpoint interpolates between them, so a colour can drift slowly
+over a polity's life; before the first year and after the last the nearest
+colour holds. A polity without `colors` falls back to a colour hashed from
+its id. No single colour per polity can contrast with every neighbour
+across all of history, which is why the drift is allowed.
+
+`colors.py` proposes the colours. It walks through history in 25-year steps
+and at every period start, treats two polities as neighbours when any of
+their places or points lie within 400 km, and picks from 36 hues at three
+lightness levels. A successor (`succeeded_by`, `merged_into`, `split_into`)
+keeps its predecessor's colour when that still contrasts with its
+neighbours; any other new polity takes the colour that stands furthest from
+its neighbours'. When two neighbours clash, the younger one moves, at most
+once a century, and the change is written as a drift over 25 years.
+Compared with hashed colours it cuts clashes between neighbours from about
+11,000 to about 350 across the sample years.
+
+```bash
+python colors.py          # report only
+python colors.py --write  # write colors into every polity file
+```
+
+Rerun it with `--write` after adding polities or places. The output is data:
+commit it, and adjust a colour by hand where the script chose badly.
 
 ## Phase two: barriers
 

@@ -9,6 +9,7 @@ import yaml
 
 ROOT = Path(__file__).parent
 ID = re.compile(r"^[a-z][a-z0-9_]*$")
+COLOR = re.compile(r"^#[0-9a-f]{6}$")
 TYPES = {"chiefdom", "culture"}
 TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by", "broke_away_from"}
 
@@ -54,7 +55,10 @@ def validate_polities(polities):
     ids = set()
     names = set()
     for polity in polities:
-        assert set(polity) - {"transitions", "note", "type"} == {"id", "name", "wikipedia", "description", "periods", "point"}, polity["id"]
+        assert set(polity) - {"transitions", "note", "type", "colors"} == {"id", "name", "wikipedia", "description", "periods", "point"}, polity["id"]
+        assert "colors" not in polity or polity["colors"] and all(
+            isinstance(year, int) and COLOR.fullmatch(color) for year, color in polity["colors"].items()
+        ), polity["id"]
         assert isinstance(polity["description"], str) and 105 <= len(polity["description"].split()) <= 130, polity["id"]
         assert "type" not in polity or polity["type"] in TYPES, polity["id"]
         assert "note" not in polity or isinstance(polity["note"], str) and polity["note"], polity["id"]
@@ -186,7 +190,7 @@ PATH = ROOT / "herodotus.sqlite"
 SCHEMA = """
 CREATE TABLE polities (
     id TEXT PRIMARY KEY, name TEXT, type TEXT, wikipedia TEXT, description TEXT, note TEXT,
-    point_name TEXT, latitude REAL, longitude REAL, transitions TEXT
+    point_name TEXT, latitude REAL, longitude REAL, transitions TEXT, colors TEXT
 );
 CREATE TABLE periods (polity TEXT, start INTEGER, end INTEGER);
 CREATE TABLE places (id TEXT PRIMARY KEY, name TEXT, wikipedia TEXT, latitude REAL, longitude REAL);
@@ -204,10 +208,10 @@ def build():
     partial.unlink(missing_ok=True)
     db = sqlite3.connect(partial)
     db.executescript(SCHEMA)
-    db.executemany("INSERT INTO polities VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", [
+    db.executemany("INSERT INTO polities VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", [
         (p["id"], p["name"], p.get("type"), p["wikipedia"], p["description"], p.get("note"),
          p["point"]["name"], p["point"]["latitude"], p["point"]["longitude"],
-         json.dumps(p.get("transitions", []), ensure_ascii=False))
+         json.dumps(p.get("transitions", []), ensure_ascii=False), json.dumps(sorted(p.get("colors", {}).items())))
         for p in polities
     ])
     db.executemany("INSERT INTO periods VALUES (?, ?, ?)", [
@@ -238,13 +242,30 @@ def connect():
     return db
 
 
+def color_at(colors, year):
+    if not colors:
+        return None
+    before = [(y, c) for y, c in colors if y <= year]
+    after = [(y, c) for y, c in colors if y > year]
+    if not before or not after:
+        return (before or after)[-1 if before else 0][1]
+    (y0, c0), (y1, c1) = before[-1], after[0]
+    t = (year - y0) / (y1 - y0)
+    channels = [round(int(c0[i:i + 2], 16) * (1 - t) + int(c1[i:i + 2], 16) * t) for i in (1, 3, 5)]
+    return "#" + "".join(f"{channel:02x}" for channel in channels)
+
+
 def year(value):
     db = connect()
-    polities = db.execute(
-        f"SELECT id, name, type, latitude, longitude FROM polities"
-        f" WHERE id IN (SELECT polity FROM periods WHERE {ACTIVE}) ORDER BY id",
-        {"year": value},
-    ).fetchall()
+    polities = [
+        {**{key: row[key] for key in ("id", "name", "type", "latitude", "longitude")},
+         "color": color_at(json.loads(row["colors"]), value)}
+        for row in db.execute(
+            f"SELECT id, name, type, latitude, longitude, colors FROM polities"
+            f" WHERE id IN (SELECT polity FROM periods WHERE {ACTIVE}) ORDER BY id",
+            {"year": value},
+        )
+    ]
     places = db.execute(
         f"SELECT places.id, name, latitude, longitude, polity, importance FROM control"
         f" JOIN places ON places.id = control.place WHERE {ACTIVE} ORDER BY places.id",
@@ -259,7 +280,7 @@ def year(value):
     ).fetchall()
     return {
         "year": value,
-        "polities": [dict(row) for row in polities],
+        "polities": polities,
         "places": [dict(row) for row in places],
         "gaps": [dict(row) for row in gaps],
     }
@@ -270,6 +291,7 @@ def polity(polity_id):
     row = db.execute("SELECT * FROM polities WHERE id = ?", (polity_id,)).fetchone()
     record = dict(row)
     record["transitions"] = json.loads(record["transitions"])
+    record["colors"] = json.loads(record["colors"])
     record["periods"] = [
         dict(period) for period in db.execute("SELECT start, end FROM periods WHERE polity = ? ORDER BY start", (polity_id,))
     ]
