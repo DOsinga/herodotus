@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Sadiya
 point:
   latitude: 27.83
   longitude: 95.67
-note: "Sadiya was the seat of the Chutia kingdom until the Ahom conquest of 1524, which has no record."
+note: "The Chutia kingdom may have held Sadiya before 1350, but the evidence is slight."
 control:
+- start: 1350
+  end: 1523
+  polity: chutia_kingdom
+  importance: 3
 - start: 1524
   end: 1821
   polity: ahom_kingdom

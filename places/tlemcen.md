@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tlemcen
 point:
   latitude: 34.8828
   longitude: -1.3167
-note: "The Banu Ifran emirate of Abu Qurra, which founded the town in 765, and the Banu Ifran and Maghrawa rulers of the tenth and eleventh centuries have no record."
+note: "The town was refounded by the Banu Ifran around 765 on the site of Roman Pomaria. The Banu Ifran and Maghrawa rulers of the tenth and eleventh centuries have no record."
 control:
 - start: 40
   end: 394
@@ -26,6 +26,10 @@ control:
 - start: 708
   end: 739
   polity: umayyad_caliphate
+  importance: 2
+- start: 765
+  end: 789
+  polity: ifranid_tlemcen
   importance: 2
 - start: 790
   end: 828

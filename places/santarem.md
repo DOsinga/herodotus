@@ -27,8 +27,12 @@ control:
   polity: visigothic_kingdom
   importance: 2
 - start: 715
-  end: 750
+  end: 746
   polity: umayyad_caliphate
+  importance: 2
+- start: 747
+  end: 755
+  polity: fihrid_andalus
   importance: 2
 - start: 756
   end: 928

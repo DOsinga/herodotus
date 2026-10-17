@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Gwalior
 point:
   latitude: 26.2125
   longitude: 78.1775
-note: "The Kachchhapaghata rulers before the Ghurids and the Tomara kings of Gwalior from 1394 to 1518 have no records. The Scindias made Gwalior their capital in 1810."
+note: "The Kachchhapaghata rulers before the Ghurids have no record. The Scindias made Gwalior their capital in 1810."
 control:
 - start: 350
   end: 509
@@ -27,6 +27,10 @@ control:
   end: 1393
   polity: delhi_sultanate
   importance: 2
+- start: 1394
+  end: 1517
+  polity: tomara_gwalior
+  importance: 3
 - start: 1518
   end: 1525
   polity: delhi_sultanate

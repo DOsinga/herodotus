@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Bahawalpur
 point:
   latitude: 29.3956
   longitude: 71.6836
-note: "Bahawalpur State governed itself from its foundation in 1748 until its treaty with the British in 1838, and has no record."
+note: "Founded in 1748. From 1838 it was a princely state under British protection."
 control:
+- start: 1748
+  end: 1837
+  polity: bahawalpur_state
+  importance: 3
 - start: 1838
   end: 1921
   polity: united_kingdom_gbi

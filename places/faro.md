@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Faro,_Portugal
 point:
   latitude: 37.0161
   longitude: -7.935
-note: "From 1016 to 1051 Faro was the seat of the small taifa of Santa María del Algarve, which has no record."
+note: "Faro is the Shantamariyya al-Gharb of the Banu Harun taifa."
 control:
 - start: -138
   end: -28
@@ -32,8 +32,12 @@ control:
   polity: visigothic_kingdom
   importance: 1
 - start: 714
-  end: 750
+  end: 746
   polity: umayyad_caliphate
+  importance: 1
+- start: 747
+  end: 755
+  polity: fihrid_andalus
   importance: 1
 - start: 756
   end: 928
@@ -43,7 +47,11 @@ control:
   end: 1015
   polity: caliphate_cordoba
   importance: 1
-- start: 1052
+- start: 1018
+  end: 1050
+  polity: taifa_santa_maria_algarve
+  importance: 2
+- start: 1051
   end: 1090
   polity: taifa_seville
   importance: 1

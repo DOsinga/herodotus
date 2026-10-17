@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Agra
 point:
   latitude: 27.1767
   longitude: 78.0081
-note: "Sikandar Lodi made Agra his capital in 1504. The Jats of Bharatpur held it from 1761 to 1774 and have no record."
+note: "Sikandar Lodi made Agra his capital in 1504."
 control:
 - start: 1504
   end: 1525
@@ -26,6 +26,10 @@ control:
 - start: 1649
   end: 1760
   polity: mughal_empire
+  importance: 3
+- start: 1761
+  end: 1773
+  polity: bharatpur_state
   importance: 3
 - start: 1774
   end: 1784

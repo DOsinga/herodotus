@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Old_Goa
 point:
   latitude: 15.503
   longitude: 73.912
-note: "The capital of Portuguese India until the move to Panaji in 1843. The Kadamba kings of Goa before Vijayanagara have no record."
+note: "The capital of Portuguese India until the move to Panaji in 1843."
 control:
 - start: 1378
   end: 1468

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Rabat
 point:
   latitude: 34.0211
   longitude: -6.8414
-note: "Before the Almohads founded Rabat in 1150, the spans are those of Roman Sala, at Chellah on the edge of the city."
+note: "Before the Almohads founded Rabat in 1150, the spans are those of Roman Sala and later Chellah and Salé, on the edge of the city."
 control:
 - start: -225
   end: -34
@@ -30,6 +30,10 @@ control:
 - start: 395
   end: 428
   polity: western_roman_empire
+  importance: 2
+- start: 1029
+  end: 1057
+  polity: ifranid_sale
   importance: 2
 - start: 1150
   end: 1268

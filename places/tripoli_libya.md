@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tripoli,_Libya
 point:
   latitude: 32.888
   longitude: 13.188
-note: "The Banu Khazrun ruled Tripoli from 1001 to 1146 and the Knights Hospitaller from 1530 to 1551; neither has a record."
+note: "The Zirids held Tripoli for some years between 1009 and 1022, which is not shown. From 757 to 761 it was held by the Ibadi imam Abu al-Khattab, without a record."
 control:
 - start: -500
   end: -162
@@ -40,10 +40,14 @@ control:
   polity: rashidun_caliphate
   importance: 2
 - start: 661
-  end: 749
+  end: 744
   polity: umayyad_caliphate
   importance: 2
-- start: 750
+- start: 745
+  end: 756
+  polity: fihrid_ifriqiya
+  importance: 2
+- start: 761
   end: 799
   polity: abbasid_caliphate
   importance: 2
@@ -59,6 +63,10 @@ control:
   end: 1000
   polity: zirid_emirate
   importance: 2
+- start: 1001
+  end: 1145
+  polity: khazrunid_tripoli
+  importance: 3
 - start: 1146
   end: 1157
   polity: kingdom_sicily

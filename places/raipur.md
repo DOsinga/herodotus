@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Raipur
 point:
   latitude: 21.2444
   longitude: 81.6306
-note: "The Kalachuri kings of Ratanpur and Raipur held Chhattisgarh until the Bhonsle conquest of 1741 and have no record."
+note: "From about 1407 Raipur was the seat of a junior Kalachuri branch, which is counted with the kingdom of Ratnapura."
 control:
+- start: 1407
+  end: 1740
+  polity: kalachuri_ratnapura
+  importance: 2
 - start: 1741
   end: 1817
   polity: maratha_empire

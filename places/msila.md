@@ -36,9 +36,13 @@ control:
   polity: ottoman_empire
   importance: 1
 - start: 1659
-  end: 1830
+  end: 1829
   polity: regency_algiers
   importance: 1
+- start: 1830
+  end: 1836
+  polity: beylik_constantine
+  importance: 2
 - start: 1841
   end: 1847
   polity: kingdom_france

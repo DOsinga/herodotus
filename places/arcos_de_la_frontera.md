@@ -8,8 +8,12 @@ point:
 note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: 712
-  end: 750
+  end: 746
   polity: umayyad_caliphate
+  importance: 1
+- start: 747
+  end: 755
+  polity: fihrid_andalus
   importance: 1
 - start: 756
   end: 928

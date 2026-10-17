@@ -8,6 +8,14 @@ point:
 note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: 802
+  end: 871
+  polity: emirate_cordoba
+  importance: 2
+- start: 872
+  end: 923
+  polity: banu_qasi
+  importance: 3
+- start: 924
   end: 928
   polity: emirate_cordoba
   importance: 2

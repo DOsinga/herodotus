@@ -8,8 +8,12 @@ point:
 note: "Granada razed the town in 1379; it was refounded in 1704 by refugees from Gibraltar."
 control:
 - start: 711
-  end: 750
+  end: 746
   polity: umayyad_caliphate
+  importance: 2
+- start: 747
+  end: 755
+  polity: fihrid_andalus
   importance: 2
 - start: 756
   end: 928
@@ -18,6 +22,14 @@ control:
 - start: 929
   end: 1008
   polity: caliphate_cordoba
+  importance: 2
+- start: 1016
+  end: 1025
+  polity: hammudid_caliphate
+  importance: 2
+- start: 1026
+  end: 1034
+  polity: taifa_malaga
   importance: 2
 - start: 1035
   end: 1057

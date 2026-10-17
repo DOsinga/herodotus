@@ -39,6 +39,18 @@ control:
   end: 1008
   polity: caliphate_cordoba
   importance: 2
+- start: 1016
+  end: 1025
+  polity: hammudid_caliphate
+  importance: 2
+- start: 1026
+  end: 1056
+  polity: taifa_malaga
+  importance: 2
+- start: 1061
+  end: 1076
+  polity: taifa_ceuta
+  importance: 2
 - start: 1077
   end: 1146
   polity: almoravid_emirate

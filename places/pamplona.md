@@ -20,8 +20,12 @@ control:
   polity: western_roman_empire
   importance: 2
 - start: 718
-  end: 750
+  end: 746
   polity: umayyad_caliphate
+  importance: 2
+- start: 747
+  end: 755
+  polity: fihrid_andalus
   importance: 2
 - start: 756
   end: 798

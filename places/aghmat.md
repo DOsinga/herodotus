@@ -23,4 +23,8 @@ control:
   end: 1464
   polity: marinid_sultanate
   importance: 1
+- start: 1465
+  end: 1524
+  polity: hintata_marrakesh
+  importance: 2
 ---

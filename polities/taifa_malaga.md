@@ -27,9 +27,6 @@ point:
   longitude: -4.4214
 note: "Granada governed Málaga between the first two periods. The later restorations ended under the Almohads and Nasrid Granada. The final annexation is dated 1238 here; some accounts use 1239."
 transitions:
-- year: 1026
-  kind: broke_away_from
-  from: [caliphate_cordoba]
 - year: 1057
   kind: absorbed_into
   into: [taifa_granada]

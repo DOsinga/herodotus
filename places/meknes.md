@@ -27,8 +27,12 @@ control:
   polity: wattasid_sultanate
   importance: 2
 - start: 1554
-  end: 1658
+  end: 1640
   polity: saadi_sultanate
+  importance: 2
+- start: 1641
+  end: 1665
+  polity: dilai_zawiya
   importance: 2
 - start: 1666
   end: 1671
