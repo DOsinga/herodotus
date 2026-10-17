@@ -1,0 +1,70 @@
+---
+id: halberstadt
+name: Halberstadt
+wikipedia: https://en.wikipedia.org/wiki/Halberstadt
+point:
+  latitude: 51.8958
+  longitude: 11.0467
+note: "Gap for the Prince-Bishopric of Halberstadt, which has no record, until Brandenburg received it in 1648."
+control:
+- start: 804
+  end: 842
+  polity: carolingian_francia
+  importance: 2
+- start: 843
+  end: 851
+  polity: east_francia
+  importance: 2
+- start: 852
+  end: 918
+  polity: duchy_saxony_early
+  importance: 2
+- start: 919
+  end: 961
+  polity: east_francia
+  importance: 2
+- start: 962
+  end: 1249
+  polity: holy_roman_empire
+  importance: 2
+- start: 1648
+  end: 1700
+  polity: margraviate_brandenburg
+  importance: 1
+- start: 1701
+  end: 1806
+  polity: kingdom_prussia
+  importance: 1
+- start: 1807
+  end: 1812
+  polity: kingdom_westphalia
+  importance: 1
+- start: 1813
+  end: 1866
+  polity: kingdom_prussia
+  importance: 1
+- start: 1867
+  end: 1870
+  polity: north_german_confederation
+  importance: 1
+- start: 1871
+  end: 1917
+  polity: german_empire
+  importance: 1
+- start: 1918
+  end: 1932
+  polity: weimar_republic
+  importance: 1
+- start: 1933
+  end: 1945
+  polity: nazi_germany
+  importance: 1
+- start: 1949
+  end: 1989
+  polity: east_germany
+  importance: 1
+- start: 1990
+  end: null
+  polity: west_germany
+  importance: 1
+---

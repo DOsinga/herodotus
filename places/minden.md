@@ -1,0 +1,74 @@
+---
+id: minden
+name: Minden
+wikipedia: https://en.wikipedia.org/wiki/Minden
+point:
+  latitude: 52.2883
+  longitude: 8.9167
+note: "Gap for the Prince-Bishopric of Minden, which has no record, until Brandenburg received it in 1648."
+control:
+- start: 798
+  end: 803
+  polity: old_saxon_confederation
+  importance: 2
+- start: 804
+  end: 842
+  polity: carolingian_francia
+  importance: 2
+- start: 843
+  end: 851
+  polity: east_francia
+  importance: 2
+- start: 852
+  end: 918
+  polity: duchy_saxony_early
+  importance: 2
+- start: 919
+  end: 961
+  polity: east_francia
+  importance: 2
+- start: 962
+  end: 1249
+  polity: holy_roman_empire
+  importance: 2
+- start: 1648
+  end: 1700
+  polity: margraviate_brandenburg
+  importance: 1
+- start: 1701
+  end: 1806
+  polity: kingdom_prussia
+  importance: 1
+- start: 1807
+  end: 1810
+  polity: kingdom_westphalia
+  importance: 1
+- start: 1811
+  end: 1812
+  polity: first_french_empire
+  importance: 1
+- start: 1813
+  end: 1866
+  polity: kingdom_prussia
+  importance: 2
+- start: 1867
+  end: 1870
+  polity: north_german_confederation
+  importance: 2
+- start: 1871
+  end: 1917
+  polity: german_empire
+  importance: 2
+- start: 1918
+  end: 1932
+  polity: weimar_republic
+  importance: 2
+- start: 1933
+  end: 1945
+  polity: nazi_germany
+  importance: 2
+- start: 1949
+  end: null
+  polity: west_germany
+  importance: 2
+---
