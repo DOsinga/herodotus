@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Buenos_Aires
 point:
   latitude: -34.604
   longitude: -58.381
-note: "The United Provinces of the Río de la Plata before the declaration of independence in 1816 have no record."
 control:
 - start: 1536
   end: 1541
@@ -23,7 +22,7 @@ control:
   end: 1809
   polity: spain
   importance: 3
-- start: 1816
+- start: 1810
   end: 1851
   polity: argentina
   importance: 3

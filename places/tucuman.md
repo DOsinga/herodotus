@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/San_Miguel_de_Tucumán
 point:
   latitude: -26.8167
   longitude: -65.2167
-note: "The United Provinces of the Río de la Plata before the declaration of independence in 1816 have no record."
 control:
 - start: 1565
   end: 1715
@@ -19,7 +18,7 @@ control:
   end: 1809
   polity: spain
   importance: 2
-- start: 1816
+- start: 1810
   end: null
   polity: argentina
   importance: 2

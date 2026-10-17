@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Portland,_Oregon
 point:
   latitude: 45.52
   longitude: -122.6819
-note: "The settlers' provisional government of Oregon, from 1843 until Oregon Territory was set up in 1849, has no record."
+note: "Founded in 1845."
 control:
+- start: 1845
+  end: 1848
+  polity: oregon_provisional_government
+  importance: 2
 - start: 1849
   end: null
   polity: united_states

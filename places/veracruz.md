@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Veracruz_(city)
 point:
   latitude: 19.1903
   longitude: -96.1533
-note: "United States forces occupied the city in 1847–1848 without ending Mexican government elsewhere. United States forces also occupied Veracruz from April to November 1914."
+note: "French troops held the port from 1862, before the empire was proclaimed. United States forces occupied the city in 1847–1848 and from April to November 1914 without ending Mexican government elsewhere."
 control:
 - start: 1519
   end: 1715
@@ -28,6 +28,18 @@ control:
   polity: united_states
   importance: 3
 - start: 1848
+  end: 1861
+  polity: mexico
+  importance: 3
+- start: 1862
+  end: 1862
+  polity: second_french_empire
+  importance: 3
+- start: 1863
+  end: 1866
+  polity: second_mexican_empire
+  importance: 3
+- start: 1867
   end: 1913
   polity: mexico
   importance: 3

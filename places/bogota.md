@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Bogotá
 point:
   latitude: 4.711
   longitude: -74.0721
-note: "The State of Cundinamarca, which governed the city from 1810 to 1815, has no record."
 control:
 - start: 1538
   end: 1715
@@ -16,8 +15,16 @@ control:
   polity: bourbon_spain
   importance: 3
 - start: 1808
-  end: 1810
+  end: 1809
   polity: spain
+  importance: 3
+- start: 1810
+  end: 1813
+  polity: cundinamarca
+  importance: 3
+- start: 1814
+  end: 1815
+  polity: united_provinces_new_granada
   importance: 3
 - start: 1816
   end: 1818

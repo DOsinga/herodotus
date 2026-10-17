@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Salta
 point:
   latitude: -24.7833
   longitude: -65.4167
-note: "The United Provinces of the Río de la Plata before the declaration of independence in 1816 have no record."
 control:
 - start: 1582
   end: 1715
@@ -19,7 +18,7 @@ control:
   end: 1809
   polity: spain
   importance: 2
-- start: 1816
+- start: 1810
   end: null
   polity: argentina
   importance: 2

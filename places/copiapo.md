@@ -15,10 +15,18 @@ control:
   polity: bourbon_spain
   importance: 2
 - start: 1808
-  end: 1817
+  end: 1809
   polity: spain
   importance: 2
-- start: 1818
+- start: 1810
+  end: 1813
+  polity: chile
+  importance: 2
+- start: 1814
+  end: 1816
+  polity: spain
+  importance: 2
+- start: 1817
   end: null
   polity: chile
   importance: 2

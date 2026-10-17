@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Paraná,_Entre_Ríos
 point:
   latitude: -31.7331
   longitude: -60.5297
-note: "Capital of the Argentine Confederation from 1853 to 1861. Entre Ríos followed Artigas's Federal League until 1820."
+note: "Capital of the Argentine Confederation from 1853 to 1861. Entre Ríos governed itself outside any recorded polity in 1820."
 control:
 - start: 1730
   end: 1807
@@ -14,6 +14,14 @@ control:
 - start: 1808
   end: 1809
   polity: spain
+  importance: 1
+- start: 1810
+  end: 1814
+  polity: argentina
+  importance: 1
+- start: 1815
+  end: 1819
+  polity: federal_league
   importance: 1
 - start: 1821
   end: 1852

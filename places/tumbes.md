@@ -23,6 +23,14 @@ control:
   polity: spain
   importance: 1
 - start: 1821
+  end: 1835
+  polity: peru
+  importance: 1
+- start: 1836
+  end: 1838
+  polity: peru_bolivian_confederation
+  importance: 1
+- start: 1839
   end: null
   polity: peru
   importance: 1

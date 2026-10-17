@@ -19,6 +19,14 @@ control:
   polity: spain
   importance: 1
 - start: 1825
+  end: 1835
+  polity: bolivia
+  importance: 2
+- start: 1836
+  end: 1838
+  polity: peru_bolivian_confederation
+  importance: 2
+- start: 1839
   end: null
   polity: bolivia
   importance: 2

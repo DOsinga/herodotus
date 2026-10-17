@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Puno
 point:
   latitude: -15.8433
   longitude: -70.0236
-note: "The Inca span stands for Hatun Colla, the old Colla capital north of the city."
+note: "The spans before 1533 stand for Hatun Colla, the old Colla capital north of the city."
 control:
+- start: 1100
+  end: 1449
+  polity: colla_kingdom
+  importance: 2
 - start: 1450
   end: 1532
   polity: inca_empire
@@ -24,6 +28,14 @@ control:
   polity: spain
   importance: 2
 - start: 1825
+  end: 1835
+  polity: peru
+  importance: 2
+- start: 1836
+  end: 1838
+  polity: peru_bolivian_confederation
+  importance: 2
+- start: 1839
   end: null
   polity: peru
   importance: 2

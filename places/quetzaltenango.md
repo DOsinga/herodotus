@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Quetzaltenango
 point:
   latitude: 14.8333
   longitude: -91.5167
-note: "The State of Los Altos, which seceded from Guatemala in 1838 until 1840, has no record."
 control:
 - start: 1400
   end: 1523
@@ -31,6 +30,10 @@ control:
   end: 1837
   polity: federal_republic_central_america
   importance: 2
+- start: 1838
+  end: 1839
+  polity: los_altos
+  importance: 3
 - start: 1840
   end: null
   polity: guatemala

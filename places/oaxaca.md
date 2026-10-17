@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Oaxaca_City
 point:
   latitude: 17.0606
   longitude: -96.7253
-note: "The Aztec garrison of Huaxyacac from 1486. The Zapotec and Mixtec kingdoms around it have no records."
+note: "The Aztec garrison of Huaxyacac from 1486."
 control:
 - start: 1486
   end: 1520
@@ -24,6 +24,14 @@ control:
   polity: spain
   importance: 3
 - start: 1821
+  end: 1864
+  polity: mexico
+  importance: 3
+- start: 1865
+  end: 1865
+  polity: second_mexican_empire
+  importance: 3
+- start: 1866
   end: null
   polity: mexico
   importance: 3

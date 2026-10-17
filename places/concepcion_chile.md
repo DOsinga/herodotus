@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Concepción,_Chile
 point:
   latitude: -36.8282
   longitude: -73.0514
-note: "The Chilean juntas of 1810 to 1814 and the government of 1817 have no record."
 control:
 - start: 1550
   end: 1715
@@ -19,9 +18,17 @@ control:
   end: 1809
   polity: spain
   importance: 3
-- start: 1814
+- start: 1810
+  end: 1812
+  polity: chile
+  importance: 3
+- start: 1813
   end: 1816
   polity: spain
+  importance: 3
+- start: 1817
+  end: 1817
+  polity: chile
   importance: 3
 - start: 1818
   end: null

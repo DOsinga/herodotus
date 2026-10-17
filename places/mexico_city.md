@@ -32,6 +32,14 @@ control:
   polity: united_states
   importance: 4
 - start: 1848
+  end: 1862
+  polity: mexico
+  importance: 4
+- start: 1863
+  end: 1866
+  polity: second_mexican_empire
+  importance: 4
+- start: 1867
   end: null
   polity: mexico
   importance: 4
