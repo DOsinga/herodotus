@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Phnom_Penh
 point:
   latitude: 11.5564
   longitude: 104.9282
-note: "Phnom Penh was the royal seat in the fifteenth century and again from 1866; the court sat at Longvek and Oudong in between."
+note: "Phnom Penh was the royal seat in the fifteenth century and again from 1866; the court sat at Longvek and Oudong in between. From 1943 to the coup of March 1945 the French colonial administration still ran Cambodia, but Japan's army held Indochina and Vichy itself no longer governed, so those years are Japanese."
 control:
 - start: 50
   end: 626
@@ -47,7 +47,7 @@ control:
   end: 1942
   polity: vichy_france
   importance: 4
-- start: 1945
+- start: 1943
   end: 1945
   polity: empire_japan
   importance: 4
