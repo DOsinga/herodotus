@@ -9,9 +9,9 @@ control:
 - start: 1782
   end: 1931
   polity: rattanakosin_kingdom
-  importance: 3
+  importance: 4
 - start: 1932
   end: null
   polity: thailand
-  importance: 3
+  importance: 4
 ---

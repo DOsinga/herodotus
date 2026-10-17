@@ -10,4 +10,8 @@ control:
   end: 1050
   polity: khu_bua_polity
   importance: 3
+- start: 1351
+  end: null
+  follows: ratchaburi
+  importance: 1
 ---

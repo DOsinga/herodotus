@@ -7,11 +7,11 @@ point:
   longitude: 100.367
 control:
 - start: 330
-  end: 1821
+  end: 1734
   polity: kedah_kingdom
   importance: 3
-- start: 1842
-  end: 1909
-  polity: kedah_kingdom
-  importance: 3
+- start: 1735
+  end: null
+  follows: alor_setar
+  importance: 1
 ---
