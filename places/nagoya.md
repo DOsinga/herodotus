@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Nagoya
 point:
   latitude: 35.1833
   longitude: 136.9
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "Kiyosu, the Oda seat from 1555, lies 7 km northwest. The divided Oda and Shiba before 1555 have no record."
 control:
 - start: 400
   end: 1184
@@ -23,6 +23,10 @@ control:
   end: 1466
   polity: ashikaga_shogunate
   importance: 2
+- start: 1555
+  end: 1572
+  polity: oda_clan
+  importance: 3
 - start: 1573
   end: 1599
   polity: oda_toyotomi_regime

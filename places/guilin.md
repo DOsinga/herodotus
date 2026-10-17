@@ -111,6 +111,10 @@ control:
   end: 1673
   polity: qing_dynasty
   importance: 3
+- start: 1674
+  end: 1677
+  polity: zhou_wu_sangui
+  importance: 3
 - start: 1678
   end: 1911
   polity: qing_dynasty

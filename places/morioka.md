@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Morioka
 point:
   latitude: 39.7021
   longitude: 141.1545
-note: "The Northern Fujiwara of Hiraizumi governed the north of Mutsu from about 1094 until 1189; they have no record. From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
 control:
 - start: 803
-  end: 1093
+  end: 1086
   polity: heian_japan
+  importance: 2
+- start: 1087
+  end: 1188
+  polity: northern_fujiwara
   importance: 2
 - start: 1189
   end: 1332

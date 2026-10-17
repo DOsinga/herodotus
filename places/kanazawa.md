@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kanazawa
 point:
   latitude: 36.5611
   longitude: 136.6564
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "The Oyama temple-fortress, from which the Hongan-ji's officials ruled Kaga from 1546, stood on the site of Kanazawa Castle."
 control:
 - start: 500
   end: 1184
@@ -22,6 +22,10 @@ control:
 - start: 1336
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1488
+  end: 1579
+  polity: ikko_ikki
   importance: 2
 - start: 1580
   end: 1599

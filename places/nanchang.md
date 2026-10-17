@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Nanchang
 point:
   latitude: 28.683
   longitude: 115.858
-note: "Chen Youliang held the city from 1359; Zhu Yuanzhang's regime took it in 1362. Neither has a record."
 control:
 - start: -500
   end: -224
@@ -104,8 +103,20 @@ control:
   polity: song_dynasty
   importance: 3
 - start: 1275
-  end: 1358
+  end: 1357
   polity: yuan_dynasty
+  importance: 3
+- start: 1358
+  end: 1359
+  polity: tianwan
+  importance: 3
+- start: 1360
+  end: 1361
+  polity: chen_han
+  importance: 3
+- start: 1362
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 3
 - start: 1368
   end: 1643

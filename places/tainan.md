@@ -23,6 +23,10 @@ control:
   polity: qing_dynasty
   importance: 2
 - start: 1895
+  end: 1895
+  polity: republic_formosa
+  importance: 3
+- start: 1896
   end: 1944
   polity: empire_japan
   importance: 2

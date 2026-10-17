@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Dazaifu
 point:
   latitude: 33.5136
   longitude: 130.5239
-note: "The seat of the government of Kyushu, held for the Southern Court by Prince Kaneyoshi from 1361 to 1372. From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "The seat of the government of Kyushu, held for the Southern Court by Prince Kaneyoshi from 1361 to 1372. The Shōni, who have no record, held it until the Ōuchi took it in 1478 and contested it until 1536."
 control:
 - start: 664
   end: 1184
@@ -30,6 +30,18 @@ control:
 - start: 1372
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1478
+  end: 1556
+  polity: ouchi_clan
+  importance: 2
+- start: 1557
+  end: 1585
+  polity: otomo_clan
+  importance: 2
+- start: 1586
+  end: 1586
+  polity: shimazu_clan
   importance: 2
 - start: 1587
   end: 1599

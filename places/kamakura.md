@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kamakura
 point:
   latitude: 35.3192
   longitude: 139.5467
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "The Kantō kubō left Kamakura in 1455; the Uesugi held it until the Later Hōjō took it in 1512, and they have no record."
 control:
 - start: 700
   end: 1184
@@ -23,6 +23,10 @@ control:
   end: 1454
   polity: ashikaga_shogunate
   importance: 3
+- start: 1512
+  end: 1589
+  polity: later_hojo
+  importance: 2
 - start: 1590
   end: 1599
   polity: oda_toyotomi_regime

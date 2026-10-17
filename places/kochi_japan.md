@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kōchi,_Kōchi
 point:
   latitude: 33.5589
   longitude: 133.5314
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "Okō Castle, the Chōsokabe seat, lies 10 km east. The Motoyama, Ichijō and others who held Tosa before 1560 have no record."
 control:
 - start: 400
   end: 1184
@@ -23,6 +23,10 @@ control:
   end: 1466
   polity: ashikaga_shogunate
   importance: 2
+- start: 1560
+  end: 1584
+  polity: chosokabe_clan
+  importance: 3
 - start: 1585
   end: 1599
   polity: oda_toyotomi_regime

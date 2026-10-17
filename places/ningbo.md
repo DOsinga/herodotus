@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Ningbo
 point:
   latitude: 29.8603
   longitude: 121.6245
-note: "Fang Guozhen held the coast here from the 1350s until 1367; his regime has no record."
 control:
 - start: -700
   end: -307
@@ -94,6 +93,14 @@ control:
 - start: 1276
   end: 1355
   polity: yuan_dynasty
+  importance: 2
+- start: 1356
+  end: 1366
+  polity: fang_guozhen
+  importance: 3
+- start: 1367
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 2
 - start: 1368
   end: 1643

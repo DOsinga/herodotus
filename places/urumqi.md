@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Ürümqi
 point:
   latitude: 43.8225
   longitude: 87.6125
-note: "The Tungan rebels who held the city from 1864 to 1870 have no record."
 control:
 - start: 1680
   end: 1757
@@ -15,6 +14,10 @@ control:
   end: 1863
   polity: qing_dynasty
   importance: 2
+- start: 1864
+  end: 1869
+  polity: urumqi_tungan_state
+  importance: 3
 - start: 1870
   end: 1876
   polity: yettishar

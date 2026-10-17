@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Niigata_(city)
 point:
   latitude: 37.9161
   longitude: 139.0364
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "Shibata Shigeie held the port against the Uesugi from 1581 until 1586."
 control:
 - start: 647
   end: 1184
@@ -22,6 +22,10 @@ control:
 - start: 1336
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1467
+  end: 1580
+  polity: uesugi_clan
   importance: 2
 - start: 1586
   end: 1599

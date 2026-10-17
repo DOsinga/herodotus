@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Chang'an
 point:
   latitude: 34.267
   longitude: 108.9
-note: "The modern city is Xi'an. Li Zicheng's Shun held it from 1643 until the Qing took it in 1645."
+note: "The modern city is Xi'an."
 control:
 - start: -1046
   end: -771
@@ -174,6 +174,10 @@ control:
 - start: 1369
   end: 1642
   polity: ming_dynasty
+  importance: 3
+- start: 1643
+  end: 1644
+  polity: shun_dynasty
   importance: 3
 - start: 1645
   end: 1911

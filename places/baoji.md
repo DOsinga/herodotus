@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Baoji
 point:
   latitude: 34.363
   longitude: 107.238
-note: "Fengxiang under Li Maozhen's Qi, 887–924, has no record; Yong, the early Qin capital, lies at Fengxiang nearby."
+note: "Yong, the early Qin capital, and Fengxiang, the seat of Li Maozhen's Qi, lie nearby."
 control:
 - start: -770
   end: -678
@@ -103,6 +103,10 @@ control:
   end: 886
   polity: tang_dynasty
   importance: 2
+- start: 887
+  end: 923
+  polity: qi_li_maozhen
+  importance: 3
 - start: 924
   end: 936
   polity: later_tang

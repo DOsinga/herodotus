@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Hetu_Ala
 point:
   latitude: 41.702
   longitude: 124.858
-note: "Nurhaci's seat from 1603; his Jianzhou Jurchen state before 1616 has no record."
+note: "Nurhaci's seat from 1603; Fe Ala, his seat from 1587, lies nearby."
 control:
+- start: 1587
+  end: 1615
+  polity: jianzhou_nurhaci
+  importance: 3
 - start: 1616
   end: 1619
   polity: later_jin

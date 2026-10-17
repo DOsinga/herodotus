@@ -70,9 +70,17 @@ control:
   end: 1673
   polity: qing_dynasty
   importance: 2
-- start: 1682
+- start: 1674
+  end: 1680
+  polity: zhou_wu_sangui
+  importance: 2
+- start: 1681
   end: 1855
   polity: qing_dynasty
+  importance: 2
+- start: 1856
+  end: 1872
+  polity: pingnan_state
   importance: 2
 - start: 1873
   end: 1911

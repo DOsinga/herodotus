@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Yangzhou
 point:
   latitude: 32.394
   longitude: 119.413
-note: "Zhu Yuanzhang's regime, which took the city in 1357, has no record."
 control:
 - start: -486
   end: -474
@@ -134,6 +133,10 @@ control:
 - start: 1276
   end: 1356
   polity: yuan_dynasty
+  importance: 3
+- start: 1357
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 3
 - start: 1368
   end: 1643

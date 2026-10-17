@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Yining
 point:
   latitude: 43.908
   longitude: 81.278
-note: "The Taranchi sultanate of Ili, 1864–1871, has no record."
 control:
 - start: 1634
   end: 1757
@@ -14,6 +13,10 @@ control:
 - start: 1758
   end: 1863
   polity: qing_dynasty
+  importance: 3
+- start: 1864
+  end: 1870
+  polity: ili_sultanate
   importance: 3
 - start: 1871
   end: 1881

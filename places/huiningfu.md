@@ -15,6 +15,10 @@ control:
   end: 1214
   polity: jin_dynasty
   importance: 2
+- start: 1215
+  end: 1232
+  polity: eastern_xia
+  importance: 2
 - start: 1233
   end: 1270
   polity: mongol_empire

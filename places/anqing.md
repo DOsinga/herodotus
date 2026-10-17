@@ -5,15 +5,35 @@ wikipedia: https://en.wikipedia.org/wiki/Anqing
 point:
   latitude: 30.5318
   longitude: 117.1153
-note: "Xu Shouhui's and Chen Youliang's regimes, which held the city in the 1350s, have no record."
+note: "Yu Que held the city for the Yuan until Chen Youliang took it in 1358; it changed hands between Han and Wu in 1361 and 1362."
 control:
 - start: 1217
   end: 1275
   polity: song_dynasty
   importance: 2
 - start: 1276
-  end: 1351
+  end: 1357
   polity: yuan_dynasty
+  importance: 2
+- start: 1358
+  end: 1359
+  polity: tianwan
+  importance: 2
+- start: 1360
+  end: 1360
+  polity: chen_han
+  importance: 2
+- start: 1361
+  end: 1361
+  polity: wu_zhu_yuanzhang
+  importance: 2
+- start: 1362
+  end: 1362
+  polity: chen_han
+  importance: 2
+- start: 1363
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 2
 - start: 1368
   end: 1643

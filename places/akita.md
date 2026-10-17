@@ -8,10 +8,14 @@ point:
 note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
 control:
 - start: 733
-  end: 1184
+  end: 1086
   polity: heian_japan
   importance: 2
-- start: 1185
+- start: 1087
+  end: 1188
+  polity: northern_fujiwara
+  importance: 2
+- start: 1189
   end: 1332
   polity: kamakura_shogunate
   importance: 2

@@ -55,6 +55,10 @@ control:
   end: 1863
   polity: qing_dynasty
   importance: 2
+- start: 1864
+  end: 1869
+  polity: urumqi_tungan_state
+  importance: 2
 - start: 1870
   end: 1876
   polity: yettishar

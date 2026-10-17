@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Jiujiang
 point:
   latitude: 29.661
   longitude: 115.954
-note: "Chen Youliang's Han, whose capital was here in 1360, has no record."
+note: "Chen Youliang's base under Tianwan from 1358 and his capital in 1360. Who held it in 1352–1357, between Tianwan raids and Yuan recovery, is not clear."
 control:
 - start: -500
   end: -224
@@ -94,6 +94,26 @@ control:
 - start: 1275
   end: 1351
   polity: yuan_dynasty
+  importance: 2
+- start: 1358
+  end: 1359
+  polity: tianwan
+  importance: 2
+- start: 1360
+  end: 1360
+  polity: chen_han
+  importance: 3
+- start: 1361
+  end: 1361
+  polity: wu_zhu_yuanzhang
+  importance: 2
+- start: 1362
+  end: 1362
+  polity: chen_han
+  importance: 2
+- start: 1363
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 2
 - start: 1368
   end: 1643

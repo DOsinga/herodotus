@@ -30,6 +30,10 @@ control:
   end: 24
   polity: gengshi_han
   importance: 2
+- start: 25
+  end: 35
+  polity: chengjia
+  importance: 2
 - start: 36
   end: 220
   polity: han_dynasty
@@ -130,9 +134,21 @@ control:
   end: 1357
   polity: yuan_dynasty
   importance: 2
+- start: 1358
+  end: 1359
+  polity: tianwan
+  importance: 2
+- start: 1360
+  end: 1370
+  polity: ming_xia
+  importance: 2
 - start: 1371
   end: 1643
   polity: ming_dynasty
+  importance: 2
+- start: 1644
+  end: 1646
+  polity: xi_dynasty
   importance: 2
 - start: 1647
   end: 1648
@@ -146,7 +162,11 @@ control:
   end: 1673
   polity: qing_dynasty
   importance: 2
-- start: 1681
+- start: 1674
+  end: 1679
+  polity: zhou_wu_sangui
+  importance: 2
+- start: 1680
   end: 1911
   polity: qing_dynasty
   importance: 2

@@ -128,8 +128,16 @@ control:
   polity: song_dynasty
   importance: 2
 - start: 1276
-  end: 1356
+  end: 1352
   polity: yuan_dynasty
+  importance: 2
+- start: 1353
+  end: 1365
+  polity: wu_zhang_shicheng
+  importance: 2
+- start: 1366
+  end: 1367
+  polity: wu_zhu_yuanzhang
   importance: 2
 - start: 1368
   end: 1643

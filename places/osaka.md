@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Osaka
 point:
   latitude: 34.6872
   longitude: 135.5258
-note: "The Ishiyama Hongan-ji and its Ikkō-ikki held Osaka from 1496 until they surrendered it to Oda Nobunaga in 1580."
+note: "The Ishiyama Hongan-ji stood on the site of the later Osaka Castle."
 control:
 - start: 300
   end: 644
@@ -31,6 +31,10 @@ control:
   end: 1495
   polity: ashikaga_shogunate
   importance: 2
+- start: 1496
+  end: 1579
+  polity: ikko_ikki
+  importance: 3
 - start: 1580
   end: 1599
   polity: oda_toyotomi_regime
