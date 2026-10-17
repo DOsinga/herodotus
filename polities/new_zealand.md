@@ -15,17 +15,17 @@ description: >-
 name: New Zealand
 wikipedia: https://en.wikipedia.org/wiki/New_Zealand
 periods:
-- start: 1939
+- start: 1907
   end: null
 point:
   name: Wellington
   latitude: -41.2889
   longitude: 174.7772
 colors:
-  1939: "#51a3cd"
-note: "Starts in 1939, when New Zealand declared war in its own right; it adopted the Statute of Westminster only in 1947. Self-governing at home earlier. Links the country article. Changes of regime are not split into separate records."
+  1907: "#51a3cd"
+note: "Starts with dominion status in 1907: like the other dominions, its own responsible government ran its affairs, so Britain's control of foreign policy until 1939 does not make it a protected state. The colony had responsible government from 1856 but counts as British until it became a dominion. Links the country article. Changes of regime are not split into separate records."
 transitions:
-- year: 1939
+- year: 1907
   kind: broke_away_from
-  from: [united_kingdom]
+  from: [united_kingdom_gbi]
 ---

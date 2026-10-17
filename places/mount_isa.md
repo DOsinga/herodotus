@@ -8,7 +8,7 @@ point:
 control:
 - start: 1923
   end: 1941
-  polity: united_kingdom
+  polity: australia
   importance: 3
 - start: 1942
   end: null

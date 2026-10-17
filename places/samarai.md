@@ -7,12 +7,12 @@ point:
   longitude: 150.6647
 control:
 - start: 1888
-  end: 1921
+  end: 1905
   polity: united_kingdom_gbi
   importance: 2
-- start: 1922
+- start: 1906
   end: 1941
-  polity: united_kingdom
+  polity: australia
   importance: 2
 - start: 1942
   end: 1974

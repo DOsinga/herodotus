@@ -22,7 +22,7 @@ point:
   latitude: 39.9067
   longitude: 116.3975
 colors:
-  1949: "#672786"
+  1949: "#272786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1949

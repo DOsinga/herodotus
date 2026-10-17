@@ -21,7 +21,7 @@ point:
   latitude: -15.4167
   longitude: 28.2833
 colors:
-  1964: "#cd6651"
+  1964: "#863727"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1964

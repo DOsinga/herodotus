@@ -20,7 +20,7 @@ point:
   latitude: 17.3
   longitude: -62.7333
 colors:
-  1983: "#572786"
+  1983: "#6651cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1983

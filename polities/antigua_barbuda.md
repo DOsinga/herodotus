@@ -22,7 +22,7 @@ point:
   latitude: 17.1167
   longitude: -61.85
 colors:
-  1981: "#517acd"
+  1981: "#865727"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1981
