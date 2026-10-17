@@ -21,8 +21,6 @@ point:
   longitude: 85.32
 colors:
   1768: "#862786"
-  1935: "#862786"
-  1960: "#a351cd"
 transitions:
 - year: 2008
   kind: succeeded_by

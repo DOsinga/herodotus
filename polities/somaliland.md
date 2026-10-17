@@ -21,7 +21,7 @@ point:
   latitude: 9.5611
   longitude: 44.0667
 colors:
-  1991: "#cd8f51"
+  1991: "#5166cd"
 note: "Governs its territory without wide international recognition. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1991

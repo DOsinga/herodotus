@@ -19,7 +19,7 @@ point:
   latitude: 42.6667
   longitude: 21.1667
 colors:
-  2008: "#34b288"
+  2008: "#cd5166"
 note: "Under UN administration from 1999 to its 2008 declaration. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 2008

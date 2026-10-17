@@ -21,6 +21,6 @@ point:
   latitude: 50.7353
   longitude: 7.1022
 colors:
-  1949: "#b23449"
+  1949: "#272786"
 note: "Starts as West Germany; the capital moved to Berlin after reunification. The 1945–1949 Allied occupation, when the occupying powers governed, is not a polity. Links the country article. Changes of regime are not split into separate records."
 ---

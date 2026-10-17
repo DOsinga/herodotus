@@ -12,7 +12,7 @@ point:
   latitude: 48.0158
   longitude: 37.8028
 colors:
-  2014: "#b23434"
+  2014: "#b24934"
 note: "Governed part of Donetsk oblast with Russian backing until Russia annexed it in 2022."
 transitions:
 - year: 2014

@@ -22,7 +22,7 @@ point:
   latitude: -35.2931
   longitude: 149.1269
 colors:
-  1901: "#866727"
+  1901: "#868627"
 note: "Starts with federation in 1901: like the other dominions, its own responsible government ran its affairs, so Britain's control of foreign policy and war until about 1942 does not make it a protected state. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1901
