@@ -20,6 +20,8 @@ point:
   name: Nouakchott
   latitude: 18.0853
   longitude: -15.9725
+colors:
+  1960: "#862786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

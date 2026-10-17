@@ -19,6 +19,8 @@ point:
   name: Kyzyl
   latitude: 51.7167
   longitude: 94.45
+colors:
+  1921: "#3473b2"
 transitions:
 - year: 1921
   kind: broke_away_from

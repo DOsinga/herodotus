@@ -20,6 +20,12 @@ point:
   name: Copenhagen
   latitude: 55.6761
   longitude: 12.5683
+colors:
+  1523: "#349db2"
+  1598: "#349db2"
+  1623: "#b2b234"
+  1736: "#b2b234"
+  1761: "#345eb2"
 transitions:
 - year: 1814
   kind: split_into

@@ -20,6 +20,8 @@ point:
   name: Paris
   latitude: 48.857
   longitude: 2.352
+colors:
+  1848: "#672786"
 transitions:
 - year: 1852
   kind: succeeded_by

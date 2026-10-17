@@ -19,6 +19,8 @@ point:
   name: Sion
   latitude: 46.2331
   longitude: 7.3606
+colors:
+  1628: "#478627"
 note: "Starts in 1628, when the tithes ended the bishop's temporal rule; Wikipedia gives dates from 1571 to 1634 for stages of the change."
 transitions:
 - year: 1798

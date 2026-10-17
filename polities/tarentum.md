@@ -20,6 +20,8 @@ point:
   name: "Taras"
   latitude: 40.4711
   longitude: 17.2431
+colors:
+  -706: "#349db2"
 note: "Links the article on the city. It surrendered to Rome after Pyrrhus left Italy. Rome's Italian allies handed their war and foreign relations to Rome, so the alliance counts as absorption. "
 transitions:
 - year: -272

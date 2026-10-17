@@ -20,6 +20,8 @@ point:
   name: "Kayseri"
   latitude: 38.7225
   longitude: 35.4875
+colors:
+  1142: "#cd5151"
 note: "The branch followed Mehmed's death, dated 1142 or 1143. Zunnun's government at Kayseri and Zamanti ended with Kilij Arslan II's conquest, usually dated 1169; accounts also give 1168 or later years."
 transitions:
 - year: 1169

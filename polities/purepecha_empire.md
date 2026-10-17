@@ -11,6 +11,8 @@ point:
   name: Tzintzuntzan
   latitude: 19.628
   longitude: -101.578
+colors:
+  1300: "#51cd51"
 transitions:
 - year: 1530
   kind: absorbed_into

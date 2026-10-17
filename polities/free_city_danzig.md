@@ -21,6 +21,8 @@ point:
   name: Danzig
   latitude: 54.3475
   longitude: 18.6453
+colors:
+  1920: "#cd8f51"
 transitions:
 - year: 1939
   kind: absorbed_into

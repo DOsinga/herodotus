@@ -21,6 +21,8 @@ point:
   name: Shkodër
   latitude: 42.0683
   longitude: 19.5126
+colors:
+  1371: "#768627"
 transitions:
 - year: 1421
   kind: absorbed_into

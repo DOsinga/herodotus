@@ -20,6 +20,10 @@ point:
   name: "Talakad"
   latitude: 12.182
   longitude: 77.03
+colors:
+  350: "#34b288"
+  945: "#34b288"
+  970: "#275786"
 note: "350 estimates the beginning of local Ganga rule around Kolar; Talakad became its seat later. Chalukya and Rashtrakuta overlordship left its native government intact. 1004 follows the Chola conquest of Gangavadi, rather than an earlier change of overlord."
 transitions:
 - year: 1004

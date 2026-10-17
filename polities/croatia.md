@@ -20,6 +20,8 @@ point:
   name: Zagreb
   latitude: 45.8131
   longitude: 15.9775
+colors:
+  1991: "#277686"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1991

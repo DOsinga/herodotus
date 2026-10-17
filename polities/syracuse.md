@@ -19,6 +19,8 @@ point:
   name: "Syracuse"
   latitude: 37.0692
   longitude: 15.2875
+colors:
+  -734: "#278676"
 note: "Tyrannies, democracy and Hiero II's kingdom are kept as one city state. Hiero's treaty of 263 BCE made it a Roman ally that kept its own army. Rome took the city in 212 BCE."
 transitions:
 - year: -212

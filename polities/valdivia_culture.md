@@ -17,5 +17,7 @@ point:
   name: "Valdivia"
   latitude: -1.95
   longitude: -80.72
+colors:
+  -3500: "#8fcd51"
 note: "Both dates are estimates."
 ---

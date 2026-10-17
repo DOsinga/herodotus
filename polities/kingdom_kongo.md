@@ -19,6 +19,8 @@ point:
   name: "Mbanza Kongo"
   latitude: -6.267
   longitude: 14.248
+colors:
+  1390: "#a351cd"
 note: "Ends in 1888, when King Pedro V accepted Portuguese protection; the crown was abolished in 1914."
 transitions:
 - year: 1888

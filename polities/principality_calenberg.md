@@ -22,6 +22,10 @@ point:
   name: Hanover
   latitude: 52.367
   longitude: 9.717
+colors:
+  1432: "#273786"
+  1610: "#273786"
+  1635: "#51b8cd"
 note: "Divided off from Brunswick in 1432. Gap for 1584–1634, when it was governed from Wolfenbüttel; then given to a Lüneburg line that moved its court to Hanover in 1636 and became electors in 1692."
 transitions:
 - year: 1584

@@ -20,6 +20,8 @@ point:
   name: Ternate
   latitude: 0.78
   longitude: 127.38
+colors:
+  1486: "#378627"
 note: "Ends with the 1683 treaty that made it a vassal of the Dutch East India Company. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1683

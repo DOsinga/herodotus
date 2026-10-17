@@ -11,5 +11,7 @@ point:
   name: "Cao Viejo"
   latitude: -7.91498
   longitude: -79.30549
+colors:
+  200: "#34b288"
 note: "200–650 estimates the regional court represented by monumental construction controlled by local caciques and the Lady of Cao burial. The political relationship to the southern Moche valley state is debated; this choice treats the local ruling centre separately. The dates estimate its elite institutions rather than all occupation at El Brujo."
 ---

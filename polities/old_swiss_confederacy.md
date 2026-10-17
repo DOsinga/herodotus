@@ -21,6 +21,8 @@ point:
   name: Bern
   latitude: 46.948
   longitude: 7.4474
+colors:
+  1291: "#cd6651"
 transitions:
 - year: 1798
   kind: succeeded_by

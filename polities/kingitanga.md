@@ -18,6 +18,8 @@ point:
   name: "Ngāruawāhia"
   latitude: -37.6667
   longitude: 175.15
+colors:
+  1858: "#578627"
 note: "Recorded only for the years the movement governed territory of its own: the Waikato until the invasion of 1863–1864 and then the King Country until Tāwhiao made peace in 1881. The Māori monarchy continues without governing territory."
 transitions:
 - year: 1881

@@ -20,5 +20,7 @@ point:
   name: "Meroë"
   latitude: 16.9333
   longitude: 33.7264
+colors:
+  -780: "#cdb851"
 note: "Meroë was the capital from about 590 BCE. 350 estimates its collapse, around Ezana of Aksum's campaign."
 ---

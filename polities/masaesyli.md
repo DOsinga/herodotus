@@ -20,6 +20,8 @@ point:
   name: "Siga"
   latitude: 35.2663
   longitude: -1.4499
+colors:
+  -220: "#66cd51"
 note: "Links the article on the people. 220 BCE estimates Syphax's kingdom; Masinissa took it in 202 BCE and united Numidia."
 transitions:
 - year: -202

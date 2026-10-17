@@ -20,6 +20,8 @@ point:
   name: Yaren
   latitude: -0.5456
   longitude: 166.925
+colors:
+  1968: "#865727"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1968

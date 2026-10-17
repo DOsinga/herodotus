@@ -20,6 +20,8 @@ point:
   name: Léogâne
   latitude: 18.5108
   longitude: -72.6339
+colors:
+  1200: "#51cdb8"
 note: "The start is an estimate for the rise of the Taíno chiefdoms of the island."
 transitions:
 - year: 1503

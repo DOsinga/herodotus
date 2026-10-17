@@ -21,6 +21,8 @@ point:
   name: Hatun Colla
   latitude: -15.6339
   longitude: -70.075
+colors:
+  1100: "#88b234"
 note: "The dates are estimates: the Colla arose after the decline of Tiwanaku, and the Inca conquest under Pachacuti is placed about 1450. Archaeology suggests the kingdom was less unified than the chronicles say."
 transitions:
 - year: 1450

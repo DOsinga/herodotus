@@ -18,6 +18,8 @@ point:
   name: "Cổ Loa"
   latitude: 21.1134
   longitude: 105.8732
+colors:
+  -257: "#b23488"
 note: "Both dates follow the traditional account of An Dương Vương; Nanyue conquered it."
 transitions:
 - year: -179

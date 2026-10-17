@@ -12,5 +12,7 @@ point:
   name: "Sitio Conte"
   latitude: 8.422
   longitude: -80.406
+colors:
+  450: "#cdcd51"
 note: "450–900 estimates the governing community represented by rich chiefly burials. The cemetery may have served more than one allied chiefly family, so its political extent is uncertain. This working choice treats the local centre as one polity, not the entire Gran Cocle cultural area."
 ---

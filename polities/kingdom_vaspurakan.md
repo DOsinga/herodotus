@@ -20,6 +20,8 @@ point:
   name: "Van"
   latitude: 38.5012
   longitude: 43.372
+colors:
+  908: "#51a3cd"
 note: "The royal period begins with Gagik's kingship in 908; earlier Artsruni princely rule is not dated by this record. The court used several residences, so Van is a representative centre. Senekerim's transfer to Byzantium ended the kingdom."
 transitions:
 - year: 1021

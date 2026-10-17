@@ -20,6 +20,8 @@ point:
   name: "Tosali"
   latitude: 20.2266
   longitude: 85.8531
+colors:
+  -500: "#b23488"
 note: "Links the article on the region. 500 BCE estimates the independent kingdom; Ashoka conquered it in 261 BCE."
 transitions:
 - year: -261

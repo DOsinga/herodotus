@@ -18,6 +18,8 @@ point:
   name: Calkiní
   latitude: 20.3667
   longitude: -90.05
+colors:
+  1441: "#5166cd"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1541."
 transitions:
 - year: 1541

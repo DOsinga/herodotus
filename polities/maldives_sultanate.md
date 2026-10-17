@@ -20,6 +20,8 @@ point:
   name: Malé
   latitude: 4.1753
   longitude: 73.5089
+colors:
+  1153: "#cd518f"
 note: >-
   The Portuguese occupation of Malé from 1558 to 1573 is a gap. Ends with the protectorate agreement
   of 1887; the sultanate itself lasted until 1968, but a protected state does not count as governing

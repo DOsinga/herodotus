@@ -22,6 +22,8 @@ point:
   name: Luang Prabang
   latitude: 19.8833
   longitude: 102.1333
+colors:
+  1353: "#517acd"
 transitions:
 - year: 1707
   kind: split_into

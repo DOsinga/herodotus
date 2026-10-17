@@ -20,6 +20,8 @@ point:
   name: Reykjavík
   latitude: 64.1458
   longitude: -21.9425
+colors:
+  1918: "#862786"
 note: "Sovereign from 1918 in personal union with Denmark, which conducted its foreign affairs by agreement until 1940. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1918

@@ -19,6 +19,8 @@ point:
   name: "Córdoba"
   latitude: 37.8882
   longitude: -4.7794
+colors:
+  756: "#51cd8f"
 note: "The emirate governed independently of Baghdad. Abd al-Rahman III's adoption of the caliphal title in 929 marks the change to the separately recorded caliphate."
 transitions:
 - year: 756

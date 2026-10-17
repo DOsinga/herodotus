@@ -19,6 +19,8 @@ point:
   name: Gdańsk
   latitude: 54.347
   longitude: 18.645
+colors:
+  1227: "#3488b2"
 note: "The Samboride governors of Gdańsk Pomerania made themselves independent dukes under Świętopełk II in 1227. When Mestwin II died in 1294 it passed to Przemysł II of Greater Poland, as agreed in 1282."
 transitions:
 - year: 1294

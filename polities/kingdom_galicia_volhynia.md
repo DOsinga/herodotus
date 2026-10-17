@@ -20,6 +20,8 @@ point:
   name: Lviv
   latitude: 49.8397
   longitude: 24.0297
+colors:
+  1199: "#b23434"
 transitions:
 - year: 1349
   kind: absorbed_into

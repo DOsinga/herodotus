@@ -20,6 +20,12 @@ point:
   name: Darmstadt
   latitude: 49.872
   longitude: 8.653
+colors:
+  1567: "#34b2b2"
+  1642: "#34b2b2"
+  1667: "#cd51a3"
+  1778: "#cd51a3"
+  1803: "#cd517a"
 transitions:
 - year: 1806
   kind: succeeded_by

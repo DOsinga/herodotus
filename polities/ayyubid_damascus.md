@@ -24,6 +24,8 @@ point:
   name: Damascus
   latitude: 33.5138
   longitude: 36.2765
+colors:
+  1193: "#b851cd"
 transitions:
 - year: 1201
   kind: absorbed_into

@@ -21,6 +21,10 @@ point:
   name: Tehran
   latitude: 35.689
   longitude: 51.39
+colors:
+  1789: "#862727"
+  1864: "#862727"
+  1889: "#868627"
 transitions:
 - year: 1925
   kind: succeeded_by

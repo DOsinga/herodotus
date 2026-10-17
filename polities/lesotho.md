@@ -21,6 +21,8 @@ point:
   name: Maseru
   latitude: -29.31
   longitude: 27.48
+colors:
+  1966: "#9d34b2"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1966

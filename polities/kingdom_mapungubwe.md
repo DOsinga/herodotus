@@ -18,4 +18,6 @@ point:
   name: Mapungubwe Hill
   latitude: -22.1925
   longitude: 29.2389
+colors:
+  1220: "#278637"
 ---

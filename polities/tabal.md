@@ -18,6 +18,8 @@ point:
   name: "Tuwana"
   latitude: 37.75
   longitude: 34.45
+colors:
+  -900: "#cd51cd"
 note: "Both dates are estimates; Tabal often had several kings at once, and the record treats the region's main kingdom, with Tuwana as a representative centre. Sargon II annexed it in 713 BCE."
 transitions:
 - year: -713

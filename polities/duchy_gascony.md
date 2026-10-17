@@ -20,6 +20,8 @@ point:
   name: "Bordeaux"
   latitude: 44.838
   longitude: -0.579
+colors:
+  769: "#864727"
 note: "769 estimates Lupo's separate Vasconian government, rather than the Frankish office first established in 602. Its native dukes retained their own power despite Frankish claims. The ending in 1063 follows William VIII's conquest and consolidation with Aquitaine, not merely his earlier acquisition of a ducal claim."
 transitions:
 - year: 1063

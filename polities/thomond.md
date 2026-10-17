@@ -20,6 +20,8 @@ point:
   name: "Clonroad"
   latitude: 52.8436
   longitude: -8.9864
+colors:
+  1118: "#b234b2"
 transitions:
 - year: 1543
   kind: absorbed_into

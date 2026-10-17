@@ -11,6 +11,8 @@ point:
   name: "Devin"
   latitude: 48.173
   longitude: 16.978
+colors:
+  623: "#517acd"
 note: "623 follows Samo's establishment of a governing Slavic union after revolt against the Avars. It ends with his death around 658. Devin is one proposed centre; the exact capital and extent are disputed, and the point is not a territorial claim."
 transitions:
 - year: 623

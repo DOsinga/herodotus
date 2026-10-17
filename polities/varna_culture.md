@@ -22,5 +22,7 @@ point:
   name: "Varna"
   latitude: 43.21
   longitude: 27.91
+colors:
+  -4600: "#b851cd"
 note: "Both dates are estimates. Its cemetery shows the earliest known ranked society with gold regalia, but its government is unknown."
 ---

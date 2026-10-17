@@ -18,6 +18,8 @@ point:
   name: Lalitpur
   latitude: 27.6764
   longitude: 85.3167
+colors:
+  1482: "#866727"
 note: >-
   1482 follows the article; the city was governed by local nobles under loose Kantipur authority
   until its own Malla line in the late sixteenth century, and that early period is kept in this

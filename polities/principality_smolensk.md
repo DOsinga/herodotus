@@ -21,6 +21,8 @@ point:
   name: Smolensk
   latitude: 54.7903
   longitude: 32.0504
+colors:
+  1125: "#8834b2"
 transitions:
 - year: 1125
   kind: broke_away_from

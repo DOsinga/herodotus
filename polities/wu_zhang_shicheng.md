@@ -18,6 +18,8 @@ point:
   name: Suzhou
   latitude: 31.3
   longitude: 120.6194
+colors:
+  1353: "#273786"
 note: "Called Zhou from 1354 and Wu from 1363. Zhang's acceptance of Yuan titles from 1357 to 1363 is not counted as a break, since he kept his own army, officials and revenue. Suzhou was the capital from 1356; Gaoyou was the seat before that. Links Zhang's biography."
 transitions:
 - year: 1353

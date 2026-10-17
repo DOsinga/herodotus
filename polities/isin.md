@@ -19,6 +19,8 @@ point:
   name: "Isin"
   latitude: 31.88
   longitude: 45.27
+colors:
+  -2017: "#cd5166"
 note: "Ishbi-Erra broke with Ibbi-Sin of Ur. Rim-Sin I of Larsa conquered it."
 transitions:
 - year: -2017

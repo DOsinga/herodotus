@@ -20,6 +20,8 @@ point:
   name: Kano
   latitude: 12.0022
   longitude: 8.592
+colors:
+  1350: "#378627"
 transitions:
 - year: 1807
   kind: absorbed_into

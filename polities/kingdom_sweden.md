@@ -19,6 +19,12 @@ point:
   name: "Stockholm"
   latitude: 59.3294
   longitude: 18.0686
+colors:
+  1521: "#862757"
+  1605: "#862757"
+  1630: "#34b2b2"
+  1785: "#34b2b2"
+  1810: "#517acd"
 note: "Starts in 1521, when Gustav Vasa was chosen regent and Swedish government resumed; he was elected king in 1523."
 transitions:
 - year: 1521

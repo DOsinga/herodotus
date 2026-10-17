@@ -13,6 +13,8 @@ point:
   name: Ryazan
   latitude: 54.63
   longitude: 39.742
+colors:
+  1129: "#517acd"
 note: "Separated from Murom in 1129 under a branch of the Chernigov dynasty. Gap for 1208–1212, when Vsevolod the Big Nest of Vladimir seized its princes and governed it through his own son and governors, until a local prince was restored after his death. Batu destroyed the old capital in 1237, and the princes moved to Pereyaslavl-Ryazansky, today's Ryazan; they paid tribute to the Horde but governed themselves. Vasily III of Moscow took it over in 1521."
 transitions:
 - year: 1208

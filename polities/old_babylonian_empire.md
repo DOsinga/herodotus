@@ -20,5 +20,7 @@ point:
   name: "Babylon"
   latitude: 32.54
   longitude: 44.42
+colors:
+  -1894: "#51cd51"
 note: "Links the First Dynasty article. Dates follow the middle chronology, with Hammurabi reigning 1792–1750 BCE. Mursili I's raid ended it."
 ---

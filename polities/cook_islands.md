@@ -20,6 +20,8 @@ point:
   name: Avarua
   latitude: -21.2069
   longitude: -159.7708
+colors:
+  1965: "#b23488"
 note: "Self-governing in free association with New Zealand, which assists with defence and foreign affairs at its request; the Cook Islands conduct their own international relations. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1965

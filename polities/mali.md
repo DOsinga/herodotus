@@ -21,5 +21,7 @@ point:
   name: Bamako
   latitude: 12.6392
   longitude: -8.0028
+colors:
+  1960: "#51cdb8"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

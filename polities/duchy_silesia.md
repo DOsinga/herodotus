@@ -11,6 +11,8 @@ point:
   name: Wrocław
   latitude: 51.11
   longitude: 17.032
+colors:
+  1138: "#862747"
 note: "Follows the Wrocław duchy of the Silesian Piasts, who split Silesia into many smaller duchies after 1248. In 1335 Casimir III gave up Polish claims and Henry VI left Wrocław to the Bohemian king, who governed it directly; the other Silesian duchies became Bohemian fiefs over the same years."
 transitions:
 - year: 1335

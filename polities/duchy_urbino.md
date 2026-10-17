@@ -18,6 +18,8 @@ point:
   name: Urbino
   latitude: 43.7262
   longitude: 12.6365
+colors:
+  1443: "#cd517a"
 note: "Starts when the Montefeltro lords became dukes. The occupations by Cesare Borgia (1502–1503) and Lorenzo de' Medici (1516–1519) are not split out. Pesaro was the capital from 1523."
 transitions:
 - year: 1631

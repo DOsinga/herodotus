@@ -18,6 +18,8 @@ point:
   name: "Ngazargamu"
   latitude: 13.0472
   longitude: 12.2278
+colors:
+  700: "#3449b2"
 transitions:
 - year: 1893
   kind: absorbed_into

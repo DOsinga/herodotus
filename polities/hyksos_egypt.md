@@ -11,6 +11,8 @@ point:
   name: "Avaris"
   latitude: 30.79
   longitude: 31.82
+colors:
+  -1650: "#b2349d"
 note: "Links the Fifteenth Dynasty article. Ahmose took Avaris about 1550 BCE."
 transitions:
 - year: -1550

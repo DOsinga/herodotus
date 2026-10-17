@@ -22,6 +22,8 @@ point:
   name: "Assur"
   latitude: 35.46
   longitude: 43.26
+colors:
+  -2025: "#862727"
 note: "Starts with the city state after Ur III. Shamshi-Adad took Assur in 1808 BCE; his son Ishme-Dagan kept it after his death. Under Mitanni's overlordship its own kings still governed, traded with Egypt and agreed borders with Babylon, so it stays active until Ashur-uballit I's reign begins the Middle Assyrian record."
 transitions:
 - year: -1808

@@ -20,6 +20,8 @@ point:
   name: "Thebes"
   latitude: 38.3208
   longitude: 23.3178
+colors:
+  -700: "#518fcd"
 note: "The record covers Thebes and its Boeotian League. Alexander destroyed the city in 335 BCE."
 transitions:
 - year: -335

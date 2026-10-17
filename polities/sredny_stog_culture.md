@@ -12,5 +12,7 @@ point:
   name: "Sredny Stog"
   latitude: 47.85
   longitude: 35.1
+colors:
+  -4500: "#3449b2"
 note: "Both dates are estimates. The Yamnaya culture follows."
 ---

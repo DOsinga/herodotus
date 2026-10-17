@@ -19,6 +19,8 @@ point:
   name: "Jianye"
   latitude: 32.0608
   longitude: 118.7789
+colors:
+  222: "#cd8f51"
 note: "Sun Quan governed the south from the 200s; 222 follows his break with Wei, and he took the imperial title in 229."
 transitions:
 - year: 280

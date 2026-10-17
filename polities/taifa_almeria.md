@@ -24,6 +24,8 @@ point:
   name: "Almería"
   latitude: 36.8333
   longitude: -2.45
+colors:
+  1012: "#a351cd"
 note: "The first start is an estimate: independence is variously dated 1010 or around 1012. Valencia ruled through its governor in 1038–1042. The later period follows the conventional 1140 restoration date."
 transitions:
 - year: 1012

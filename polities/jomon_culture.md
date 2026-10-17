@@ -12,5 +12,7 @@ point:
   name: "Sannai-Maruyama"
   latitude: 40.81
   longitude: 140.7
+colors:
+  -14000: "#3449b2"
 note: "Links the article on the period. Both dates are conventional; Yayoi follows. Years before 12,000 BCE have not been audited."
 ---

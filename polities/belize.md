@@ -20,6 +20,8 @@ point:
   name: Belmopan
   latitude: 17.2522
   longitude: -88.7639
+colors:
+  1981: "#cd5151"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1981

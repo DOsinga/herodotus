@@ -20,6 +20,8 @@ point:
   name: Mandlakazi
   latitude: -24.712
   longitude: 33.883
+colors:
+  1824: "#7334b2"
 note: "Ends with the Portuguese capture of Gungunhana in 1895; Wikipedia's infobox runs to 1897."
 transitions:
 - year: 1895

@@ -20,5 +20,7 @@ point:
   name: "Ararat plain"
   latitude: 40.0
   longitude: 44.5
+colors:
+  -4000: "#34b2b2"
 note: "Both dates are estimates; the point is representative."
 ---

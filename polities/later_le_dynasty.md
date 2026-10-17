@@ -21,6 +21,8 @@ point:
   name: Đông Kinh
   latitude: 21.0278
   longitude: 105.8342
+colors:
+  1428: "#cd5166"
 transitions:
 - year: 1527
   kind: absorbed_into

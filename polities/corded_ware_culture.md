@@ -22,5 +22,7 @@ point:
   name: "Saxony-Anhalt"
   latitude: 51.5
   longitude: 12.0
+colors:
+  -2900: "#cd51a3"
 note: "Both dates are estimates; the point is representative."
 ---

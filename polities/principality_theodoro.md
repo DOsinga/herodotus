@@ -20,6 +20,10 @@ point:
   name: "Mangup"
   latitude: 44.5944
   longitude: 33.8039
+colors:
+  1300: "#51cd8f"
+  1375: "#51cd8f"
+  1400: "#b8cd51"
 note: "The principality is securely documented from the early fourteenth century; 1300 is an estimate, and its traditional origin in 1204 is not followed."
 transitions:
 - year: 1475

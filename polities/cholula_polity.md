@@ -18,6 +18,8 @@ point:
   name: "Cholula"
   latitude: 19.06
   longitude: -98.306
+colors:
+  100: "#cda351"
 note: "100 estimates the urban political centre around the Great Pyramid, not the first occupation. This is the city's government through its later changes of ruling elite and alliances, not a state for every archaeological phase. The Spanish intervention and replacement of rulers after the 1519 massacre ended its independent government."
 transitions:
 - year: 1519

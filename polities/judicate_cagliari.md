@@ -19,6 +19,10 @@ point:
   name: Santa Igia
   latitude: 39.2167
   longitude: 9.0833
+colors:
+  1000: "#cdcd51"
+  1173: "#cdcd51"
+  1198: "#865727"
 note: "1000 is an estimate; the judicates grew out of Byzantine Sardinia during the tenth century, and the rulers of Cagliari are securely known from the eleventh."
 transitions:
 - year: 1258

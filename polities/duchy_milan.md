@@ -31,6 +31,10 @@ point:
   name: "Milan"
   latitude: 45.4642
   longitude: 9.19
+colors:
+  1395: "#868627"
+  1470: "#868627"
+  1495: "#863727"
 note: "The gaps are the Ambrosian Republic of 1447–1450, French rule, and the imperial occupation after Francesco II Sforza lost the castle in 1526 until his restoration in 1529."
 transitions:
 - year: 1447

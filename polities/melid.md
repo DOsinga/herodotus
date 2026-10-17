@@ -20,6 +20,8 @@ point:
   name: "Melid"
   latitude: 38.38
   longitude: 38.36
+colors:
+  -1180: "#34b273"
 note: "Links the article on the site. Sargon II annexed it."
 transitions:
 - year: -712

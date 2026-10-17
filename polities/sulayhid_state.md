@@ -18,5 +18,7 @@ point:
   name: Jibla
   latitude: 13.9206
   longitude: 44.1467
+colors:
+  1047: "#b23488"
 note: "Sanaa was the capital until Arwa moved the court to Jibla around 1067. The Zurayids of Aden governed as Sulayhid vassals from 1083; the successor states after 1138 have no records."
 ---

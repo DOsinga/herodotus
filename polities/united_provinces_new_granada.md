@@ -19,6 +19,8 @@ point:
   name: Tunja
   latitude: 5.5333
   longitude: -73.3667
+colors:
+  1811: "#867627"
 note: "Starts with the Act of Federation of November 1811. Member provinces such as Cartagena governed themselves at home but left war and foreign relations to the congress, so they are counted as part of the federation. Royalists held Popayán for part of 1812–1814."
 transitions:
 - year: 1811

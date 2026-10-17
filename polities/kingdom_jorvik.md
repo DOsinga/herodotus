@@ -25,6 +25,8 @@ point:
   name: York
   latitude: 53.959
   longitude: -1.0815
+colors:
+  867: "#a351cd"
 note: "867 follows the establishment of government after York's capture in 866–867. The periods exclude English royal government, including the brief 948–949 interruption. Eric's first accession is variously dated 947 or 948; Olaf's return follows the 949 chronology. After 954 royal appointees governed the earldom, not a surviving independent kingdom."
 transitions:
 - year: 927

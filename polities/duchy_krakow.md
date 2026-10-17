@@ -20,6 +20,10 @@ point:
   name: Kraków
   latitude: 50.062
   longitude: 19.937
+colors:
+  1138: "#cdcd51"
+  1217: "#cdcd51"
+  1242: "#472786"
 note: "The senior province of Bolesław III's 1138 testament, with Sandomierz, held by whichever Piast prince could take it once the seniority rule broke down. Gap for Bohemian rule: Wenceslaus II took Kraków in 1291, was crowned king of Poland in 1300 and governed through his own starostas until he died in 1305. Władysław the Elbow-high took Kraków in 1306 and was crowned king in 1320."
 transitions:
 - year: 1291

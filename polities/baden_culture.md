@@ -21,5 +21,7 @@ point:
   name: "Baden"
   latitude: 48.01
   longitude: 16.23
+colors:
+  -3600: "#cd6651"
 note: "Both dates are estimates. The Corded Ware culture follows in central Europe."
 ---

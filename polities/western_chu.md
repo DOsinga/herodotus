@@ -19,6 +19,8 @@ point:
   name: "Pengcheng"
   latitude: 34.265
   longitude: 117.187
+colors:
+  -206: "#275786"
 note: "Links the Chu article, which covers Western Chu. Xiang Yu's kingdom during the Chu–Han contention; ends with his death at Gaixia."
 transitions:
 - year: -202

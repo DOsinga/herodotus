@@ -11,6 +11,8 @@ point:
   name: Isfahan
   latitude: 32.6653
   longitude: 51.6703
+colors:
+  1501: "#b27334"
 transitions:
 - year: 1736
   kind: succeeded_by

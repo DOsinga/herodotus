@@ -20,5 +20,7 @@ point:
   name: "Anakena"
   latitude: -27.0739
   longitude: -109.3228
+colors:
+  1200: "#274786"
 note: "Recorded as a chiefdom. The start estimates the first settlement of Rapa Nui from radiocarbon dates of about 1150–1280; the traditional king lists, which run back to about 400, are not used. Ends with the Peruvian slave raids of 1862; the later kings governed little while missionaries and the French planter Dutrou-Bornier dominated the island, until Chile's annexation in 1888."
 ---

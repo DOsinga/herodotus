@@ -11,6 +11,8 @@ point:
   name: "Bibracte"
   latitude: 46.92
   longitude: 4.04
+colors:
+  -200: "#b23473"
 note: "Links the article on the people. 200 BCE estimates the state governed by an annual vergobret; Caesar's conquest ended its independence."
 transitions:
 - year: -50

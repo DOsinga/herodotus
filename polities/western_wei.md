@@ -19,6 +19,8 @@ point:
   name: "Chang'an"
   latitude: 34.267
   longitude: 108.9
+colors:
+  535: "#cd5151"
 note: "Begins with Yuan Baoju's accession after Xiaowu's death in 535. Yuwen Tai and his successors governed through the imperial court; their authority was not an outside state's administration."
 transitions:
 - year: 557

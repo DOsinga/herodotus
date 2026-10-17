@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mainz
 point:
   latitude: 49.9994
   longitude: 8.2736
-note: "Roman Mogontiacum, capital of Upper Germany. France held the city from the end of 1797 to 1814. Swedish from 1631 to 1636."
+note: "Roman Mogontiacum, capital of Upper Germany. France held the city from the end of 1797 to 1814. Swedish from 1631 to 1636. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: -13
   end: 394
@@ -108,8 +108,16 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1945
+  polity: provisional_government_france
+  importance: 2
+- start: 1946
+  end: 1948
+  polity: french_fourth_republic
   importance: 2
 - start: 1949
   end: null

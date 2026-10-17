@@ -19,6 +19,8 @@ point:
   name: Zaachila
   latitude: 16.95
   longitude: -96.75
+colors:
+  1100: "#862747"
 note: "The start is approximate; the history of Zaachila before the fifteenth century is unclear. From the Aztec conquest of the valley in the 1490s the court sat at Tehuantepec."
 transitions:
 - year: 1522

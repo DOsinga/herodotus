@@ -20,6 +20,12 @@ point:
   name: Mecca
   latitude: 21.4225
   longitude: 39.8262
+colors:
+  967: "#572786"
+  1400: "#572786"
+  1425: "#862747"
+  1857: "#862747"
+  1882: "#cd517a"
 transitions:
 - year: 1916
   kind: succeeded_by

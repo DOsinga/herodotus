@@ -19,6 +19,8 @@ point:
   name: Ngerulmud
   latitude: 7.5006
   longitude: 134.6242
+colors:
+  1994: "#372786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1994

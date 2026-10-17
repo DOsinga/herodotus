@@ -21,5 +21,7 @@ point:
   name: "Middle Volga"
   latitude: 52.0
   longitude: 50.0
+colors:
+  -1900: "#51a3cd"
 note: "Both dates are estimates; the point is representative."
 ---

@@ -20,6 +20,8 @@ point:
   name: Quito
   latitude: -0.22
   longitude: -78.513
+colors:
+  1830: "#34b288"
 note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1830

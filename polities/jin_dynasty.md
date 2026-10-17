@@ -21,6 +21,8 @@ point:
   name: Zhongdu
   latitude: 39.886
   longitude: 116.349
+colors:
+  1115: "#5166cd"
 transitions:
 - year: 1234
   kind: absorbed_into

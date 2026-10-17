@@ -18,6 +18,8 @@ point:
   name: "Saltés"
   latitude: 37.22
   longitude: -6.95
+colors:
+  1012: "#472786"
 note: "1012 estimates its independence; Seville took it in 1051."
 transitions:
 - year: 1051

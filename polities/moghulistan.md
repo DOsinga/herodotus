@@ -20,6 +20,8 @@ point:
   name: Almaliq
   latitude: 44.24
   longitude: 80.5331
+colors:
+  1347: "#49b234"
 transitions:
 - year: 1487
   kind: split_into

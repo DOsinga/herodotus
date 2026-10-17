@@ -20,6 +20,8 @@ point:
   name: Ikkeri
   latitude: 14.135
   longitude: 75.023
+colors:
+  1565: "#8f51cd"
 note: "Founded in 1499. Before the Vijayanagara defeat at Talikota in 1565 its rulers were Vijayanagara governors; independence after 1565 was gradual."
 transitions:
 - year: 1763

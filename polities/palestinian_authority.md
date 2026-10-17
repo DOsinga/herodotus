@@ -20,6 +20,8 @@ point:
   name: Ramallah
   latitude: 31.9038
   longitude: 35.2034
+colors:
+  1994: "#51cd51"
 note: "Governs parts of the West Bank under the Oslo Accords; Gaza has been governed separately by Hamas since 2007 and has its own record."
 transitions:
 - year: 1994

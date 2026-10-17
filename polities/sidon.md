@@ -22,6 +22,8 @@ point:
   name: "Sidon"
   latitude: 33.56
   longitude: 35.37
+colors:
+  -1200: "#9d34b2"
 note: "1200 BCE estimates the independent city kingdom. Esarhaddon destroyed it after its revolt and governed the new town through his own officials. Native kings ruled again from about 575 BCE, the Eshmunazar dynasty under the Persians. Under Assyrian, Babylonian and Persian overlords it paid tribute and sent its ships to their wars, but its own kings governed and could refuse a campaign, so like Crimea under the Ottomans it stays active. Artaxerxes III crushed Tennes' revolt in 345 BCE and installed a foreign king."
 transitions:
 - year: -677

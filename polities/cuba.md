@@ -22,6 +22,8 @@ point:
   name: Havana
   latitude: 23.1367
   longitude: -82.3589
+colors:
+  1902: "#578627"
 note: "Gap for the second US occupation (1906–1909). Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1902

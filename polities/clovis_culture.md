@@ -20,5 +20,7 @@ point:
   name: "Blackwater Draw"
   latitude: 34.4
   longitude: -103.2
+colors:
+  -11100: "#cd8f51"
 note: "Both dates are estimates. Blackwater Draw, near Clovis, stands as the point."
 ---

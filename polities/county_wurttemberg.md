@@ -18,6 +18,10 @@ point:
   name: Stuttgart
   latitude: 48.778
   longitude: 9.18
+colors:
+  1250: "#5166cd"
+  1467: "#5166cd"
+  1492: "#6651cd"
 transitions:
 - year: 1495
   kind: succeeded_by

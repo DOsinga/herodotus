@@ -19,6 +19,8 @@ point:
   name: Gniezno
   latitude: 52.536
   longitude: 17.596
+colors:
+  960: "#762786"
 note: "Mieszko I's duchy; start estimated (about 960)."
 transitions:
 - year: 1025

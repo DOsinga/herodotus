@@ -19,6 +19,8 @@ point:
   name: "Rawa"
   latitude: 51.7637
   longitude: 20.2523
+colors:
+  1313: "#5eb234"
 note: "Two periods: Siemowit II's share from the 1313 partition of Płock, reunited in 1370, and the share of 1381–1442, which returned to Płock."
 transitions:
 - year: 1313

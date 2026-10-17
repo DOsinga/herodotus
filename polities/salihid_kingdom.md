@@ -20,6 +20,8 @@ point:
   name: "Deir Dawud region"
   latitude: 35.7
   longitude: 36.5
+colors:
+  400: "#7a51cd"
 note: "400 estimates the fifth-century Zokomid ruling house described by Sozomen. 502 estimates its displacement as the governing Arab client kingdom by the Ghassanids, not the disappearance of Salihid descendants. Its seat and chronology are uncertain; the point represents the region of Dawud's monastery."
 transitions:
 - year: 502

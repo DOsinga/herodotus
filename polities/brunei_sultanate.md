@@ -20,6 +20,8 @@ point:
   name: Brunei
   latitude: 4.9031
   longitude: 114.9398
+colors:
+  1368: "#5e34b2"
 transitions:
 - year: 1888
   kind: absorbed_into

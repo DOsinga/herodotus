@@ -18,6 +18,8 @@ point:
   name: Semarapura
   latitude: -8.5353
   longitude: 115.4036
+colors:
+  1686: "#275786"
 note: >-
   Links the regency article, as no article covers the kingdom on its own. The other Balinese kingdoms,
   such as Badung, Buleleng, Gianyar and Karangasem, governed themselves and have no records;

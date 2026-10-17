@@ -20,6 +20,8 @@ point:
   name: "Damascus"
   latitude: 33.5138
   longitude: 36.2765
+colors:
+  661: "#862727"
 note: "661 is Mu'awiya's establishment of the caliphate; 750 is the Abbasid overthrow. The later government at Córdoba is a separate polity, not continued control of the eastern caliphate."
 transitions:
 - year: 750

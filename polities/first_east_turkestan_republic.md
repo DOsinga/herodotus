@@ -19,6 +19,8 @@ point:
   name: Kashgar
   latitude: 39.4681
   longitude: 75.9938
+colors:
+  1933: "#51cdb8"
 transitions:
 - year: 1933
   kind: broke_away_from

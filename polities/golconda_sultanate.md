@@ -18,6 +18,10 @@ point:
   name: Golconda
   latitude: 17.3833
   longitude: 78.4011
+colors:
+  1518: "#66cd51"
+  1622: "#66cd51"
+  1647: "#862786"
 transitions:
 - year: 1687
   kind: absorbed_into

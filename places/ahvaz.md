@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ahvaz
 point:
   latitude: 31.32
   longitude: 48.67
+note: "British forces occupied southern Iran from 1941 to 1946."
 control:
 - start: -539
   end: -331
@@ -147,6 +148,14 @@ control:
   polity: qajar_iran
   importance: 3
 - start: 1925
+  end: 1940
+  polity: pahlavi_iran
+  importance: 3
+- start: 1941
+  end: 1945
+  polity: united_kingdom
+  importance: 3
+- start: 1946
   end: 1978
   polity: pahlavi_iran
   importance: 3

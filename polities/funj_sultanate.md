@@ -11,6 +11,8 @@ point:
   name: Sennar
   latitude: 13.55
   longitude: 33.58
+colors:
+  1504: "#8834b2"
 transitions:
 - year: 1821
   kind: absorbed_into

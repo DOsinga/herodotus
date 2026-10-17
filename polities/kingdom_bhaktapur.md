@@ -18,6 +18,8 @@ point:
   name: Bhaktapur
   latitude: 27.6722
   longitude: 85.4278
+colors:
+  1482: "#274786"
 note: >-
   The article's infobox starts in 1428; this record starts with the division of 1482, as the earlier
   Malla kingdom is part of the Early Kingdom of Nepal record.

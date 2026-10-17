@@ -21,6 +21,8 @@ point:
   name: "Kessin"
   latitude: 54.05
   longitude: 12.18
+colors:
+  789: "#cd51b8"
 note: "The dates estimate separate tribal government before and after the Lutician federation. Kessin is the later named centre. Obotrite overlordship did not eliminate native princes: Dumar and Sventipolk still governed in the early twelfth century. 1131 estimates their incorporation under Niklot's governing realm, which explicitly included the Kessinians."
 transitions:
 - year: 983

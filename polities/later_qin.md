@@ -19,6 +19,8 @@ point:
   name: "Chang'an"
   latitude: 34.2611
   longitude: 108.9422
+colors:
+  384: "#cd5166"
 transitions:
 - year: 417
   kind: absorbed_into

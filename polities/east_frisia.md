@@ -20,6 +20,12 @@ point:
   name: Aurich
   latitude: 53.471
   longitude: 7.484
+colors:
+  1464: "#472786"
+  1540: "#472786"
+  1565: "#9d34b2"
+  1640: "#9d34b2"
+  1665: "#34b25e"
 note: "The Cirksena chieftains were made counts in 1464 and princes in 1654. Passed to Prussia when the line died out in 1744."
 transitions:
 - year: 1744

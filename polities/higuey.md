@@ -20,6 +20,10 @@ point:
   name: Higüey
   latitude: 18.6167
   longitude: -68.7
+colors:
+  1200: "#862776"
+  1469: "#862776"
+  1494: "#b25e34"
 note: "Links the article on the chiefdoms of Hispaniola. The start is an estimate for the rise of the Taíno chiefdoms of the island."
 transitions:
 - year: 1504

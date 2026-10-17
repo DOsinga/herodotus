@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Straubing
 point:
   latitude: 48.8833
   longitude: 12.5667
-note: "Roman Sorviodurum. Seat of the dukes of Bavaria-Straubing, who also ruled Holland and Hainaut. Gap for the dispute over their inheritance until Straubing went to Bavaria-Munich in 1429."
+note: "Roman Sorviodurum. Seat of the dukes of Bavaria-Straubing, who also ruled Holland and Hainaut. Gap for the dispute over their inheritance until Straubing went to Bavaria-Munich in 1429. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 50
   end: 394
@@ -92,8 +92,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: united_states
   importance: 2
 - start: 1949
   end: null

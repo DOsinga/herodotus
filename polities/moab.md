@@ -20,6 +20,8 @@ point:
   name: "Dibon"
   latitude: 31.5
   longitude: 35.78
+colors:
+  -1000: "#cd51a3"
 note: "Both dates are estimates; Nebuchadnezzar's campaign ended the kingdom."
 transitions:
 - year: -582

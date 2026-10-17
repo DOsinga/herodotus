@@ -19,5 +19,7 @@ point:
   name: "Hazor"
   latitude: 33.02
   longitude: 35.57
+colors:
+  -1750: "#51a3cd"
 note: "Links the article on the site. Both dates are estimates for the largest Canaanite kingdom, 'the head of all those kingdoms'; it was destroyed in the thirteenth century BCE."
 ---

@@ -24,5 +24,7 @@ point:
   name: "Western Europe"
   latitude: 47.0
   longitude: 4.0
+colors:
+  -2800: "#277686"
 note: "Both dates are estimates; the point is representative."
 ---

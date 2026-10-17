@@ -20,5 +20,7 @@ point:
   name: Hanoi
   latitude: 21
   longitude: 105.85
+colors:
+  1976: "#276786"
 note: "The Socialist Republic of Vietnam. Links the country article. Changes of regime are not split into separate records."
 ---

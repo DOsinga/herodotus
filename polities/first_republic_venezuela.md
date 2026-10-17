@@ -19,6 +19,8 @@ point:
   name: Caracas
   latitude: 10.506
   longitude: -66.914
+colors:
+  1810: "#278637"
 note: "Starts with the Supreme Junta of April 1810, which governed in Ferdinand VII's name until the declaration of independence in 1811."
 transitions:
 - year: 1810

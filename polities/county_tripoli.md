@@ -21,6 +21,8 @@ point:
   name: Tripoli
   latitude: 34.4367
   longitude: 35.8497
+colors:
+  1109: "#578627"
 transitions:
 - year: 1289
   kind: absorbed_into

@@ -21,6 +21,14 @@ point:
   name: Hamburg
   latitude: 53.551
   longitude: 9.993
+colors:
+  1250: "#66cd51"
+  1405: "#66cd51"
+  1430: "#b23488"
+  1519: "#b23488"
+  1544: "#8f51cd"
+  1789: "#8f51cd"
+  1814: "#762786"
 note: "Governed by its own council from the thirteenth century, although the counts of Holstein and later Denmark claimed it until 1768. Annexed by France at the end of 1810; Davout held it until May 1814. Links the city article. Remained a city-state, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1810

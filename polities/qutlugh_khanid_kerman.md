@@ -20,6 +20,8 @@ point:
   name: Kerman
   latitude: 30.2625
   longitude: 57.0575
+colors:
+  1222: "#867627"
 note: "Tribute and service to the Mongols did not end the dynasty's own government. It ends with Öljaitü's appointment of his own governor in 1306."
 transitions:
 - year: 1222

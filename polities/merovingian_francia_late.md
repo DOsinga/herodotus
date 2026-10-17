@@ -21,6 +21,12 @@ point:
   name: "Soissons"
   latitude: 49.3817
   longitude: 3.3236
+colors:
+  481: "#866727"
+  588: "#866727"
+  613: "#862737"
+  694: "#862737"
+  719: "#278627"
 note: "481 estimates Clovis's accession, not the earlier first Frankish community; his royal government expanded before the 511 partition. The periods record unified governing courts, not an umbrella over simultaneous separate kingdoms. Chlothar united the courts in 613, then restored a separate Austrasian court in 623. Dagobert united them again in 629; his central court continued until 639 after he restored an Austrasian government in 633. Pepin consolidated government after Tertry in 687; the separate courts during the struggle after his 714 death are dated from 715 until Charles Martel's reunification in 719."
 transitions:
 - year: 511

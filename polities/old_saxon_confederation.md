@@ -18,6 +18,8 @@ point:
   name: "Marklo region"
   latitude: 52.5
   longitude: 9.1
+colors:
+  500: "#472786"
 note: "500 estimates the early-medieval association of Saxon communities with a common assembly and collective military action; it was not a centralized monarchy. Marklo's assembly site is uncertain, so the point is approximate. Ends with the completion of Charlemagne's conquest in 804, not the beginning of his campaigns."
 transitions:
 - year: 804

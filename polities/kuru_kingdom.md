@@ -20,6 +20,8 @@ point:
   name: "Asandivat"
   latitude: 29.97
   longitude: 77.0
+colors:
+  -1200: "#cd5166"
 note: "1200 BCE estimates the Vedic kingdom; its capital's location is approximate. By 500 BCE it was one of the lesser Mahajanapadas. The Nandas absorbed it."
 transitions:
 - year: -350

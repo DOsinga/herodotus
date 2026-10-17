@@ -21,5 +21,7 @@ point:
   name: Moscow
   latitude: 55.7558
   longitude: 37.6178
+colors:
+  1991: "#34b288"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

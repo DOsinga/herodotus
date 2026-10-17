@@ -18,6 +18,8 @@ point:
   name: "Jimsar"
   latitude: 44.0
   longitude: 89.15
+colors:
+  -60: "#865727"
 note: "Shares the Jushi Kingdom article. Both dates are estimates: the Han division of about 60 BCE and the last mentions of a separate kingdom in the third century. The point is approximate."
 transitions:
 - year: -60

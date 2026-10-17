@@ -16,6 +16,8 @@ point:
   name: "Bhavapura"
   latitude: 13.05
   longitude: 105.05
+colors:
+  700: "#274786"
 note: "700 estimates the separately governing royal centre after the late-seventh-century fragmentation. Bhavapura's location is disputed; the point follows the usual north-central Cambodian identification, not Wen Dan in the Chi basin. 944 estimates Rajendravarman's incorporation after he took the Angkor throne. Links Chenla's history."
 transitions:
 - year: 944

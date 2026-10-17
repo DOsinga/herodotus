@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Rostock
 point:
   latitude: 54.0833
   longitude: 12.1333
-note: "Under Danish rule from 1314 until Henry II of Mecklenburg received it in 1323."
+note: "Under Danish rule from 1314 until Henry II of Mecklenburg received it in 1323. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1218
   end: 1235
@@ -48,8 +48,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

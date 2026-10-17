@@ -20,6 +20,8 @@ point:
   name: Berlin
   latitude: 52.52
   longitude: 13.405
+colors:
+  1871: "#478627"
 transitions:
 - year: 1918
   kind: succeeded_by

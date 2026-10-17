@@ -18,5 +18,7 @@ point:
   name: Tifariti
   latitude: 26.158
   longitude: -10.567
+colors:
+  1976: "#51cdcd"
 note: "Governs its territory without wide international recognition. It governs the area east of the Moroccan wall and the Tindouf camps; Morocco governs most of Western Sahara."
 ---

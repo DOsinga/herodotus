@@ -21,5 +21,7 @@ point:
   name: "Brú na Bóinne"
   latitude: 53.69
   longitude: -6.48
+colors:
+  -2500: "#3449b2"
 note: "Links the Bronze Age section of the prehistory article. Both dates are conventional; Iron Age Ireland follows."
 ---

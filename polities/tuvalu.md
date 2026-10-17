@@ -20,6 +20,8 @@ point:
   name: Funafuti
   latitude: -8.5167
   longitude: 179.2
+colors:
+  1978: "#b2345e"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1978

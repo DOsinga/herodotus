@@ -18,6 +18,8 @@ point:
   name: Pekan
   latitude: 3.5
   longitude: 103.4167
+colors:
+  1470: "#862737"
 note: >-
   1470 follows the installation of Muhammad Shah, a Malaccan prince, as the first sultan; Pahang began
   as a vassal of Malacca but governed itself. 1623 follows the union with Johor, when Pahang's sultan

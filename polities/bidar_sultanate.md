@@ -18,6 +18,8 @@ point:
   name: "Bidar"
   latitude: 17.9104
   longitude: 77.5199
+colors:
+  1490: "#7a51cd"
 note: "Starts with the conventional 1490 division of the Bahmani lands, when the remaining Bahmani court at Bidar became one of the successor states; Qasim Barid controlled it from about 1492, and his line took the royal title only in 1542."
 transitions:
 - year: 1619

@@ -20,6 +20,8 @@ point:
   name: "Thebes"
   latitude: 25.72
   longitude: 32.61
+colors:
+  -1069: "#a351cd"
 note: "Links the article on the office. The high priests from Herihor's successors to Pinedjem II governed Upper Egypt with their own army; Pinedjem I took royal titles. Shoshenq I ended their independence by appointing his son Iuput high priest."
 transitions:
 - year: -943

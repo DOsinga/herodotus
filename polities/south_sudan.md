@@ -20,6 +20,8 @@ point:
   name: Juba
   latitude: 4.8539
   longitude: 31.5825
+colors:
+  2011: "#277686"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 2011

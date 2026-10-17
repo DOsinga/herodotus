@@ -19,6 +19,8 @@ point:
   name: "Ji"
   latitude: 39.9067
   longitude: 116.3975
+colors:
+  -770: "#51cdcd"
 note: "Starts in 770 BCE, when the Zhou court moved east and the lords began to govern their own states; before that the Western Zhou kings appointed, moved and commanded them, so their fiefs count as part of the Zhou state. Qin conquered it."
 transitions:
 - year: -222

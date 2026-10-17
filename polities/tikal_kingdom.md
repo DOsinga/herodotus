@@ -11,5 +11,7 @@ point:
   name: "Tikal"
   latitude: 17.222
   longitude: -89.624
+colors:
+  100: "#278667"
 note: "100 estimates the emergence of dynastic rulership associated with Yax Ehb Xook in the first century. The end around 900 estimates the collapse of royal government after the last attested king's monument in 869; later habitation does not extend the polity."
 ---

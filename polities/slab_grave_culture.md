@@ -19,5 +19,7 @@ point:
   name: "Central Mongolia"
   latitude: 47.9
   longitude: 106.9
+colors:
+  -1100: "#cdb851"
 note: "Both dates are estimates; the point is representative."
 ---

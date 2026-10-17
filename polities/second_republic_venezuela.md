@@ -19,6 +19,8 @@ point:
   name: Caracas
   latitude: 10.506
   longitude: -66.914
+colors:
+  1813: "#cd51cd"
 transitions:
 - year: 1813
   kind: broke_away_from

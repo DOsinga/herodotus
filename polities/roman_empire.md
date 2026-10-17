@@ -11,6 +11,8 @@ point:
   name: "Rome"
   latitude: 41.8933
   longitude: 12.4828
+colors:
+  -27: "#73b234"
 note: "Starts with Augustus; the Republic before it has not been audited. Co-emperors and the tetrarchy are treated as one government until the conventional permanent division of 395, although eastern and western courts already governed separately at times, notably from 364."
 transitions:
 - year: 395

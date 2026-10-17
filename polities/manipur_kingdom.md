@@ -23,6 +23,10 @@ point:
   name: Kangla
   latitude: 24.808
   longitude: 93.94
+colors:
+  1110: "#5151cd"
+  1515: "#5151cd"
+  1540: "#cd51cd"
 note: "Gap for the Burmese occupation of 1819–1825; ends with the Anglo-Manipur War of 1891, after which the British governed through a superintendent. It remained a princely state until 1949, which does not count as governing itself."
 transitions:
 - year: 1819

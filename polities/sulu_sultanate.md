@@ -11,6 +11,8 @@ point:
   name: Jolo
   latitude: 6.05
   longitude: 121.0
+colors:
+  1457: "#51cd66"
 note: "Start estimated (about 1457). Ends with the 1878 treaty that made it a Spanish protectorate; it passed to American protection in 1899. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1878

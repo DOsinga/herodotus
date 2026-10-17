@@ -23,6 +23,10 @@ point:
   name: Oldenburg
   latitude: 53.144
   longitude: 8.214
+colors:
+  1250: "#4934b2"
+  1748: "#4934b2"
+  1773: "#7acd51"
 note: "When the last count died in 1667 it passed to the Danish king, who governed it through officials; Denmark handed it to the Gottorp line in 1773 and it became a duchy in 1774. Annexed by France at the end of 1810, restored in 1813, and a grand duchy from 1815. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1667

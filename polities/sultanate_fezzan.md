@@ -19,6 +19,8 @@ point:
   name: Murzuk
   latitude: 25.9
   longitude: 13.9
+colors:
+  1550: "#b23473"
 note: "No article covers the state, so the link goes to the dynasty. Dates follow that article. Ottoman occupations, such as the one from 1577 to the 1580s, interrupted the dynasty's rule; the record treats them as part of one period because the dynasty kept governing the oases between them."
 transitions:
 - year: 1812

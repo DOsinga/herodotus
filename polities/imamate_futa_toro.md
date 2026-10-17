@@ -19,6 +19,8 @@ point:
   name: "Orefonde"
   latitude: 15.6
   longitude: -13.4
+colors:
+  1776: "#51cd51"
 note: "Point approximate: the capital Orefonde has no coordinates on Wikipedia."
 transitions:
 - year: 1859

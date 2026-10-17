@@ -19,6 +19,8 @@ point:
   name: "Sugamuxi (Sogamoso)"
   latitude: 5.715
   longitude: -72.93
+colors:
+  1450: "#51cd51"
 note: "One of several independent Muisca confederations. 1450 estimates its historical rulers; Spanish conquest came in 1537."
 transitions:
 - year: 1537

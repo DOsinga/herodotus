@@ -21,6 +21,10 @@ point:
   name: "Mansura"
   latitude: 25.88
   longitude: 68.78
+colors:
+  861: "#768627"
+  985: "#768627"
+  1010: "#278637"
 note: "861 follows effective autonomy after Umar's appointment in 854. 1025 follows the Mansura conquest chronology in UNESCO's History of Civilizations of Central Asia; the linked article gives conflicting endpoints, including 1011 and 1024–1026. The point at the ruined capital is approximate. This is the Mansura government, not the separate Multan emirate."
 transitions:
 - year: 861

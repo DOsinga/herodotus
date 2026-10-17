@@ -20,6 +20,8 @@ point:
   name: "Western Guizhou"
   latitude: 26.5
   longitude: 105.5
+colors:
+  -300: "#34b273"
 note: "Both dates are estimates; the location of its centre is unknown. Han ended it after killing its last king about 27 BCE."
 transitions:
 - year: -27

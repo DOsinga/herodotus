@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Augsburg
 point:
   latitude: 48.3689
   longitude: 10.8978
-note: "Augusta Vindelicorum, capital of Raetia. Gap for the bishops' city before it became a free imperial city in 1276."
+note: "Augusta Vindelicorum, capital of Raetia. Gap for the bishops' city before it became a free imperial city in 1276. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: -15
   end: 394
@@ -92,8 +92,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: united_states
   importance: 2
 - start: 1949
   end: null

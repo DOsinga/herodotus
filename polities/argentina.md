@@ -21,6 +21,8 @@ point:
   name: Buenos Aires
   latitude: -34.604
   longitude: -58.381
+colors:
+  1810: "#cd5166"
 note: "Starts with the Primera Junta of May 1810 as the United Provinces of the Río de la Plata, which governed in Ferdinand VII's name until independence was declared in 1816. Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1810

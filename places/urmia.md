@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Urmia
 point:
   latitude: 37.5439
   longitude: 45.0647
+note: "Soviet forces occupied northern Iran from 1941 to 1946."
 control:
 - start: -800
   end: -591
@@ -139,8 +140,12 @@ control:
   polity: qajar_iran
   importance: 2
 - start: 1925
-  end: 1944
+  end: 1940
   polity: pahlavi_iran
+  importance: 2
+- start: 1941
+  end: 1944
+  polity: soviet_union
   importance: 2
 - start: 1945
   end: 1946

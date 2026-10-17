@@ -22,4 +22,6 @@ point:
   name: Vijayanagara
   latitude: 15.335
   longitude: 76.46
+colors:
+  1336: "#678627"
 ---

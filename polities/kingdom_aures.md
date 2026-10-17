@@ -13,6 +13,8 @@ point:
   name: "Arris"
   latitude: 35.256
   longitude: 6.347
+colors:
+  484: "#b23449"
 note: "484 estimates Masties' kingdom after revolt against the Vandals. Gap for Solomon's Byzantine conquest until the revolt of 544. 703 is the conventional date of Dihya's defeat, also dated earlier in some accounts. Arris represents the early royal region; Dihya operated near Khenchela."
 transitions:
 - year: 539

@@ -20,6 +20,8 @@ point:
   name: "Carthage"
   latitude: 36.853
   longitude: 10.323
+colors:
+  435: "#672786"
 note: "435 follows the establishment of a recognised territorial kingdom in Africa; Carthage became the capital after its capture in 439. Ends with Gelimer's surrender and Byzantine annexation, not the later survival of Vandal rebels."
 transitions:
 - year: 534

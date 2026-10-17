@@ -20,6 +20,10 @@ point:
   name: Nuremberg
   latitude: 49.454
   longitude: 11.078
+colors:
+  1250: "#7334b2"
+  1475: "#7334b2"
+  1500: "#7a51cd"
 note: "A free imperial city from its 1219 charter. Annexed by Bavaria in 1806."
 transitions:
 - year: 1806

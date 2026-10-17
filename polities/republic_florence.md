@@ -19,6 +19,10 @@ point:
   name: Florence
   latitude: 43.7696
   longitude: 11.2558
+colors:
+  1115: "#cd5166"
+  1190: "#cd5166"
+  1215: "#b851cd"
 transitions:
 - year: 1532
   kind: succeeded_by

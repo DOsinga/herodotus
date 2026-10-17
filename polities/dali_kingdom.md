@@ -20,6 +20,8 @@ point:
   name: Dali
   latitude: 25.6944
   longitude: 100.1556
+colors:
+  937: "#cd51cd"
 transitions:
 - year: 1094
   kind: succeeded_by

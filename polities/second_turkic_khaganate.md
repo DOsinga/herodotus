@@ -20,6 +20,8 @@ point:
   name: "Otuken"
   latitude: 47.5
   longitude: 102.8
+colors:
+  682: "#b23449"
 note: "Ilterish established a new governing khaganate after revolt against Tang in 682. Ends with its overthrow by the Uyghur-led coalition in 744. Otuken is an approximate location of the mobile court."
 transitions:
 - year: 682

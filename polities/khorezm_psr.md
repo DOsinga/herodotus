@@ -20,6 +20,8 @@ point:
   name: Khiva
   latitude: 41.3814
   longitude: 60.3611
+colors:
+  1920: "#b2349d"
 transitions:
 - year: 1924
   kind: absorbed_into

@@ -19,6 +19,8 @@ point:
   name: "Thanesar"
   latitude: 29.969
   longitude: 76.819
+colors:
+  500: "#cda351"
 note: "500 is the conventional early foundation estimate. Harsha inherited and expanded this state in 606, governing later from Kannauj. His death in 647 ended the larger Vardhana government; the surviving Kannauj court has its own record."
 transitions:
 - year: 647

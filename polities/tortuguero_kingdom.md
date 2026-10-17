@@ -19,5 +19,7 @@ point:
   name: "Tortuguero"
   latitude: 17.68694
   longitude: -92.56806
+colors:
+  500: "#b234b2"
 note: "500–750 estimates the Classic royal court known especially through Bahlam Ajaw's reign in 644–679. It shared the Baakal title with Palenque but waged its own wars, including the 649 conquest of Comalcalco. A shared title is not used to merge the two governments."
 ---

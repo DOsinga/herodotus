@@ -19,6 +19,8 @@ point:
   name: "Dikwa"
   latitude: 12.09
   longitude: 14.0
+colors:
+  1879: "#866727"
 note: "Links Rabih's article; no separate article covers his state. 1879 follows the collapse of his patron's power in Bahr el Ghazal, after which he led his own army; Dikwa was the capital from 1893."
 transitions:
 - year: 1901

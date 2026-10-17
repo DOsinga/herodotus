@@ -22,6 +22,8 @@ point:
   name: Tripoli
   latitude: 32.888
   longitude: 13.188
+colors:
+  1711: "#276786"
 note: "Wikipedia covers the state under its dynasty article. Gap for the Ottoman officer Ali Burghul, who deposed the Karamanlis in 1793 until they expelled him in January 1794. Ends when the Ottomans restored direct rule in 1835."
 transitions:
 - year: 1711

@@ -20,6 +20,8 @@ point:
   name: Abuja
   latitude: 9.0667
   longitude: 7.4833
+colors:
+  1960: "#cd51b8"
 note: "Lagos was the capital until 1991. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

@@ -20,6 +20,8 @@ point:
   name: Trebizond
   latitude: 41.005
   longitude: 39.7225
+colors:
+  1204: "#3488b2"
 transitions:
 - year: 1461
   kind: absorbed_into

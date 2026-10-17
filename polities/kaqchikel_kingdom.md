@@ -20,6 +20,8 @@ point:
   name: "Iximche"
   latitude: 14.7361
   longitude: -90.9956
+colors:
+  1470: "#a351cd"
 note: "The Kaqchikel broke with the Spanish in 1524, abandoned Iximche and fought on until their lords surrendered in 1530, so the record runs to then."
 transitions:
 - year: 1530

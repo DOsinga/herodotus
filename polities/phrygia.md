@@ -19,5 +19,7 @@ point:
   name: "Gordion"
   latitude: 39.65
   longitude: 31.99
+colors:
+  -1200: "#864727"
 note: "The kingdom is known from the 8th century BCE, under Midas; the Cimmerian invasion ended it."
 ---

@@ -20,5 +20,7 @@ point:
   name: "Mas d'Azil"
   latitude: 43.1
   longitude: 1.4
+colors:
+  -10500: "#273786"
 note: "Links the Azilian article. Both dates are estimates, converted from about 12,500–10,000 years before present."
 ---

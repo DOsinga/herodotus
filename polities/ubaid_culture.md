@@ -22,5 +22,7 @@ point:
   name: "Eridu"
   latitude: 30.82
   longitude: 46.0
+colors:
+  -6500: "#b23449"
 note: "Links the Ubaid period article. Both dates are estimates. The Uruk period follows."
 ---

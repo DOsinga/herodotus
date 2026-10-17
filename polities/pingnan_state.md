@@ -19,6 +19,8 @@ point:
   name: Dali
   latitude: 25.6944
   longitude: 100.1556
+colors:
+  1856: "#a3cd51"
 note: "Dali fell in late December 1872 and Du Wenxiu died in January 1873; the last rebel towns surrendered in 1873."
 transitions:
 - year: 1856

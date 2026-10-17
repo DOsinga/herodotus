@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Cottbus
 point:
   latitude: 51.7606
   longitude: 14.3342
-note: "In Lower Lusatia, which belonged to Bohemia from 1367; Brandenburg bought the lordship of Cottbus in 1445. Saxon from the Treaty of Tilsit until 1815."
+note: "In Lower Lusatia, which belonged to Bohemia from 1367; Brandenburg bought the lordship of Cottbus in 1445. Saxon from the Treaty of Tilsit until 1815. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1368
   end: 1444
@@ -40,8 +40,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

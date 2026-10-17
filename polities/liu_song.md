@@ -20,6 +20,8 @@ point:
   name: "Jiankang"
   latitude: 32.0608
   longitude: 118.7789
+colors:
+  420: "#34b249"
 transitions:
 - year: 479
   kind: succeeded_by

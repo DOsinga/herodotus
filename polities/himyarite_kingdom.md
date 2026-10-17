@@ -21,6 +21,8 @@ point:
   name: "Zafar"
   latitude: 14.213
   longitude: 44.403
+colors:
+  -110: "#762786"
 note: "110 BCE is the conventional founding date. Gap for the Aksumite conquest and government through Sumyafa Ashwa; Abraha then established his own government around 535. The second period includes the briefly restored Sayf ibn Dhi Yazan before direct Persian administration. 575 is a conventional conquest date, also given as 578. Zafar represents the earlier capital; Sanaa became the later seat."
 transitions:
 - year: 525

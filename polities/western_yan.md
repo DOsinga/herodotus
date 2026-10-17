@@ -19,6 +19,8 @@ point:
   name: "Zhangzi"
   latitude: 36.195
   longitude: 113.1111
+colors:
+  384: "#cd7a51"
 transitions:
 - year: 394
   kind: absorbed_into

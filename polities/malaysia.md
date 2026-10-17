@@ -19,5 +19,7 @@ point:
   name: Kuala Lumpur
   latitude: 3.1478
   longitude: 101.6953
+colors:
+  1963: "#864727"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

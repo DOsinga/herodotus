@@ -20,6 +20,10 @@ point:
   name: "Gudimallam"
   latitude: 13.604
   longitude: 79.58
+colors:
+  350: "#472786"
+  535: "#472786"
+  560: "#862747"
 note: "350 estimates the northern Tamil-Andhra royal community, attested from the fourth century. Ends with Parantaka's destruction of the royal governments around 921, not later migrating Bana families serving as governors. Gudimallam represents a principal court; Kolar and other seats were used at different times."
 transitions:
 - year: 921

@@ -20,5 +20,7 @@ point:
   name: "Vijayapuri"
   latitude: 16.5219
   longitude: 79.2429
+colors:
+  225: "#278676"
 note: "Both dates are estimates from inscriptions."
 ---

@@ -19,6 +19,8 @@ point:
   name: Xacitarxan
   latitude: 46.3589
   longitude: 48.06
+colors:
+  1466: "#cdcd51"
 transitions:
 - year: 1556
   kind: absorbed_into

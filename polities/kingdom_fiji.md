@@ -18,6 +18,8 @@ point:
   name: "Levuka"
   latitude: -17.6833
   longitude: 178.8333
+colors:
+  1871: "#349db2"
 transitions:
 - year: 1874
   kind: absorbed_into

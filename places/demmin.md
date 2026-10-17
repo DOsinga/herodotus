@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Demmin
 point:
   latitude: 53.905
   longitude: 13.0439
-note: "A Circipanian stronghold on the Peene. Pomeranian from about 1128, Swedish from 1630 and Prussian from 1720."
+note: "A Circipanian stronghold on the Peene. Pomeranian from about 1128, Swedish from 1630 and Prussian from 1720. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 789
   end: 982
@@ -44,8 +44,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 1
 - start: 1949
   end: 1989

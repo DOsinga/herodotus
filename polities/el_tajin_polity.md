@@ -19,5 +19,7 @@ point:
   name: "El Tajin"
   latitude: 20.44806
   longitude: -97.37824
+colors:
+  600: "#868627"
 note: "600–1200 estimates the regional government from the growth and eventual abandonment of its monumental urban centre. The identity of its rulers and exact borders remain disputed; this is not an umbrella for all Totonac communities."
 ---

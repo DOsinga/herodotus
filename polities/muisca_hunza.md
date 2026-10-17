@@ -19,6 +19,8 @@ point:
   name: "Hunza (Tunja)"
   latitude: 5.535
   longitude: -73.367
+colors:
+  1450: "#762786"
 note: "Links the article on the Muisca rulers, which covers the zaques, as no article covers the confederation itself. One of several independent Muisca confederations. 1450 estimates the historical zaques; the Spanish captured the zaque in 1537."
 transitions:
 - year: 1537

@@ -19,6 +19,8 @@ point:
   name: Casale Monferrato
   latitude: 45.133
   longitude: 8.45
+colors:
+  967: "#278627"
 note: "Start follows the imperial grant to Aleramo in 967. Passed to the Gonzaga in 1536 when the Palaiologos line died out, and was governed from Mantua."
 transitions:
 - year: 1536

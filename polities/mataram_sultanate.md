@@ -19,6 +19,8 @@ point:
   name: Kotagede
   latitude: -7.82
   longitude: 110.4
+colors:
+  1584: "#518fcd"
 note: "Ends in 1749, when Pakubuwono II ceded sovereignty to the Dutch East India Company. The courts of Surakarta and Yogyakarta that came out of the 1755 partition were Dutch-protected from the start, so they have no records. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1749

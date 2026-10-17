@@ -20,6 +20,8 @@ point:
   name: La Centinela
   latitude: -13.4503
   longitude: -76.1711
+colors:
+  1000: "#572786"
 note: "Links the article on the Chincha culture. The dates are estimates: the kingdom flourished in the Late Intermediate Period and was absorbed by the Incas about 1476."
 transitions:
 - year: 1476

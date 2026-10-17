@@ -19,6 +19,8 @@ point:
   name: "Fare"
   latitude: -16.7333
   longitude: -151.0333
+colors:
+  1769: "#862767"
 note: "Links the island article, which covers the kingdom; Wikipedia has no separate article on it. Start estimated from Cook's visit of 1769, the first record of the kingdom under Queen Tehaʻapapa I. Ends with the French protectorate and annexation of 1888; resistance continued and the last queen was deposed in 1895."
 transitions:
 - year: 1888

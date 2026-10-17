@@ -20,6 +20,8 @@ point:
   name: Dadu
   latitude: 39.915
   longitude: 116.39
+colors:
+  1271: "#a351cd"
 transitions:
 - year: 1368
   kind: split_into

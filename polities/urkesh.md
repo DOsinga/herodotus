@@ -20,5 +20,7 @@ point:
   name: "Urkesh"
   latitude: 37.06
   longitude: 40.99
+colors:
+  -2400: "#9d34b2"
 note: "Both dates are estimates for the Hurrian kingdom whose rulers, the endans, married into Naram-Sin's family as allies rather than subjects."
 ---

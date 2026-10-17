@@ -22,5 +22,7 @@ point:
   name: Paris
   latitude: 48.8567
   longitude: 2.3522
+colors:
+  1958: "#cd51a3"
 note: "The Fifth Republic. Links the country article. Changes of regime are not split into separate records."
 ---

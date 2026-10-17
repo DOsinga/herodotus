@@ -21,6 +21,8 @@ point:
   name: Malolos
   latitude: 14.844
   longitude: 120.811
+colors:
+  1899: "#862747"
 transitions:
 - year: 1899
   kind: broke_away_from

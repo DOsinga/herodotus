@@ -20,6 +20,8 @@ point:
   name: "Damascus"
   latitude: 33.513
   longitude: 36.293
+colors:
+  656: "#7acd51"
 note: "Muawiya's separately governing Syrian court after his refusal to recognize Ali, not his earlier appointed governorship. His accession to the caliphate in 661 begins the existing Umayyad record. Links the ruler's biography because no separate article covers this governing phase."
 transitions:
 - year: 656

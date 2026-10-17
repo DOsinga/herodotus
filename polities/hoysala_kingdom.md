@@ -18,6 +18,10 @@ point:
   name: Halebidu
   latitude: 13.2167
   longitude: 75.9917
+colors:
+  1026: "#865727"
+  1167: "#865727"
+  1192: "#cd518f"
 transitions:
 - year: 1346
   kind: absorbed_into

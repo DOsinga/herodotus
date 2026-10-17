@@ -19,5 +19,7 @@ point:
   name: "San Lorenzo"
   latitude: 17.75
   longitude: -94.76
+colors:
+  -1400: "#862747"
 note: "Both dates are estimates for the first Olmec centre; La Venta follows."
 ---

@@ -22,6 +22,8 @@ point:
   name: "Bar"
   latitude: 42.097
   longitude: 19.095
+colors:
+  900: "#66cd51"
 note: "The start estimates the tenth-century principality. Byzantine government followed in 1018; Vojislav restored self-government around 1040. Nemanja's conquest in 1186 ends the later period, rather than Desislava's last recorded appearance in 1189."
 transitions:
 - year: 1018

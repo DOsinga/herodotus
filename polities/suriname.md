@@ -22,6 +22,8 @@ point:
   name: Paramaribo
   latitude: 5.8522
   longitude: -55.2039
+colors:
+  1975: "#4934b2"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1975

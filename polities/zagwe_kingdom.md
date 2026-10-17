@@ -11,6 +11,8 @@ point:
   name: Adefa
   latitude: 12.0317
   longitude: 39.0472
+colors:
+  1137: "#6651cd"
 note: "1137 follows one traditional chronology for Mara Takla Haymanot's accession. The start of Zagwe rule is disputed, with other accounts placing it earlier."
 transitions:
 - year: 1270

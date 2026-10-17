@@ -20,6 +20,8 @@ point:
   name: Andahuaylas
   latitude: -13.6575
   longitude: -73.3833
+colors:
+  1100: "#51cd66"
 note: "The dates are estimates: the Chanka settled in the Andahuaylas valley after the fall of Wari, and the Inca victory over them is placed about 1438. Some archaeologists doubt that the Chanka were as unified as the chronicles say."
 transitions:
 - year: 1438

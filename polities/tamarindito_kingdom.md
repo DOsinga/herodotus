@@ -19,5 +19,7 @@ point:
   name: "Tamarindito"
   latitude: 16.45
   longitude: -90.23
+colors:
+  400: "#34b273"
 note: "400–800 estimates the royal court's Early to Late Classic life. Tamarindito and Arroyo de Piedra were centres of the same polity, not two governments. Dos Pilas overlordship did not end the local dynasty, which defeated its overlord in 761."
 ---

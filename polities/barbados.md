@@ -21,6 +21,8 @@ point:
   name: Bridgetown
   latitude: 13.0969
   longitude: -59.6131
+colors:
+  1966: "#51cdb8"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1966

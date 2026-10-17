@@ -18,6 +18,8 @@ point:
   name: Chernihiv
   latitude: 51.494
   longitude: 31.295
+colors:
+  1132: "#862737"
 note: "Held by the Olgovichi, who also contested Kyiv. After the Mongols sacked Chernihiv in 1239, Michael of Chernigov and, after the Horde executed him in 1246, his son Roman Mikhailovich kept governing what remained, from Bryansk; other appanages split off. Princes of the Smolensk line took Bryansk around 1310 (estimated)."
 transitions:
 - year: 1310

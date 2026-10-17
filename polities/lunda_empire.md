@@ -21,6 +21,8 @@ point:
   name: Musumba
   latitude: -8.559
   longitude: 22.683
+colors:
+  1665: "#372786"
 note: "Founding date estimated: sources range from about 1665 to the reign of Nawej, the first well-attested ruler, from about 1695."
 transitions:
 - year: 1887

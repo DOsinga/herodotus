@@ -19,6 +19,8 @@ point:
   name: Sion
   latitude: 46.2331
   longitude: 7.3606
+colors:
+  1250: "#b24934"
 note: "Starts in 1250 under the Holy Roman Empire rule in AGENTS.md. Wikipedia has no article on the prince-bishopric as a state, so the link is to the diocese."
 transitions:
 - year: 1628

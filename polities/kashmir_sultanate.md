@@ -20,6 +20,8 @@ point:
   name: Srinagar
   latitude: 34.0837
   longitude: 74.7973
+colors:
+  1339: "#b8cd51"
 transitions:
 - year: 1586
   kind: absorbed_into

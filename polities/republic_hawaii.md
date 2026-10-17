@@ -20,6 +20,8 @@ point:
   name: Honolulu
   latitude: 21.3
   longitude: -157.85
+colors:
+  1893: "#34b273"
 note: "Includes the Provisional Government of 1893–1894."
 transitions:
 - year: 1898

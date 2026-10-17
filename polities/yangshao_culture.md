@@ -21,5 +21,7 @@ point:
   name: "Yangshao"
   latitude: 34.77
   longitude: 111.77
+colors:
+  -5000: "#277686"
 note: "Both dates are estimates. The Longshan culture follows."
 ---

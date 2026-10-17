@@ -20,6 +20,8 @@ point:
   name: "Kabul"
   latitude: 34.525
   longitude: 69.178
+colors:
+  1823: "#34b29d"
 note: "The Treaty of Gandamak of 1879 gave Britain control of its foreign relations until 1919, but the emirs governed and fought on their own account, and like Bhutan it is treated as independent throughout."
 transitions:
 - year: 1926

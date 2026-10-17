@@ -22,5 +22,7 @@ point:
   name: "Nok"
   latitude: 9.5
   longitude: 8.0
+colors:
+  -1500: "#8834b2"
 note: "Both dates are estimates; the end of the culture is poorly dated."
 ---

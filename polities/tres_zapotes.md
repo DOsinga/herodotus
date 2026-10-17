@@ -21,5 +21,7 @@ point:
   name: "Tres Zapotes"
   latitude: 18.47
   longitude: -95.44
+colors:
+  -400: "#34b29d"
 note: "Both dates are estimates for the Epi-Olmec centre after La Venta's decline."
 ---

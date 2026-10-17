@@ -19,6 +19,8 @@ point:
   name: Motul
   latitude: 21.0947
   longitude: -89.2836
+colors:
+  1441: "#cd6651"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1542."
 transitions:
 - year: 1542

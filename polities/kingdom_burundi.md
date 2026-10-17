@@ -19,6 +19,8 @@ point:
   name: "Muramvya"
   latitude: -3.25
   longitude: 29.6
+colors:
+  1680: "#51cdb8"
 note: "1680 is Wikipedia's approximate date for the dynasty. Ends with the Treaty of Kiganda of 1903, which made the kingdom a German protectorate. The independent kingdom of 1962 to 1966 is part of the Burundi record."
 transitions:
 - year: 1903

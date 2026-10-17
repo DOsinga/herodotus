@@ -20,5 +20,7 @@ point:
   name: Tula
   latitude: 20.064
   longitude: -99.341
+colors:
+  674: "#cd51a3"
 note: "Both dates are disputed estimates from Wikipedia's infobox."
 ---

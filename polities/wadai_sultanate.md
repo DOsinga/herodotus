@@ -20,6 +20,8 @@ point:
   name: Ouara
   latitude: 14.2267
   longitude: 20.6722
+colors:
+  1635: "#472786"
 transitions:
 - year: 1912
   kind: absorbed_into

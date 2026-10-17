@@ -16,6 +16,8 @@ point:
   name: "Ye"
   latitude: 36.33
   longitude: 114.36
+colors:
+  350: "#cd518f"
 transitions:
 - year: 352
   kind: absorbed_into

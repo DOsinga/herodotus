@@ -16,6 +16,8 @@ point:
   name: "Dungannon"
   latitude: 54.5034
   longitude: -6.7672
+colors:
+  1185: "#472786"
 transitions:
 - year: 1607
   kind: absorbed_into

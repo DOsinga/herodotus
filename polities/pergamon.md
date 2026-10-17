@@ -21,6 +21,10 @@ point:
   name: "Pergamon"
   latitude: 39.1325
   longitude: 27.1842
+colors:
+  -282: "#862757"
+  -200: "#862757"
+  -175: "#cd51cd"
 note: "Attalus III left the kingdom to Rome."
 transitions:
 - year: -282

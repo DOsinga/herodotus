@@ -11,5 +11,7 @@ point:
   name: "Xianyang"
   latitude: 34.3299
   longitude: 108.7088
+colors:
+  -221: "#372786"
 note: "Ends with Ziying's surrender to Liu Bang. Of Xiang Yu's eighteen kingdoms of 206 BCE, which lasted at most four years, only Western Chu and Liu Bang's Han are recorded."
 ---

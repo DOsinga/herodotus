@@ -19,6 +19,8 @@ point:
   name: Kruševac
   latitude: 43.5809
   longitude: 21.326
+colors:
+  1371: "#862767"
 transitions:
 - year: 1402
   kind: succeeded_by

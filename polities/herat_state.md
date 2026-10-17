@@ -19,6 +19,8 @@ point:
   name: Herat
   latitude: 34.3419
   longitude: 62.2031
+colors:
+  1823: "#678627"
 note: "Mahmud Shah's Herat before 1823 stays in the Durrani Empire's record, so this record begins when that one ends; Wikipedia dates the state from 1793. The Persian occupation of 1856–1857 is not split out."
 transitions:
 - year: 1863

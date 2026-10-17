@@ -20,6 +20,8 @@ point:
   name: "Southern marshes"
   latitude: 31.0
   longitude: 46.5
+colors:
+  -1732: "#3449b2"
 note: "Both dates are estimates on the middle chronology. It broke from Babylon under Samsu-iluna and held the far south until the Kassite king Ulamburiash took it. The capital's location is unknown."
 transitions:
 - year: -1732

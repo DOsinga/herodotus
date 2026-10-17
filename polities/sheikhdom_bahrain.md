@@ -18,6 +18,8 @@ point:
   name: Manama
   latitude: 26.2233
   longitude: 50.5875
+colors:
+  1783: "#278647"
 note: "The Omani occupation of 1800 to 1801 and the years of Wahhabi influence are not split out. Ends with the Perpetual Truce of 1861, under which Britain took over Bahrain's defence; the exclusive agreements of 1880 and 1892 completed the protectorate."
 transitions:
 - year: 1861

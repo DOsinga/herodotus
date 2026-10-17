@@ -20,6 +20,8 @@ point:
   name: "Hecatompylos"
   latitude: 36.27
   longitude: 54.32
+colors:
+  -245: "#cd51cd"
 note: "Links Andragoras' article. Both dates are estimates: the satrap's break from the Seleucids during the Third Syrian War and Arsaces' conquest."
 transitions:
 - year: -245

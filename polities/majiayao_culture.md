@@ -12,5 +12,7 @@ point:
   name: "Upper Yellow River"
   latitude: 35.6
   longitude: 103.2
+colors:
+  -3300: "#672786"
 note: "Both dates are estimates. The Qijia culture follows."
 ---

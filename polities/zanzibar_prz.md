@@ -19,6 +19,8 @@ point:
   name: Stone Town
   latitude: -6.1624
   longitude: 39.1913
+colors:
+  1964: "#862757"
 note: "The revolutionary government of January to April 1964."
 transitions:
 - year: 1964

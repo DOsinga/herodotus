@@ -20,5 +20,7 @@ point:
   name: "Dedan"
   latitude: 26.6089
   longitude: 37.9236
+colors:
+  -500: "#273786"
 note: "Both dates are estimates: the kingdom at Dedan until the Nabataean takeover."
 ---

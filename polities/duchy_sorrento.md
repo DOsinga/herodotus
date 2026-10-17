@@ -18,6 +18,8 @@ point:
   name: "Sorrento"
   latitude: 40.626
   longitude: 14.376
+colors:
+  840: "#862776"
 note: "840 estimates its own government after the siege of 839; the Normans of Apulia took it in 1078."
 transitions:
 - year: 1078

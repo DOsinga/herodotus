@@ -19,6 +19,10 @@ point:
   name: "Thebes"
   latitude: 25.72
   longitude: 32.61
+colors:
+  -837: "#cdcd51"
+  -759: "#cdcd51"
+  -734: "#51cd66"
 note: "Both dates are estimates: the rival line from Takelot II and Pedubast I, based at Thebes and later Leontopolis, until Piye's conquest."
 transitions:
 - year: -837

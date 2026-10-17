@@ -11,6 +11,8 @@ point:
   name: "Assur"
   latitude: 35.46
   longitude: 43.26
+colors:
+  -1363: "#862727"
 note: "Starts with Ashur-uballit I, who ended Mitanni's overlordship and made Assyria a great power."
 transitions:
 - year: -912

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Erfurt
 point:
   latitude: 50.9781
   longitude: 11.0289
-note: "Gap for the years when the city governed itself under the nominal lordship of Mainz, until Mainz troops took it in 1664. Napoleon kept it as an imperial domain from 1807. Swedish garrison from 1631 to 1650."
+note: "Gap for the years when the city governed itself under the nominal lordship of Mainz, until Mainz troops took it in 1664. Napoleon kept it as an imperial domain from 1807. Swedish garrison from 1631 to 1650. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 742
   end: 750
@@ -56,8 +56,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

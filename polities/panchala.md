@@ -20,6 +20,8 @@ point:
   name: "Ahichchhatra"
   latitude: 28.37
   longitude: 79.14
+colors:
+  -1100: "#b8cd51"
 note: "Both dates are estimates; the Nandas absorbed it."
 transitions:
 - year: -350

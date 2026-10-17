@@ -21,6 +21,8 @@ point:
   name: Dhaka
   latitude: 23.7644
   longitude: 90.3889
+colors:
+  1971: "#862776"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1971

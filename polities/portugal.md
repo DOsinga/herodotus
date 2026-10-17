@@ -20,5 +20,7 @@ point:
   name: Lisbon
   latitude: 38.7253
   longitude: -9.15
+colors:
+  1910: "#8f51cd"
 note: "Starts with the First Republic. Links the country article. Changes of regime are not split into separate records."
 ---

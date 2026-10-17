@@ -12,5 +12,7 @@ point:
   name: "Maiden Castle"
   latitude: 50.69
   longitude: -2.47
+colors:
+  -800: "#cdcd51"
 note: "Both dates are conventional. The tribal kingdoms are recorded from about 50 BCE, when coins and Roman sources name their rulers."
 ---

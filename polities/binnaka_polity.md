@@ -20,6 +20,8 @@ point:
   name: "Binnaka"
   latitude: 20.554
   longitude: 96.034
+colors:
+  -100: "#b24934"
 note: "100 BCE estimates formation of the early fortified city-state. 1050 estimates Pagan's incorporation; continued occupation into the nineteenth century is not independent political survival. The exact governing dates are unknown."
 transitions:
 - year: 1050

@@ -12,5 +12,7 @@ point:
   name: "La Venta"
   latitude: 18.1
   longitude: -94.04
+colors:
+  -900: "#cda351"
 note: "The Olmec centre; both dates are estimates."
 ---

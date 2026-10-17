@@ -20,6 +20,8 @@ point:
   name: "Qarnawu"
   latitude: 16.15
   longitude: 44.78
+colors:
+  -650: "#275786"
 note: "Links the article on the Minaeans. Both dates are estimates; Saba took it."
 transitions:
 - year: -100

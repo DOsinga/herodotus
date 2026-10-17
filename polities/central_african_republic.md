@@ -11,6 +11,8 @@ point:
   name: Bangui
   latitude: 4.3733
   longitude: 18.5628
+colors:
+  1960: "#66cd51"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

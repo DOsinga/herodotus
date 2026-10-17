@@ -17,6 +17,12 @@ point:
   name: Nancy
   latitude: 48.692
   longitude: 6.184
+colors:
+  1250: "#3473b2"
+  1419: "#3473b2"
+  1444: "#372786"
+  1519: "#372786"
+  1544: "#273786"
 note: "Upper Lorraine was split off in 959, but until 1250 its dukes held it from the emperors, who still governed the German kingdom. The gaps are Charles the Bold's Burgundian government in 1475–1477 and direct French administration in 1634–1661 and 1670–1697. French occupation after 1702 left Leopold's government at Lunéville. 1737 ends actual ducal government: Stanisław kept the title, but La Galaizière and the French administration ran the duchy, before formal annexation in 1766."
 transitions:
 - year: 1475

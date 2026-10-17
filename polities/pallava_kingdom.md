@@ -20,6 +20,8 @@ point:
   name: "Kanchipuram"
   latitude: 12.8342
   longitude: 79.7036
+colors:
+  275: "#7a51cd"
 note: "The dynasty article covers the kingdom. 275 is a conventional approximate start for the early Pallava state; its early chronology is uncertain. Later Chola government of the region is not continued Pallava rule."
 transitions:
 - year: 897

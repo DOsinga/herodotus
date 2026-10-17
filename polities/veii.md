@@ -11,6 +11,8 @@ point:
   name: "Veii"
   latitude: 42.0233
   longitude: 12.3897
+colors:
+  -750: "#862757"
 note: "Rome took and destroyed it after a long siege."
 transitions:
 - year: -396

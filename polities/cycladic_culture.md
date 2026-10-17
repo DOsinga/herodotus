@@ -21,5 +21,7 @@ point:
   name: "Cyclades"
   latitude: 37.1
   longitude: 25.38
+colors:
+  -3200: "#278657"
 note: "Both dates are estimates."
 ---

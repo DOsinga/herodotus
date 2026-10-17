@@ -18,6 +18,10 @@ point:
   name: Siak Sri Indrapura
   latitude: 0.7956
   longitude: 102.0519
+colors:
+  1722: "#51b8cd"
+  1797: "#51b8cd"
+  1822: "#572786"
 note: >-
   1722 follows Raja Kecil's withdrawal to Siak after failing to hold the Johor throne. The 1858 treaty
   placed Siak under Dutch sovereignty and is counted as absorption, although sultans reigned until the

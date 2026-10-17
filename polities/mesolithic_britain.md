@@ -21,5 +21,7 @@ point:
   name: "Star Carr"
   latitude: 54.21
   longitude: -0.37
+colors:
+  -9600: "#518fcd"
 note: "Links the closest article, on prehistoric Britain. Both dates are estimates. The Neolithic British Isles follow."
 ---

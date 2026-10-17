@@ -21,6 +21,10 @@ point:
   name: "Xiazhou (Tongwancheng)"
   latitude: 38.135
   longitude: 108.867
+colors:
+  881: "#278647"
+  1003: "#278647"
+  1028: "#768627"
 note: "This records the Li clan's own hereditary Tangut government, not every holder of the earlier imperial commission. The marker approximates its earlier Xiazhou seat. Li Jipeng's surrender in 982 brought Song administration; Li Jiqian recovered territorial government by taking Yinzhou in 985. Later tribute and recognition did not end it. Yuanhao's imperial Xia identity begins in 1038."
 transitions:
 - year: 881

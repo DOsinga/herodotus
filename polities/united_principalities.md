@@ -21,6 +21,8 @@ point:
   name: Bucharest
   latitude: 44.432
   longitude: 26.104
+colors:
+  1859: "#276786"
 transitions:
 - year: 1881
   kind: succeeded_by

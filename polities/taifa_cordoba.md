@@ -19,6 +19,8 @@ point:
   name: "Córdoba"
   latitude: 37.8882
   longitude: -4.7794
+colors:
+  1031: "#5eb234"
 note: "The Jahwarid city government replaced the caliphate. Seville's annexation is dated 1070 here; some accounts place it in 1071."
 transitions:
 - year: 1070

@@ -19,6 +19,8 @@ point:
   name: Tarnovo
   latitude: 43.0812
   longitude: 25.629
+colors:
+  1185: "#572786"
 transitions:
 - year: 1395
   kind: absorbed_into

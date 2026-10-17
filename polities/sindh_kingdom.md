@@ -19,6 +19,8 @@ point:
   name: "Aror"
   latitude: 27.654
   longitude: 68.953
+colors:
+  489: "#276786"
 note: "489 is the conventional Rai foundation date, derived largely from the much later Chachnama. Chach's takeover around 632 changed the ruling house, not the polity, so the Rai and Brahmin courts share one record. Ends with Muhammad bin Qasim's conquest; Dahir's descendants' later local appointments are not a continued independent kingdom."
 transitions:
 - year: 712

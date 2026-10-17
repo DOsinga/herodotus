@@ -20,4 +20,6 @@ point:
   name: Riga
   latitude: 56.9496
   longitude: 24.1052
+colors:
+  1435: "#cd5166"
 ---

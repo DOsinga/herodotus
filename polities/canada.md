@@ -18,6 +18,8 @@ point:
   name: Ottawa
   latitude: 45.4247
   longitude: -75.695
+colors:
+  1922: "#478627"
 note: "Starts in 1922, when Canada refused to commit itself to Britain's Chanak intervention; it signed its own Halibut Treaty in 1923. Self-governing at home earlier. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1922

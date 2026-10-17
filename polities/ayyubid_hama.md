@@ -21,6 +21,8 @@ point:
   name: Hama
   latitude: 35.1333
   longitude: 36.75
+colors:
+  1193: "#b29d34"
 transitions:
 - year: 1299
   kind: absorbed_into

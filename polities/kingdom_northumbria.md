@@ -25,6 +25,10 @@ point:
   name: "Bamburgh"
   latitude: 55.608
   longitude: -1.709
+colors:
+  604: "#862737"
+  680: "#862737"
+  705: "#278627"
 note: "The first union of Bernicia and Deira followed Aethelfrith's conquest around 604. Separate courts returned after Edwin's death in 633. Oswald reunited them in 634; this record retains Oswiu's initial inherited union after Oswald's death in 642 until Oswine's separate Deiran court in 644. 654 conventionally marks the lasting reunification. In 867 York passed to Jórvík while a separate northern government survived at Bamburgh."
 transitions:
 - year: 633

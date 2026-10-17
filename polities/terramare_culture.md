@@ -19,5 +19,7 @@ point:
   name: "Po valley"
   latitude: 44.65
   longitude: 10.92
+colors:
+  -1700: "#866727"
 note: "Both dates are estimates; the point is representative."
 ---

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kermanshah
 point:
   latitude: 34.3369
   longitude: 47.0911
-note: "The Hasanwayhid Kurdish emirs governed the region from 959 to 1015."
+note: "The Hasanwayhid Kurdish emirs governed the region from 959 to 1015. British forces occupied southern Iran from 1941 to 1946."
 control:
 - start: 224
   end: 641
@@ -112,6 +112,14 @@ control:
   polity: qajar_iran
   importance: 2
 - start: 1925
+  end: 1940
+  polity: pahlavi_iran
+  importance: 2
+- start: 1941
+  end: 1945
+  polity: united_kingdom
+  importance: 2
+- start: 1946
   end: 1978
   polity: pahlavi_iran
   importance: 2

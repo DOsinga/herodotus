@@ -19,6 +19,8 @@ point:
   name: "Pingyang"
   latitude: 36.088
   longitude: 111.519
+colors:
+  304: "#862786"
 note: "Chang'an was the capital from 319."
 transitions:
 - year: 329

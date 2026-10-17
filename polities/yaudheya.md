@@ -21,6 +21,8 @@ point:
   name: "Rohtak"
   latitude: 28.8909
   longitude: 76.5796
+colors:
+  -250: "#862767"
 note: "Both dates are estimates from coins. A republic of the eastern Punjab; Samudragupta made it tributary, and it disappears soon after."
 transitions:
 - year: 350

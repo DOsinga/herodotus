@@ -19,6 +19,8 @@ point:
   name: "Apasa"
   latitude: 37.94
   longitude: 27.34
+colors:
+  -1650: "#9db234"
 note: "The western Anatolian kingdom that corresponded with Egypt. Mursili II conquered it and divided its lands into vassal kingdoms. Hittite vassal treaties bound the vassal to the Hittite king's friends and enemies and forbade its own diplomacy, so like a protectorate it counts as absorbed from its treaty. "
 transitions:
 - year: -1320

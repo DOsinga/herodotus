@@ -18,6 +18,8 @@ point:
   name: Kasugayama Castle
   latitude: 37.1471
   longitude: 138.2056
+colors:
+  1467: "#862776"
 note: "Named for the Uesugi, although the Nagao deputies held real power from 1507 and took the Uesugi name only in 1561. The Kantō branches of the Uesugi, who held parts of the Kantō until the 1550s, are not included. Links the article on the clan, as no article treats the Echigo domain as a state."
 transitions:
 - year: 1467

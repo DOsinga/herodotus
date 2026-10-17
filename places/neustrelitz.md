@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Neustrelitz
 point:
   latitude: 53.3647
   longitude: 13.0636
-note: "Founded in 1733 next to Strelitz, the dukes' residence from 1701, which is now part of the town."
+note: "Founded in 1733 next to Strelitz, the dukes' residence from 1701, which is now part of the town. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1701
   end: 1866
@@ -24,8 +24,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

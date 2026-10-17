@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Saarbrücken
 point:
   latitude: 49.2333
   longitude: 7
-note: "Gaps for the County of Saarbrücken, for the League of Nations Saar Territory from 1920 to 1935, and for the French-run Saar Protectorate until 1957."
+note: "Gaps for the County of Saarbrücken, for the League of Nations Saar Territory from 1920 to 1935, and for the French-run Saar Protectorate until 1957. France governed the Saar from 1945 and as a protectorate from 1947 until it rejoined Germany in 1957."
 control:
 - start: 999
   end: 1249
@@ -36,8 +36,16 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1935
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1945
+  polity: provisional_government_france
+  importance: 2
+- start: 1946
+  end: 1956
+  polity: french_fourth_republic
   importance: 2
 - start: 1957
   end: null

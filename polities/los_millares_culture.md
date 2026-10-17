@@ -12,5 +12,7 @@ point:
   name: "Los Millares"
   latitude: 36.96
   longitude: -2.52
+colors:
+  -3200: "#51b8cd"
 note: "Links the article on the site. Both dates are estimates; the Argaric culture follows."
 ---

@@ -11,6 +11,8 @@ point:
   name: "Zaria"
   latitude: 11.0855
   longitude: 7.7199
+colors:
+  1050: "#51cd66"
 transitions:
 - year: 1808
   kind: absorbed_into

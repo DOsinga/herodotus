@@ -11,6 +11,8 @@ point:
   name: Kong
   latitude: 9.15
   longitude: -4.617
+colors:
+  1710: "#b27334"
 transitions:
 - year: 1898
   kind: absorbed_into

@@ -18,6 +18,8 @@ point:
   name: "Central Kazakh steppe"
   latitude: 50.3
   longitude: 68.0
+colors:
+  1718: "#8834b2"
 note: "Shares the Jüz article. 1718 estimates the end of a common khanate after Tauke's death; Russia's abolition of the khan's office in 1822 ends it. The point is representative."
 transitions:
 - year: 1822

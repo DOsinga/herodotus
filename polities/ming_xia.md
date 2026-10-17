@@ -18,6 +18,8 @@ point:
   name: Chongqing
   latitude: 29.5637
   longitude: 106.5504
+colors:
+  1360: "#34b273"
 note: "Begins with Ming Yuzhen's break with Chen Youliang in 1360; he proclaimed Xia in 1362."
 transitions:
 - year: 1360

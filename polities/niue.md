@@ -19,6 +19,8 @@ point:
   name: Alofi
   latitude: -19.0542
   longitude: -169.9194
+colors:
+  1974: "#34b234"
 note: "Self-governing in free association with New Zealand. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1974

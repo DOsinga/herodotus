@@ -20,6 +20,8 @@ point:
   name: Balasagun
   latitude: 42.7469
   longitude: 75.25
+colors:
+  1124: "#4934b2"
 transitions:
 - year: 1124
   kind: broke_away_from

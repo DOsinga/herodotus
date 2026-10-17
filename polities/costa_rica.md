@@ -20,6 +20,8 @@ point:
   name: San José
   latitude: 9.932
   longitude: -84.08
+colors:
+  1838: "#34b249"
 note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1838

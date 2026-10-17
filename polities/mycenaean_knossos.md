@@ -21,5 +21,7 @@ point:
   name: "Knossos"
   latitude: 35.3
   longitude: 25.16
+colors:
+  -1450: "#862747"
 note: "Both dates are estimates: the Greek-speaking palace government documented by the Linear B tablets, until the palace's destruction. Some date the destruction later, about 1200 BCE."
 ---

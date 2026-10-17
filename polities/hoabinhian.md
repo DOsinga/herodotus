@@ -21,5 +21,7 @@ point:
   name: "Hòa Bình"
   latitude: 20.8
   longitude: 105.3
+colors:
+  -10000: "#862776"
 note: "Both dates are estimates. The forager culture of mainland Southeast Asia."
 ---

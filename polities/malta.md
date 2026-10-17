@@ -11,6 +11,8 @@ point:
   name: Valletta
   latitude: 35.8983
   longitude: 14.5125
+colors:
+  1964: "#66cd51"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1964

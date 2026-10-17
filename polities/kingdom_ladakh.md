@@ -19,6 +19,10 @@ point:
   name: Leh
   latitude: 34.153
   longitude: 77.577
+colors:
+  930: "#866727"
+  1605: "#866727"
+  1630: "#51cd66"
 note: "Start estimated (about 930)."
 transitions:
 - year: 1842

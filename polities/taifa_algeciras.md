@@ -18,6 +18,8 @@ point:
   name: "Algeciras"
   latitude: 36.13
   longitude: -5.45
+colors:
+  1035: "#b23434"
 note: "Seville took it in 1058."
 transitions:
 - year: 1058

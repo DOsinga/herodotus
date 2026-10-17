@@ -20,6 +20,8 @@ point:
   name: "Bovianum"
   latitude: 41.48
   longitude: 14.47
+colors:
+  -500: "#cd8f51"
 note: "Links the article on the Samnites. 500 BCE estimates their confederation; it made peace as Rome's ally after the Third Samnite War. Rome's Italian allies handed their war and foreign relations to Rome, so the alliance counts as absorption. "
 transitions:
 - year: -290

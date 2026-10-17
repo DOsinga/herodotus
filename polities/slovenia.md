@@ -19,6 +19,8 @@ point:
   name: Ljubljana
   latitude: 46.0514
   longitude: 14.5061
+colors:
+  1991: "#278627"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1991

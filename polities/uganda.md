@@ -11,6 +11,8 @@ point:
   name: Kampala
   latitude: 0.3136
   longitude: 32.5811
+colors:
+  1962: "#867627"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1962

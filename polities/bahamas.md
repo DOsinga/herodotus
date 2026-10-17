@@ -11,6 +11,8 @@ point:
   name: Nassau
   latitude: 25.0781
   longitude: -77.3386
+colors:
+  1973: "#372786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1973

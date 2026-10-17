@@ -20,6 +20,8 @@ point:
   name: Timbuktu
   latitude: 16.776
   longitude: -3.009
+colors:
+  1612: "#3434b2"
 transitions:
 - year: 1833
   kind: absorbed_into

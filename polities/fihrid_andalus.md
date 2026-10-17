@@ -18,6 +18,8 @@ point:
   name: "Córdoba"
   latitude: 37.8882
   longitude: -4.7794
+colors:
+  747: "#a351cd"
 note: "No article covers the state, so the link goes to its ruler. Yusuf took office in 747 under an agreement between the Arab factions rather than by appointment from Damascus, and that year is used as the start."
 transitions:
 - year: 756

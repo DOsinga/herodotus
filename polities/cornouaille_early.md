@@ -20,6 +20,8 @@ point:
   name: "Quimper"
   latitude: 47.996
   longitude: -4.098
+colors:
+  450: "#cd51b8"
 note: "450 estimates the ruling community reconstructed from the Rivelen, Daniel and Budic traditions. The chronology is uncertain. This is a separate Breton government, not a province of an assumed united seventh-century kingdom. 845 estimates its incorporation into Nominoe's Breton kingdom; Quimper is a representative centre, not an established fixed capital."
 transitions:
 - year: 845

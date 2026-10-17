@@ -19,6 +19,8 @@ point:
   name: "Wittenberg"
   latitude: 51.867
   longitude: 12.648
+colors:
+  1485: "#762786"
 note: "The Ernestine Wettins from the Leipzig partition of 1485: electors at Wittenberg until they lost the title and much of their land after the Schmalkaldic War in 1547, then dukes in Thuringia. The 1572 Erfurt division created Saxe-Weimar and Saxe-Coburg-Eisenach."
 transitions:
 - year: 1572

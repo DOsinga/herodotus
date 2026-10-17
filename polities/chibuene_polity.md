@@ -20,5 +20,7 @@ point:
   name: "Chibuene"
   latitude: -22.014
   longitude: 35.317
+colors:
+  600: "#5eb234"
 note: "600–1000 estimates the early trading settlement from its occupation and Indian Ocean exchange. Nothing is known of its government."
 ---

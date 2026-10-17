@@ -21,6 +21,8 @@ point:
   name: Port Louis
   latitude: -20.1644
   longitude: 57.5042
+colors:
+  1968: "#cda351"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1968

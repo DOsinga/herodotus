@@ -22,5 +22,7 @@ point:
   name: "Jutland"
   latitude: 55.5
   longitude: 9.5
+colors:
+  -4300: "#768627"
 note: "Both dates are estimates; the point is representative."
 ---

@@ -20,4 +20,6 @@ point:
   name: Mombasa
   latitude: -4.0435
   longitude: 39.6682
+colors:
+  1300: "#b29d34"
 ---

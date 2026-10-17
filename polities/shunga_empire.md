@@ -20,6 +20,8 @@ point:
   name: "Pataliputra"
   latitude: 25.5939
   longitude: 85.1375
+colors:
+  -185: "#762786"
 note: "Vasudeva Kanva overthrew the last Shunga king."
 transitions:
 - year: -73

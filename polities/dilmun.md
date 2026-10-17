@@ -20,6 +20,8 @@ point:
   name: "Qal'at al-Bahrain"
   latitude: 26.23
   longitude: 50.52
+colors:
+  -2050: "#34b288"
 note: "Both dates are estimates for the kingdom on Bahrain known from letters and seals; the Kassites took it."
 transitions:
 - year: -1450

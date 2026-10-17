@@ -23,6 +23,8 @@ point:
   name: Riga
   latitude: 56.9489
   longitude: 24.1064
+colors:
+  1918: "#cd51b8"
 note: "Gap for the Soviet annexation. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1918

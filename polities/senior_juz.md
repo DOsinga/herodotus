@@ -20,6 +20,8 @@ point:
   name: "Middle Syr Darya"
   latitude: 43.3
   longitude: 70.3
+colors:
+  1718: "#51cd66"
 note: "Shares the Jüz article. All dates are estimates: the end of a common khanate about 1718, Dzungar rule from 1723 until the Dzungar state's destruction in 1758, and Kokand's takeover, dated here to about 1820. The point is representative."
 transitions:
 - year: 1723

@@ -22,6 +22,8 @@ point:
   name: Cabo Gracias a Dios
   latitude: 14.9967
   longitude: -83.1483
+colors:
+  1655: "#276786"
 note: "Links the article on the Mosquito Coast. The start is approximate; the first known king, Oldman, reigned before 1655. The British treaty of 1740 and the protectorate of 1844 handed war and foreign relations to Britain, so those years are gaps. The kings lived near Cabo Gracias a Dios and later at Bluefields. The Mosquito Reserve of 1860–1894 counts as part of Nicaragua, which held its foreign relations."
 transitions:
 - year: 1740

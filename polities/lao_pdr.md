@@ -11,5 +11,7 @@ point:
   name: Vientiane
   latitude: 17.98
   longitude: 102.63
+colors:
+  1975: "#cdb851"
 note: "The Lao People's Democratic Republic. Links the country article. Changes of regime are not split into separate records."
 ---

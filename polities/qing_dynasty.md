@@ -20,6 +20,8 @@ point:
   name: Beijing
   latitude: 39.9158
   longitude: 116.3908
+colors:
+  1636: "#b2349d"
 transitions:
 - year: 1912
   kind: succeeded_by

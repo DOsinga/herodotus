@@ -21,5 +21,7 @@ point:
   name: Kyiv
   latitude: 50.45
   longitude: 30.5233
+colors:
+  1991: "#518fcd"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

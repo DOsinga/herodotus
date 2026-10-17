@@ -20,6 +20,10 @@ point:
   name: "Jam"
   latitude: 34.3967
   longitude: 64.515
+colors:
+  950: "#cdb851"
+  1167: "#cdb851"
+  1192: "#51a3cd"
 note: "950 estimates the Shansabani chiefs of Ghur, who governed their mountains as Ghaznavid and Seljuk tributaries before taking the sultan's title in 1149; the legendary earlier genealogy is not followed. Ends in 1213, when the Khwarazmians removed the hereditary successor and installed their own candidate."
 transitions:
 - year: 1213

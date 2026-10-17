@@ -18,6 +18,8 @@ point:
   name: Bissandugu
   latitude: 9.933
   longitude: -9.156
+colors:
+  1878: "#cd5151"
 transitions:
 - year: 1898
   kind: absorbed_into

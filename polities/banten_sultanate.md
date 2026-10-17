@@ -11,6 +11,8 @@ point:
   name: Banten
   latitude: -6.04
   longitude: 106.16
+colors:
+  1526: "#768627"
 note: "Ends with the 1684 treaty that made it a vassal of the Dutch East India Company. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1684

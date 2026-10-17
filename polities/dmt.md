@@ -20,5 +20,7 @@ point:
   name: "Yeha"
   latitude: 14.29
   longitude: 39.02
+colors:
+  -980: "#34b25e"
 note: "Both dates are estimates for the kingdom known from inscriptions at Yeha. The centuries between it and Aksum are not covered."
 ---

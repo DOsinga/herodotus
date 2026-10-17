@@ -18,6 +18,8 @@ point:
   name: Petrograd
   latitude: 59.9375
   longitude: 30.3086
+colors:
+  1917: "#51cd51"
 transitions:
 - year: 1917
   kind: succeeded_by

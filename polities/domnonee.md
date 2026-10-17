@@ -21,6 +21,10 @@ point:
   name: "Dol-de-Bretagne"
   latitude: 48.55
   longitude: -1.754
+colors:
+  500: "#274786"
+  579: "#274786"
+  604: "#517acd"
 note: "500 estimates the northern Armorican royal government known from Breton saints' lives. Judicael's seventh-century kingship did not unite Brittany: the separate realms persisted until the ninth-century consolidation under Nominoe. 845 estimates that consolidation. Dol is a traditional royal-seat identification."
 transitions:
 - year: 845

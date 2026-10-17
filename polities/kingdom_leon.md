@@ -20,6 +20,10 @@ point:
   name: León
   latitude: 42.5983
   longitude: -5.5703
+colors:
+  910: "#572786"
+  1038: "#572786"
+  1063: "#cdb851"
 transitions:
 - year: 1230
   kind: merged_into

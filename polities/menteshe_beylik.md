@@ -21,6 +21,8 @@ point:
   name: "Milas"
   latitude: 37.3167
   longitude: 27.7833
+colors:
+  1260: "#518fcd"
 transitions:
 - year: 1424
   kind: absorbed_into

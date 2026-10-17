@@ -19,6 +19,8 @@ point:
   name: "Hoima"
   latitude: 1.4319
   longitude: 31.3525
+colors:
+  1500: "#cd5151"
 note: "1500 estimates the sixteenth-century founding of the Babito kingdom. Ends with the British occupation of 1894; Kabalega's resistance continued until 1899. Capitals moved often; Hoima stands for the later royal seat."
 transitions:
 - year: 1894

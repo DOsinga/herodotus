@@ -20,6 +20,8 @@ point:
   name: Zagreb
   latitude: 45.8131
   longitude: 15.9775
+colors:
+  1918: "#278637"
 transitions:
 - year: 1918
   kind: merged_into

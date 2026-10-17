@@ -11,6 +11,8 @@ point:
   name: Myinsaing
   latitude: 21.6
   longitude: 96.2
+colors:
+  1297: "#372786"
 transitions:
 - year: 1313
   kind: succeeded_by

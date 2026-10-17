@@ -21,5 +21,7 @@ point:
   name: "Upper Ganges"
   latitude: 27.5
   longitude: 78.0
+colors:
+  -2000: "#b2345e"
 note: "Both dates are estimates; the point is representative."
 ---

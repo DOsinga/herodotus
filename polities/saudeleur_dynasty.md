@@ -20,5 +20,7 @@ point:
   name: "Nan Madol"
   latitude: 6.8419
   longitude: 158.3322
+colors:
+  1180: "#372786"
 note: "Recorded as a chiefdom because the evidence is oral tradition and the archaeology of Nan Madol. The start estimates the article's c. 1100–1200; 1628 is the conventional date of Isokelekel's conquest, after which Pohnpei had several chiefdoms without records here."
 ---

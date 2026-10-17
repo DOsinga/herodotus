@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Lübeck
 point:
   latitude: 53.8697
   longitude: 10.6864
-note: "Valdemar II of Denmark held Lübeck from 1201 until it became a free imperial city in 1226."
+note: "Valdemar II of Denmark held Lübeck from 1201 until it became a free imperial city in 1226. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1143
   end: 1200
@@ -44,8 +44,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 2
 - start: 1949
   end: null

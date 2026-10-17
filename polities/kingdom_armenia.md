@@ -15,6 +15,10 @@ point:
   name: "Artaxata"
   latitude: 39.885
   longitude: 44.5764
+colors:
+  -189: "#8fcd51"
+  -107: "#8fcd51"
+  -82: "#51b8cd"
 note: "Trajan's province of 114–117 and Shapur I's rule through a Sasanian prince from about 252 until Tiridates III's restoration about 287 are gaps. In 428 the Sasanians abolished the monarchy and governed through marzbans."
 transitions:
 - year: -189

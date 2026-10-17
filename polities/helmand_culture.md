@@ -22,5 +22,7 @@ point:
   name: "Shahr-e Sukhteh"
   latitude: 30.6
   longitude: 61.33
+colors:
+  -3200: "#862727"
 note: "Both dates are estimates."
 ---

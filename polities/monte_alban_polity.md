@@ -21,5 +21,7 @@ point:
   name: "Monte Albán"
   latitude: 17.044
   longitude: -96.768
+colors:
+  -500: "#862747"
 note: "500 BCE estimates the emergence of the hilltop political centre; its territorial state was established by the late Preclassic. The end around 800 estimates the loss of central political power after the Late Classic, not the disappearance of Zapotec people or later independent Oaxacan states."
 ---

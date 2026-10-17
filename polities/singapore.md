@@ -21,6 +21,8 @@ point:
   name: Singapore
   latitude: 1.2833
   longitude: 103.8333
+colors:
+  1965: "#cdcd51"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1965

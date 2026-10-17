@@ -11,6 +11,8 @@ point:
   name: Almora
   latitude: 29.597
   longitude: 79.659
+colors:
+  600: "#866727"
 note: "Covers the Katyuri and Chand periods, as Wikipedia does; the 600 start is approximate. Mughal tribute did not stop it fighting its own wars. Ends with the Gorkha conquest of 1791."
 transitions:
 - year: 1791

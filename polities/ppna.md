@@ -12,5 +12,7 @@ point:
   name: "Jericho"
   latitude: 31.87
   longitude: 35.44
+colors:
+  -10000: "#518fcd"
 note: "Both dates are estimates. Göbekli Tepe in Anatolia belongs to the same horizon."
 ---

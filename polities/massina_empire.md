@@ -20,6 +20,8 @@ point:
   name: Hamdullahi
   latitude: 14.331
   longitude: -4.096
+colors:
+  1818: "#578627"
 note: "Ends when Umar Tall took Hamdullahi in 1862; Wikipedia's infobox gives 1867."
 transitions:
 - year: 1862

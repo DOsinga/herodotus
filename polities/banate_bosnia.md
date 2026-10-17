@@ -18,6 +18,10 @@ point:
   name: Visoko
   latitude: 43.9889
   longitude: 18.1781
+colors:
+  1154: "#572786"
+  1230: "#572786"
+  1255: "#8f51cd"
 transitions:
 - year: 1377
   kind: succeeded_by

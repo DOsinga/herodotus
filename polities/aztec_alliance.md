@@ -20,6 +20,8 @@ point:
   name: Tenochtitlan
   latitude: 19.4326
   longitude: -99.1332
+colors:
+  1428: "#7a51cd"
 transitions:
 - year: 1521
   kind: absorbed_into

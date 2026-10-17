@@ -11,6 +11,8 @@ point:
   name: Samarkand
   latitude: 39.6542
   longitude: 66.9597
+colors:
+  1370: "#273786"
 transitions:
 - year: 1507
   kind: absorbed_into

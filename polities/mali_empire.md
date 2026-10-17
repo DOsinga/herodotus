@@ -19,4 +19,6 @@ point:
   name: Niani
   latitude: 11.4333
   longitude: -8.4167
+colors:
+  1235: "#862737"
 ---

@@ -21,6 +21,8 @@ point:
   name: "Karasahr"
   latitude: 42.059
   longitude: 86.568
+colors:
+  -200: "#51b8cd"
 note: "200 BCE estimates the Yanqi kingdom documented in Han sources. Gap for the 644 Tang conquest and imposed administration; a native-backed restored government followed before its final defeat in 648. The city later served as an Anxi garrison, not a continuous independent kingdom."
 transitions:
 - year: 644

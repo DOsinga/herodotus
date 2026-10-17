@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mashhad
 point:
   latitude: 36.326
   longitude: 59.543
+note: "Soviet forces occupied northern Iran from 1941 to 1946."
 control:
 - start: 818
   end: 820
@@ -75,6 +76,14 @@ control:
   polity: qajar_iran
   importance: 3
 - start: 1925
+  end: 1940
+  polity: pahlavi_iran
+  importance: 3
+- start: 1941
+  end: 1945
+  polity: soviet_union
+  importance: 3
+- start: 1946
   end: 1978
   polity: pahlavi_iran
   importance: 3

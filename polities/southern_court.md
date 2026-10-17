@@ -20,6 +20,8 @@ point:
   name: Yoshino
   latitude: 34.3961
   longitude: 135.8575
+colors:
+  1336: "#5eb234"
 transitions:
 - year: 1392
   kind: absorbed_into

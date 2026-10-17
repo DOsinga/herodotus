@@ -11,5 +11,7 @@ point:
   name: Tbilisi
   latitude: 41.7225
   longitude: 44.7925
+colors:
+  1991: "#51b8cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

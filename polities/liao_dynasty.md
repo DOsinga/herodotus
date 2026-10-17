@@ -11,6 +11,8 @@ point:
   name: "Shangjing"
   latitude: 43.9632
   longitude: 119.3895
+colors:
+  916: "#862767"
 note: "The point approximates the ruins of the Liao upper capital. Jin conquest ended the main Liao state in 1125. Yelu Dashi's western state is recorded separately as Qara Khitai, beginning in 1124."
 transitions:
 - year: 1125

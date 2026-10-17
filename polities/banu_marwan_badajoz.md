@@ -19,6 +19,8 @@ point:
   name: Badajoz
   latitude: 38.8794
   longitude: -6.9707
+colors:
+  875: "#862737"
 note: "No article covers the state, so the link goes to its founder. The start is the founding of Badajoz around 875 and the end Abd al-Rahman III's capture of the city in 929 or 930."
 transitions:
 - year: 930

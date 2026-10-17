@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Itzehoe
 point:
   latitude: 53.925
   longitude: 9.5164
-note: "Charlemagne's fort of Esesfeld. Valdemar II of Denmark held Holstein from 1201 to 1227. Gap for the joint Austrian and Prussian rule of 1864 to 1866."
+note: "Charlemagne's fort of Esesfeld. Valdemar II of Denmark held Holstein from 1201 to 1227. Gap for the joint Austrian and Prussian rule of 1864 to 1866. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 810
   end: 842
@@ -60,8 +60,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 1
 - start: 1949
   end: null

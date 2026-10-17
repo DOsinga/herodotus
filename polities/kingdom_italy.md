@@ -19,6 +19,8 @@ point:
   name: Rome
   latitude: 41.893
   longitude: 12.483
+colors:
+  1861: "#866727"
 note: "The capital was Turin until 1865, then Florence until 1871."
 transitions:
 - year: 1946

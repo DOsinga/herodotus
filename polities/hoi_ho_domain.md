@@ -18,6 +18,8 @@ point:
   name: "Hồi Hồ (Cẩm Khê)"
   latitude: 21.42
   longitude: 105.135
+colors:
+  965: "#6651cd"
 note: "965 estimates the separate government's appearance during the Ngô collapse; Kiều Thuận's earlier career is poorly dated. 968 follows the completion of Đinh's conquest, since the ruler's exact defeat date is not secure. The point represents the Cẩm Khê stronghold region; his biography is the nearest source."
 transitions:
 - year: 968

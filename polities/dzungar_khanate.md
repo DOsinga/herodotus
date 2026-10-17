@@ -11,6 +11,8 @@ point:
   name: Ghulja
   latitude: 43.908
   longitude: 81.278
+colors:
+  1634: "#862786"
 transitions:
 - year: 1758
   kind: absorbed_into

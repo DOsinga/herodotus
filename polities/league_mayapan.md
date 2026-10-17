@@ -20,6 +20,8 @@ point:
   name: Mayapan
   latitude: 20.6292
   longitude: -89.4608
+colors:
+  1007: "#b234b2"
 transitions:
 - year: 1441
   kind: split_into

@@ -19,6 +19,8 @@ point:
   name: "Kars"
   latitude: 40.6013
   longitude: 43.0975
+colors:
+  963: "#478627"
 note: "The Kars branch kept its own kings and government. Seljuk tribute after 1064 did not end it; Gagik's transfer to Byzantium in 1065 did."
 transitions:
 - year: 963

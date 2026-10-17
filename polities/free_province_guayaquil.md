@@ -20,6 +20,8 @@ point:
   name: Guayaquil
   latitude: -2.19
   longitude: -79.8875
+colors:
+  1820: "#51cda3"
 transitions:
 - year: 1820
   kind: broke_away_from

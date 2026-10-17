@@ -18,6 +18,8 @@ point:
   name: "Avarua"
   latitude: -21.2069
   longitude: -159.7708
+colors:
+  1858: "#b28834"
 note: "Ends with the British protectorate of 1888, when Britain took over its foreign relations."
 transitions:
 - year: 1888

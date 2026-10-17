@@ -19,6 +19,8 @@ point:
   name: San Juan de la Maguana
   latitude: 18.81
   longitude: -71.23
+colors:
+  1200: "#278676"
 note: "Links the article on the chiefdoms of Hispaniola. The start is an estimate for the rise of the Taíno chiefdoms of the island."
 transitions:
 - year: 1496

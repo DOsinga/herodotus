@@ -19,6 +19,8 @@ point:
   name: Belgrade
   latitude: 44.8178
   longitude: 20.4569
+colors:
+  1992: "#b23449"
 transitions:
 - year: 2003
   kind: succeeded_by

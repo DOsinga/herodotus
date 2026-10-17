@@ -21,6 +21,8 @@ point:
   name: "Vengi"
   latitude: 16.7117
   longitude: 81.1031
+colors:
+  300: "#b24934"
 note: "Links the dynasty article. Both dates are estimates; the Vishnukundinas took Vengi."
 transitions:
 - year: 440

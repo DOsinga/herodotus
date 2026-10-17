@@ -23,6 +23,10 @@ point:
   name: Agra
   latitude: 27.1767
   longitude: 78.0081
+colors:
+  1526: "#7334b2"
+  1667: "#7334b2"
+  1692: "#349db2"
 note: "Ends in 1803, when the British took Delhi and the emperor became an East India Company pensioner; the dynasty kept its title until 1857."
 transitions:
 - year: 1540

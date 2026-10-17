@@ -20,6 +20,8 @@ point:
   name: Delhi
   latitude: 28.6139
   longitude: 77.209
+colors:
+  1206: "#51a3cd"
 transitions:
 - year: 1526
   kind: absorbed_into

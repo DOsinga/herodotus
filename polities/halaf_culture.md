@@ -22,5 +22,7 @@ point:
   name: "Tell Halaf"
   latitude: 36.82
   longitude: 40.04
+colors:
+  -6100: "#b2345e"
 note: "Both dates are estimates. The Ubaid culture follows in the north."
 ---

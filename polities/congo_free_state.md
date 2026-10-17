@@ -21,6 +21,8 @@ point:
   name: Boma
   latitude: -5.85
   longitude: 13.05
+colors:
+  1885: "#678627"
 note: "Leopold II's personal state, governed by his own administration."
 transitions:
 - year: 1908

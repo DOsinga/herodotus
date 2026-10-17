@@ -19,6 +19,8 @@ point:
   name: Velbužd
   latitude: 42.2833
   longitude: 22.6833
+colors:
+  1371: "#51cdb8"
 transitions:
 - year: 1395
   kind: absorbed_into

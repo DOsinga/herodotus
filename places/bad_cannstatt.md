@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bad_Cannstatt
 point:
   latitude: 48.8056
   longitude: 9.2141
-note: "The Alemannic dukes' assembly place, where Carloman broke the Alemannic nobility in 746."
+note: "The Alemannic dukes' assembly place, where Carloman broke the Alemannic nobility in 746. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 90
   end: 259
@@ -68,6 +68,14 @@ control:
   polity: holy_roman_empire
   importance: 2
 - start: 1250
+  end: 1944
+  follows: stuttgart
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: united_states
+  importance: 1
+- start: 1949
   end: null
   follows: stuttgart
   importance: 1

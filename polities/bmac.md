@@ -21,5 +21,7 @@ point:
   name: "Gonur Depe"
   latitude: 37.97
   longitude: 62.18
+colors:
+  -2400: "#5e34b2"
 note: "Both dates are estimates for the Oxus civilization."
 ---

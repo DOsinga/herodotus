@@ -20,6 +20,8 @@ point:
   name: Kutaisi
   latitude: 42.25
   longitude: 42.7
+colors:
+  1463: "#8834b2"
 transitions:
 - year: 1810
   kind: absorbed_into

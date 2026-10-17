@@ -21,5 +21,7 @@ point:
   name: "Kolomoki"
   latitude: 31.47147
   longitude: -84.92937
+colors:
+  200: "#862776"
 note: "200–900 follows the conventional span of the culture. Kolomoki, its largest mound centre, stands as the point."
 ---

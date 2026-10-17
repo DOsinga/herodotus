@@ -11,6 +11,8 @@ point:
   name: Ghulja
   latitude: 43.908
   longitude: 81.2777
+colors:
+  1944: "#8f51cd"
 transitions:
 - year: 1944
   kind: broke_away_from

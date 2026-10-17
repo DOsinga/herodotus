@@ -21,5 +21,7 @@ point:
   name: "Villanova"
   latitude: 44.47
   longitude: 11.4
+colors:
+  -900: "#6651cd"
 note: "Both dates are estimates; the Etruscan city states are recorded from 750 BCE."
 ---

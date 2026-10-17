@@ -20,6 +20,8 @@ point:
   name: "Kutaisi"
   latitude: 42.25
   longitude: 42.7
+colors:
+  -600: "#578627"
 note: "Mithridates VI of Pontus took it about 101 BCE."
 transitions:
 - year: -101

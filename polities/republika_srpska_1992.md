@@ -16,6 +16,8 @@ point:
   name: Pale
   latitude: 43.8119
   longitude: 18.5711
+colors:
+  1992: "#34b288"
 note: "Governed its territory during the war; under the Dayton Agreement of 1995 it became an entity within Bosnia and Herzegovina."
 transitions:
 - year: 1992

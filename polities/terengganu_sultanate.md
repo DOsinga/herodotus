@@ -18,6 +18,8 @@ point:
   name: Kuala Terengganu
   latitude: 5.3292
   longitude: 103.1361
+colors:
+  1724: "#cd51cd"
 note: >-
   Links the state article, as no article covers the sultanate on its own. 1724 follows the emergence
   of an independent sultanate under Tun Zainal Abidin. Tribute to Siam did not end its own government.

@@ -24,6 +24,10 @@ point:
   name: Arta
   latitude: 39.1606
   longitude: 20.9853
+colors:
+  1205: "#3488b2"
+  1331: "#3488b2"
+  1356: "#862737"
 transitions:
 - year: 1224
   kind: succeeded_by

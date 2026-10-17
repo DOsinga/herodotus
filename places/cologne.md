@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Cologne
 point:
   latitude: 50.9364
   longitude: 6.9528
-note: "Roman Colonia Agrippina, where the Ubii were settled in 38 BC. A free city from the Battle of Worringen in 1288."
+note: "Roman Colonia Agrippina, where the Ubii were settled in 38 BC. A free city from the Battle of Worringen in 1288. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: -38
   end: -28
@@ -140,8 +140,12 @@ control:
   polity: weimar_republic
   importance: 3
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 3
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 3
 - start: 1949
   end: null

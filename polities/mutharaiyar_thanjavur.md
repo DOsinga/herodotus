@@ -21,6 +21,8 @@ point:
   name: "Thanjavur"
   latitude: 10.787
   longitude: 79.138
+colors:
+  600: "#868627"
 note: "600–850 follows the conventional governing sequence. The native rulers retained a territorial court under Pallava overlordship. Ends with Vijayalaya's capture of Thanjavur, rather than the later survival of Mutharaiyar titles and communities."
 transitions:
 - year: 850

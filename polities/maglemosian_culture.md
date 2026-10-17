@@ -22,5 +22,7 @@ point:
   name: "Mullerup"
   latitude: 55.6
   longitude: 11.55
+colors:
+  -9000: "#34b249"
 note: "Both dates are estimates."
 ---

@@ -21,6 +21,10 @@ point:
   name: "Carn Amhlaidh"
   latitude: 54.24
   longitude: -9.17
+colors:
+  450: "#34b29d"
+  1146: "#34b29d"
+  1171: "#34b273"
 note: "450 estimates the northern Ui Fiachrach court from its early genealogies and annalistic rulers. Its later O'Dowd lords governed their remaining territory despite Connacht overlordship. 1603 follows the defeat of the native governing order in the Nine Years' War, rather than the survival of family names."
 transitions:
 - year: 1603

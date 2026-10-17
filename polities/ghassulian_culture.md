@@ -19,5 +19,7 @@ point:
   name: "Teleilat el-Ghassul"
   latitude: 31.82
   longitude: 35.6
+colors:
+  -4400: "#868627"
 note: "Links the Ghassulian article. Both dates are estimates."
 ---

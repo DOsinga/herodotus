@@ -19,6 +19,8 @@ point:
   name: "Danyang"
   latitude: 32.06
   longitude: 118.797
+colors:
+  623: "#572786"
 note: "Fu established a new Song government at Danyang, modern Nanjing, while Du Fuwei was at the Tang court. Ends with Li Xiaogong's conquest in 624. Links the ruler's biography."
 transitions:
 - year: 623

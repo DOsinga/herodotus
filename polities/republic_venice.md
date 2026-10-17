@@ -20,6 +20,12 @@ point:
   name: Venice
   latitude: 45.4408
   longitude: 12.3155
+colors:
+  697: "#cd51cd"
+  1146: "#cd51cd"
+  1171: "#73b234"
+  1379: "#73b234"
+  1404: "#34b2b2"
 transitions:
 - year: 1797
   kind: absorbed_into

@@ -21,6 +21,8 @@ point:
   name: Suva
   latitude: -18.1416
   longitude: 178.4419
+colors:
+  1970: "#7334b2"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1970

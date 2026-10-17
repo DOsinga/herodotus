@@ -22,4 +22,6 @@ point:
   name: Little Egypt
   latitude: 34.567
   longitude: -84.775
+colors:
+  1400: "#b25e34"
 ---

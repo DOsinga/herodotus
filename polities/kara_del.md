@@ -18,6 +18,8 @@ point:
   name: Hami
   latitude: 42.8193
   longitude: 93.5151
+colors:
+  1389: "#762786"
 note: "Gunashiri appears in some lists as ruler from 1380, but the break with the Northern Yuan is dated 1389. Turpan occupied Hami several times between 1473 and 1513; these occupations are not shown as gaps, since the Ming restored the princes each time."
 transitions:
 - year: 1389

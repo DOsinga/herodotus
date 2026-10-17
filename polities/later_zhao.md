@@ -16,6 +16,8 @@ point:
   name: "Ye"
   latitude: 36.33
   longitude: 114.36
+colors:
+  319: "#378627"
 note: "Xiangguo was the first capital. Ran Min seized Ye in 350; the last Zhao princes held out until 351."
 transitions:
 - year: 351

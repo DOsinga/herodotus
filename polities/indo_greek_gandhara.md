@@ -19,6 +19,8 @@ point:
   name: "Taxila"
   latitude: 33.75
   longitude: 72.79
+colors:
+  -100: "#51a3cd"
 note: "Links the article on Archebius, its last king. Both dates are estimates from coins; Maues' conquest of Taxila ended it."
 transitions:
 - year: -80

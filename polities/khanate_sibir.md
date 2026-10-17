@@ -11,6 +11,8 @@ point:
   name: Qashliq
   latitude: 58.1492
   longitude: 68.5195
+colors:
+  1468: "#51cda3"
 transitions:
 - year: 1598
   kind: absorbed_into

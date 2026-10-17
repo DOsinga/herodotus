@@ -19,6 +19,8 @@ point:
   name: Panama City
   latitude: 8.9711
   longitude: -79.5347
+colors:
+  1903: "#3473b2"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1903

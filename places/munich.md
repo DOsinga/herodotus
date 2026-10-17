@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Munich
 point:
   latitude: 48.1375
   longitude: 11.575
-note: "Founded by Henry the Lion in 1158. Upper Bavaria passed to the Landshut line from 1363 until the partition of 1392. Austria governed Bavaria from 1704 to 1714."
+note: "Founded by Henry the Lion in 1158. Upper Bavaria passed to the Landshut line from 1363 until the partition of 1392. Austria governed Bavaria from 1704 to 1714. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1158
   end: 1249
@@ -64,8 +64,12 @@ control:
   polity: weimar_republic
   importance: 3
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 3
+- start: 1945
+  end: 1948
+  polity: united_states
   importance: 3
 - start: 1949
   end: null

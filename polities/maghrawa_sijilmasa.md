@@ -18,6 +18,8 @@ point:
   name: Sijilmasa
   latitude: 31.28
   longitude: -4.28
+colors:
+  976: "#51cd7a"
 note: "No article covers the emirate, so the link goes to the tribe. The Zirid occupation of about 979 to 983 is not shown as a gap. The Almoravid capture is dated 1054, matching the start of the Almoravid record."
 transitions:
 - year: 1054

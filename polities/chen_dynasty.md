@@ -19,6 +19,8 @@ point:
   name: "Jiankang"
   latitude: 32.06
   longitude: 118.797
+colors:
+  557: "#cdcd51"
 note: "Chen Baxian replaced the Liang court in 557. Ends with the Sui conquest of Jiankang in 589, not the last emperor's death in 604."
 transitions:
 - year: 589

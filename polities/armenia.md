@@ -20,5 +20,7 @@ point:
   name: Yerevan
   latitude: 40.1778
   longitude: 44.5128
+colors:
+  1991: "#b2345e"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

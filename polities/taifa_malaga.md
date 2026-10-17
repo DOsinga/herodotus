@@ -25,6 +25,8 @@ point:
   name: "Málaga"
   latitude: 36.7213
   longitude: -4.4214
+colors:
+  1026: "#b234b2"
 note: "Granada governed Málaga between the first two periods. The later restorations ended under the Almohads and Nasrid Granada. The final annexation is dated 1238 here; some accounts use 1239."
 transitions:
 - year: 1057

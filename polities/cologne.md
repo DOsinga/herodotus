@@ -20,6 +20,8 @@ point:
   name: Cologne
   latitude: 50.936
   longitude: 6.953
+colors:
+  1288: "#51cdb8"
 note: "Self-governing after the burghers helped defeat the archbishop at Worringen in 1288, and formally a free imperial city from 1475. Ends with the French occupation of 1794. Links the history of Cologne."
 transitions:
 - year: 1794

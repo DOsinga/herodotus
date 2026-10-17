@@ -16,6 +16,8 @@ point:
   name: Minsk
   latitude: 53.9006
   longitude: 27.5586
+colors:
+  1920: "#66cd51"
 note: "Before it joined the Soviet Union."
 transitions:
 - year: 1922

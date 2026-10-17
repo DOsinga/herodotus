@@ -23,6 +23,8 @@ point:
   name: Luxembourg City
   latitude: 49.6114
   longitude: 6.13
+colors:
+  1839: "#278657"
 note: "Starts with the 1839 Treaty of London, after which it had its own administration in personal union with the Netherlands until 1890. Gap for the German annexation of 1940–1944. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1940

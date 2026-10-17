@@ -19,6 +19,8 @@ point:
   name: "Longcheng"
   latitude: 41.571
   longitude: 120.453
+colors:
+  407: "#cd51cd"
 transitions:
 - year: 436
   kind: absorbed_into

@@ -19,6 +19,8 @@ point:
   name: "Numantia"
   latitude: 41.8096
   longitude: -2.4443
+colors:
+  -300: "#762786"
 note: "300 BCE estimates the Celtiberian city state; Scipio Aemilianus destroyed it in 133 BCE."
 transitions:
 - year: -133

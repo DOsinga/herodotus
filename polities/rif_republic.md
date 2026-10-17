@@ -11,6 +11,8 @@ point:
   name: Ajdir
   latitude: 35.2
   longitude: -3.917
+colors:
+  1921: "#b28834"
 transitions:
 - year: 1921
   kind: broke_away_from

@@ -16,6 +16,8 @@ point:
   name: "Swiss Plateau"
   latitude: 46.95
   longitude: 7.45
+colors:
+  -200: "#278686"
 note: "Links the article on the people. 200 BCE estimates their confederation; Caesar defeated their migration in 58 BCE and sent them home as allies."
 transitions:
 - year: -58

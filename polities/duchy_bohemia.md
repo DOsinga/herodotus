@@ -20,6 +20,8 @@ point:
   name: Prague
   latitude: 50.087
   longitude: 14.421
+colors:
+  870: "#768627"
 note: "Start estimated (about 870). Bohemia lay inside the Holy Roman Empire, but its own dukes governed it."
 transitions:
 - year: 1198

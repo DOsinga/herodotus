@@ -20,6 +20,8 @@ point:
   name: Massenya
   latitude: 11.4
   longitude: 16.167
+colors:
+  1522: "#278667"
 transitions:
 - year: 1897
   kind: absorbed_into

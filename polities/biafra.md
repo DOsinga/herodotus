@@ -21,6 +21,8 @@ point:
   name: Enugu
   latitude: 6.5
   longitude: 7.5
+colors:
+  1967: "#b25e34"
 transitions:
 - year: 1967
   kind: broke_away_from

@@ -20,6 +20,8 @@ point:
   name: Gaborone
   latitude: -24.6581
   longitude: 25.9122
+colors:
+  1966: "#b851cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1966

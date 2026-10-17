@@ -19,5 +19,7 @@ point:
   name: Dakar
   latitude: 14.6928
   longitude: -17.4467
+colors:
+  1960: "#865727"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

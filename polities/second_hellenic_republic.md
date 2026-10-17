@@ -21,6 +21,8 @@ point:
   name: Athens
   latitude: 37.9842
   longitude: 23.7281
+colors:
+  1924: "#862767"
 transitions:
 - year: 1935
   kind: succeeded_by

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Trier
 point:
   latitude: 49.7567
   longitude: 6.6414
-note: "Augusta Treverorum, capital of the Gallic Empire and an imperial residence from 293. The Franks took it around 480. French in 1673–1675 and from 1684 to 1698."
+note: "Augusta Treverorum, capital of the Gallic Empire and an imperial residence from 293. The Franks took it around 480. French in 1673–1675 and from 1684 to 1698. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: -16
   end: 259
@@ -148,8 +148,16 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1945
+  polity: provisional_government_france
+  importance: 2
+- start: 1946
+  end: 1948
+  polity: french_fourth_republic
   importance: 2
 - start: 1949
   end: null

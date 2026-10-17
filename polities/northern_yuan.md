@@ -11,6 +11,8 @@ point:
   name: Karakorum
   latitude: 47.2
   longitude: 102.8333
+colors:
+  1368: "#678627"
 transitions:
 - year: 1635
   kind: absorbed_into

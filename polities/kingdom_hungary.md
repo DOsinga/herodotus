@@ -20,6 +20,10 @@ point:
   name: Buda
   latitude: 47.4979
   longitude: 19.0402
+colors:
+  1000: "#278647"
+  1339: "#278647"
+  1364: "#34b25e"
 transitions:
 - year: 1526
   kind: split_into

@@ -19,6 +19,8 @@ point:
   name: Ouagadougou
   latitude: 12.3686
   longitude: -1.5275
+colors:
+  1960: "#cd51b8"
 note: "Independent as Upper Volta. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

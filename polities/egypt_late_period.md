@@ -20,6 +20,8 @@ point:
   name: "Sebennytos"
   latitude: 30.9667
   longitude: 31.25
+colors:
+  -404: "#278627"
 note: "Links the Late Period article. The independent Egyptian kingdom between the two Persian occupations; Sais and then Mendes were earlier seats."
 transitions:
 - year: -343

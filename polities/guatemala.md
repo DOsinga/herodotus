@@ -21,6 +21,8 @@ point:
   name: Guatemala City
   latitude: 14.642
   longitude: -90.513
+colors:
+  1839: "#a351cd"
 note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1839

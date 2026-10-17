@@ -21,6 +21,10 @@ point:
   name: Berlin
   latitude: 52.52
   longitude: 13.405
+colors:
+  1250: "#34b25e"
+  1444: "#34b25e"
+  1469: "#7acd51"
 note: "An electorate from 1356. From 1618 its electors also ruled the Duchy of Prussia, which keeps its own record until both became the Kingdom of Prussia in 1701."
 transitions:
 - year: 1701

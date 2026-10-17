@@ -19,6 +19,8 @@ point:
   name: Sion
   latitude: 46.2331
   longitude: 7.3606
+colors:
+  1802: "#862727"
 transitions:
 - year: 1802
   kind: broke_away_from

@@ -11,6 +11,8 @@ point:
   name: Gaegyeong
   latitude: 37.985
   longitude: 126.5433
+colors:
+  918: "#34b288"
 transitions:
 - year: 1392
   kind: succeeded_by

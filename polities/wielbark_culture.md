@@ -22,5 +22,7 @@ point:
   name: "Wielbark (Willenberg)"
   latitude: 54.0333
   longitude: 19.0333
+colors:
+  1: "#278667"
 note: "Both dates are estimates; the culture is associated with the Goths before their move south."
 ---

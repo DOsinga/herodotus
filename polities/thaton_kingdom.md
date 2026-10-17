@@ -18,6 +18,8 @@ point:
   name: "Thaton"
   latitude: 16.929
   longitude: 97.368
+colors:
+  500: "#862786"
 note: "500 estimates the early Lower Burmese urban court, not the legendary 400 BCE foundation. The kingdom's antiquity and Anawrahta's conquest in 1057 are disputed, particularly by Michael Aung-Thwin; this record follows the traditional city-state interpretation with that uncertainty explicit."
 transitions:
 - year: 1057

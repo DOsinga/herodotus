@@ -19,6 +19,8 @@ point:
   name: Saigon
   latitude: 10.7756
   longitude: 106.7019
+colors:
+  1954: "#278667"
 note: "Starts with full independence in 1954; from 1949 France kept its defence and foreign relations, which does not count as governing itself."
 transitions:
 - year: 1954

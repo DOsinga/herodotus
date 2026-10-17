@@ -18,6 +18,10 @@ point:
   name: Palembang
   latitude: -2.99
   longitude: 104.76
+colors:
+  1659: "#862737"
+  1786: "#862737"
+  1811: "#7334b2"
 note: >-
   1659 follows Susuhunan Abdurrahman's proclamation after the break with Mataram. The British
   occupation of 1812 to 1816 installed a rival sultan but did not replace the sultanate's own

@@ -19,5 +19,7 @@ point:
   name: "Kadmeia"
   latitude: 38.32
   longitude: 23.32
+colors:
+  -1600: "#cd517a"
 note: "Shares the article on Thebes with the classical city state. Both dates are estimates for the palace government."
 ---

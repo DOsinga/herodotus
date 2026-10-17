@@ -19,6 +19,8 @@ point:
   name: Manila
   latitude: 14.5958
   longitude: 120.9772
+colors:
+  1946: "#3434b2"
 note: "The 1935–1946 Commonwealth governed itself under US sovereignty and is not counted. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1946

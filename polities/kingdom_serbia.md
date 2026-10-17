@@ -22,6 +22,8 @@ point:
   name: Belgrade
   latitude: 44.818
   longitude: 20.457
+colors:
+  1882: "#276786"
 note: "Gap for the Austro-Hungarian, German and Bulgarian occupation of 1915–1918; the government returned to Belgrade in 1918 and joined the Kingdom of Yugoslavia."
 transitions:
 - year: 1915

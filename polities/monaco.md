@@ -22,6 +22,8 @@ point:
   name: Monaco
   latitude: 43.7311
   longitude: 7.42
+colors:
+  1297: "#345eb2"
 note: "Start is the Grimaldi seizure of 1297. Gap for the French annexation of 1793–1814. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1793

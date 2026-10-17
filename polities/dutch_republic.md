@@ -18,6 +18,8 @@ point:
   name: The Hague
   latitude: 52.08
   longitude: 4.31
+colors:
+  1581: "#762786"
 transitions:
 - year: 1581
   kind: broke_away_from

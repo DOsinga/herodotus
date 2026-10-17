@@ -20,6 +20,8 @@ point:
   name: "Gusu"
   latitude: 31.3
   longitude: 120.6194
+colors:
+  -585: "#275786"
 note: "Starts with Shoumeng, its first historically attested king; the earlier line is legendary. Yue conquered it."
 transitions:
 - year: -473

@@ -19,6 +19,10 @@ point:
   name: "Pachoras"
   latitude: 22.183
   longitude: 31.467
+colors:
+  400: "#cd51cd"
+  617: "#cd51cd"
+  642: "#cd6651"
 note: "400 estimates the formation of the Lower Nubian kingdom. Its incorporation into Makuria is not exactly dated: it certainly occurred by 707 and may have preceded the Arab invasion of 652. 650 is an explicit mid-seventh-century estimate. Pachoras is the archaeological site of Faras."
 transitions:
 - year: 650

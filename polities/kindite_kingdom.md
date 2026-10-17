@@ -20,5 +20,7 @@ point:
   name: "Qaryat al-Faw"
   latitude: 19.787
   longitude: 45.149
+colors:
+  450: "#278647"
 note: "450 and 550 estimate the Hujrid kingdom's formation and disintegration. Qaryat al-Faw represents its Arabian governing centre; the territory and relationship between its divided royal branches are imperfectly known."
 ---

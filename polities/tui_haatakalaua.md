@@ -20,6 +20,8 @@ point:
   name: "Fonuamotu"
   latitude: -21.178
   longitude: -175.12
+colors:
+  1535: "#3434b2"
 transitions:
 - year: 1610
   kind: succeeded_by

@@ -20,6 +20,8 @@ point:
   name: "Palmyra"
   latitude: 34.5514
   longitude: 38.2681
+colors:
+  270: "#572786"
 note: "Odaenathus already governed the Roman East from Palmyra in the 260s as Rome's ally; the record starts with Zenobia's break with Rome and conquest of Egypt in 270."
 transitions:
 - year: 270

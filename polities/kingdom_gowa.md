@@ -19,4 +19,6 @@ point:
   name: Somba Opu
   latitude: -5.192
   longitude: 119.408
+colors:
+  1300: "#9db234"
 ---

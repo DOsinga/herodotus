@@ -19,6 +19,8 @@ point:
   name: "Vatapi (Badami)"
   latitude: 15.9149
   longitude: 75.6768
+colors:
+  543: "#863727"
 note: "The shared dynasty article covers the Badami state as well as later branches. 543 is the conventional founding date. Pallava occupation of the capital in 642 does not create a gap: surviving Chalukya rulers and a regency preceded Vikramaditya's recovery. The later Western Chalukya state is a separate record."
 transitions:
 - year: 753

@@ -21,6 +21,8 @@ point:
   name: Sucre
   latitude: -19.047
   longitude: -65.26
+colors:
+  1825: "#9d34b2"
 note: "The years of the Peru–Bolivian Confederation, 1836–1839, are a gap. Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1825

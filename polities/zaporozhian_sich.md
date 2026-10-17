@@ -19,6 +19,8 @@ point:
   name: Khortytsia
   latitude: 47.82
   longitude: 35.1
+colors:
+  1552: "#278686"
 note: 1552 dates Vyshnevetsky's castle on Little Khortytsia, which not every historian counts as the first Sich. The host kept its own council, army and wars while Poland, the Hetmanate, Crimea and Russia claimed it in turn, so it is treated as self-governing throughout, including its years as an autonomous part of the Hetmanate. The point is at Khortytsia; later sites, such as Chortomlyk and the New Sich, lay downstream near Nikopol.
 transitions:
 - year: 1775

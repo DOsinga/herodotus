@@ -20,6 +20,8 @@ point:
   name: Taleh
   latitude: 9.1475
   longitude: 48.4208
+colors:
+  1896: "#51b8cd"
 transitions:
 - year: 1920
   kind: absorbed_into

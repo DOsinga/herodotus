@@ -20,6 +20,8 @@ point:
   name: "Panyu"
   latitude: 23.13
   longitude: 113.26
+colors:
+  -204: "#51cd7a"
 note: "Zhao Tuo's kingdom; Emperor Wu conquered it."
 transitions:
 - year: -111

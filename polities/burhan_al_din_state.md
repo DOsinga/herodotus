@@ -20,6 +20,8 @@ point:
   name: Sivas
   latitude: 39.75
   longitude: 37.0167
+colors:
+  1381: "#862727"
 transitions:
 - year: 1398
   kind: absorbed_into

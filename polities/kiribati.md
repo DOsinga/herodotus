@@ -20,6 +20,8 @@ point:
   name: South Tarawa
   latitude: 1.3576
   longitude: 173.0504
+colors:
+  1979: "#5eb234"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1979

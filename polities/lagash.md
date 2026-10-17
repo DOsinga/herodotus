@@ -13,6 +13,8 @@ point:
   name: "Girsu"
   latitude: 31.41
   longitude: 46.4
+colors:
+  -2900: "#678627"
 note: "Girsu was the main seat. Lugalzagesi took it from Urukagina. The Second Dynasty of Lagash, Gudea's, governed after the Akkadian collapse until Ur-Nammu. Akkad's and Ur III's kings appointed and moved the city governors, so the city counts as absorbed while they ruled it. "
 transitions:
 - year: -2350

@@ -18,6 +18,8 @@ point:
   name: Marrakesh
   latitude: 31.6295
   longitude: -7.9811
+colors:
+  1465: "#4934b2"
 note: "No article covers the emirate, so the link goes to the confederation. The Hintata governed Marrakesh with growing autonomy from the late fourteenth century; independence is dated here from the end of the Marinid dynasty in 1465."
 transitions:
 - year: 1525

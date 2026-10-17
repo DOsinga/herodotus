@@ -18,6 +18,8 @@ point:
   name: Jambi
   latitude: -1.59
   longitude: 103.61
+colors:
+  1615: "#277686"
 note: >-
   1615 is the conventional founding date of the sultanate. After Jambi's attack on Dutch-held
   Palembang in 1833 the sultan had to accept Dutch authority, which counts as absorption; resistance

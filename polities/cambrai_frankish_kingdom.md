@@ -18,6 +18,8 @@ point:
   name: "Cambrai"
   latitude: 50.176
   longitude: 3.235
+colors:
+  460: "#273786"
 note: "460 estimates Ragnachar's local kingship, which existed alongside Clovis's government rather than inside a unified Frankish country. 509 conventionally dates Clovis's destruction of this royal house. Links the king's biography because no separate article covers his state."
 transitions:
 - year: 509

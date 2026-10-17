@@ -21,6 +21,8 @@ point:
   name: "Marib"
   latitude: 15.42
   longitude: 45.33
+colors:
+  -800: "#51cdb8"
 note: "Links the Sheba article, which covers the Sabaean kingdom. 800 BCE is an estimate. Ends with Himyar's conquest."
 transitions:
 - year: 275

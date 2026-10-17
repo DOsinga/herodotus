@@ -12,5 +12,7 @@ point:
   name: "Chifeng"
   latitude: 42.27
   longitude: 118.96
+colors:
+  -4700: "#51cd8f"
 note: "Both dates are estimates."
 ---

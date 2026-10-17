@@ -12,4 +12,6 @@ point:
   name: Moundville
   latitude: 32.997
   longitude: -87.63
+colors:
+  1000: "#578627"
 ---

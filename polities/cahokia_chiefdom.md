@@ -22,4 +22,6 @@ point:
   name: Cahokia
   latitude: 38.6558
   longitude: -90.0622
+colors:
+  1050: "#cda351"
 ---

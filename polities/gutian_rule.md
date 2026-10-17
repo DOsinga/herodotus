@@ -18,6 +18,8 @@ point:
   name: "Akkad"
   latitude: 33.1
   longitude: 44.1
+colors:
+  -2154: "#cd51cd"
 note: "Links the article on the Gutian kings. Both dates are estimates; their seat is unknown and the point is approximate. Utu-hengal of Uruk defeated Tirigan."
 transitions:
 - year: -2119

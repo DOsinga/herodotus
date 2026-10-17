@@ -11,6 +11,8 @@ point:
   name: Ras
   latitude: 43.1283
   longitude: 20.4158
+colors:
+  1217: "#862757"
 transitions:
 - year: 1346
   kind: succeeded_by

@@ -12,5 +12,7 @@ point:
   name: "Mohenjo-daro"
   latitude: 27.33
   longitude: 68.14
+colors:
+  -3300: "#cd51a3"
 note: "Both dates are estimates; its mature urban phase ran from about 2600 BCE. Its government is unknown. The Cemetery H culture follows in the Punjab."
 ---

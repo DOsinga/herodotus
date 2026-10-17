@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tabriz
 point:
   latitude: 38.0962
   longitude: 46.2738
+note: "Soviet forces occupied northern Iran from 1941 to 1946."
 control:
 - start: -616
   end: -551
@@ -151,8 +152,12 @@ control:
   polity: qajar_iran
   importance: 3
 - start: 1925
-  end: 1944
+  end: 1940
   polity: pahlavi_iran
+  importance: 3
+- start: 1941
+  end: 1944
+  polity: soviet_union
   importance: 3
 - start: 1945
   end: 1946

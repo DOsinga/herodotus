@@ -21,6 +21,8 @@ point:
   name: Smederevo
   latitude: 44.6667
   longitude: 20.9333
+colors:
+  1402: "#cd517a"
 transitions:
 - year: 1459
   kind: absorbed_into

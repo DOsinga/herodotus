@@ -22,6 +22,16 @@ point:
   name: Paris
   latitude: 48.8567
   longitude: 2.3522
+colors:
+  987: "#9db234"
+  1099: "#9db234"
+  1124: "#478627"
+  1204: "#478627"
+  1229: "#cd517a"
+  1435: "#cd517a"
+  1460: "#8834b2"
+  1789: "#8834b2"
+  1814: "#678627"
 transitions:
 - year: 1792
   kind: succeeded_by

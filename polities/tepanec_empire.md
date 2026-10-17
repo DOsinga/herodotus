@@ -20,6 +20,8 @@ point:
   name: Azcapotzalco
   latitude: 19.4722
   longitude: -99.1833
+colors:
+  1200: "#278647"
 transitions:
 - year: 1428
   kind: succeeded_by

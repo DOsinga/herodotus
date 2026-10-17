@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Görlitz
 point:
   latitude: 51.1528
   longitude: 14.9872
-note: "Prussian from 1815. The quarter on the east bank of the Neisse has been the Polish town of Zgorzelec since 1945."
+note: "Prussian from 1815. The quarter on the east bank of the Neisse has been the Polish town of Zgorzelec since 1945. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1071
   end: 1157
@@ -68,8 +68,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

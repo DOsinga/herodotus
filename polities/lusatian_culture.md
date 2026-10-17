@@ -12,5 +12,7 @@ point:
   name: "Biskupin"
   latitude: 52.89
   longitude: 17.73
+colors:
+  -1300: "#34b29d"
 note: "Both dates are estimates."
 ---

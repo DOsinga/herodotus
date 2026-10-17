@@ -19,6 +19,8 @@ point:
   name: "Mecca"
   latitude: 21.423
   longitude: 39.826
+colors:
+  683: "#672786"
 note: "Records Ibn al-Zubayr's actual governing state in the Hijaz and, for a time, Iraq and other provinces. It is not merely his claim to rule all Muslims. Ends with al-Hajjaj's capture of Mecca and destruction of the court in 692. Links the caliph's biography."
 transitions:
 - year: 683

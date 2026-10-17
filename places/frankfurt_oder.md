@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Frankfurt_(Oder)
 point:
   latitude: 52.3419
   longitude: 14.5517
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1253
   end: 1700
@@ -27,8 +28,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

@@ -12,5 +12,7 @@ point:
   name: "Avebury"
   latitude: 51.43
   longitude: -1.85
+colors:
+  -4000: "#cdcd51"
 note: "Both dates are conventional; the Bronze Age records for Britain and Ireland follow."
 ---

@@ -25,6 +25,8 @@ point:
   name: "Valencia"
   latitude: 39.4699
   longitude: -0.3763
+colors:
+  1010: "#cdcd51"
 note: "The earliest start is approximate, with 1010–1011 both used. Toledo's direct rule is a gap. El Cid's state is separate. From 1147 Ibn Mardanish governed Valencia from Murcia, so that interval belongs to the existing Murcia record. The final restoration is conventionally dated 1229, also given as 1228."
 transitions:
 - year: 1010

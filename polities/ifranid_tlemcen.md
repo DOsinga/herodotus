@@ -18,6 +18,8 @@ point:
   name: Tlemcen
   latitude: 34.8828
   longitude: -1.3167
+colors:
+  765: "#864727"
 note: "Both dates are estimates. The start rests on the traditional founding of the Ifranid seat at Tlemcen in 765, and the end on Idris I's takeover of the town, negotiated with the Maghrawa, in 789 or 790."
 transitions:
 - year: 790

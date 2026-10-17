@@ -20,6 +20,8 @@ point:
   name: "Ras"
   latitude: 43.1283
   longitude: 20.4158
+colors:
+  1091: "#a351cd"
 note: "The start follows Vukan's government acting independently of Duklja around 1091–1092. Periods of Byzantine overlordship did not replace the Serbian rulers' government. Royal coronation in 1217 begins the existing Kingdom of Serbia record."
 transitions:
 - year: 1217

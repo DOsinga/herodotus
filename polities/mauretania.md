@@ -13,6 +13,8 @@ point:
   name: "Iol Caesarea"
   latitude: 36.6075
   longitude: 2.19
+colors:
+  -225: "#b28834"
 note: "225 BCE estimates the kingdom of the Mauri. Octavian ruled it directly from Bocchus II's death in 33 BCE until he gave it to Juba II in 25 BCE. Caligula had Ptolemy killed in 40."
 transitions:
 - year: -33

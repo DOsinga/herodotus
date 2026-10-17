@@ -19,6 +19,8 @@ point:
   name: "Caesarea Philippi"
   latitude: 33.25
   longitude: 35.69
+colors:
+  -4: "#862767"
 note: "Links Philip's article. Batanea, Trachonitis and Gaulanitis; after his death they were attached to Syria until Caligula gave them to Agrippa I in 37."
 transitions:
 - year: 34

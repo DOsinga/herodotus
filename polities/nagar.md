@@ -22,6 +22,8 @@ point:
   name: "Tell Brak"
   latitude: 36.67
   longitude: 41.06
+colors:
+  -2600: "#cd5151"
 note: "Links the article on the site. Both periods are estimates: the kingdom that dealt with Ebla and Mari as an equal until Akkad took it and Naram-Sin built a palace there, and its independent kingdom after the Akkadian collapse."
 transitions:
 - year: -2300

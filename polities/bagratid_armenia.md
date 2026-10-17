@@ -11,6 +11,8 @@ point:
   name: "Ani"
   latitude: 40.507
   longitude: 43.572
+colors:
+  885: "#cd518f"
 note: "885 follows Ashot I's royal recognition. Ani became the capital in 961. Agreements to transfer the kingdom did not end its government before the Byzantine annexation in 1045."
 transitions:
 - year: 1045

@@ -18,6 +18,10 @@ point:
   name: Aix-en-Provence
   latitude: 43.5263
   longitude: 5.4454
+colors:
+  972: "#5151cd"
+  1179: "#5151cd"
+  1204: "#372786"
 note: "972 follows William I's victory at Fraxinet, after which the counts governed the region themselves despite the overlordship of the kings of Burgundy and the emperors. The Angevin counts were also kings of Naples, but Provence kept its own administration at Aix. The County of Forcalquier and the Toulousain marquisate north of the Durance are not split out."
 transitions:
 - year: 1481

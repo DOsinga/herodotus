@@ -21,5 +21,7 @@ point:
   name: "Xochicalco"
   latitude: 18.80389
   longitude: -99.29592
+colors:
+  650: "#278676"
 note: "650–900 estimates the fortified city's governing phase between the decline of Teotihuacan and its destruction. Earlier settlement is not treated as the founding of this regional state."
 ---

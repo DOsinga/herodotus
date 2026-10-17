@@ -20,6 +20,8 @@ point:
   name: Lezhë
   latitude: 41.7836
   longitude: 19.6436
+colors:
+  1444: "#768627"
 transitions:
 - year: 1479
   kind: absorbed_into

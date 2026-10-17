@@ -19,6 +19,8 @@ point:
   name: Mashhad
   latitude: 36.326
   longitude: 59.543
+colors:
+  1736: "#275786"
 transitions:
 - year: 1796
   kind: absorbed_into

@@ -19,6 +19,8 @@ point:
   name: "Chengdu"
   latitude: 30.66
   longitude: 104.0633
+colors:
+  405: "#274786"
 note: "Links Qiao Zong's article; no separate article covers his regime in Sichuan."
 transitions:
 - year: 405

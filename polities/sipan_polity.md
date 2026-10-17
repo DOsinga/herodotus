@@ -19,5 +19,7 @@ point:
   name: "Huaca Rajada"
   latitude: -6.80139
   longitude: -79.60222
+colors:
+  100: "#8f51cd"
 note: "100–650 estimates the royal government represented by the Lord of Sipan and associated elite tombs. It is an individual Lambayeque-valley court, not an umbrella for every Moche-speaking community. 650 estimates the regional political reorganization around Pampa Grande; an exact conquest is not documented."
 ---

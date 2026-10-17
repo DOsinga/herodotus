@@ -18,6 +18,8 @@ point:
   name: Pasai, near Lhokseumawe
   latitude: 5.1881
   longitude: 97.1403
+colors:
+  1267: "#b25e34"
 note: >-
   1267 is the traditional date of Merah Silu's conversion and accession as Malik ul Salih, which rests
   on later chronicles and his gravestone. The Portuguese took the port in 1521 and left in 1524, when

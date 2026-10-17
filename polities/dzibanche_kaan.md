@@ -18,5 +18,7 @@ point:
   name: "Dzibanché"
   latitude: 18.64
   longitude: -88.76
+colors:
+  400: "#9d34b2"
 note: "Both dates are estimates; the Kaan court moved to Calakmul about 635. The Calakmul record follows the city's own government and is not given a transition from Dzibanché."
 ---

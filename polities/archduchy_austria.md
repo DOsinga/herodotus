@@ -20,6 +20,12 @@ point:
   name: Vienna
   latitude: 48.2083
   longitude: 16.3725
+colors:
+  1453: "#b2349d"
+  1529: "#b2349d"
+  1554: "#278657"
+  1689: "#278657"
+  1714: "#b28834"
 transitions:
 - year: 1804
   kind: succeeded_by

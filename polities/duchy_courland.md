@@ -20,6 +20,8 @@ point:
   name: Mitau
   latitude: 56.65
   longitude: 23.7128
+colors:
+  1561: "#a351cd"
 transitions:
 - year: 1795
   kind: absorbed_into

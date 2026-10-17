@@ -20,6 +20,8 @@ point:
   name: Austin
   latitude: 30.267
   longitude: -97.743
+colors:
+  1836: "#b23449"
 transitions:
 - year: 1836
   kind: broke_away_from

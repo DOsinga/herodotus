@@ -21,5 +21,7 @@ point:
   name: "Starčevo"
   latitude: 44.75
   longitude: 20.6
+colors:
+  -6200: "#3473b2"
 note: "Both dates are estimates."
 ---

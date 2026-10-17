@@ -18,6 +18,10 @@ point:
   name: Jaisalmer
   latitude: 26.913
   longitude: 70.915
+colors:
+  1156: "#4934b2"
+  1505: "#4934b2"
+  1530: "#51a3cd"
 note: >-
   Starts with the move to Jaisalmer in 1156; the Bhati state at Lodhruva before that has no record.
   Ends with the 1818 treaty with the East India Company. Protected and princely states do not count

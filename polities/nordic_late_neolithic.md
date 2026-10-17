@@ -21,5 +21,7 @@ point:
   name: "Jutland"
   latitude: 55.5
   longitude: 9.5
+colors:
+  -2350: "#cdcd51"
 note: "Links the Nordic Stone Age article, which covers the period. Both dates are estimates; the Nordic Bronze Age follows. The point is representative."
 ---

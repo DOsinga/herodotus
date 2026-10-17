@@ -18,6 +18,8 @@ point:
   name: "Güstrow"
   latitude: 53.794
   longitude: 12.176
+colors:
+  1235: "#278637"
 note: "Links the article on the lordship. Its internal divisions among Werle branches are not recorded separately."
 transitions:
 - year: 1235

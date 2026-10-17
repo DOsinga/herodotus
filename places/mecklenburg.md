@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mecklenburg
 point:
   latitude: 53.8372
   longitude: 11.4711
-note: "The Obotrite stronghold that gave Mecklenburg its name; the dukes moved their residence to Wismar in 1256."
+note: "The Obotrite stronghold that gave Mecklenburg its name; the dukes moved their residence to Wismar in 1256. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 700
   end: 1164
@@ -40,8 +40,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 1
 - start: 1949
   end: 1989

@@ -21,4 +21,6 @@ point:
   name: Mount Fura region
   latitude: -16.8
   longitude: 30.0
+colors:
+  1430: "#6651cd"
 ---

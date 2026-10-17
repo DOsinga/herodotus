@@ -21,6 +21,8 @@ point:
   name: "Purika"
   latitude: 21.2
   longitude: 77.1
+colors:
+  250: "#5151cd"
 note: "250 and 330 are conventional estimates for Vindhyashakti and Pravarasena I's government. Ends with the division into separate ruling branches; it is not an umbrella over those branches. Purika's identification is disputed, so the point is an approximate Satpura-region location."
 transitions:
 - year: 330

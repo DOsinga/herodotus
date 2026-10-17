@@ -20,6 +20,8 @@ point:
   name: Bobovac
   latitude: 44.1647
   longitude: 18.3289
+colors:
+  1377: "#277686"
 transitions:
 - year: 1463
   kind: absorbed_into

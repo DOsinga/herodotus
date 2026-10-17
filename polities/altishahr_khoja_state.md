@@ -18,6 +18,8 @@ point:
   name: Kashgar
   latitude: 39.468
   longitude: 75.994
+colors:
+  1755: "#868627"
 note: "Begins when the Khojas took control of Kashgar and Yarkand after the Dzungar collapse in 1755. Their open revolt dates from 1757; the two earlier years are counted because the Qing had no officials or garrisons in the oases. Links the article on the revolt."
 transitions:
 - year: 1755

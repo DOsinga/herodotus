@@ -20,4 +20,6 @@ point:
   name: Užice
   latitude: 43.8556
   longitude: 19.8425
+colors:
+  1371: "#278676"
 ---

@@ -21,5 +21,7 @@ point:
   name: "North Pontic steppe"
   latitude: 46.5
   longitude: 34.0
+colors:
+  -1000: "#51cdcd"
 note: "Links the article on the people. Both dates are estimates; the Scythians displaced them. The point is representative."
 ---

@@ -21,5 +21,7 @@ point:
   name: "Dongsam-dong"
   latitude: 35.1
   longitude: 129.04
+colors:
+  -8000: "#275786"
 note: "Both dates are estimates; the Mumun period follows."
 ---

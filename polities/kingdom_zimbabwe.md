@@ -20,4 +20,6 @@ point:
   name: Great Zimbabwe
   latitude: -20.2675
   longitude: 30.933
+colors:
+  1220: "#572786"
 ---

@@ -19,6 +19,10 @@ point:
   name: Saint Petersburg
   latitude: 59.938
   longitude: 30.309
+colors:
+  1721: "#cd5151"
+  1806: "#cd5151"
+  1831: "#a351cd"
 transitions:
 - year: 1917
   kind: succeeded_by

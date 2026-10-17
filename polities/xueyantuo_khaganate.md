@@ -20,6 +20,8 @@ point:
   name: "Otuken"
   latitude: 47.5
   longitude: 102.8
+colors:
+  628: "#275786"
 note: "628 follows Yi'nan's establishment of the governing khaganate. Ends with the Tang-Uyghur defeat and destruction of the royal government in 646, not the continued existence of Xueyantuo people or later officials until 723. The steppe court location is approximate."
 transitions:
 - year: 628

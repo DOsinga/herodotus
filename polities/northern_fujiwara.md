@@ -18,6 +18,8 @@ point:
   name: Hiraizumi
   latitude: 38.9866
   longitude: 141.1138
+colors:
+  1087: "#51a3cd"
 note: "Begins with the end of the Later Three Years' War in 1087; Kiyohira moved his seat to Hiraizumi around 1100. Some accounts date the house's rule from 1094. Links the article on the family, as no article treats the realm as a state."
 transitions:
 - year: 1087

@@ -22,5 +22,7 @@ point:
   name: "Chavín de Huántar"
   latitude: -9.59
   longitude: -77.18
+colors:
+  -900: "#472786"
 note: "Both dates are estimates."
 ---

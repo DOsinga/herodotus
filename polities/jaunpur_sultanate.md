@@ -20,6 +20,8 @@ point:
   name: Jaunpur
   latitude: 25.7464
   longitude: 82.6837
+colors:
+  1394: "#472786"
 transitions:
 - year: 1394
   kind: broke_away_from

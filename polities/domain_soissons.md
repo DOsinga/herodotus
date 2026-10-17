@@ -19,6 +19,8 @@ point:
   name: "Soissons"
   latitude: 49.3817
   longitude: 3.3236
+colors:
+  461: "#862767"
 note: "Starts in 461, when Aegidius, Majorian's commander in Gaul, refused to recognise the western court after Majorian's overthrow; until then he governed as a Roman official."
 transitions:
 - year: 461

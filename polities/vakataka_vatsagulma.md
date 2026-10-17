@@ -20,5 +20,7 @@ point:
   name: "Vatsagulma"
   latitude: 20.112
   longitude: 77.133
+colors:
+  330: "#862776"
 note: "330 estimates Sarvasena's separate branch and 510 the loss of its government after Harishena and his poorly known successors. The exact end is disputed. Vatsagulma is identified with Washim; it is not a point for every Vakataka branch."
 ---

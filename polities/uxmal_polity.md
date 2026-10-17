@@ -19,5 +19,7 @@ point:
   name: "Uxmal"
   latitude: 20.359
   longitude: -89.771
+colors:
+  700: "#8834b2"
 note: "700 estimates the emergence of the Late Classic political centre. Chan Chak K'ak'nal Ajaw is attested in the late ninth century. The end around 1000 estimates the decline of its court and monumental construction; later settlement and stories of a League of Mayapan do not establish an unchanged Uxmal government."
 ---

@@ -22,5 +22,7 @@ point:
   name: "Paracas"
   latitude: -13.84
   longitude: -76.25
+colors:
+  -800: "#cd7a51"
 note: "Both dates are estimates; the Nazca culture follows."
 ---

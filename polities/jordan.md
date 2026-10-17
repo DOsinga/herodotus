@@ -19,6 +19,8 @@ point:
   name: Amman
   latitude: 31.9497
   longitude: 35.9328
+colors:
+  1946: "#b851cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1946

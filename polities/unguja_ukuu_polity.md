@@ -21,5 +21,7 @@ point:
   name: "Unguja Ukuu"
   latitude: -6.32
   longitude: 39.42
+colors:
+  500: "#278637"
 note: "500–900 estimates the earliest major Zanzibar trading settlement from excavations; 900 follows its abandonment or contraction. Nothing is known of its government."
 ---

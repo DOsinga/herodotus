@@ -19,6 +19,8 @@ point:
   name: Burgos
   latitude: 42.3439
   longitude: -3.6969
+colors:
+  1065: "#862776"
 transitions:
 - year: 1230
   kind: merged_into

@@ -20,6 +20,8 @@ point:
   name: "Herakleopolis"
   latitude: 29.09
   longitude: 30.94
+colors:
+  -2160: "#51cd7a"
 note: "Links the Ninth Dynasty article. The Herakleopolitan kings of Middle and Lower Egypt until Mentuhotep II's conquest; both dates are estimates."
 transitions:
 - year: -2040

@@ -20,6 +20,8 @@ point:
   name: "Vaishali"
   latitude: 26.0137
   longitude: 85.109
+colors:
+  -700: "#b27334"
 note: "The Licchavi-led confederation. The end estimates Ajatashatru's conquest."
 transitions:
 - year: -468

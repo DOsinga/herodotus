@@ -20,5 +20,7 @@ point:
   name: "Middle Syr Darya"
   latitude: 42.8
   longitude: 68.3
+colors:
+  -200: "#7334b2"
 note: "Both dates are estimates from Chinese sources. The point stands for the middle Syr Darya; the capital, Bitian, is not located."
 ---

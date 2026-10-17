@@ -11,6 +11,8 @@ point:
   name: Kuala Lumpur
   latitude: 3.1478
   longitude: 101.6953
+colors:
+  1957: "#cd518f"
 transitions:
 - year: 1957
   kind: broke_away_from

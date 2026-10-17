@@ -20,6 +20,8 @@ point:
   name: "Rhodes"
   latitude: 36.4333
   longitude: 28.2167
+colors:
+  -408: "#867627"
 note: "Links the article on the island. Starts with the union of the three cities. Its 164 BCE treaty bound it to Rome's friends and enemies, which counts as absorption."
 transitions:
 - year: -164

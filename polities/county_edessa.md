@@ -19,6 +19,8 @@ point:
   name: "Edessa"
   latitude: 37.1674
   longitude: 38.7955
+colors:
+  1098: "#863727"
 note: "Edessa fell in 1144, but the county continued from Turbessel west of the Euphrates. Beatrice sold its remaining fortresses to Byzantium in 1150. Edessa is the representative point for the earlier, larger county."
 transitions:
 - year: 1150

@@ -18,5 +18,7 @@ point:
   name: "Kantharawichai"
   latitude: 16.326
   longitude: 103.298
+colors:
+  681: "#472786"
 note: "681 and 800 estimate the separate middle-Mekong/Chi-basin court attested through embassies in 717–799. The identification of Wen Dan and its relationship to Land Chenla are disputed; it is not used as an umbrella for all inland Cambodia and Laos. Kantharawichai is a proposed capital identification."
 ---

@@ -19,6 +19,8 @@ point:
   name: "Tianshui"
   latitude: 34.581
   longitude: 105.724
+colors:
+  617: "#51cd66"
 note: "Includes Xue Rengao's government after Xue Ju's death; the state ended only with its defeat and surrender to Tang in November 618. Links the founding ruler's biography."
 transitions:
 - year: 617

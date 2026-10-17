@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Stralsund
 point:
   latitude: 54.3092
   longitude: 13.0819
-note: "Founded in the Principality of Rügen, a Danish vassal that governed itself until it passed to Pomerania in 1325. French occupation from 1807 to 1810 and in 1812."
+note: "Founded in the Principality of Rügen, a Danish vassal that governed itself until it passed to Pomerania in 1325. French occupation from 1807 to 1810 and in 1812. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1325
   end: 1629
@@ -48,8 +48,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

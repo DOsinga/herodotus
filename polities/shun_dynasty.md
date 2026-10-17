@@ -18,6 +18,8 @@ point:
   name: "Xi'an"
   latitude: 34.267
   longitude: 108.9
+colors:
+  1643: "#b234b2"
 note: "Begins when Li Zicheng set up his government at Xiangyang in 1643, before he proclaimed the Shun at Xi'an in February 1644. Ends with his death in 1645; the remnants under his relatives fought on with the Southern Ming until 1649 and are not counted."
 transitions:
 - year: 1643

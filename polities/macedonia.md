@@ -20,6 +20,8 @@ point:
   name: "Pella"
   latitude: 40.7547
   longitude: 22.521
+colors:
+  -808: "#51cd66"
 note: "Philip II and Alexander's empire and the later Antipatrid and Antigonid kings are one Macedonian kingdom; the realms of Alexander's generals are separate records. Rome abolished the monarchy after Pydna."
 transitions:
 - year: -168

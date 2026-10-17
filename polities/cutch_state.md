@@ -18,6 +18,8 @@ point:
   name: Bhuj
   latitude: 23.25
   longitude: 69.67
+colors:
+  1147: "#a351cd"
 note: >-
   1147 is the traditional foundation date. Bhuj was the capital from 1549; the earlier capital
   Lakhiarviro has no secure coordinates. Ends with the treaty of 1819; it remained a princely state

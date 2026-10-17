@@ -11,6 +11,8 @@ point:
   name: Kampili
   latitude: 15.4063
   longitude: 76.6012
+colors:
+  1300: "#cdb851"
 transitions:
 - year: 1327
   kind: absorbed_into

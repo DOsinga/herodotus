@@ -11,6 +11,8 @@ point:
   name: Milan
   latitude: 45.467
   longitude: 9.19
+colors:
+  1802: "#cd7a51"
 note: "Ends when it became the Napoleonic Kingdom of Italy, which Napoleon governed through his viceroy Eugène de Beauharnais and so counts as part of the French Empire."
 transitions:
 - year: 1805

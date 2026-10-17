@@ -11,6 +11,8 @@ point:
   name: "Mongolian steppe"
   latitude: 47.5
   longitude: 102.5
+colors:
+  -209: "#51a3cd"
 note: "Starts with Modu Chanyu's empire; the point stands for the royal court in central Mongolia. It split into northern and southern branches in 48."
 transitions:
 - year: 48

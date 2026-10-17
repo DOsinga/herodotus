@@ -19,6 +19,8 @@ point:
   name: "Thebes"
   latitude: 25.72
   longitude: 32.61
+colors:
+  -1580: "#b27334"
 note: "Links the Seventeenth Dynasty article. Starts with the Theban kings who threw off the Hyksos after their conquest of Thebes; the length of that occupation is unknown, so the record follows on directly. Ahmose's victory over the Hyksos begins the New Kingdom."
 transitions:
 - year: -1580

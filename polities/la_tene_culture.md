@@ -22,5 +22,7 @@ point:
   name: "La Tène"
   latitude: 47.0
   longitude: 7.02
+colors:
+  -450: "#8fcd51"
 note: "Both dates are estimates. It stands in for Gaul and central Europe, where the Arverni, Aedui and Helvetii are recorded as states from about 200 BCE. Caesar's conquest ends it in Gaul."
 ---

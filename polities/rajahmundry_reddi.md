@@ -19,6 +19,8 @@ point:
   name: "Rajahmundry"
   latitude: 17.0
   longitude: 81.8
+colors:
+  1395: "#7a51cd"
 note: "Shares the Reddi kingdom article. 1395 estimates the branch's separate government; the Gajapatis took it about 1448."
 transitions:
 - year: 1395

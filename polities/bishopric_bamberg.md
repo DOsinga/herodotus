@@ -18,6 +18,10 @@ point:
   name: Bamberg
   latitude: 49.8917
   longitude: 10.8917
+colors:
+  1250: "#51cd8f"
+  1339: "#51cd8f"
+  1364: "#378627"
 note: "Starts with the end of royal government in Germany in 1250. Bavarian troops occupied it in 1802 ahead of the secularisation of 1803."
 transitions:
 - year: 1802

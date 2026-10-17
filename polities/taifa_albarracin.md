@@ -19,6 +19,8 @@ point:
   name: "Albarracín"
   latitude: 40.408
   longitude: -1.443
+colors:
+  1012: "#cd517a"
 note: "The Almoravids ended it in 1104."
 transitions:
 - year: 1104

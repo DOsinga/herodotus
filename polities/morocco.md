@@ -20,6 +20,8 @@ point:
   name: Rabat
   latitude: 34.0211
   longitude: -6.8414
+colors:
+  1956: "#b25e34"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1956

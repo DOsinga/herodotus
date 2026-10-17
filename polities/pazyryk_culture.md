@@ -22,5 +22,7 @@ point:
   name: "Pazyryk burials"
   latitude: 50.75
   longitude: 88.1
+colors:
+  -600: "#51cd8f"
 note: "Both dates are estimates for the Altai horse nomads known from the frozen burials."
 ---

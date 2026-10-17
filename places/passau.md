@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Passau
 point:
   latitude: 48.5744
   longitude: 13.4647
-note: "Roman Batavis. Gap for the Prince-Bishopric of Passau, which has no record, from 1250 until Bavaria annexed it in 1803."
+note: "Roman Batavis. Gap for the Prince-Bishopric of Passau, which has no record, from 1250 until Bavaria annexed it in 1803. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1
   end: 394
@@ -56,8 +56,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: united_states
   importance: 1
 - start: 1949
   end: null

@@ -20,6 +20,8 @@ point:
   name: Ōzato
   latitude: 26.1236
   longitude: 127.7308
+colors:
+  1314: "#518fcd"
 transitions:
 - year: 1429
   kind: absorbed_into

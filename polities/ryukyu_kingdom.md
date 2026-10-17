@@ -11,6 +11,10 @@ point:
   name: Shuri
   latitude: 26.217
   longitude: 127.719
+colors:
+  1429: "#5eb234"
+  1644: "#5eb234"
+  1669: "#b27334"
 transitions:
 - year: 1879
   kind: absorbed_into

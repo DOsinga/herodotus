@@ -17,5 +17,7 @@ point:
   name: "Western Mediterranean"
   latitude: 41.5
   longitude: 2.0
+colors:
+  -6400: "#34b288"
 note: "Links the Cardium pottery article. Both dates are estimates. The point is representative."
 ---

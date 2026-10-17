@@ -18,6 +18,8 @@ point:
   name: "Mathura"
   latitude: 27.49
   longitude: 77.67
+colors:
+  -60: "#34b2b2"
 note: "Both dates are estimates from coins and inscriptions; the Kushan conquest of Mathura is dated to the late first century CE."
 transitions:
 - year: 90

@@ -19,6 +19,8 @@ point:
   name: "Kahuripan (Brantas delta)"
   latitude: -7.446
   longitude: 112.718
+colors:
+  1019: "#272786"
 note: "The point is an estimate in the Brantas delta, where the lost capital is generally placed. The partition follows the 1042 chronology used by the Kediri record and early successor king lists; the Kahuripan article instead uses 1045. Airlangga's later life is not continued government of the undivided kingdom."
 transitions:
 - year: 1042

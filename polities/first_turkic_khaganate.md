@@ -20,6 +20,8 @@ point:
   name: "Otuken"
   latitude: 47.5
   longitude: 102.8
+colors:
+  552: "#b23449"
 note: "552 follows Bumin's overthrow of Rouran overlordship. 603 is the conventional final division after the civil wars that began in 581; the western yabgu's earlier delegated government is not a separate state here. Otuken is an approximate location of the mobile court."
 transitions:
 - year: 552

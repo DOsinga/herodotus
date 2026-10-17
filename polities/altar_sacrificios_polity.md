@@ -19,5 +19,7 @@ point:
   name: "Altar de Sacrificios"
   latitude: 16.467
   longitude: -90.533
+colors:
+  -400: "#862727"
 note: "400 BCE estimates the monumental Preclassic governing centre, not the first occupation. 950 estimates the end of its Terminal Classic elite institutions and abandonment. Its changing trading relations do not establish foreign provincial government."
 ---

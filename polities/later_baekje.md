@@ -20,6 +20,8 @@ point:
   name: "Wansanju (Jeonju)"
   latitude: 35.8242
   longitude: 127.148
+colors:
+  892: "#8fcd51"
 note: "892 follows Gyeon Hwon's establishment of his own territorial government at Mujinju. The Baekje royal title and move to Jeonju followed in 900. His 935 deposition did not end the state; Goryeo conquered his son's government in 936."
 transitions:
 - year: 892

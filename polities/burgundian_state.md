@@ -19,6 +19,8 @@ point:
   name: Brussels
   latitude: 50.8467
   longitude: 4.3525
+colors:
+  1384: "#762786"
 transitions:
 - year: 1482
   kind: succeeded_by

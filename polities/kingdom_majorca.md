@@ -19,6 +19,8 @@ point:
   name: Perpignan
   latitude: 42.6986
   longitude: 2.8956
+colors:
+  1276: "#862776"
 transitions:
 - year: 1344
   kind: absorbed_into

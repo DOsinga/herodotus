@@ -11,6 +11,8 @@ point:
   name: Kyiv
   latitude: 50.45
   longitude: 30.524
+colors:
+  1132: "#678627"
 note: "After Mstislav the Great died in 1132 the Rus principalities governed themselves, and Kyiv became one principality whose throne the others fought over; Andrey Bogolyubsky of Vladimir sacked it in 1169. Ends in 1239, when Daniel of Galicia took Kyiv and put his own voivode Dmytro in charge; Dmytro surrendered it to Batu's Mongols in 1240."
 transitions:
 - year: 1239

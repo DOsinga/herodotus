@@ -20,6 +20,8 @@ point:
   name: Tondo
   latitude: 14.617
   longitude: 120.967
+colors:
+  900: "#5151cd"
 transitions:
 - year: 1571
   kind: absorbed_into

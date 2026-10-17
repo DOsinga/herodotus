@@ -21,5 +21,7 @@ point:
   name: "Susa"
   latitude: 32.19
   longitude: 48.26
+colors:
+  -3200: "#b24934"
 note: "Links the Proto-Elamite period article. Both dates are estimates. The Elam record follows."
 ---

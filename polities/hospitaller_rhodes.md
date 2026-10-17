@@ -19,6 +19,8 @@ point:
   name: Rhodes
   latitude: 36.4458
   longitude: 28.2242
+colors:
+  1310: "#278686"
 transitions:
 - year: 1522
   kind: absorbed_into

@@ -11,6 +11,8 @@ point:
   name: Salisbury
   latitude: -17.8292
   longitude: 31.0522
+colors:
+  1965: "#3488b2"
 note: "From the unilateral declaration of independence; includes Zimbabwe Rhodesia of 1979. Ends when British rule resumed in December 1979."
 transitions:
 - year: 1965

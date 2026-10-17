@@ -21,5 +21,7 @@ point:
   name: "Su Nuraxi"
   latitude: 39.72
   longitude: 9.0
+colors:
+  -1800: "#cd5166"
 note: "Both dates are estimates. Carthage took the coasts from about 510 BCE, but the interior remained outside its control. The record ends with the Roman takeover of Sardinia in 238 BCE; the interior people resisted Rome for centuries more, without a known government."
 ---

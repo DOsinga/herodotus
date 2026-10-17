@@ -20,6 +20,8 @@ point:
   name: Karakorum
   latitude: 47.1975
   longitude: 102.8239
+colors:
+  1206: "#275786"
 transitions:
 - year: 1271
   kind: succeeded_by

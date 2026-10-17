@@ -19,5 +19,7 @@ point:
   name: "Makimuku (proposed)"
   latitude: 33.53
   longitude: 135.84
+colors:
+  180: "#34b29d"
 note: "Both dates are estimates from the Chinese sources. Its location is disputed between northern Kyushu and the Nara basin; the point is the Makimuku site in Nara, one proposed centre."
 ---

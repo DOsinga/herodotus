@@ -19,6 +19,8 @@ point:
   name: Tututepec
   latitude: 16.1167
   longitude: -97.6
+colors:
+  1083: "#51cd51"
 note: "The start follows the codices' date for Eight Deer's foundation of Tututepec as his seat and is approximate."
 transitions:
 - year: 1522

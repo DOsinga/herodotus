@@ -20,6 +20,8 @@ point:
   name: "Kuaiji"
   latitude: 30.0511
   longitude: 120.5833
+colors:
+  -700: "#34b25e"
 note: "700 BCE estimates the kingdom. Chu conquered it; the date is disputed, with 333 BCE also given."
 transitions:
 - year: -306

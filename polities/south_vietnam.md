@@ -20,6 +20,8 @@ point:
   name: Saigon
   latitude: 10.7756
   longitude: 106.7019
+colors:
+  1955: "#66cd51"
 transitions:
 - year: 1975
   kind: absorbed_into

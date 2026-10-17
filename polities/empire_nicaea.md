@@ -20,6 +20,8 @@ point:
   name: Nicaea
   latitude: 40.4292
   longitude: 29.7211
+colors:
+  1204: "#51cd66"
 transitions:
 - year: 1261
   kind: succeeded_by

@@ -20,6 +20,8 @@ point:
   name: "Ecbatana"
   latitude: 34.8
   longitude: 48.52
+colors:
+  -678: "#3449b2"
 note: "Links the article on the Medes. 678 BCE estimates the kingdom; Cyrus overthrew Astyages."
 transitions:
 - year: -550

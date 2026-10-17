@@ -21,6 +21,12 @@ point:
   name: Liège
   latitude: 50.64
   longitude: 5.571
+colors:
+  1250: "#cd51b8"
+  1398: "#cd51b8"
+  1423: "#b25e34"
+  1692: "#b25e34"
+  1717: "#7a51cd"
 note: "The Liège Revolution of 1789 and the back-and-forth of the early 1790s are not split out. Ends with the French occupation of 1794; annexed in 1795."
 transitions:
 - year: 1794

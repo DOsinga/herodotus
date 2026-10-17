@@ -19,6 +19,8 @@ point:
   name: "Zinder"
   latitude: 13.8053
   longitude: 8.9883
+colors:
+  1731: "#cd518f"
 note: "1731 is the usual date for the founding of the ruling house; Bornu overlordship did not stop the sultans governing."
 transitions:
 - year: 1899

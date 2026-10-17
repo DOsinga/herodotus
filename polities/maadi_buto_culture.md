@@ -20,5 +20,7 @@ point:
   name: "Maadi"
   latitude: 29.96
   longitude: 31.26
+colors:
+  -3900: "#9db234"
 note: "Both dates are estimates. Upper Egyptian Naqada culture replaced it."
 ---

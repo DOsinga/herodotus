@@ -20,6 +20,8 @@ point:
   name: Madurai
   latitude: 9.9252
   longitude: 78.1198
+colors:
+  1335: "#cdb851"
 transitions:
 - year: 1378
   kind: absorbed_into

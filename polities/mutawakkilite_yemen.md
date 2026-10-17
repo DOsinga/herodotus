@@ -20,6 +20,8 @@ point:
   name: Sanaa
   latitude: 15.3483
   longitude: 44.2064
+colors:
+  1918: "#345eb2"
 transitions:
 - year: 1918
   kind: broke_away_from

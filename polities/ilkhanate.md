@@ -11,4 +11,6 @@ point:
   name: Soltaniyeh
   latitude: 36.435
   longitude: 48.7958
+colors:
+  1260: "#8fcd51"
 ---

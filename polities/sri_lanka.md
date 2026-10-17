@@ -21,6 +21,8 @@ point:
   name: Colombo
   latitude: 6.9344
   longitude: 79.8428
+colors:
+  1948: "#378627"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1948

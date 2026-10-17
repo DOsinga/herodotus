@@ -21,6 +21,8 @@ point:
   name: Kilkenny
   latitude: 52.651
   longitude: -7.251
+colors:
+  1642: "#cda351"
 transitions:
 - year: 1652
   kind: absorbed_into

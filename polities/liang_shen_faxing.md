@@ -20,6 +20,8 @@ point:
   name: "Piling"
   latitude: 31.78
   longitude: 119.97
+colors:
+  618: "#b29d34"
 note: "Shen governed the lower Yangtze independently after Emperor Yang's death in 618; his initial submission to Yang Tong was nominal. He declared the Liang kingship in 619 and lost his state to Li Zitong in 620. Links his biography."
 transitions:
 - year: 618

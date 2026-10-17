@@ -22,6 +22,8 @@ point:
   name: Nicosia
   latitude: 35.1725
   longitude: 33.365
+colors:
+  1960: "#378627"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

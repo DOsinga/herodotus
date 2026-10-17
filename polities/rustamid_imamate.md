@@ -11,6 +11,8 @@ point:
   name: "Tahert (Tagdemt)"
   latitude: 35.36
   longitude: 1.2
+colors:
+  777: "#b2349d"
 note: "The dynasty article covers this Ibadi state. The point approximates the Tahert ruins near modern Tiaret. The period follows the Tahert imamate, not earlier Ibadi government in Tripolitania. The community's flight after Fatimid conquest did not preserve the former state."
 transitions:
 - year: 909

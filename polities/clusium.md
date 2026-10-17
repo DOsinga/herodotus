@@ -17,6 +17,8 @@ point:
   name: "Clusium"
   latitude: 43.02
   longitude: 11.95
+colors:
+  -750: "#cd518f"
 note: "750 estimates the Etruscan city state. Rome's Italian allies handed their war and foreign relations to Rome; 295 BCE estimates its alliance after Sentinum."
 transitions:
 - year: -295

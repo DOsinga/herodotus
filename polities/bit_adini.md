@@ -20,6 +20,8 @@ point:
   name: "Til Barsip"
   latitude: 36.6
   longitude: 38.15
+colors:
+  -1000: "#cd6651"
 note: "1000 BCE estimates the Aramaean state; Shalmaneser III annexed it."
 transitions:
 - year: -856

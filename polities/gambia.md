@@ -20,6 +20,8 @@ point:
   name: Banjul
   latitude: 13.4542
   longitude: -16.5753
+colors:
+  1965: "#cd5166"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1965

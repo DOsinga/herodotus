@@ -12,5 +12,7 @@ point:
   name: "Sanxingdui"
   latitude: 30.99
   longitude: 104.2
+colors:
+  -1700: "#51cd8f"
 note: "Links the article on the site. Both dates are estimates; the Shu state follows."
 ---

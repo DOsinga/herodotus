@@ -21,5 +21,7 @@ point:
   name: "Uruk"
   latitude: 31.32
   longitude: 45.64
+colors:
+  -4000: "#a351cd"
 note: "Both dates are estimates. The city of Uruk grew into the first large city, but how it was governed is unknown."
 ---

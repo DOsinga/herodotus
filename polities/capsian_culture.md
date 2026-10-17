@@ -21,5 +21,7 @@ point:
   name: "Gafsa"
   latitude: 34.42
   longitude: 8.78
+colors:
+  -9000: "#272786"
 note: "Links the Capsian article. Both dates are calibrated estimates for the forager culture of the Maghreb."
 ---

@@ -21,5 +21,7 @@ point:
   name: "Chassey-le-Camp"
   latitude: 46.85
   longitude: 4.73
+colors:
+  -4500: "#8f51cd"
 note: "Both dates are estimates."
 ---

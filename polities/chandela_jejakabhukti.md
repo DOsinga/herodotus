@@ -18,5 +18,7 @@ point:
   name: "Khajuraho"
   latitude: 24.852
   longitude: 79.92
+colors:
+  831: "#862727"
 note: "831 estimates Nannuka's establishment of local government; Pratihara overlordship did not erase its native rulers. The court later used Mahoba, Kalinjar and Ajaigarh. The end around 1315 follows the last conventionally dated royal government; later Chandela families in separate estates are not this whole kingdom."
 ---

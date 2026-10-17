@@ -19,6 +19,8 @@ point:
   name: Valletta
   latitude: 35.8983
   longitude: 14.5125
+colors:
+  1530: "#51cda3"
 note: "Birgu was the seat until the knights moved into Valletta in 1571. The grant made Malta a fief of the Kingdom of Sicily, but the order governed it and fought its own wars."
 transitions:
 - year: 1798

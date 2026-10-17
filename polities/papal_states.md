@@ -23,6 +23,16 @@ point:
   name: Rome
   latitude: 41.9028
   longitude: 12.4964
+colors:
+  756: "#51cda3"
+  1007: "#51cda3"
+  1032: "#34b273"
+  1310: "#34b273"
+  1335: "#51cd7a"
+  1468: "#51cd7a"
+  1493: "#276786"
+  1750: "#276786"
+  1775: "#278657"
 note: "Gaps for the French-backed Roman Republic (1798–1799) and the French annexation of Rome (1809–1814)."
 transitions:
 - year: 1798

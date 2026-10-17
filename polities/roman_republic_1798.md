@@ -18,4 +18,6 @@ point:
   name: Rome
   latitude: 41.893
   longitude: 12.483
+colors:
+  1798: "#578627"
 ---

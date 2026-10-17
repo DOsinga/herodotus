@@ -21,6 +21,8 @@ point:
   name: Grozny
   latitude: 43.3125
   longitude: 45.6986
+colors:
+  1991: "#cdb851"
 note: "Governed Chechnya, fully from 1996, until Russian forces took Grozny in 2000."
 transitions:
 - year: 1991

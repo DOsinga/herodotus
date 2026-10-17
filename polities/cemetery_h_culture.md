@@ -22,5 +22,7 @@ point:
   name: "Harappa"
   latitude: 30.63
   longitude: 72.87
+colors:
+  -1900: "#a351cd"
 note: "Both dates are estimates for the late Harappan culture of the Punjab."
 ---

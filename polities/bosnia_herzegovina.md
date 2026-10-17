@@ -20,6 +20,8 @@ point:
   name: Sarajevo
   latitude: 43.8564
   longitude: 18.4131
+colors:
+  1992: "#88b234"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1992

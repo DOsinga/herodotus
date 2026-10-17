@@ -20,6 +20,8 @@ point:
   name: "Otuken"
   latitude: 47.5
   longitude: 102.8
+colors:
+  603: "#51a3cd"
 note: "Dates the separate eastern state from the final division of the first khaganate. Ends with the capture of Illig and Tang's military administration in 630; the subsequent Tang-sponsored khaganate is not continued independent government. Otuken is an approximate court location."
 transitions:
 - year: 630

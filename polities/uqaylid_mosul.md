@@ -20,6 +20,8 @@ point:
   name: "Mosul"
   latitude: 36.345
   longitude: 43.157
+colors:
+  990: "#51cd66"
 note: "990 follows the Uqaylid removal of the restored Hamdanids. Initially their own government shared the region with a Buyid governor; it took Mosul outright in 996. Buyid suzerainty did not prevent independent action. This record follows the Mosul branch, not every Uqaylid emirate."
 transitions:
 - year: 1096

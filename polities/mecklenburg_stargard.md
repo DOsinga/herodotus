@@ -19,6 +19,8 @@ point:
   name: "Burg Stargard"
   latitude: 53.497
   longitude: 13.309
+colors:
+  1352: "#73b234"
 note: "Links the article on the duchy."
 transitions:
 - year: 1352

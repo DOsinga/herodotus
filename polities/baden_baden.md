@@ -21,6 +21,8 @@ point:
   name: "Rastatt"
   latitude: 48.858
   longitude: 8.204
+colors:
+  1535: "#572786"
 note: "The Catholic line, governed from Baden-Baden and from 1705 from Rastatt. Ernest Frederick of Baden-Durlach occupied and governed it from 1594 until the Catholic line was restored in 1622. Reunited with Baden-Durlach when it died out in 1771."
 transitions:
 - year: 1594

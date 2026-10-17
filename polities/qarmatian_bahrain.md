@@ -20,6 +20,10 @@ point:
   name: "Al-Ahsa"
   latitude: 25.383
   longitude: 49.583
+colors:
+  899: "#517acd"
+  1038: "#517acd"
+  1063: "#51cd7a"
 note: "The article covers the wider religious movement as well as this state. The period starts with its government in eastern Arabia, not the movement's origins. Its raids elsewhere do not establish lasting government there."
 transitions:
 - year: 1077

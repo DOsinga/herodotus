@@ -19,5 +19,7 @@ point:
   name: "Krems area"
   latitude: 48.41
   longitude: 15.61
+colors:
+  467: "#7acd51"
 note: "467 estimates the kingdom north of the Danube after the Hunnic collapse; the seat's location is approximate. Odoacer destroyed it in 487 and withdrew the Roman population from Noricum, so nobody governed the area afterwards."
 ---

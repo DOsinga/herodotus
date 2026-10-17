@@ -16,4 +16,6 @@ point:
   name: Marrakesh
   latitude: 31.63
   longitude: -8.0089
+colors:
+  1510: "#278686"
 ---

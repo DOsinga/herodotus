@@ -19,6 +19,8 @@ point:
   name: "Agadez"
   latitude: 16.9722
   longitude: 7.9908
+colors:
+  1405: "#274786"
 note: "1405 is the traditional date for the first sultan, at Tadaliza; Agadez became the seat later. The Songhai conquest of 1500 is treated as tribute rather than direct rule, since the sultans kept governing. Ends with the French occupation of 1906."
 transitions:
 - year: 1906

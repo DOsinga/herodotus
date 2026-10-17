@@ -21,5 +21,7 @@ point:
   name: "Lapita"
   latitude: -21.2
   longitude: 164.9
+colors:
+  -1600: "#cda351"
 note: "Both dates are estimates for the first settlers of the western Pacific."
 ---

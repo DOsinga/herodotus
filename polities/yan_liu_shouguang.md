@@ -19,6 +19,8 @@ point:
   name: You Prefecture
   latitude: 39.9158
   longitude: 116.3908
+colors:
+  907: "#34b249"
 note: "Begins with Liu Shouguang's seizure of power in 907, before he proclaimed Yan in 911; his father's rule from 895 is left with the Tang. Ends with the fall of You Prefecture to Jin in late 913."
 transitions:
 - year: 913

@@ -11,6 +11,8 @@ point:
   name: Vientiane
   latitude: 17.98
   longitude: 102.63
+colors:
+  1707: "#868627"
 transitions:
 - year: 1828
   kind: absorbed_into

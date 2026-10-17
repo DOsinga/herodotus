@@ -22,6 +22,8 @@ point:
   name: "Niebla"
   latitude: 37.36
   longitude: -6.68
+colors:
+  1023: "#34b273"
 note: "Three periods: the Banu Yahsub kingdom, taken by Seville in 1053; the taifa of 1145–1150, taken by the Almohads; and Ibn Mahfuz's kingdom of 1234–1262, taken by Castile."
 transitions:
 - year: 1053

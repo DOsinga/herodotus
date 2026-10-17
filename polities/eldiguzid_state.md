@@ -19,6 +19,8 @@ point:
   name: Nakhchivan
   latitude: 39.2161
   longitude: 45.4106
+colors:
+  1136: "#51b8cd"
 note: "1136 is the year Eldiguz received Arran and Azerbaijan as his holding. Until 1194 the atabegs governed in the name of Seljuk sultans of Iraq whom they largely controlled. Ends with Jalal al-Din Mangburni's capture of Tabriz in 1225. Nakhchivan was the first seat; Hamadan and Tabriz also served."
 transitions:
 - year: 1136

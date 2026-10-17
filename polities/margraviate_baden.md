@@ -22,6 +22,10 @@ point:
   name: Baden-Baden
   latitude: 48.763
   longitude: 8.241
+colors:
+  1250: "#7acd51"
+  1746: "#7acd51"
+  1771: "#a3cd51"
 note: "Split between the Baden-Baden and Baden-Durlach lines from 1535 until Baden-Baden died out in 1771, when Charles Frederick of Baden-Durlach reunited it. Earlier short-lived divisions are not split out. An electorate from 1803."
 transitions:
 - year: 1535
