@@ -4,6 +4,7 @@ function createTerritory(map, polityRgb) {
   const SOUTH = -60;
   const REACH_KM = [0, 50, 120, 250, 500];
   const THRESHOLD = 0.13;
+  const FAINTEST = 0.04;
   const MOVES = [];
   [[1, 0, []], [1, 1, [[1, 0], [0, 1]]], [2, 1, [[1, 0], [1, 1]]], [1, 2, [[0, 1], [1, 1]]], [0, 1, []]].forEach(function (move) {
     [[1, 1], [1, -1], [-1, 1], [-1, -1]].forEach(function ([sx, sy]) {
@@ -118,11 +119,11 @@ function createTerritory(map, polityRgb) {
   }
 
   function spread(place) {
-    const limit = REACH_KM[place.importance] * Math.log(1 / THRESHOLD);
+    const limit = REACH_KM[place.importance] * Math.log(1 / FAINTEST);
     const start = nearestLand(Math.floor(gridX(place.longitude)), Math.floor(gridY(place.latitude)));
     const distances = new Map();
     const heap = [];
-    if (start === -1) return { cells: new Int32Array(0), distances: new Float32Array(0) };
+    if (start === -1) return { cells: new Int32Array(0), scores: new Float32Array(0) };
     const adjacent = MOVES.filter(function ([dx, dy, passes]) {
       return Math.abs(dx) <= 1 && Math.abs(dy) <= 1 && canMove(start, dx, dy, passes);
     }).map(function ([dx, dy]) {
@@ -147,7 +148,11 @@ function createTerritory(map, polityRgb) {
         heapPush(heap, [distance, next]);
       });
     }
-    return { cells: Int32Array.from(distances.keys()), distances: Float32Array.from(distances.values()) };
+    const reach = REACH_KM[place.importance];
+    return {
+      cells: Int32Array.from(distances.keys()),
+      scores: Float32Array.from(distances.values(), function (distance) { return Math.exp(-distance / reach); })
+    };
   }
 
   function heapPush(heap, item) {
@@ -182,21 +187,35 @@ function createTerritory(map, polityRgb) {
 
   function paintField() {
     const scores = new Float32Array(WIDTH * HEIGHT);
+    const support = new Float32Array(WIDTH * HEIGHT);
     const owners = new Array(WIDTH * HEIGHT);
-    places.forEach(function (place) {
+    const areas = places.map(function (place) {
       const key = place.id + ":" + place.importance;
       if (!spreads.has(key)) spreads.set(key, spread(place));
-      const area = spreads.get(key);
-      const reach = REACH_KM[place.importance];
+      return spreads.get(key);
+    });
+    places.forEach(function (place, number) {
+      const area = areas[number];
       for (let index = 0; index < area.cells.length; index++) {
         const cell = area.cells[index];
-        const score = Math.exp(-area.distances[index] / reach);
+        const score = area.scores[index];
         if (score > scores[cell]) {
           scores[cell] = score;
           owners[cell] = place.polity;
         }
       }
     });
+    places.forEach(function (place, number) {
+      const area = areas[number];
+      for (let index = 0; index < area.cells.length; index++) {
+        const cell = area.cells[index];
+        const score = area.scores[index];
+        support[cell] += owners[cell] === place.polity ? score : -score;
+      }
+    });
+    for (let cell = 0; cell < scores.length; cell++) {
+      if (support[cell] > scores[cell]) scores[cell] = support[cell];
+    }
 
     const sharpness = Math.min(1, Math.max(0, (year - 1500) / 300));
     const full = 0.8 - sharpness * (0.78 - THRESHOLD);
