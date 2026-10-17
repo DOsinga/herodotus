@@ -11,12 +11,8 @@ control:
   polity: german_empire
   importance: 3
 - start: 1914
-  end: 1921
-  polity: united_kingdom_gbi
-  importance: 3
-- start: 1922
   end: 1938
-  polity: united_kingdom
+  polity: new_zealand
   importance: 3
 - start: 1939
   end: 1961

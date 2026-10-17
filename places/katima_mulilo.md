@@ -12,7 +12,7 @@ control:
   importance: 2
 - start: 1930
   end: 1938
-  polity: united_kingdom
+  polity: south_africa
   importance: 2
 - start: 1939
   end: 1989

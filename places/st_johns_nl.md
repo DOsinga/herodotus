@@ -24,8 +24,12 @@ control:
   polity: kingdom_great_britain
   importance: 2
 - start: 1801
-  end: 1921
+  end: 1906
   polity: united_kingdom_gbi
+  importance: 2
+- start: 1907
+  end: 1933
+  polity: dominion_newfoundland
   importance: 2
 - start: 1934
   end: 1948

@@ -8,12 +8,12 @@ point:
 note: "The Natalia Republic, which held Port Natal from 1839 to 1842, has no record."
 control:
 - start: 1843
-  end: 1921
+  end: 1909
   polity: united_kingdom_gbi
   importance: 3
-- start: 1922
+- start: 1910
   end: 1938
-  polity: united_kingdom
+  polity: south_africa
   importance: 3
 - start: 1939
   end: null

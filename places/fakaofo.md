@@ -11,8 +11,12 @@ control:
   polity: united_kingdom_gbi
   importance: 2
 - start: 1922
-  end: 1938
+  end: 1925
   polity: united_kingdom
+  importance: 2
+- start: 1926
+  end: 1938
+  polity: new_zealand
   importance: 2
 - start: 1939
   end: null

@@ -11,12 +11,12 @@ control:
   polity: zulu_kingdom
   importance: 4
 - start: 1879
-  end: 1921
+  end: 1909
   polity: united_kingdom_gbi
   importance: 2
-- start: 1922
+- start: 1910
   end: 1938
-  polity: united_kingdom
+  polity: south_africa
   importance: 2
 - start: 1939
   end: null

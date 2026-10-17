@@ -15,17 +15,17 @@ description: >-
   services underpin its economy. Australia remains a Commonwealth member with strong
   ties across the Pacific and Asia.
 periods:
-- start: 1942
+- start: 1901
   end: null
 point:
   name: Canberra
   latitude: -35.2931
   longitude: 149.1269
 colors:
-  1942: "#866727"
-note: "Starts in 1942, when Australia overrode Churchill on deploying its troops and adopted the Statute of Westminster, retroactive to 1939; in 1939 it had entered the war as a consequence of Britain's declaration. Self-governing at home earlier. Links the country article. Changes of regime are not split into separate records."
+  1901: "#866727"
+note: "Starts with federation in 1901: like the other dominions, its own responsible government ran its affairs, so Britain's control of foreign policy and war until about 1942 does not make it a protected state. Links the country article. Changes of regime are not split into separate records."
 transitions:
-- year: 1942
+- year: 1901
   kind: broke_away_from
-  from: [united_kingdom]
+  from: [united_kingdom_gbi]
 ---

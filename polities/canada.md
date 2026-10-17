@@ -12,17 +12,17 @@ description: >-
   English and French hold official status nationally. Resource industries, manufacturing, and services support its economy.
   Continuing debates concern Indigenous rights, regional interests, Quebec's place, and the distribution of governmental power.
 periods:
-- start: 1922
+- start: 1867
   end: null
 point:
   name: Ottawa
   latitude: 45.4247
   longitude: -75.695
 colors:
-  1922: "#478627"
-note: "Starts in 1922, when Canada refused to commit itself to Britain's Chanak intervention; it signed its own Halibut Treaty in 1923. Self-governing at home earlier. Links the country article. Changes of regime are not split into separate records."
+  1867: "#478627"
+note: "Starts with Confederation in 1867: like the other dominions, its own responsible government ran its affairs, so Britain's control of foreign policy until the 1920s does not make it a protected state. Provinces count from the year they joined. Links the country article. Changes of regime are not split into separate records."
 transitions:
-- year: 1922
+- year: 1867
   kind: broke_away_from
-  from: [united_kingdom]
+  from: [united_kingdom_gbi]
 ---

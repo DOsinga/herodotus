@@ -8,7 +8,7 @@ point:
 control:
 - start: 1910
   end: 1921
-  polity: united_kingdom_gbi
+  polity: canada
   importance: 1
 - start: 1922
   end: null

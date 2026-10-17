@@ -193,6 +193,12 @@ overlord confirmed or chose can still govern.
   take advice on its foreign relations, without making it a protectorate,
   does not end it: Bhutan, Afghanistan under the Treaty of Gandamak and
   Muscat and Oman stay independent.
+- A British dominion counts from federation or dominion status, even though
+  Britain kept its foreign policy and wars for decades afterwards. Unlike a
+  protected state, its government was elected at home and answerable to its
+  own parliament, and the governor-general did not govern. So Canada starts
+  in 1867, Australia in 1901, New Zealand and Newfoundland in 1907 and South
+  Africa in 1910; a province or territory counts from the year it joined.
 - Once the outside power ruled directly, or through a governor, viceroy or
   other official of its own, the polity has been absorbed and its period
   ends. Naples and Sicily under the Spanish crown, Ireland under English lords
