@@ -32,7 +32,7 @@ control:
   importance: 3
 - start: 411
   end: 437
-  polity: burgundian_kingdom
+  polity: western_roman_empire
   importance: 3
 - start: 438
   end: 442

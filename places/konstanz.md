@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Konstanz
 point:
   latitude: 47.6603
   longitude: 9.1758
-note: "Konstanz was a free imperial city from 1250 until Austria took it in 1548."
+note: "Konstanz was a free imperial city from 1250 until Austria took it in 1548. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 536
   end: 555
@@ -84,8 +84,16 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1945
+  polity: provisional_government_france
+  importance: 2
+- start: 1946
+  end: 1948
+  polity: french_fourth_republic
   importance: 2
 - start: 1949
   end: null

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Düsseldorf
 point:
   latitude: 51.2256
   longitude: 6.7767
-note: "Gap for the counts and dukes of Berg before the union with Jülich in 1423."
+note: "Gap for the counts and dukes of Berg before the union with Jülich in 1423. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1423
   end: 1520
@@ -52,8 +52,12 @@ control:
   polity: weimar_republic
   importance: 3
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 3
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 3
 - start: 1949
   end: null

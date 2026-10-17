@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Stuttgart
 point:
   latitude: 48.7775
   longitude: 9.18
-note: "Austria governed Württemberg after the expulsion of Duke Ulrich, from 1520 to 1534."
+note: "Austria governed Württemberg after the expulsion of Duke Ulrich, from 1520 to 1534. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 950
   end: 961
@@ -44,8 +44,12 @@ control:
   polity: weimar_republic
   importance: 3
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 3
+- start: 1945
+  end: 1948
+  polity: united_states
   importance: 3
 - start: 1949
   end: null

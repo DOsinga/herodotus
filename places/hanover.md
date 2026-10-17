@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Hanover
 point:
   latitude: 52.3667
   longitude: 9.7167
-note: "Calenberg's dukes made Hanover their residence in 1636."
+note: "Calenberg's dukes made Hanover their residence in 1636. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1150
   end: 1249
@@ -80,8 +80,12 @@ control:
   polity: weimar_republic
   importance: 3
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 3
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 3
 - start: 1949
   end: null

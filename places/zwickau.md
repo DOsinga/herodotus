@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Zwickau
 point:
   latitude: 50.7167
   longitude: 12.5
-note: "Gap for the imperial city, pledged to the Wettins and finally theirs in 1348."
+note: "Gap for the imperial city, pledged to the Wettins and finally theirs in 1348. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1118
   end: 1249
@@ -44,8 +44,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

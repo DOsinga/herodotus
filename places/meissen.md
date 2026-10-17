@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Meissen
 point:
   latitude: 51.1667
   longitude: 13.4833
-note: "Founded by Henry I in 929 as a castle among the Sorbs, and seat of the margraves of Meissen."
+note: "Founded by Henry I in 929 as a castle among the Sorbs, and seat of the margraves of Meissen. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 929
   end: 961
@@ -48,8 +48,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 1
 - start: 1949
   end: 1989

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Minden
 point:
   latitude: 52.2883
   longitude: 8.9167
-note: "Gap for the Prince-Bishopric of Minden, which has no record, until Brandenburg received it in 1648."
+note: "Gap for the Prince-Bishopric of Minden, which has no record, until Brandenburg received it in 1648. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 798
   end: 803
@@ -64,8 +64,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 2
 - start: 1949
   end: null

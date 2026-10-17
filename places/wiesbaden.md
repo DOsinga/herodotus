@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Wiesbaden
 point:
   latitude: 50.0825
   longitude: 8.24
-note: "Roman Aquae Mattiacorum. Gap for the Nassau counts of Wiesbaden and Idstein until Nassau-Usingen inherited the town in 1728."
+note: "Roman Aquae Mattiacorum. Gap for the Nassau counts of Wiesbaden and Idstein until Nassau-Usingen inherited the town in 1728. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 6
   end: 259
@@ -52,8 +52,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: united_states
   importance: 2
 - start: 1949
   end: null

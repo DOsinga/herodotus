@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bautzen
 point:
   latitude: 51.1814
   longitude: 14.4242
-note: "Upper Lusatia, Polish under Bolesław I from 1002 to 1031, was held by Bohemia from 1158, Brandenburg from 1253 and Bohemia again from 1319. Saxony administered it from 1620 and annexed it in 1635."
+note: "Upper Lusatia, Polish under Bolesław I from 1002 to 1031, was held by Bohemia from 1158, Brandenburg from 1253 and Bohemia again from 1319. Saxony administered it from 1620 and annexed it in 1635. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1002
   end: 1024
@@ -72,8 +72,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 2
 - start: 1949
   end: 1989

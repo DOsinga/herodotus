@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Dresden
 point:
   latitude: 51.05
   longitude: 13.74
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1206
   end: 1249
@@ -47,8 +48,12 @@ control:
   polity: weimar_republic
   importance: 3
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 3
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 3
 - start: 1949
   end: 1989

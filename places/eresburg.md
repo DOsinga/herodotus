@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Eresburg
 point:
   latitude: 51.4503
   longitude: 8.8528
-note: "The Saxon hill fort above Marsberg that Charlemagne took in 772, destroying the Irminsul. Later a town of the Cologne electors' Duchy of Westphalia."
+note: "The Saxon hill fort above Marsberg that Charlemagne took in 772, destroying the Irminsul. Later a town of the Cologne electors' Duchy of Westphalia. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 500
   end: 771
@@ -60,8 +60,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 1
 - start: 1949
   end: null

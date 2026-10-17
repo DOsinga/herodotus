@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Baden-Baden
 point:
   latitude: 48.7628
   longitude: 8.2408
-note: "Roman Aquae. Baden-Durlach occupied Baden-Baden from 1594 to 1622."
+note: "Roman Aquae. Baden-Durlach occupied Baden-Baden from 1594 to 1622. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 75
   end: 259
@@ -104,8 +104,16 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1945
+  polity: provisional_government_france
+  importance: 1
+- start: 1946
+  end: 1948
+  polity: french_fourth_republic
   importance: 1
 - start: 1949
   end: null

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Frankfurt
 point:
   latitude: 50.1106
   longitude: 8.6822
-note: "A Carolingian palace from 794 and the favourite residence of Louis the German."
+note: "A Carolingian palace from 794 and the favourite residence of Louis the German. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 794
   end: 842
@@ -48,8 +48,12 @@ control:
   polity: weimar_republic
   importance: 3
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 3
+- start: 1945
+  end: 1948
+  polity: united_states
   importance: 3
 - start: 1949
   end: null

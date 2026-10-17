@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Greifswald
 point:
   latitude: 54.0833
   longitude: 13.3833
-note: "French occupation from 1807 to 1810 and in 1812."
+note: "French occupation from 1807 to 1810 and in 1812. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1250
   end: 1629
@@ -48,8 +48,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 1
 - start: 1949
   end: 1989

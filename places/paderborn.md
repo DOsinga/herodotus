@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Paderborn
 point:
   latitude: 51.7181
   longitude: 8.7542
-note: "Charlemagne's assembly place in the Saxon wars from 777."
+note: "Charlemagne's assembly place in the Saxon wars from 777. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 777
   end: 803
@@ -60,8 +60,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 2
 - start: 1949
   end: null

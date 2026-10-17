@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Meiningen
 point:
   latitude: 50.55
   longitude: 10.4167
-note: "Gap for the counts of Henneberg and the joint Saxon administration of their lands after 1583."
+note: "Gap for the counts of Henneberg and the joint Saxon administration of their lands after 1583. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1008
   end: 1249
@@ -36,8 +36,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: soviet_union
   importance: 1
 - start: 1949
   end: 1989

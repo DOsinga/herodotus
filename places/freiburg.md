@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Freiburg_im_Breisgau
 point:
   latitude: 47.999
   longitude: 7.8421
-note: "Under its own counts, who have no record, from 1250 until it chose Habsburg rule in 1368."
+note: "Under its own counts, who have no record, from 1250 until it chose Habsburg rule in 1368. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1120
   end: 1249
@@ -52,8 +52,16 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1945
+  polity: provisional_government_france
+  importance: 2
+- start: 1946
+  end: 1948
+  polity: french_fourth_republic
   importance: 2
 - start: 1949
   end: null

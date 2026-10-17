@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Lüneburg
 point:
   latitude: 53.2525
   longitude: 10.4144
-note: "The Billung dukes of Saxony held their seat here. The salt city governed much of its own affairs under the dukes, who moved to Celle in 1371."
+note: "The Billung dukes of Saxony held their seat here. The salt city governed much of its own affairs under the dukes, who moved to Celle in 1371. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 852
   end: 918
@@ -68,8 +68,12 @@ control:
   polity: weimar_republic
   importance: 2
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 2
+- start: 1945
+  end: 1948
+  polity: united_kingdom
   importance: 2
 - start: 1949
   end: null

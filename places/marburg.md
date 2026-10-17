@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Marburg
 point:
   latitude: 50.81
   longitude: 8.7708
-note: "Gap for the landgraviate of Hesse-Marburg, 1567 to 1604. Hesse-Darmstadt held the town from 1623 to 1648."
+note: "Gap for the landgraviate of Hesse-Marburg, 1567 to 1604. Hesse-Darmstadt held the town from 1623 to 1648. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1140
   end: 1249
@@ -56,8 +56,12 @@ control:
   polity: weimar_republic
   importance: 1
 - start: 1933
-  end: 1945
+  end: 1944
   polity: nazi_germany
+  importance: 1
+- start: 1945
+  end: 1948
+  polity: united_states
   importance: 1
 - start: 1949
   end: null
