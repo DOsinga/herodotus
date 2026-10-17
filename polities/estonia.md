@@ -23,6 +23,8 @@ point:
   name: Tallinn
   latitude: 59.4372
   longitude: 24.7453
+colors:
+  1918: "#66cd51"
 note: "Gap for the Soviet annexation. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1918

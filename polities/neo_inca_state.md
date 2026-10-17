@@ -20,6 +20,8 @@ point:
   name: Vilcabamba
   latitude: -12.9
   longitude: -73.2
+colors:
+  1537: "#b851cd"
 transitions:
 - year: 1572
   kind: absorbed_into

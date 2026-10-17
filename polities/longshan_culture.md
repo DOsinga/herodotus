@@ -23,5 +23,7 @@ point:
   name: "Taosi"
   latitude: 35.9
   longitude: 111.5
+colors:
+  -3000: "#378627"
 note: "Both dates are estimates; Taosi, its largest walled town, stands as the point."
 ---

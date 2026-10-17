@@ -19,6 +19,8 @@ point:
   name: "Larsa"
   latitude: 31.29
   longitude: 45.85
+colors:
+  -2025: "#3449b2"
 note: "Starts with Naplanum. Hammurabi conquered it."
 transitions:
 - year: -2025

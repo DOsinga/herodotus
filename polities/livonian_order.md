@@ -19,6 +19,8 @@ point:
   name: Riga
   latitude: 56.9496
   longitude: 24.1052
+colors:
+  1237: "#678627"
 note: Ends where the existing Livonian Confederation record begins; the order itself lasted
   until 1561 as the strongest member of the confederation. The masters resided in Riga castle
   until it was destroyed in 1484.

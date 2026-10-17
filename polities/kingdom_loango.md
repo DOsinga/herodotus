@@ -19,6 +19,8 @@ point:
   name: "Loango"
   latitude: -4.7106
   longitude: 11.8378
+colors:
+  1550: "#b24934"
 note: "Both dates are approximate, following Wikipedia's infobox."
 transitions:
 - year: 1883

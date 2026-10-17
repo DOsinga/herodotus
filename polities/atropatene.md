@@ -20,6 +20,8 @@ point:
   name: "Ganzak"
   latitude: 37.0
   longitude: 47.5
+colors:
+  -323: "#b234b2"
 note: "Starts with Atropates keeping Media for himself after Alexander's death. A Parthian vassal kingdom that kept its own kings. The capital's location is approximate. The Sasanians took it about 226."
 transitions:
 - year: -323

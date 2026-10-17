@@ -27,6 +27,14 @@ point:
   name: "Uppsala"
   latitude: 59.858
   longitude: 17.645
+colors:
+  970: "#864727"
+  1224: "#864727"
+  1249: "#cdb851"
+  1324: "#cdb851"
+  1349: "#cd5166"
+  1425: "#cd5166"
+  1450: "#862727"
 note: "No article covers the medieval kingdom on its own, so the link is to the period history. Start estimated: Olof Skötkonung, around 995, is the first king known to have ruled both Svear and Götar; his father Eric the Victorious ruled from about 970. Inside the Kalmar Union, Sweden governed itself under Karl Knutsson's reigns and the Sture regents; those periods are recorded here, and the union kings' rule is the gaps."
 transitions:
 - year: 1397

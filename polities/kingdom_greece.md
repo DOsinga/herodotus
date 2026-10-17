@@ -24,6 +24,8 @@ point:
   name: Athens
   latitude: 37.984
   longitude: 23.728
+colors:
+  1832: "#275786"
 note: "Gap for the Axis occupation of 1941–1944."
 transitions:
 - year: 1924

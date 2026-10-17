@@ -18,6 +18,8 @@ point:
   name: Eğirdir
   latitude: 37.8747
   longitude: 30.8504
+colors:
+  1300: "#572786"
 transitions:
 - year: 1391
   kind: absorbed_into

@@ -20,6 +20,8 @@ point:
   name: Anping
   latitude: 22.99
   longitude: 120.185
+colors:
+  1662: "#49b234"
 transitions:
 - year: 1683
   kind: absorbed_into

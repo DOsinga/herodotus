@@ -20,6 +20,8 @@ point:
   name: "Karur"
   latitude: 10.96
   longitude: 78.075
+colors:
+  -300: "#7a51cd"
 note: "Links the Chera dynasty article, which covers the early kingdom. Both dates are estimates, matching the early Pandya and Chola records."
 transitions:
 - year: 250

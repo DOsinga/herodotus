@@ -21,5 +21,7 @@ point:
   name: "Aral Sea region"
   latitude: 42.0
   longitude: 61.0
+colors:
+  -5500: "#378627"
 note: "Both dates are estimates. The point is representative."
 ---

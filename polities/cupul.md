@@ -18,6 +18,8 @@ point:
   name: Saci
   latitude: 20.6894
   longitude: -88.2017
+colors:
+  1441: "#862737"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1543."
 transitions:
 - year: 1543

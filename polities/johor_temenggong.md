@@ -18,6 +18,8 @@ point:
   name: "Johor Bahru"
   latitude: 1.4655
   longitude: 103.7578
+colors:
+  1824: "#cd51cd"
 note: "Links the history of Johor, as no article covers the state between the partition and British protection. The temenggongs governed it, formally from 1855; the 1885 treaty that handed its foreign relations to Britain counts as absorption."
 transitions:
 - year: 1885

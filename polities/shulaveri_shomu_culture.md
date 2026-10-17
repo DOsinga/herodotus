@@ -22,5 +22,7 @@ point:
   name: "Shulaveri"
   latitude: 41.35
   longitude: 44.75
+colors:
+  -6000: "#b28834"
 note: "Both dates are estimates. The Kura–Araxes culture follows."
 ---

@@ -21,5 +21,7 @@ point:
   name: "Jastorf"
   latitude: 53.0792
   longitude: 10.5833
+colors:
+  -600: "#cd5151"
 note: "Both dates are estimates for the Iron Age culture of northern Germany and southern Scandinavia."
 ---

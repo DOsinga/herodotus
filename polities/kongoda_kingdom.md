@@ -20,6 +20,8 @@ point:
   name: "Banapur"
   latitude: 19.779
   longitude: 85.171
+colors:
+  620: "#b2345e"
 note: "620 follows Madhavaraja II's assertion of royal authority rather than the earlier provincial governorships. 736 conventionally dates the Bhauma-Kara takeover; earlier and later ends are proposed. The territory centred on Ganjam, not every part of Odisha."
 transitions:
 - year: 736

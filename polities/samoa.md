@@ -20,6 +20,8 @@ point:
   name: Apia
   latitude: -13.8333
   longitude: -171.75
+colors:
+  1962: "#b23434"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1962

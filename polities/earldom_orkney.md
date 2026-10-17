@@ -18,6 +18,8 @@ point:
   name: "Kirkwall"
   latitude: 59.0
   longitude: -2.96
+colors:
+  875: "#cd8f51"
 note: "875 is the traditional date of the earldom. The earls held it from the Norwegian kings but governed and fought on their own account, so it stays active like Crimea. Ends when Orkney was pledged to Scotland in 1468."
 transitions:
 - year: 1468

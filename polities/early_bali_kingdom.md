@@ -21,6 +21,8 @@ point:
   name: "Pejeng"
   latitude: -8.52
   longitude: 115.29
+colors:
+  914: "#862767"
 note: "914 is the Belanjong inscription's first attested royal government, not the island's first settlement. Pejeng represents the later Warmadewa royal area, whose exact court site is uncertain. Kertanegara of Singhasari conquered Bali in 1284; it governed itself again after Singhasari fell in 1292. The 1343 Majapahit conquest ended the old royal government; later Gelgel and the divided Balinese kingdoms are not one continuous island-wide polity."
 transitions:
 - year: 1284

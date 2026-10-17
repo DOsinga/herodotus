@@ -22,6 +22,8 @@ point:
   name: "Pataliputra"
   latitude: 25.61
   longitude: 85.14
+colors:
+  490: "#34b25e"
 note: "490 estimates Krishnagupta's regional government. The break follows the loss of Magadha before Madhavagupta's restoration under Harsha; tribute to Harsha did not abolish the local court. 750 estimates Yashovarman's destruction of the kingdom; the early rulers and conquest chronology are uncertain."
 transitions:
 - year: 600

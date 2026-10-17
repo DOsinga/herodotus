@@ -21,5 +21,7 @@ point:
   name: "Mount Carmel"
   latitude: 32.73
   longitude: 35.05
+colors:
+  -12500: "#b851cd"
 note: "The start follows the conventional date; years before 12,000 BCE have not been audited. Both dates are estimates."
 ---

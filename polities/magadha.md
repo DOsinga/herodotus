@@ -21,6 +21,8 @@ point:
   name: "Rajagriha"
   latitude: 25.03
   longitude: 85.42
+colors:
+  -544: "#518fcd"
 note: "Starts with Bimbisara. The Haryanka, Shishunaga and Nanda dynasties are one kingdom; Pataliputra became the capital in the fifth century BCE. Chandragupta Maurya overthrew the Nandas."
 transitions:
 - year: -322

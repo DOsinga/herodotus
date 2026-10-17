@@ -11,6 +11,10 @@ point:
   name: "Linzi"
   latitude: 36.8138
   longitude: 118.055
+colors:
+  -770: "#cda351"
+  -307: "#cda351"
+  -282: "#864727"
 note: "Starts in 770 BCE, when the Zhou court moved east and the lords began to govern their own states; before that the Western Zhou kings appointed, moved and commanded them, so their fiefs count as part of the Zhou state. The Tian family's takeover in 386 BCE is not split out. Qin conquered it last."
 transitions:
 - year: -221

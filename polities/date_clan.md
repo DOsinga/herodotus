@@ -18,6 +18,8 @@ point:
   name: Yonezawa
   latitude: 37.9104
   longitude: 140.1037
+colors:
+  1467: "#51b8cd"
 note: "Covers the house as a Sengoku power from the Ōnin War to Masamune's submission at Odawara in 1590. The seat was at Kōri-Nishiyama in the Date district until Harumune moved it to Yonezawa in 1548. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1467

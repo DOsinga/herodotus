@@ -22,5 +22,7 @@ point:
   name: "Sintashta"
   latitude: 52.47
   longitude: 60.2
+colors:
+  -2100: "#864727"
 note: "Both dates are estimates."
 ---

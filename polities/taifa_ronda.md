@@ -18,6 +18,8 @@ point:
   name: "Ronda"
   latitude: 36.74
   longitude: -5.16
+colors:
+  1039: "#b29d34"
 note: "Seville took it in 1065."
 transitions:
 - year: 1065

@@ -19,6 +19,8 @@ point:
   name: Mascara
   latitude: 35.4
   longitude: 0.1333
+colors:
+  1832: "#7acd51"
 note: "From 1841, after the loss of Tagdemt and Mascara, the emirate had no fixed seat and moved with Abdelkader's camp, so places cover it only to 1841."
 transitions:
 - year: 1847

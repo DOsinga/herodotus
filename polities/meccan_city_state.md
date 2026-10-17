@@ -21,6 +21,8 @@ point:
   name: "Mecca"
   latitude: 21.423
   longitude: 39.826
+colors:
+  450: "#275786"
 note: "450 estimates Qusayy's consolidation of the Meccan sanctuary and council. The precise chronology is traditional, but this records the actual city's oligarchic government, not all Quraysh wherever they lived. Muhammad's conquest ended it in 630."
 transitions:
 - year: 630

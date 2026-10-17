@@ -20,5 +20,7 @@ point:
   name: "Hattusa"
   latitude: 40.02
   longitude: 34.62
+colors:
+  -1650: "#274786"
 note: "Links the Hittites article. The Old Kingdom and the empire are one record. Hattusa was abandoned in the Bronze Age collapse."
 ---

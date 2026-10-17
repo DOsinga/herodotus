@@ -21,6 +21,8 @@ point:
   name: Manisa
   latitude: 38.6191
   longitude: 27.4289
+colors:
+  1300: "#51cd8f"
 transitions:
 - year: 1412
   kind: absorbed_into

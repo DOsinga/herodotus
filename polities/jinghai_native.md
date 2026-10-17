@@ -21,6 +21,8 @@ point:
   name: "Đại La (Hanoi)"
   latitude: 21.033
   longitude: 105.85
+colors:
+  905: "#518fcd"
 note: "905 follows Khúc Thừa Dụ's takeover of local government. Tang and Later Liang investiture did not remove its native administration. Southern Han conquered it in 930; Dương Đình Nghệ recovered it in 931. The 939 Ngô kingship changes the state's identity, not its first year of local autonomy. The linked family article covers the earlier regime."
 transitions:
 - year: 905

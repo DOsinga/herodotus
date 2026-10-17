@@ -23,6 +23,8 @@ point:
   name: "Uruk"
   latitude: 31.32
   longitude: 45.64
+colors:
+  -2900: "#51cdb8"
 note: "Lugalzagesi ruled most of Sumer from Uruk until Sargon defeated him. Utu-hengal's kingdom after the Akkadian collapse was taken over by his governor Ur-Nammu as Ur III. The later independent kingdom of Sin-kashid's dynasty fell to Larsa."
 transitions:
 - year: -2334

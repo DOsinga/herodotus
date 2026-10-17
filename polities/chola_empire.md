@@ -20,6 +20,8 @@ point:
   name: "Gangaikonda Cholapuram"
   latitude: 11.2061
   longitude: 79.4494
+colors:
+  848: "#cdb851"
 transitions:
 - year: 1279
   kind: absorbed_into

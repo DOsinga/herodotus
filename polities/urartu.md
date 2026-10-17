@@ -20,6 +20,8 @@ point:
   name: "Tushpa"
   latitude: 38.5
   longitude: 43.38
+colors:
+  -860: "#277686"
 note: "The end estimates the Median conquest."
 transitions:
 - year: -590

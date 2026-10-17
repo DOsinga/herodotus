@@ -21,5 +21,7 @@ point:
   name: "Urewe"
   latitude: 0.1
   longitude: 34.2
+colors:
+  -550: "#865727"
 note: "Links the Urewe article, which covers the culture. Both dates are estimates for the early Iron Age farming culture around Lake Victoria."
 ---

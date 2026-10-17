@@ -23,6 +23,8 @@ point:
   name: Baghdad
   latitude: 33.3153
   longitude: 44.3661
+colors:
+  1932: "#572786"
 note: "Before 1932 the British mandate governed it. Links the country article. Changes of regime are not split into separate records. Gap for the Coalition Provisional Authority, which governed from 2003 to 2004."
 transitions:
 - year: 1932

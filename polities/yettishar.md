@@ -20,6 +20,8 @@ point:
   name: Kashgar
   latitude: 39.468
   longitude: 75.994
+colors:
+  1864: "#cd5151"
 transitions:
 - year: 1864
   kind: broke_away_from

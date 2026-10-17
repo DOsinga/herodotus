@@ -20,6 +20,8 @@ point:
   name: "Petra"
   latitude: 30.329
   longitude: 35.444
+colors:
+  -168: "#278667"
 note: "Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. "
 transitions:
 - year: 106

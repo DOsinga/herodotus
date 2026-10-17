@@ -20,6 +20,8 @@ point:
   name: "Al-Hira"
   latitude: 31.883
   longitude: 44.467
+colors:
+  293: "#349db2"
 note: "293 estimates the emergence of the Nasrid court. Persian overlordship did not end its own royal government; Khosrow II's removal of al-Numan III and installation of direct administration in 602 did. Al-Hira's archaeological location is approximate."
 transitions:
 - year: 602

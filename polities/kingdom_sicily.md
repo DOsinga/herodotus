@@ -26,6 +26,10 @@ point:
   name: Palermo
   latitude: 38.1157
   longitude: 13.3615
+colors:
+  1130: "#cd5166"
+  1241: "#cd5166"
+  1266: "#cd7a51"
 note: "The last period is the Bourbon court's rule from Palermo, under British protection, while Naples was held by the Bonapartes."
 transitions:
 - year: 1282

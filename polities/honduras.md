@@ -21,6 +21,8 @@ point:
   name: Tegucigalpa
   latitude: 14.106
   longitude: -87.205
+colors:
+  1838: "#3473b2"
 note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1838

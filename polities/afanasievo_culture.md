@@ -23,5 +23,7 @@ point:
   name: "Altai"
   latitude: 51.0
   longitude: 86.0
+colors:
+  -3300: "#678627"
 note: "Both dates are estimates."
 ---

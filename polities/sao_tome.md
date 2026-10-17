@@ -20,6 +20,8 @@ point:
   name: São Tomé
   latitude: 0.3375
   longitude: 6.7283
+colors:
+  1975: "#762786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1975

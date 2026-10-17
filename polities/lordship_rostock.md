@@ -18,6 +18,8 @@ point:
   name: "Rostock"
   latitude: 54.092
   longitude: 12.099
+colors:
+  1236: "#5eb234"
 note: "1236 estimates the separate lordship after the division of the 1220s and 1230s; Denmark took it at the last lord's death in 1314."
 transitions:
 - year: 1236

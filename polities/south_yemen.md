@@ -20,6 +20,8 @@ point:
   name: Aden
   latitude: 12.8
   longitude: 45.0333
+colors:
+  1967: "#278667"
 transitions:
 - year: 1967
   kind: broke_away_from

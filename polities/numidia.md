@@ -11,6 +11,8 @@ point:
   name: "Cirta"
   latitude: 36.35
   longitude: 6.6
+colors:
+  -202: "#34b2b2"
 note: "Starts with Masinissa's union of Numidia. Ends with Caesar's annexation after Thapsus."
 transitions:
 - year: -46

@@ -18,6 +18,8 @@ point:
   name: "Gaochang"
   latitude: 42.85
   longitude: 89.53
+colors:
+  442: "#cdb851"
 note: "Shares the Northern Liang article, which covers the remnant state. The Rouran ended it in 460."
 transitions:
 - year: 442

@@ -18,6 +18,8 @@ point:
   name: Kathmandu
   latitude: 27.7
   longitude: 85.32
+colors:
+  1482: "#51cd51"
 transitions:
 - year: 1768
   kind: absorbed_into

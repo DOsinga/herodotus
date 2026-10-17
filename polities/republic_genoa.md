@@ -36,6 +36,14 @@ point:
   name: Genoa
   latitude: 44.4056
   longitude: 8.9463
+colors:
+  1099: "#b8cd51"
+  1310: "#b8cd51"
+  1335: "#cdb851"
+  1410: "#cdb851"
+  1435: "#863727"
+  1510: "#863727"
+  1535: "#5eb234"
 transitions:
 - year: 1318
   kind: absorbed_into

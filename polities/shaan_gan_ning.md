@@ -21,6 +21,8 @@ point:
   name: "Yan'an"
   latitude: 36.65
   longitude: 109.494
+colors:
+  1937: "#278637"
 note: "The Yan'an Soviet, reconstituted under the 1937 United Front but still governed by the Communist Party. The party's other border regions behind Japanese lines were governed by the same leadership from Yan'an and are part of this record."
 transitions:
 - year: 1949

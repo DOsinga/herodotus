@@ -20,6 +20,8 @@ point:
   name: "Dongye"
   latitude: 26.0743
   longitude: 119.2964
+colors:
+  -306: "#862776"
 note: "Starts with the kingdom founded by Yue refugees after Chu's conquest. Emperor Wu conquered it."
 transitions:
 - year: -110

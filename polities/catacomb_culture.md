@@ -12,5 +12,7 @@ point:
   name: "Donets steppe"
   latitude: 47.5
   longitude: 38.0
+colors:
+  -2800: "#3488b2"
 note: "Both dates are estimates; the point is representative."
 ---

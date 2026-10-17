@@ -21,6 +21,8 @@ point:
   name: "Chaktomuk"
   latitude: 11.5564
   longitude: 104.9282
+colors:
+  1431: "#472786"
 note: "Vietnam governed Cambodia as a province from 1834, with Queen Ang Mey as a figurehead, until the revolt of 1841 and Siam's support for Ang Duong restored Cambodian rule."
 transitions:
 - year: 1834

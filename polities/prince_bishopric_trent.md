@@ -18,6 +18,14 @@ point:
   name: Trento
   latitude: 46.0667
   longitude: 11.1167
+colors:
+  1250: "#cd517a"
+  1371: "#cd517a"
+  1396: "#862767"
+  1497: "#862767"
+  1522: "#51cd8f"
+  1767: "#51cd8f"
+  1792: "#34b25e"
 note: "The principality dates from 1027, but before 1250 its bishops count as imperial princes under the Holy Roman Empire record, as the German bishops do. The counts of Tyrol and later the Habsburgs dominated it, but the bishops kept their own government until 1803."
 transitions:
 - year: 1803

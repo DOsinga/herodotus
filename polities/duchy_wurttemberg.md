@@ -22,6 +22,8 @@ point:
   name: Stuttgart
   latitude: 48.778
   longitude: 9.18
+colors:
+  1495: "#3473b2"
 note: "Gap for 1519–1534, when the Swabian League drove out Duke Ulrich and sold the duchy to the Habsburgs, who governed it through their own officials until Philip of Hesse restored him. An electorate from 1803."
 transitions:
 - year: 1519

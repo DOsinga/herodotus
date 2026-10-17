@@ -19,6 +19,8 @@ point:
   name: "Jaca"
   latitude: 42.571
   longitude: -0.549
+colors:
+  1035: "#a351cd"
 note: "Jaca represents the early kingdom; Zaragoza was acquired in 1118. The 1162 change follows the existing Crown of Aragon record, when Alfonso II inherited both realms. The marriage agreement of 1137 did not itself combine their governments."
 transitions:
 - year: 1035

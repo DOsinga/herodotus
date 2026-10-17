@@ -19,6 +19,8 @@ point:
   name: Chengdu
   latitude: 30.5728
   longitude: 104.0668
+colors:
+  1643: "#a3cd51"
 note: "Begins with Zhang's government at Wuchang in 1643. Ends when he abandoned Chengdu in late 1646; he was killed at Xichong in January 1647. The scale of the Sichuan massacres is disputed."
 transitions:
 - year: 1643

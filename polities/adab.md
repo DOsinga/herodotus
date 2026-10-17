@@ -20,6 +20,8 @@ point:
   name: "Adab"
   latitude: 31.95
   longitude: 45.73
+colors:
+  -2900: "#7acd51"
 note: "Sargon conquered it."
 transitions:
 - year: -2334

@@ -18,6 +18,8 @@ point:
   name: Kingston
   latitude: 17.9714
   longitude: -76.7931
+colors:
+  1962: "#cd7a51"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1962

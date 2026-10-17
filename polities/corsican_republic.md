@@ -20,6 +20,8 @@ point:
   name: Corte
   latitude: 42.306
   longitude: 9.151
+colors:
+  1755: "#51cd7a"
 transitions:
 - year: 1755
   kind: broke_away_from

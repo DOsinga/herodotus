@@ -19,6 +19,8 @@ point:
   name: Bharatpur
   latitude: 27.22
   longitude: 77.48
+colors:
+  1722: "#a351cd"
 note: "The seat was at Deeg and Thun before Bharatpur was built in 1733. The state paid tribute to the Scindias in the 1780s but kept governing itself."
 transitions:
 - year: 1722

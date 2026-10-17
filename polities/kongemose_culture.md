@@ -21,5 +21,7 @@ point:
   name: "Kongemose"
   latitude: 55.5
   longitude: 11.45
+colors:
+  -6000: "#cd51b8"
 note: "Both dates are estimates."
 ---

@@ -20,4 +20,6 @@ point:
   name: Demak
   latitude: -6.89
   longitude: 110.64
+colors:
+  1475: "#b851cd"
 ---

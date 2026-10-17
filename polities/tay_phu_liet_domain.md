@@ -19,6 +19,8 @@ point:
   name: "Tây Phù Liệt (Thanh Trì)"
   latitude: 20.96
   longitude: 105.84
+colors:
+  965: "#b24934"
 note: "965 estimates the separate government's appearance in the documented warlord period. Nguyễn Siêu's defeat and death in 967 ended it. The point approximately represents Thanh Trì, and the ruler's biography covers this local polity."
 transitions:
 - year: 967

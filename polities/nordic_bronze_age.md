@@ -20,5 +20,7 @@ point:
   name: "Jutland"
   latitude: 55.5
   longitude: 9.5
+colors:
+  -1700: "#34b249"
 note: "Both dates are estimates; the Jastorf culture follows. The point is representative."
 ---

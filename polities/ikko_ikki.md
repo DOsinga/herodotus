@@ -18,6 +18,8 @@ point:
   name: Ishiyama Hongan-ji
   latitude: 34.6872
   longitude: 135.5258
+colors:
+  1488: "#378627"
 note: "Treats the Kaga leagues and the Hongan-ji's own domain as one power, since from the 1530s the head temple appointed the officials who ran Kaga. Ishiyama was a branch temple from 1496 and the head temple from 1533. Leagues in Mikawa, Nagashima and elsewhere that never held a province are not counted."
 transitions:
 - year: 1488

@@ -21,5 +21,7 @@ point:
   name: "Faiyum"
   latitude: 29.5
   longitude: 30.65
+colors:
+  -5200: "#678627"
 note: "Links the prehistoric Egypt article, which covers the culture. Both dates are estimates for the earliest farming communities of the Faiyum."
 ---

@@ -18,6 +18,8 @@ point:
   name: "Kaifeng"
   latitude: 34.7972
   longitude: 114.3076
+colors:
+  907: "#cdb851"
 note: "Zhu Wen replaced the residual Tang court, not every regional government in China. The court initially used Luoyang before settling at Kaifeng in 913. Li Cunxu's separate state conquered it in 923."
 transitions:
 - year: 923

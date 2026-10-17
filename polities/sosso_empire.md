@@ -19,6 +19,8 @@ point:
   name: Sosso
   latitude: 13.9685
   longitude: -7.6116
+colors:
+  1200: "#cd51cd"
 note: "1200 is an approximate start for Sosso's rise under Soumaoro Kante and conquest of Ghana, based largely on oral traditions. It is not a known founding year. The point follows the traditional identification of the capital with the village of Sosso; that identification is disputed."
 transitions:
 - year: 1235

@@ -18,6 +18,8 @@ point:
   name: Gingee
   latitude: 12.25
   longitude: 79.395
+colors:
+  1565: "#275786"
 note: "Founded in 1509. Before the Vijayanagara defeat at Talikota in 1565 its rulers were Vijayanagara governors; independence after 1565 was gradual."
 transitions:
 - year: 1649

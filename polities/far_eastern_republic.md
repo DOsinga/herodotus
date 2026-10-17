@@ -19,6 +19,8 @@ point:
   name: "Chita"
   latitude: 52.05
   longitude: 113.4667
+colors:
+  1920: "#578627"
 note: "Created by the Bolsheviks as a buffer against Japan, with the party's Far Eastern Bureau directing it; it is kept as a polity because it had its own government, army and diplomacy, negotiating with Japan on its own account."
 transitions:
 - year: 1922

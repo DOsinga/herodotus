@@ -21,6 +21,8 @@ point:
   name: Sofia
   latitude: 42.7
   longitude: 23.33
+colors:
+  1878: "#278627"
 transitions:
 - year: 1878
   kind: broke_away_from

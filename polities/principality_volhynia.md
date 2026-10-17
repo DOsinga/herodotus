@@ -27,6 +27,12 @@ point:
   name: Lutsk
   latitude: 50.7472
   longitude: 25.3254
+colors:
+  987: "#51cd66"
+  1324: "#51cd66"
+  1349: "#762786"
+  1425: "#762786"
+  1450: "#b851cd"
 transitions:
 - year: 1199
   kind: merged_into

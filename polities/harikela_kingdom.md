@@ -22,6 +22,8 @@ point:
   name: "Chittagong"
   latitude: 22.356
   longitude: 91.783
+colors:
+  650: "#51b8cd"
 note: "650 estimates the kingdom mentioned by seventh-century travellers. 900 follows the emergence of Chandra rule in the southeast. Its relationship to Samatata and its extent in Sylhet and Chittagong are disputed; the point represents a principal coastal centre rather than a known permanent capital."
 transitions:
 - year: 900

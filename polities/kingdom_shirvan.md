@@ -11,6 +11,8 @@ point:
   name: "Shamakhi"
   latitude: 40.631
   longitude: 48.641
+colors:
+  861: "#34b25e"
 note: "861 follows Haytham's establishment of autonomous hereditary government during the Abbasid crisis. Sajid, Mongol, Timurid and Safavid overlordship did not alone remove the Shirvanshahs' own government. The Safavid conquest and replacement of the last ruler in 1538 did."
 transitions:
 - year: 861

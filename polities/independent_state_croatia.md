@@ -11,6 +11,8 @@ point:
   name: "Zagreb"
   latitude: 45.8131
   longitude: 15.9775
+colors:
+  1941: "#862767"
 note: "Italian and German troops held much of its territory, but it had its own government, army and diplomatic relations, so it is kept as a polity."
 transitions:
 - year: 1941

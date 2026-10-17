@@ -11,6 +11,8 @@ point:
   name: Soba
   latitude: 15.524
   longitude: 32.681
+colors:
+  550: "#278667"
 note: "Start estimated (6th century). Ends with the Funj conquest of Soba, conventionally dated 1504; Wikipedia gives about 1500."
 transitions:
 - year: 1504

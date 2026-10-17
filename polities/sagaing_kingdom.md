@@ -19,6 +19,8 @@ point:
   name: Sagaing
   latitude: 21.8787
   longitude: 95.9797
+colors:
+  1315: "#9db234"
 transitions:
 - year: 1364
   kind: merged_into

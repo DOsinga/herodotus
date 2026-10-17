@@ -21,5 +21,7 @@ point:
   name: "Jeitun"
   latitude: 38.18
   longitude: 58.33
+colors:
+  -6200: "#b2349d"
 note: "Links the article on the site. Both dates are estimates."
 ---

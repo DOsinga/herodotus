@@ -22,5 +22,7 @@ point:
   name: "Ullastret"
   latitude: 42.0
   longitude: 3.07
+colors:
+  -600: "#51cdb8"
 note: "Links the article on the Iberians. Both dates are estimates; it stands in for the towns of eastern and southern Iberia, which are not recorded separately. Numantia is recorded. Rome completed its conquest in 19 BCE."
 ---

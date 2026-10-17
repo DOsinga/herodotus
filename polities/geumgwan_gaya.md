@@ -16,6 +16,8 @@ point:
   name: "Gimhae"
   latitude: 35.234
   longitude: 128.881
+colors:
+  42: "#3449b2"
 note: "42 follows the traditional King Suro foundation account, not a securely dated event; archaeology supports a later developed kingdom. This is the Gimhae state, not an umbrella for all Gaya states."
 transitions:
 - year: 532

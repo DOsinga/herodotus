@@ -20,6 +20,8 @@ point:
   name: Mrauk U
   latitude: 20.5933
   longitude: 93.1914
+colors:
+  1430: "#51cda3"
 transitions:
 - year: 1785
   kind: absorbed_into

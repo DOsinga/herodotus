@@ -20,6 +20,8 @@ point:
   name: "Marrakesh"
   latitude: 31.6295
   longitude: -7.9811
+colors:
+  1054: "#cd6651"
 note: "The start is an estimate based on the capture of Sijilmasa and Awdaghust in 1054 or 1055, rather than the earlier religious movement. Marrakesh was founded later. The mainland regime ended in 1147; the Balearic remnant is recorded separately."
 transitions:
 - year: 1147

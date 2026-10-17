@@ -11,6 +11,8 @@ point:
   name: Manama
   latitude: 26.2233
   longitude: 50.5875
+colors:
+  1971: "#cd51a3"
 note: "Before independence it was a British-protected state, which does not count as governing itself. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1971

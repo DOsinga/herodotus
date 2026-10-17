@@ -20,6 +20,8 @@ point:
   name: St. George's
   latitude: 12.0525
   longitude: -61.7531
+colors:
+  1974: "#572786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1974

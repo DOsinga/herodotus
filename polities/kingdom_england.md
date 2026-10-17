@@ -22,6 +22,12 @@ point:
   name: "London"
   latitude: 51.5072
   longitude: -0.1275
+colors:
+  927: "#862737"
+  1084: "#862737"
+  1109: "#349db2"
+  1613: "#349db2"
+  1638: "#278637"
 note: "The English Lordship and Kingdom of Ireland are part of this record, because England governed them through lords deputy and lords lieutenant it appointed."
 transitions:
 - year: 1649

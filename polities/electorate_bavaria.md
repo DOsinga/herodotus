@@ -22,6 +22,10 @@ point:
   name: Munich
   latitude: 48.138
   longitude: 11.575
+colors:
+  1623: "#34b234"
+  1699: "#34b234"
+  1724: "#5eb234"
 note: "Gap for the Austrian occupation after Blenheim: from the Treaty of Ilbersheim in 1704 Austria governed Bavaria through its own administration until the Peace of Baden restored Max Emanuel in 1714. From 1777 it also included the Electoral Palatinate."
 transitions:
 - year: 1704

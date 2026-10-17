@@ -20,6 +20,8 @@ point:
   name: Onondaga
   latitude: 42.9419
   longitude: -76.1558
+colors:
+  1450: "#88b234"
 note: "The founding date is uncertain, with proposals from 1142 to about 1600; 1450 is a common middle estimate. Ends with the Treaty of Fort Stanwix of 1784, after which the confederacy's council fire divided between New York and the Grand River in Canada."
 transitions:
 - year: 1784

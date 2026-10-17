@@ -21,6 +21,8 @@ point:
   name: Moscow
   latitude: 55.7558
   longitude: 37.6178
+colors:
+  1917: "#cd8f51"
 note: "Soviet Russia as a state of its own, before it joined the Soviet Union; Petrograd was the capital until 1918."
 transitions:
 - year: 1922

@@ -18,6 +18,8 @@ point:
   name: "Multan"
   latitude: 30.197
   longitude: 71.469
+colors:
+  861: "#8834b2"
 note: "861 estimates the local government's effective break during the Abbasid crisis, after its first appointments in 855. The later Isma'ili regime replaced the rulers without creating a different territorial polity. Mahmud's 1010 conquest ended it, not the first tributary settlement in 1006."
 transitions:
 - year: 861

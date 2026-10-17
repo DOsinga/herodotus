@@ -20,6 +20,8 @@ point:
   name: Port of Spain
   latitude: 10.6667
   longitude: -61.5167
+colors:
+  1962: "#277686"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1962

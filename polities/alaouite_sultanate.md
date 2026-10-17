@@ -20,6 +20,8 @@ point:
   name: "Fez"
   latitude: 34.0433
   longitude: -5.0033
+colors:
+  1666: "#b27334"
 transitions:
 - year: 1912
   kind: absorbed_into

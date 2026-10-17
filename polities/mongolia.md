@@ -22,6 +22,8 @@ point:
   name: Ulaanbaatar
   latitude: 47.9219
   longitude: 106.9153
+colors:
+  1911: "#7acd51"
 note: "Starts with the Bogd Khanate; gap for the Chinese occupation of 1919–1921. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1911

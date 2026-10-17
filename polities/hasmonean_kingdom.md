@@ -19,6 +19,8 @@ point:
   name: "Jerusalem"
   latitude: 31.7789
   longitude: 35.2256
+colors:
+  -140: "#862786"
 note: "Links the dynasty article, the conventional name for the state. Starts with Simon's recognition as ruler. After Pompey's conquest of 63 BCE it was a reduced tributary state under Hyrcanus II. Herod took Jerusalem in 37 BCE."
 transitions:
 - year: -140

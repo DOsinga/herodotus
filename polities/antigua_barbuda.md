@@ -21,6 +21,8 @@ point:
   name: St. John's
   latitude: 17.1167
   longitude: -61.85
+colors:
+  1981: "#517acd"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1981

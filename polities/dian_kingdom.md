@@ -20,6 +20,8 @@ point:
   name: "Jinning"
   latitude: 24.6667
   longitude: 102.5917
+colors:
+  -279: "#9db234"
 note: "279 BCE is the traditional date of Zhuang Qiao's kingdom. Han made it a commandery in 109 BCE, leaving its king a title."
 transitions:
 - year: -109

@@ -21,6 +21,8 @@ point:
   name: "Zincirli"
   latitude: 37.1
   longitude: 36.68
+colors:
+  -920: "#862757"
 note: "Both dates are estimates; Assyria made it a province."
 transitions:
 - year: -680

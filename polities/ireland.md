@@ -20,6 +20,8 @@ point:
   name: Dublin
   latitude: 53.35
   longitude: -6.2603
+colors:
+  1922: "#867627"
 note: "Starts with the Irish Free State. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1922

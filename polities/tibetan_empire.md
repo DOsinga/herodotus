@@ -21,5 +21,7 @@ point:
   name: "Lhasa"
   latitude: 29.652
   longitude: 91.1721
+colors:
+  618: "#372786"
 note: "618 is the conventional approximate beginning of the imperial period under Songtsen Gampo, not the legendary origin of the Yarlung line. The end follows Langdarma's assassination and the breakup of unified government; some chronologies use 848. Later Tibetan governments are not an uninterrupted empire."
 ---

@@ -19,4 +19,6 @@ point:
   name: Kilwa Kisiwani
   latitude: -8.957
   longitude: 39.522
+colors:
+  957: "#272786"
 ---

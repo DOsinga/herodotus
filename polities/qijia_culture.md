@@ -21,5 +21,7 @@ point:
   name: "Upper Yellow River"
   latitude: 35.6
   longitude: 103.2
+colors:
+  -2300: "#3473b2"
 note: "Both dates are estimates."
 ---

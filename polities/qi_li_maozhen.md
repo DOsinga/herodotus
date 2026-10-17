@@ -18,6 +18,8 @@ point:
   name: Fengxiang
   latitude: 34.5216
   longitude: 107.3887
+colors:
+  887: "#278647"
 note: "Begins with Li's appointment to Fengxiang in 887, when he began to govern the circuit on his own; he was made Prince of Qi in 901. His son Li Congyan stayed as a Later Tang governor after 924."
 transitions:
 - year: 887

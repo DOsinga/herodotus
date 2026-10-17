@@ -22,5 +22,7 @@ point:
   name: "Kazakh steppe"
   latitude: 51.0
   longitude: 70.0
+colors:
+  -1800: "#88b234"
 note: "Both dates are estimates for its main phase; the point is representative."
 ---

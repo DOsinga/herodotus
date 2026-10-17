@@ -20,6 +20,8 @@ point:
   name: "Kerma"
   latitude: 19.6
   longitude: 30.41
+colors:
+  -2500: "#862767"
 note: "Links the article on the Kerma culture, which covers the kingdom. Thutmose I's conquest ended it."
 transitions:
 - year: -1500

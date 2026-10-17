@@ -19,5 +19,7 @@ point:
   name: "Sacul"
   latitude: 16.583
   longitude: -89.3
+colors:
+  700: "#cd8f51"
 note: "700 estimates the court before Ch'iyel's recorded investiture in 760 and wars later in the century. 900 estimates its political end after the last dated stela in 800 and Terminal Classic decline. The later small occupation is not assumed to preserve the royal government."
 ---

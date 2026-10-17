@@ -20,6 +20,8 @@ point:
   name: Qʼumarkaj
   latitude: 15.0239
   longitude: -91.1717
+colors:
+  1225: "#274786"
 transitions:
 - year: 1524
   kind: absorbed_into

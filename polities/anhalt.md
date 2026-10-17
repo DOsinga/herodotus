@@ -22,6 +22,8 @@ point:
   name: "Dessau"
   latitude: 51.835
   longitude: 12.246
+colors:
+  1250: "#cdcd51"
 note: "Henry I's principality until his sons divided it in 1252 into Aschersleben, Bernburg and Zerbst, which have their own records. Joachim Ernest of Zerbst reunited Anhalt in 1570; it was divided again in 1603 into Dessau, Bernburg, Köthen, Zerbst and Plötzkau, and reunited as the Duchy of Anhalt in 1863. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1252

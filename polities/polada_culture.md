@@ -21,5 +21,7 @@ point:
   name: "Polada"
   latitude: 45.48
   longitude: 10.42
+colors:
+  -2200: "#b23473"
 note: "Both dates are estimates."
 ---

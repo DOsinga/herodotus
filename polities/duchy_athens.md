@@ -20,6 +20,10 @@ point:
   name: Athens
   latitude: 37.9715
   longitude: 23.7257
+colors:
+  1205: "#cd51cd"
+  1363: "#cd51cd"
+  1388: "#b234b2"
 note: "The Catalan period of 1311–1388 is a gap, since the Sicilian and then Aragonese kings appointed the dukes and the vicars general who governed. Venice held Athens itself from 1395 to 1402, which is not split out."
 transitions:
 - year: 1311

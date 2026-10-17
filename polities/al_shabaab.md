@@ -18,6 +18,8 @@ point:
   name: "Jilib"
   latitude: 0.4924
   longitude: 42.7708
+colors:
+  2009: "#cd6651"
 note: "Governs territory without any international recognition; it calls its domain the Islamic Emirate of Somalia. 2009 follows its takeover of most of the south after the Ethiopian withdrawal. Jilib, its main administrative centre, stands as the point."
 transitions:
 - year: 2009

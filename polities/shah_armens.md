@@ -19,6 +19,8 @@ point:
   name: Ahlat
   latitude: 38.7528
   longitude: 42.4944
+colors:
+  1100: "#278657"
 note: "After Sökmen II died in 1185 the dynasty's mamluk commanders ruled Ahlat; their government is kept in this record until the Ayyubid conquest of 1207."
 transitions:
 - year: 1207

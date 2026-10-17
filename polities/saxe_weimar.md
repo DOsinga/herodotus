@@ -20,6 +20,10 @@ point:
   name: "Weimar"
   latitude: 50.981
   longitude: 11.329
+colors:
+  1572: "#51cd8f"
+  1782: "#51cd8f"
+  1807: "#34b29d"
 note: "The senior Ernestine line. Saxe-Gotha, Saxe-Altenburg and Saxe-Eisenach split off at various times and have their own records. Saxe-Weimar-Eisenach from 1741 and a grand duchy from 1815. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1867

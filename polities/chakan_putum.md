@@ -18,6 +18,8 @@ point:
   name: Champotón
   latitude: 19.35
   longitude: -90.7167
+colors:
+  1441: "#8fcd51"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1537."
 transitions:
 - year: 1537

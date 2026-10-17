@@ -18,6 +18,8 @@ point:
   name: Kiyosu Castle
   latitude: 35.2153
   longitude: 136.8435
+colors:
+  1555: "#51cdcd"
 note: "Begins with Nobunaga's capture of Kiyosu in 1555; the divided Oda branches before that are not counted. The seat was Kiyosu until 1563, Komaki until 1567 and Gifu afterwards. Links the article on the clan."
 transitions:
 - year: 1573

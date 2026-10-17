@@ -19,6 +19,8 @@ point:
   name: Quito
   latitude: -0.22
   longitude: -78.513
+colors:
+  1810: "#51cda3"
 note: "Links the article on the Quito revolution, since the state has none of its own. Starts with the junta of September 1810; the junta of August 1809 lasted under three months and is left out."
 transitions:
 - year: 1810

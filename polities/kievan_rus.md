@@ -18,6 +18,8 @@ point:
   name: Kyiv
   latitude: 50.45
   longitude: 30.523
+colors:
+  882: "#cd5166"
 note: "Ends with the death of Mstislav the Great in 1132, after which the Rus principalities governed themselves; Kyiv carries on as the Principality of Kiev."
 transitions:
 - year: 1132

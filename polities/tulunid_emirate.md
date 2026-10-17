@@ -18,6 +18,8 @@ point:
   name: "Al-Qata’i"
   latitude: 30.028
   longitude: 31.25
+colors:
+  868: "#273786"
 note: "The closest article covers the dynasty and its state. Ibn Tulun's nominal Abbasid office developed into his own Egyptian government and army. The state ended with direct Abbasid reconquest, not continued tribute or the first ruler's death."
 transitions:
 - year: 868

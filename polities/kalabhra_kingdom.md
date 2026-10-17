@@ -11,6 +11,8 @@ point:
   name: "Madurai"
   latitude: 9.9252
   longitude: 78.1198
+colors:
+  250: "#b23473"
 note: "Links the dynasty article. Known mostly from later hostile sources; both dates are estimates and the seat is unknown. The Pandya restoration under Kadungon ended it."
 transitions:
 - year: 560

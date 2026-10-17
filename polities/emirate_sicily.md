@@ -19,6 +19,8 @@ point:
   name: Palermo
   latitude: 38.1157
   longitude: 13.3615
+colors:
+  948: "#865727"
 note: "Links the article on Muslim Sicily. Aghlabid rule (831–909) and Fatimid rule through governors (909–948) belong to those states. The qaids who divided the island after 1053, until the Norman conquest of 1061–1091, are not recorded."
 transitions:
 - year: 948

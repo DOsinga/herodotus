@@ -18,6 +18,8 @@ point:
   name: Kota
   latitude: 25.18
   longitude: 75.83
+colors:
+  1631: "#cd7a51"
 note: "The separation from Bundi is dated 1631, although some accounts put it in 1625."
 transitions:
 - year: 1631

@@ -22,6 +22,8 @@ point:
   name: Port-au-Prince
   latitude: 18.536
   longitude: -72.346
+colors:
+  1804: "#51cd51"
 note: "Links the country article. Changes of regime after independence are not split into separate records. Gap for the US occupation of 1915–1934."
 transitions:
 - year: 1804

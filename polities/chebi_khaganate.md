@@ -11,6 +11,8 @@ point:
   name: "Altai Mountains"
   latitude: 48
   longitude: 88
+colors:
+  645: "#3449b2"
 note: "645 is the conventional date of Ashina Hubo's khaganate after his break with Xueyantuo; its origins after 630 cannot be dated precisely. It governed an Altai domain until Gao Kan captured Chebi in 650. The point is an approximate headquarters region. Links the ruler's article."
 transitions:
 - year: 650

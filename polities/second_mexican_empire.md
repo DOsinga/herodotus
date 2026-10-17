@@ -20,6 +20,8 @@ point:
   name: Mexico City
   latitude: 19.4326
   longitude: -99.1332
+colors:
+  1863: "#345eb2"
 note: "Starts in 1863, when the Assembly of Notables proclaimed the empire and set up a regency after French troops took Mexico City; Maximilian arrived in 1864. Counted as governing itself despite the French army, since it had its own ministers, army and diplomatic recognition. Juárez's republic kept governing in the north, so Mexico stays active."
 transitions:
 - year: 1867

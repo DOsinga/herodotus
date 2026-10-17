@@ -19,6 +19,8 @@ point:
   name: "Vichy"
   latitude: 46.1278
   longitude: 3.4267
+colors:
+  1940: "#cd518f"
 note: "It had its own army, zone and diplomacy until Germany and Italy occupied the southern zone in November 1942 and dissolved its armistice army; from then the occupiers governed, so it counts as absorbed."
 transitions:
 - year: 1942

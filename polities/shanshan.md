@@ -19,6 +19,8 @@ point:
   name: "Ruoqiang"
   latitude: 39.023
   longitude: 88.167
+colors:
+  -77: "#866727"
 note: "Northern Wei conquered it in 445 and governed it through its own officials."
 transitions:
 - year: 445

@@ -20,6 +20,8 @@ point:
   name: "Qiantang (Hangzhou)"
   latitude: 30.2669
   longitude: 120.1531
+colors:
+  907: "#cd518f"
 note: "The Qian rulers retained their own government while accepting northern imperial titles and paying tribute. Qian Chu surrendered that government to Song in 978, not at Song's foundation in 960 or his later death."
 transitions:
 - year: 978

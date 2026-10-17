@@ -20,6 +20,8 @@ point:
   name: "Carthage"
   latitude: 36.853
   longitude: 10.323
+colors:
+  -814: "#378627"
 note: "Destroyed by Rome in 146 BCE."
 transitions:
 - year: -146

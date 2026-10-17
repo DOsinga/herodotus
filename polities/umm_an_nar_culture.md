@@ -21,5 +21,7 @@ point:
   name: "Umm an-Nar"
   latitude: 24.45
   longitude: 54.6
+colors:
+  -2600: "#278647"
 note: "Both dates are estimates; the culture of ancient Magan."
 ---

@@ -19,6 +19,8 @@ point:
   name: Sokoto
   latitude: 13.083
   longitude: 5.25
+colors:
+  1804: "#cd51cd"
 transitions:
 - year: 1903
   kind: absorbed_into

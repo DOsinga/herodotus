@@ -21,5 +21,7 @@ point:
   name: Minsk
   latitude: 53.9006
   longitude: 27.5586
+colors:
+  1991: "#b2345e"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

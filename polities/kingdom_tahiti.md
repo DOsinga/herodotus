@@ -19,6 +19,8 @@ point:
   name: "Papeete"
   latitude: -17.535
   longitude: -149.57
+colors:
+  1788: "#3434b2"
 note: "Start estimated: Wikipedia gives 1788 or 1791 for Pōmare I's kingdom. France imposed a protectorate in 1842, taking over its foreign relations, so it counts as absorbed then; the monarchy lasted in name until Pōmare V ceded the kingdom in 1880."
 transitions:
 - year: 1842

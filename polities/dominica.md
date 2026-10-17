@@ -21,6 +21,8 @@ point:
   name: Roseau
   latitude: 15.3014
   longitude: -61.3883
+colors:
+  1978: "#277686"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1978

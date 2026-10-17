@@ -19,6 +19,8 @@ point:
   name: "Regensburg"
   latitude: 49.0134
   longitude: 12.1016
+colors:
+  843: "#34b25e"
 note: "Regensburg represents Louis the German's early royal centre; later rulers used other seats. This records the eastern royal government, not every autonomous duchy under it. 962 is the conventional change to the imperial identity, not the disappearance of royal authority. The Holy Roman Empire record continues it from 962."
 transitions:
 - year: 962

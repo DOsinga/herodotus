@@ -20,6 +20,8 @@ point:
   name: "Kucha"
   latitude: 41.727
   longitude: 82.936
+colors:
+  -200: "#8f51cd"
 note: "200 BCE estimates the early oasis kingdom documented in Han sources. Its own kings survived changing overlords until the Tang conquest and imposition of military administration in 648. This is not a collective record for all Tocharian oases."
 transitions:
 - year: 648

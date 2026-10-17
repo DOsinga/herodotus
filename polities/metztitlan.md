@@ -19,6 +19,8 @@ point:
   name: Metztitlán
   latitude: 20.6
   longitude: -98.7667
+colors:
+  1200: "#862747"
 note: "Links the article on the modern town. The start is approximate and the end follows the Spanish conquest of the region in the early 1520s."
 transitions:
 - year: 1522

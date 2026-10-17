@@ -21,5 +21,7 @@ point:
   name: "Dawenkou"
   latitude: 35.95
   longitude: 117.08
+colors:
+  -4100: "#34b2b2"
 note: "Both dates are estimates."
 ---

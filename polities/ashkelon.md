@@ -21,6 +21,8 @@ point:
   name: "Ashkelon"
   latitude: 31.67
   longitude: 34.55
+colors:
+  -1175: "#276786"
 note: "Links the article on the ancient city. 1175 BCE estimates the Philistine settlement; it was one of the five cities of the Philistines, each with its own ruler. Nebuchadnezzar destroyed it in 604 BCE."
 transitions:
 - year: -604

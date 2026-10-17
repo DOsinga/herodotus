@@ -20,5 +20,7 @@ point:
   name: "Chillicothe"
   latitude: 39.33
   longitude: -82.98
+colors:
+  -500: "#9d34b2"
 note: "Both dates are estimates."
 ---

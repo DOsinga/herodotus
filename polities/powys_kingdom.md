@@ -22,6 +22,8 @@ point:
   name: "Mathrafal"
   latitude: 52.662
   longitude: -3.248
+colors:
+  450: "#b29d34"
 note: "450 estimates the post-Roman kingdom's emergence. Rhodri's family absorbed its government between Cyngen's death in 855 and 886, recorded here at the latest conventional endpoint. Maredudd re-established a separate Powys around 1124. Madog's death and the 1160 division end the united kingdom. Mathrafal represents its later royal seat, not a fifth-century capital."
 transitions:
 - year: 886

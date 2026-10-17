@@ -19,6 +19,8 @@ point:
   name: Maní
   latitude: 20.3833
   longitude: -89.4
+colors:
+  1441: "#a351cd"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1542."
 transitions:
 - year: 1542

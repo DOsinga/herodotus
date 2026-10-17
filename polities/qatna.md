@@ -20,6 +20,8 @@ point:
   name: "Qatna"
   latitude: 34.83
   longitude: 36.87
+colors:
+  -2000: "#51cd51"
 note: "Both dates are estimates; the Hittites destroyed it."
 transitions:
 - year: -1340

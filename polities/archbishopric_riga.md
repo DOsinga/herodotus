@@ -19,6 +19,8 @@ point:
   name: Riga
   latitude: 56.9496
   longitude: 24.1052
+colors:
+  1201: "#3473b2"
 note: Starts when Bishop Albert founded Riga and moved his seat there; the see itself dates
   from 1186 at Üxküll. Ends where the existing Livonian Confederation record begins, although
   the archbishopric lasted as a member until it was secularised in 1561.

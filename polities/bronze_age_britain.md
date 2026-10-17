@@ -22,5 +22,7 @@ point:
   name: "Stonehenge"
   latitude: 51.18
   longitude: -1.83
+colors:
+  -2500: "#51a3cd"
 note: "Both dates are conventional; the British Iron Age follows."
 ---

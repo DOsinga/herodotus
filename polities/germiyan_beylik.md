@@ -24,6 +24,8 @@ point:
   name: Kütahya
   latitude: 39.4242
   longitude: 29.9833
+colors:
+  1300: "#cd518f"
 transitions:
 - year: 1429
   kind: absorbed_into

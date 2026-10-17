@@ -19,6 +19,8 @@ point:
   name: "Lucca"
   latitude: 43.8429
   longitude: 10.5027
+colors:
+  1805: "#762786"
 note: "A Napoleonic client state with its own ruler and government, kept as a polity like the Kingdom of Holland."
 transitions:
 - year: 1814

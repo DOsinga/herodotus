@@ -22,5 +22,7 @@ point:
   name: "Folsom site"
   latitude: 36.87
   longitude: -103.92
+colors:
+  -10800: "#862776"
 note: "Both dates are calibrated radiocarbon estimates; older uncalibrated dates put the tradition about two thousand years later."
 ---

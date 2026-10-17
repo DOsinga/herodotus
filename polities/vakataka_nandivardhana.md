@@ -20,6 +20,8 @@ point:
   name: "Nandivardhana"
   latitude: 21.395
   longitude: 79.327
+colors:
+  330: "#273786"
 note: "330 and 480 estimate the senior branch from Rudrasena I through Prithivishena II. Its court also operated from Pravarapura. Ends conventionally with Harishena's absorption into the Vatsagulma realm, not every wider Vakataka decline date. The point represents Nagardhan."
 transitions:
 - year: 480

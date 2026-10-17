@@ -20,6 +20,8 @@ point:
   name: Gaza City
   latitude: 31.5075
   longitude: 34.4597
+colors:
+  2007: "#862767"
 note: "Hamas has governed Gaza separately since taking control from the Palestinian Authority in June 2007. It lost most of the Strip to Israeli forces in 2025 and still administers part of it under the October 2025 peace plan; its end is not settled."
 transitions:
 - year: 2007

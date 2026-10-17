@@ -19,6 +19,8 @@ point:
   name: Yarkand
   latitude: 38.39
   longitude: 77.22
+colors:
+  1514: "#278627"
 transitions:
 - year: 1705
   kind: absorbed_into

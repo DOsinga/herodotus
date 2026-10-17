@@ -16,6 +16,8 @@ point:
   name: "Wurzburg"
   latitude: 49.792
   longitude: 9.933
+colors:
+  642: "#865727"
 note: "642 follows Radulf's defeat of the royal expedition and ability to make his own treaties; the earlier royal appointment in the 630s did not by itself establish independent rule. The Hedenid rulers continued until Charles Martel suppressed their autonomy around 717–719. Wurzburg represents their later court, not every part of the earlier kingdom."
 transitions:
 - year: 642

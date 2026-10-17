@@ -19,6 +19,10 @@ point:
   name: Bremervörde
   latitude: 53.4833
   longitude: 9.1333
+colors:
+  1250: "#5166cd"
+  1445: "#5166cd"
+  1470: "#34b249"
 note: "Starts with the end of royal government in Germany in 1250. Excludes the city of Bremen, which has its own record. Sweden occupied the land in 1645 and received it as a secular duchy at the Peace of Westphalia in 1648."
 transitions:
 - year: 1648

@@ -19,6 +19,8 @@ point:
   name: "Chengdu"
   latitude: 30.5728
   longitude: 104.0668
+colors:
+  907: "#a351cd"
 note: "Wang Jian's Shu government was distinct from the later Meng regime. Its temporary adoption of the name Han in 917–918 did not create another state. Later Tang conquest ended it in 925."
 transitions:
 - year: 907

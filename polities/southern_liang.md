@@ -19,6 +19,8 @@ point:
   name: "Ledu"
   latitude: 36.5167
   longitude: 102.4167
+colors:
+  397: "#274786"
 transitions:
 - year: 414
   kind: absorbed_into

@@ -20,6 +20,8 @@ point:
   name: Bulawayo
   latitude: -20.17
   longitude: 28.58
+colors:
+  1823: "#6651cd"
 note: "Mzilikazi's kingdom moved north to Matabeleland in 1838. Ends with the British South Africa Company's conquest of 1893–1894."
 transitions:
 - year: 1894

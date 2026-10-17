@@ -20,6 +20,8 @@ point:
   name: "Scodra"
   latitude: 42.0681
   longitude: 19.5119
+colors:
+  -260: "#cd518f"
 note: "Links the article on the Ardiaei. 260 BCE estimates their Illyrian kingdom; Rome took Genthius in 168 BCE."
 transitions:
 - year: -168

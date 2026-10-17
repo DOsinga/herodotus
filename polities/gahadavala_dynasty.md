@@ -18,6 +18,8 @@ point:
   name: Varanasi
   latitude: 25.3189
   longitude: 83.0128
+colors:
+  1089: "#7a51cd"
 note: >-
   Links the dynasty article; the dynasty name is the conventional name for the state. 1089 estimates
   Chandradeva's sovereign kingdom, established some time before 1090. Ends with the defeat at

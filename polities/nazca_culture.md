@@ -22,5 +22,7 @@ point:
   name: "Cahuachi"
   latitude: -14.86
   longitude: -74.94
+colors:
+  -100: "#272786"
 note: "Both dates are estimates. Cahuachi stands as the point; the La Tiza chiefdom record covers the region from 400."
 ---

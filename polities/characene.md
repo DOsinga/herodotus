@@ -20,6 +20,8 @@ point:
   name: "Charax Spasinou"
   latitude: 30.8947
   longitude: 47.578
+colors:
+  -141: "#b29d34"
 note: "Ardashir of Persis conquered it about 222, before his victory over the Parthians."
 transitions:
 - year: -141

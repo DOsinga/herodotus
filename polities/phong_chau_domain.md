@@ -18,6 +18,8 @@ point:
   name: "Phong Châu (Việt Trì)"
   latitude: 21.322
   longitude: 105.401
+colors:
+  965: "#345eb2"
 note: "965 estimates the appearance of Kiều Công Hãn's separate domain after the Ngô collapse. His defeat and death ended it in 967. The point represents the Phong Châu–Bạch Hạc royal region, not an exactly located residence; the source is the ruler's biography."
 transitions:
 - year: 967

@@ -20,5 +20,7 @@ point:
   name: "Balkh"
   latitude: 36.7581
   longitude: 66.8981
+colors:
+  320: "#51a3cd"
 note: "Links the Kidarites article. Both dates are estimates. The Hephthalites drove them from Bactria and the Sasanians took their last stronghold, Balaam, in 467; Kidarite rulers in Gandhara are not recorded separately."
 ---

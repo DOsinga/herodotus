@@ -19,6 +19,8 @@ point:
   name: "Kish"
   latitude: 32.55
   longitude: 44.6
+colors:
+  -2900: "#cd51cd"
 note: "The Early Dynastic city state whose kingship conferred hegemony in Sumer. Sargon, cupbearer to its king, took it over."
 transitions:
 - year: -2334

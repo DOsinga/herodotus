@@ -20,6 +20,8 @@ point:
   name: Hanseong
   latitude: 37.5665
   longitude: 126.978
+colors:
+  1392: "#864727"
 transitions:
 - year: 1897
   kind: succeeded_by

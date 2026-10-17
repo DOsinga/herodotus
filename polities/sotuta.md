@@ -18,6 +18,8 @@ point:
   name: Sotuta
   latitude: 20.5968
   longitude: -89.0082
+colors:
+  1441: "#472786"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1543."
 transitions:
 - year: 1543

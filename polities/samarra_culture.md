@@ -20,5 +20,7 @@ point:
   name: "Samarra"
   latitude: 34.2
   longitude: 43.87
+colors:
+  -5500: "#5151cd"
 note: "Both dates are estimates for the culture of central Mesopotamia, contemporary with the Hassuna and Halaf cultures to the north."
 ---

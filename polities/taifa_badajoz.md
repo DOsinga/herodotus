@@ -22,6 +22,10 @@ point:
   name: "Badajoz"
   latitude: 38.8794
   longitude: -6.9707
+colors:
+  1009: "#51cd66"
+  1119: "#51cd66"
+  1144: "#278647"
 note: "The second period records the restored local government after Almoravid rule, ending with Almohad conquest. Tribute to León did not end the first period."
 transitions:
 - year: 1009

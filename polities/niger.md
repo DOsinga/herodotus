@@ -21,6 +21,8 @@ point:
   name: Niamey
   latitude: 13.5136
   longitude: 2.1089
+colors:
+  1960: "#3434b2"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

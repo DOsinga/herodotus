@@ -22,6 +22,8 @@ point:
   name: Banda Aceh
   latitude: 5.55
   longitude: 95.3175
+colors:
+  1496: "#762786"
 transitions:
 - year: 1904
   kind: absorbed_into

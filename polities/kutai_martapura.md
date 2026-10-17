@@ -20,6 +20,8 @@ point:
   name: "Muara Kaman"
   latitude: 0.375
   longitude: 116.618
+colors:
+  399: "#51cda3"
 note: "399 represents the conventional late-fourth-century date of the early yupa inscriptions, not an exact foundation. The long royal continuity to the 1635 conquest rests partly on later Kutai traditions. This upriver Hindu court is separate from Kutai Kartanegara at Kutai Lama."
 transitions:
 - year: 1635

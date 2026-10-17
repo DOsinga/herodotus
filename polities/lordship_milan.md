@@ -20,6 +20,8 @@ point:
   name: Milan
   latitude: 45.4642
   longitude: 9.19
+colors:
+  1259: "#34b29d"
 transitions:
 - year: 1395
   kind: succeeded_by

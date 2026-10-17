@@ -20,6 +20,8 @@ point:
   name: Grand Village of the Natchez
   latitude: 31.5252
   longitude: -91.3816
+colors:
+  1500: "#66cd51"
 note: "The start is an estimate: the Natchez descend from the Plaquemine culture of the bluffs, and the Grand Village was their capital from the late seventeenth century."
 transitions:
 - year: 1731

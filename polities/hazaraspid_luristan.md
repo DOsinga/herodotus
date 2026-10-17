@@ -20,6 +20,10 @@ point:
   name: Izeh
   latitude: 31.8342
   longitude: 49.8672
+colors:
+  1148: "#274786"
+  1224: "#274786"
+  1249: "#762786"
 note: "1148 follows the Encyclopaedia Iranica's dating of Abu Tahir's rule; Wikipedia gives 1115. Vassalage to the Ilkhans and Timurids did not end the atabegs' own government; Shahrukh's removal of the last ruler in 1424 does. The point is Izeh, the old Idaj."
 transitions:
 - year: 1424

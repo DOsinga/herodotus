@@ -18,6 +18,8 @@ point:
   name: Tsutsujigasaki
   latitude: 35.687
   longitude: 138.577
+colors:
+  1467: "#cd51b8"
 note: "Covers the house as a Sengoku power from the Ōnin War, when the shogunate stopped governing the provinces, to its destruction in 1582. The seat was at Isawa nearby until 1519. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1467

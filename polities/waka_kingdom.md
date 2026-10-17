@@ -19,5 +19,7 @@ point:
   name: "El Peru"
   latitude: 17.2783
   longitude: -90.3806
+colors:
+  150: "#cd51b8"
 note: "150 estimates the Early Classic political centre, whose rulers are later named in inscriptions. Waka retained a local dynasty through its changing Tikal and Calakmul alliances. 800 estimates the end of the royal centre rather than the site's earliest or latest habitation."
 ---

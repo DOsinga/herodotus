@@ -19,5 +19,7 @@ point:
   name: Bahla
   latitude: 22.968
   longitude: 57.298
+colors:
+  1154: "#3488b2"
 note: "Both dates follow Wikipedia; the period includes stretches when rival Nabhani kings and restored imams divided the interior, which are not split out. The coastal towns were under Hormuz and then Portugal for much of this time."
 ---

@@ -19,6 +19,8 @@ point:
   name: Thessalonica
   latitude: 40.6401
   longitude: 22.9444
+colors:
+  1224: "#5151cd"
 transitions:
 - year: 1246
   kind: absorbed_into

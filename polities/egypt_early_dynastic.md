@@ -20,6 +20,8 @@ point:
   name: "Memphis"
   latitude: 29.85
   longitude: 31.25
+colors:
+  -3100: "#cdb851"
 note: "Starts with the unification under the First Dynasty. Thinis was also a royal seat."
 transitions:
 - year: -2686

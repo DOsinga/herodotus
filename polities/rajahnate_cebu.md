@@ -18,6 +18,8 @@ point:
   name: Cebu
   latitude: 10.3157
   longitude: 123.8854
+colors:
+  1450: "#472786"
 transitions:
 - year: 1565
   kind: absorbed_into

@@ -13,6 +13,8 @@ point:
   name: "Artanuji"
   latitude: 41.126
   longitude: 42.064
+colors:
+  588: "#768627"
 note: "Guaram's local government began around 588 after the Persian provincial period. After the Arabs took Tbilisi in the 730s, the princes continued to govern a reduced territory from Uplistsikhe. The gap follows the suppression and dynastic extinction around 786; Ashot restored a court at Artanuji in 813. Artanuji is the later seat, not the early capital."
 transitions:
 - year: 588

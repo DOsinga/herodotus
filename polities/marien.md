@@ -20,6 +20,8 @@ point:
   name: Guacanagarí's town
   latitude: 19.6906
   longitude: -72.0158
+colors:
+  1200: "#578627"
 note: "Links the article on the chiefdoms of Hispaniola. The start is an estimate for the rise of the Taíno chiefdoms of the island."
 transitions:
 - year: 1497

@@ -18,6 +18,8 @@ point:
   name: "Handan"
   latitude: 36.601
   longitude: 114.487
+colors:
+  -453: "#34b25e"
 note: "Starts in 453 BCE, when the Zhao family, with the other two, destroyed the Zhi clan and governed its share of Jin as its own; the Zhou king's recognition in 403 BCE made it formal. Qin took Handan in 228 BCE; the remnant state of Dai held out until 222 BCE."
 transitions:
 - year: -453

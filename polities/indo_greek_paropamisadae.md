@@ -20,5 +20,7 @@ point:
   name: "Alexandria in the Caucasus"
   latitude: 34.97
   longitude: 69.29
+colors:
+  -100: "#7acd51"
 note: "Links the article on Hermaeus, its last king. Both dates are estimates from coins; the Yuezhi or Indo-Scythians took the region after him."
 ---

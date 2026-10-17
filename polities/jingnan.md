@@ -18,6 +18,8 @@ point:
   name: "Jingzhou"
   latitude: 30.3352
   longitude: 112.2397
+colors:
+  912: "#278627"
 note: "912 is an approximate start following Gao Jixing's break with Later Liang. Conventional accounts use his 924 creation as Prince of Nanping. Later titles and tributary submissions did not end his local government. Song took over in 963."
 transitions:
 - year: 912

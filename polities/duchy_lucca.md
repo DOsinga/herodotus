@@ -18,6 +18,8 @@ point:
   name: "Lucca"
   latitude: 43.8429
   longitude: 10.5027
+colors:
+  1815: "#762786"
 note: "Ends when Charles Louis ceded Lucca to the Grand Duchy of Tuscany in 1847, ahead of his succession to Parma."
 transitions:
 - year: 1847

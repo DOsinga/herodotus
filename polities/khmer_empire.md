@@ -20,6 +20,8 @@ point:
   name: Angkor
   latitude: 13.4125
   longitude: 103.8667
+colors:
+  802: "#862747"
 transitions:
 - year: 1431
   kind: succeeded_by

@@ -11,6 +11,8 @@ point:
   name: "Luoyang"
   latitude: 34.6197
   longitude: 112.4539
+colors:
+  220: "#272786"
 note: "Sima Yan took the throne in 266."
 transitions:
 - year: 266

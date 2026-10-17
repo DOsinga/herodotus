@@ -20,6 +20,8 @@ point:
   name: "Anahilavada (Patan)"
   latitude: 23.85
   longitude: 72.13
+colors:
+  690: "#518fcd"
 note: "690 estimates the early Chavda government at Panchasar; Anahilavada was founded later, traditionally in 746 or 765. The chronology relies partly on later king lists. 942 follows the traditional date of Mularaja's takeover, also conventionally placed around 940."
 transitions:
 - year: 942

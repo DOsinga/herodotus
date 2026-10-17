@@ -20,6 +20,8 @@ point:
   name: Omdurman
   latitude: 15.64
   longitude: 32.483
+colors:
+  1885: "#278667"
 transitions:
 - year: 1899
   kind: absorbed_into

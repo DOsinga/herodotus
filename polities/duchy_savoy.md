@@ -19,6 +19,10 @@ point:
   name: Chambéry
   latitude: 45.5646
   longitude: 5.9178
+colors:
+  1416: "#b2b234"
+  1689: "#b2b234"
+  1714: "#278657"
 transitions:
 - year: 1720
   kind: succeeded_by

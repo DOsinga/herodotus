@@ -18,6 +18,8 @@ point:
   name: Mardin
   latitude: 37.3131
   longitude: 40.7356
+colors:
+  1106: "#cd6651"
 note: "Links the article on the whole dynasty; this record covers Ilghazi's branch only, which held Mardin from about 1106. Its rule of Aleppo from 1118 to 1128 is part of this record. Vassalage to the Ayyubids, Ilkhans and Mamluks did not end its own government. The Qara Qoyunlu took Mardin in 1409."
 transitions:
 - year: 1409

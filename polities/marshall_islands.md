@@ -22,6 +22,8 @@ point:
   name: Majuro
   latitude: 7.0833
   longitude: 171.3833
+colors:
+  1986: "#cd8f51"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1986

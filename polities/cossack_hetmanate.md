@@ -20,6 +20,8 @@ point:
   name: Chyhyryn
   latitude: 49.077
   longitude: 32.649
+colors:
+  1648: "#863727"
 transitions:
 - year: 1648
   kind: broke_away_from

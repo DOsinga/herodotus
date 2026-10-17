@@ -19,6 +19,8 @@ point:
   name: "Changsha"
   latitude: 28.2282
   longitude: 112.9388
+colors:
+  907: "#762786"
 note: "Ma Yin's local government survived recognition by northern emperors. Southern Tang conquered the Ma court in 951. The later independent governments in former Chu territory are not the continued Ma kingdom."
 transitions:
 - year: 907

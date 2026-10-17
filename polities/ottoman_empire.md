@@ -19,6 +19,12 @@ point:
   name: Söğüt
   latitude: 40.0256
   longitude: 30.1811
+colors:
+  1299: "#278657"
+  1495: "#278657"
+  1520: "#51a3cd"
+  1595: "#51a3cd"
+  1620: "#762786"
 transitions:
 - year: 1922
   kind: absorbed_into

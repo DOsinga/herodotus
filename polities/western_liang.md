@@ -19,6 +19,8 @@ point:
   name: "Dunhuang"
   latitude: 40.1411
   longitude: 94.6639
+colors:
+  400: "#66cd51"
 note: "Jiuquan was the capital from 405."
 transitions:
 - year: 400

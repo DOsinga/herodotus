@@ -19,6 +19,8 @@ point:
   name: "Garama"
   latitude: 26.539
   longitude: 13.064
+colors:
+  -500: "#863727"
 note: "500 BCE estimates the formation of the urban Garamantian kingdom, not the earlier arrival of its inhabitants. Ends conventionally with the Arab expedition and submission of the king in 669; neither the exact loss of local government nor an abrupt end to settlement is securely established."
 transitions:
 - year: 669

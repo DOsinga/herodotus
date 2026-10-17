@@ -20,6 +20,8 @@ point:
   name: Ulundi
   latitude: -28.317
   longitude: 31.417
+colors:
+  1816: "#7a51cd"
 note: "Ends with the British victory at Ulundi in 1879, after which Britain divided and then annexed the kingdom; Wikipedia's infobox runs to 1897."
 transitions:
 - year: 1879

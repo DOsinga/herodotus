@@ -20,6 +20,8 @@ point:
   name: "Medina"
   latitude: 24.468
   longitude: 39.611
+colors:
+  622: "#518fcd"
 note: "Muhammad established a governing community at Medina after the hijra in 622 and expanded it through Arabia. The succession in 632 created the caliphal regime, recorded separately rather than extending a prophet-led government beyond his death."
 transitions:
 - year: 632

@@ -20,5 +20,7 @@ point:
   name: "Cuicuilco"
   latitude: 19.3
   longitude: -99.18
+colors:
+  -800: "#678627"
 note: "Both dates are estimates; the Xitle eruption ended it."
 ---

@@ -19,6 +19,8 @@ point:
   name: San Salvador
   latitude: 13.699
   longitude: -89.191
+colors:
+  1841: "#862786"
 note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1841

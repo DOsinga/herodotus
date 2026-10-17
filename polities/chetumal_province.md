@@ -18,6 +18,8 @@ point:
   name: Chetumal
   latitude: 18.4022
   longitude: -88.395
+colors:
+  1441: "#51cda3"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1544."
 transitions:
 - year: 1544

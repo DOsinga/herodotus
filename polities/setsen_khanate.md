@@ -18,6 +18,8 @@ point:
   name: "Eastern Khalkha"
   latitude: 47.32
   longitude: 110.66
+colors:
+  1630: "#572786"
 note: "Links the article on the Khalkha Mongols, as no article covers this khanate; 1630 estimates Sholoi's khanate. The point is representative. The khanates sent tribute to the Qing from the 1630s but governed themselves until the Dolon Nor assembly of 1691, after the Dzungar invasion, made them Qing subjects."
 transitions:
 - year: 1691

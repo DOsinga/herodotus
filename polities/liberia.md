@@ -21,5 +21,7 @@ point:
   name: Monrovia
   latitude: 6.313
   longitude: -10.801
+colors:
+  1847: "#51cd51"
 note: "Links the country article. Changes of regime after independence are not split into separate records."
 ---

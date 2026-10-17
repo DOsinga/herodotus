@@ -18,6 +18,10 @@ point:
   name: Lin'an
   latitude: 30.25
   longitude: 120.1667
+colors:
+  960: "#274786"
+  1193: "#274786"
+  1218: "#762786"
 transitions:
 - year: 1279
   kind: absorbed_into

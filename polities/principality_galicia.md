@@ -20,6 +20,8 @@ point:
   name: Halych
   latitude: 49.125
   longitude: 24.729
+colors:
+  1124: "#762786"
 note: "The Rostislavichi ruled Galicia separately from Kyiv; Volodymyrko united it under Halych in 1141. A brief Hungarian occupation in 1188–1189 is not split out. Roman of Volhynia took it in 1199 and joined the two principalities."
 transitions:
 - year: 1199

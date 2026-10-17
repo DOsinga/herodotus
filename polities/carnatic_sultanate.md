@@ -18,6 +18,8 @@ point:
   name: Arcot
   latitude: 12.9047
   longitude: 79.3238
+colors:
+  1710: "#278637"
 note: >-
   Starts with Saadatullah Khan's hereditary rule from Arcot in 1710; the Mughal governors from 1692
   do not count. The nawabs depended heavily on the Company from the 1750s, but kept their own

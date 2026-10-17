@@ -20,6 +20,8 @@ point:
   name: Victoria
   latitude: -4.6231
   longitude: 55.4525
+colors:
+  1976: "#cdb851"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1976

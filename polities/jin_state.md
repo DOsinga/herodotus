@@ -18,5 +18,7 @@ point:
   name: "Xintian"
   latitude: 35.62
   longitude: 111.36
+colors:
+  -770: "#b23473"
 note: "Starts in 770 BCE, when the Zhou court moved east and the lords began to govern their own states. After 453 BCE the Han, Zhao and Wei families governed most of Jin as their own; the duke kept a small domain until they partitioned it in 376 BCE."
 ---

@@ -20,6 +20,8 @@ point:
   name: Kassel
   latitude: 51.316
   longitude: 9.498
+colors:
+  1567: "#cd51cd"
 note: "An electorate from 1803. Napoleon occupied it in 1806 and made it part of the Kingdom of Westphalia in 1807; restored in 1813 as the Electorate of Hesse."
 transitions:
 - year: 1806

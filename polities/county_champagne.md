@@ -18,6 +18,8 @@ point:
   name: Troyes
   latitude: 48.2997
   longitude: 4.0792
+colors:
+  1022: "#278676"
 note: "Starts with Odo II of Blois taking Troyes and Meaux in 1022; the earlier Herbertian counts of Troyes are not split out. Joan's marriage to Philip IV in 1284 put the county under the French crown, although it was formally united with the royal domain only in 1361."
 transitions:
 - year: 1284

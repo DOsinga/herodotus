@@ -20,6 +20,8 @@ point:
   name: Brazzaville
   latitude: -4.2667
   longitude: 15.2667
+colors:
+  1960: "#862757"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

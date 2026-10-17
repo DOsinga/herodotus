@@ -11,6 +11,8 @@ point:
   name: "Londinium"
   latitude: 51.5072
   longitude: -0.1275
+colors:
+  286: "#cd51cd"
 note: "The regime of Carausius and Allectus in Britain and northern Gaul. Links the article on the revolt, as no separate article covers the state."
 transitions:
 - year: 286

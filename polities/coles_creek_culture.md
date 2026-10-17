@@ -20,5 +20,7 @@ point:
   name: "Lower Mississippi valley"
   latitude: 31.8
   longitude: -91.4
+colors:
+  700: "#5151cd"
 note: "Both dates are estimates; the point is representative."
 ---

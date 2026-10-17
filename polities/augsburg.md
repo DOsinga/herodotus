@@ -20,6 +20,8 @@ point:
   name: Augsburg
   latitude: 48.369
   longitude: 10.898
+colors:
+  1276: "#3434b2"
 note: "A free imperial city from 1276, when Rudolf I freed it from its bishop. Annexed by Bavaria in 1806. Links the city article."
 transitions:
 - year: 1806

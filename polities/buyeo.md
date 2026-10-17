@@ -11,6 +11,8 @@ point:
   name: "Jilin"
   latitude: 43.8381
   longitude: 126.5497
+colors:
+  -200: "#51cd7a"
 note: "Both dates are estimates; Goguryeo absorbed its last remnant in 494."
 transitions:
 - year: 494

@@ -19,6 +19,8 @@ point:
   name: "Chengdu"
   latitude: 30.66
   longitude: 104.0633
+colors:
+  304: "#b8cd51"
 transitions:
 - year: 347
   kind: absorbed_into

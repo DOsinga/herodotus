@@ -20,6 +20,8 @@ point:
   name: Werowocomoco
   latitude: 37.412
   longitude: -76.649
+colors:
+  1570: "#51cd7a"
 note: "The start is an estimate for Wahunsenacawh's inheritance of his first chiefdoms. Ends with the treaty of 1646 that made the Powhatan peoples tributaries of Virginia."
 transitions:
 - year: 1646

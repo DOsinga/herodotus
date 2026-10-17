@@ -19,6 +19,8 @@ point:
   name: "Jiankang"
   latitude: 32.06
   longitude: 118.797
+colors:
+  479: "#b234b2"
 note: "The southern Xiao court, distinct from the northern Gao state founded in 550. Xiao Yan's takeover in 502 established Liang."
 transitions:
 - year: 502

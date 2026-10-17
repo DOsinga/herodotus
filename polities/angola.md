@@ -20,6 +20,8 @@ point:
   name: Luanda
   latitude: -8.8383
   longitude: 13.2344
+colors:
+  1975: "#51cda3"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1975

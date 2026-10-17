@@ -11,6 +11,10 @@ point:
   name: "Lamanai"
   latitude: 17.7525
   longitude: -88.65444
+colors:
+  -400: "#274786"
+  788: "#274786"
+  813: "#276786"
 note: "400 BCE estimates the monumental governing centre, whose Classic rulers are represented in monuments and burials. It continued through the Postclassic rather than disappearing with the ninth-century collapse elsewhere. 1544 marks the beginning of Spanish colonial administration; subsequent habitation and resistance do not alone establish the old court's restoration."
 transitions:
 - year: 1544

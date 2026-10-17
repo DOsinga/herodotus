@@ -21,5 +21,7 @@ point:
   name: "Lower Volga"
   latitude: 47.5
   longitude: 45.0
+colors:
+  -400: "#b234b2"
 note: "Both dates are estimates for the Sarmatian nomads of the steppe between the Don and the Urals, who displaced the Scythians. They had many separate groups; the point is representative. The Hunnic invasion ends them as the steppe's main people."
 ---

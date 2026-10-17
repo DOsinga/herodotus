@@ -20,6 +20,8 @@ point:
   name: "Brecon"
   latitude: 51.948
   longitude: -3.391
+colors:
+  1045: "#345eb2"
 note: "1045 estimates the separately governed Cantref Tewdos or Mawr after Brycheiniog's division among heirs. The point represents the later Brecon area, not a firmly identified royal seat. 1093 follows Bernard de Neufmarche's conquest. Links the parent kingdom's history."
 transitions:
 - year: 1093

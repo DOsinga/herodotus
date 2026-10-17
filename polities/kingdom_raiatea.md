@@ -19,6 +19,8 @@ point:
   name: "Uturoa"
   latitude: -16.731
   longitude: -151.443
+colors:
+  1820: "#b28834"
 note: "Links the island article, which covers the kingdom; Wikipedia has no separate article on it. Start estimated from Tamatoa III's law code of 1820; Bora Bora's chiefs had dominated the island from 1763. Ends with the French provisional protectorate of 1880."
 transitions:
 - year: 1880

@@ -16,6 +16,8 @@ point:
   name: Nakijin
   latitude: 26.6908
   longitude: 127.9292
+colors:
+  1314: "#278686"
 transitions:
 - year: 1416
   kind: absorbed_into

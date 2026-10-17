@@ -21,5 +21,7 @@ point:
   name: "Seibal"
   latitude: 16.51167
   longitude: -90.06111
+colors:
+  -400: "#517acd"
 note: "The first period estimates the Preclassic urban polity; the gap follows the site's major demographic and institutional decline. The restored Classic court retained native rulers despite Dos Pilas overlordship in 735–761. 950 estimates the final abandonment after the ninth-century revival under Watul Chatel."
 ---

@@ -23,6 +23,10 @@ point:
   name: Lisbon
   latitude: 38.7223
   longitude: -9.1393
+colors:
+  1139: "#51cd66"
+  1615: "#51cd66"
+  1640: "#34b273"
 transitions:
 - year: 1580
   kind: absorbed_into

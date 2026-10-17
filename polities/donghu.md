@@ -11,6 +11,8 @@ point:
   name: "Eastern Inner Mongolia"
   latitude: 43.0
   longitude: 119.0
+colors:
+  -400: "#278676"
 note: "Links the article on the people. 400 BCE estimates their confederation; Modu Chanyu destroyed it. The point is approximate."
 transitions:
 - year: -209

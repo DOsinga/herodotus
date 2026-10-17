@@ -20,6 +20,8 @@ point:
   name: Sabzevar
   latitude: 36.2126
   longitude: 57.6819
+colors:
+  1337: "#51cdcd"
 transitions:
 - year: 1381
   kind: absorbed_into

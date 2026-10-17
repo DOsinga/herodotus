@@ -19,6 +19,8 @@ point:
   name: "Ouagadougou"
   latitude: 12.3686
   longitude: -1.5275
+colors:
+  1495: "#51cd7a"
 note: "Links the Mossi Kingdoms article, since no article covers the kingdom of Ouagadougou alone. 1495 estimates the reign of Oubri, traditionally the founder of the Ouagadougou line; the dates of the early Mossi rulers are uncertain."
 transitions:
 - year: 1896

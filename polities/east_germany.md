@@ -11,6 +11,8 @@ point:
   name: East Berlin
   latitude: 52.5186
   longitude: 13.4044
+colors:
+  1949: "#862767"
 transitions:
 - year: 1990
   kind: absorbed_into

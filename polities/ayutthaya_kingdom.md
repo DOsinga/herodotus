@@ -20,6 +20,10 @@ point:
   name: Ayutthaya
   latitude: 14.3532
   longitude: 100.5689
+colors:
+  1351: "#51cd7a"
+  1496: "#51cd7a"
+  1521: "#278647"
 transitions:
 - year: 1767
   kind: absorbed_into

@@ -23,5 +23,7 @@ point:
   name: "Lerna"
   latitude: 37.6
   longitude: 22.75
+colors:
+  -3200: "#762786"
 note: "Links the Helladic chronology article. Both dates are conventional; the Mycenaean palace states follow."
 ---

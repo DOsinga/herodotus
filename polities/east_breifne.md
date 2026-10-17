@@ -11,6 +11,8 @@ point:
   name: "Cavan"
   latitude: 53.9908
   longitude: -7.3606
+colors:
+  1256: "#275786"
 transitions:
 - year: 1607
   kind: absorbed_into

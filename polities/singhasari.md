@@ -20,6 +20,8 @@ point:
   name: Singhasari
   latitude: -7.8878
   longitude: 112.6633
+colors:
+  1222: "#278637"
 transitions:
 - year: 1292
   kind: absorbed_into

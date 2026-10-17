@@ -20,6 +20,8 @@ point:
   name: Florence
   latitude: 43.771
   longitude: 11.254
+colors:
+  1801: "#578627"
 transitions:
 - year: 1807
   kind: absorbed_into

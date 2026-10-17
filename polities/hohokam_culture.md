@@ -21,5 +21,7 @@ point:
   name: "Snaketown"
   latitude: 33.1875
   longitude: -111.9245
+colors:
+  300: "#7a51cd"
 note: "300 estimates the start of the Hohokam irrigation villages; 1450 follows the collapse of the Classic-period platform-mound communities. Snaketown, a major early village, stands as the point; the record is the culture, not one village's government."
 ---

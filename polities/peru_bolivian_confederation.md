@@ -19,6 +19,8 @@ point:
   name: Lima
   latitude: -12.06
   longitude: -77.037
+colors:
+  1836: "#88b234"
 note: "Starts with Santa Cruz's victory over Salaverry and his proclamation as Supreme Protector in 1836 and ends with the formal dissolution in August 1839. Treated as one government because Santa Cruz commanded the army and foreign policy of all three states."
 transitions:
 - year: 1839

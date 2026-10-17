@@ -18,6 +18,8 @@ point:
   name: Pinya
   latitude: 21.7972
   longitude: 95.9744
+colors:
+  1313: "#51cd7a"
 transitions:
 - year: 1364
   kind: merged_into

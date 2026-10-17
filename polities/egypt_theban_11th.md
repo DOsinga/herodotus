@@ -16,6 +16,8 @@ point:
   name: "Thebes"
   latitude: 25.72
   longitude: 32.61
+colors:
+  -2134: "#3473b2"
 note: "Starts with Intef I's royal claim in the south. Mentuhotep II reunified Egypt about 2040 BCE, which begins the Middle Kingdom record."
 transitions:
 - year: -2134

@@ -20,6 +20,8 @@ point:
   name: Yazd
   latitude: 31.8972
   longitude: 54.3675
+colors:
+  1335: "#278647"
 transitions:
 - year: 1393
   kind: absorbed_into

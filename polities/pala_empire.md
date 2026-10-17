@@ -11,6 +11,8 @@ point:
   name: "Monghyr (Munger)"
   latitude: 25.3753
   longitude: 86.4734
+colors:
+  750: "#8fcd51"
 note: "The founding year is approximate. The end follows the usual chronology of Madanapala's loss of the remaining Bengal kingdom, not later rulers with Pala names in Bihar. Monghyr was an earlier seat; later kings governed from Bengal."
 transitions:
 - year: 1161

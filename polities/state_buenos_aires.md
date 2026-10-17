@@ -11,6 +11,8 @@ point:
   name: Buenos Aires
   latitude: -34.604
   longitude: -58.381
+colors:
+  1852: "#8fcd51"
 transitions:
 - year: 1852
   kind: broke_away_from

@@ -11,6 +11,8 @@ point:
   name: "Telavi"
   latitude: 41.919
   longitude: 45.473
+colors:
+  1014: "#b8cd51"
 note: "1014 follows Kvirike's recovery of local government after Bagrat III's death; consolidation of Hereti continued into the 1020s. Seljuk tribute did not replace its kings. Georgia's 1104 conquest did."
 transitions:
 - year: 1014

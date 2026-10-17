@@ -20,5 +20,7 @@ point:
   name: "Lower Dnieper"
   latitude: 47.3
   longitude: 34.5
+colors:
+  -650: "#278676"
 note: "Links the Scythia article. The royal Scythian kingdom on the Pontic steppe, ending with Ateas' death fighting Philip II. The point stands for the royal burials on the lower Dnieper."
 ---

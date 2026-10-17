@@ -20,6 +20,8 @@ point:
   name: Kamakura
   latitude: 35.3192
   longitude: 139.5467
+colors:
+  1185: "#8fcd51"
 transitions:
 - year: 1333
   kind: succeeded_by

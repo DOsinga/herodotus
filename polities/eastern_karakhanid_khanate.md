@@ -11,5 +11,7 @@ point:
   name: "Kashgar"
   latitude: 39.467
   longitude: 75.99
+colors:
+  1041: "#a3cd51"
 note: "The shared article covers both successor khanates. 1041 is the approximate partition date, also placed in 1042. Kashgar represents the later capital after Balasagun. The last khan's death in the 1211 Kashgar rebellion ended the government; Kuchlug subdued the rebels only in 1214."
 ---

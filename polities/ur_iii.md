@@ -20,6 +20,8 @@ point:
   name: "Ur"
   latitude: 30.96
   longitude: 46.1
+colors:
+  -2112: "#a3cd51"
 note: "Dates follow the middle chronology. Akkad's and Ur III's kings appointed and moved the city governors, so the city counts as absorbed while they ruled it. The Elamites sacked Ur and held it until Ishbi-Erra of Isin expelled them."
 transitions:
 - year: -2004

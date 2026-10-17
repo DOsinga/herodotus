@@ -11,6 +11,8 @@ point:
   name: Jakarta
   latitude: -6.18
   longitude: 106.83
+colors:
+  1945: "#274786"
 note: "Starts with the 1945 proclamation; the republic governed much of Java and Sumatra during the revolution. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1945

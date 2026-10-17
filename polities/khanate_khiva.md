@@ -22,6 +22,8 @@ point:
   name: "Khiva"
   latitude: 41.3783
   longitude: 60.3639
+colors:
+  1511: "#7acd51"
 note: "Russia made it a protectorate in 1873, taking over its foreign relations while the khan governed at home, so it counts as absorbed. It governed itself again after the Russian Revolution until the 1920 revolution established the Khorezm People's Soviet Republic."
 transitions:
 - year: 1873

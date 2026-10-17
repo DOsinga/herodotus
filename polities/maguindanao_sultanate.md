@@ -11,6 +11,8 @@ point:
   name: "Malabang"
   latitude: 7.5933
   longitude: 124.0722
+colors:
+  1515: "#cdb851"
 transitions:
 - year: 1899
   kind: absorbed_into

@@ -11,5 +11,7 @@ point:
   name: "El Mirador"
   latitude: 17.75
   longitude: -89.92
+colors:
+  -600: "#9d34b2"
 note: "Both dates are estimates for the largest Preclassic Maya city and its kingdom."
 ---

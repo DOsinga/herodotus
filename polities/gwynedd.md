@@ -19,6 +19,8 @@ point:
   name: "Aberffraw"
   latitude: 53.193
   longitude: -4.463
+colors:
+  500: "#278667"
 note: "500 estimates the early kingdom's emergence; Maelgwn is securely attested in the sixth century. Aberffraw represents its later principal court, not a fixed capital throughout. English overlordship and losses of territory did not end its own princes' government; the 1283 capture of Dafydd did."
 transitions:
 - year: 1283

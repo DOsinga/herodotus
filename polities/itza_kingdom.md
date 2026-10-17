@@ -11,6 +11,8 @@ point:
   name: Nojpetén
   latitude: 16.9333
   longitude: -89.8833
+colors:
+  1441: "#cd5151"
 transitions:
 - year: 1697
   kind: absorbed_into

@@ -11,6 +11,8 @@ point:
   name: "Trusty's Hill"
   latitude: 54.884
   longitude: -4.18
+colors:
+  500: "#345eb2"
 note: "500 and 650 estimate the life of the Brittonic kingdom known from the Urien poems and later genealogies. Its absorption into the Bernician realm is conventionally associated with the mid-seventh century; the exact date is not known. Trusty's Hill is one proposed royal centre, not proof of a single fixed capital."
 transitions:
 - year: 650

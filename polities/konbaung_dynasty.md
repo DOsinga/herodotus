@@ -20,6 +20,8 @@ point:
   name: Ava
   latitude: 21.858
   longitude: 95.985
+colors:
+  1752: "#678627"
 transitions:
 - year: 1885
   kind: absorbed_into

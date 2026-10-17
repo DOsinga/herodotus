@@ -21,5 +21,7 @@ point:
   name: "Maranga"
   latitude: -12.064
   longitude: -77.087
+colors:
+  100: "#b28834"
 note: "100–750 estimates the regional governing centre in the Rimac valley from monumental construction and its terminal Lima sequence. Links the culture history because no separate English article covers its government. This is not a country made from all Lima-style pottery; Wari artistic influence alone is not used as an annexation date."
 ---

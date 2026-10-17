@@ -21,6 +21,8 @@ point:
   name: "Lealui"
   latitude: -15.2167
   longitude: 23.0167
+colors:
+  1650: "#51cd51"
 note: "1650 estimates the seventeenth-century founding. Gap for Makololo rule from about 1840 to 1864. Ends with the Lochner Concession of 1890, which handed the kingdom's foreign relations to the British South Africa Company. Lealui was the capital from 1878."
 transitions:
 - year: 1890

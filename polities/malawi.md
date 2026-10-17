@@ -19,6 +19,8 @@ point:
   name: Lilongwe
   latitude: -13.9864
   longitude: 33.7681
+colors:
+  1964: "#51b8cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1964

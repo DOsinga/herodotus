@@ -11,6 +11,8 @@ point:
   name: Yaoundé
   latitude: 3.8667
   longitude: 11.5167
+colors:
+  1960: "#862786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

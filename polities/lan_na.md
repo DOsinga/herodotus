@@ -16,6 +16,8 @@ point:
   name: Chiang Mai
   latitude: 18.7883
   longitude: 98.9853
+colors:
+  1292: "#cd51cd"
 transitions:
 - year: 1558
   kind: absorbed_into

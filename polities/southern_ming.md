@@ -11,6 +11,8 @@ point:
   name: Zhaoqing
   latitude: 23.05
   longitude: 112.47
+colors:
+  1644: "#273786"
 transitions:
 - year: 1662
   kind: absorbed_into

@@ -19,6 +19,8 @@ point:
   name: "Yangjumie (Dali)"
   latitude: 25.6944
   longitude: 100.1556
+colors:
+  902: "#378627"
 note: "Zheng Maisi's coup replaced the Nanzhao regime while keeping its territorial government. Dates follow the conventional 902–928 state chronology; ruler lists sometimes place the individual accessions a year differently."
 transitions:
 - year: 928

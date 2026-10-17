@@ -19,5 +19,7 @@ point:
   name: Ardara
   latitude: 40.6211
   longitude: 8.8114
+colors:
+  1000: "#cd51b8"
 note: "1000 is an estimate; the judicates grew out of Byzantine Sardinia during the tenth century, and the rulers of Logudoro are securely known from the eleventh. Porto Torres was the first seat."
 ---

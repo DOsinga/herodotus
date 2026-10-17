@@ -19,6 +19,8 @@ point:
   name: Salt Lake City
   latitude: 40.7608
   longitude: -111.8911
+colors:
+  1847: "#b29d34"
 note: "Starts with the arrival of the Mormon settlers in 1847; the church's high council governed the valley until the provisional state was organised in 1849. Ends when the territorial government took over in 1851."
 transitions:
 - year: 1851

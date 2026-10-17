@@ -11,6 +11,8 @@ point:
   name: Honolulu
   latitude: 21.3
   longitude: -157.85
+colors:
+  1795: "#866727"
 transitions:
 - year: 1893
   kind: succeeded_by

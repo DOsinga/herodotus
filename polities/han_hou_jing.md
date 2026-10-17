@@ -11,6 +11,8 @@ point:
   name: "Jiankang"
   latitude: 32.06
   longitude: 118.797
+colors:
+  549: "#862737"
 note: "Records Hou Jing's separate territorial government from his capture of Jiankang in 549, before his Han imperial proclamation at the beginning of 552. The surviving Liang court governed elsewhere. Links the ruler's article; ends with the Liang recapture of the capital."
 transitions:
 - year: 549

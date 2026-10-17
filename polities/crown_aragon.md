@@ -20,6 +20,10 @@ point:
   name: Zaragoza
   latitude: 41.6488
   longitude: -0.8891
+colors:
+  1162: "#49b234"
+  1354: "#49b234"
+  1379: "#868627"
 transitions:
 - year: 1479
   kind: merged_into

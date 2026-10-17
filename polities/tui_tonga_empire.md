@@ -21,6 +21,8 @@ point:
   name: "Muʻa"
   latitude: -21.1792
   longitude: -175.117
+colors:
+  950: "#278676"
 note: "Recorded as a chiefdom: the Tuʻi Tonga were sacred paramount chiefs over a network of island chiefdoms, not the heads of a state with its own administration."
 transitions:
 - year: 1535

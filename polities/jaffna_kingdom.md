@@ -22,6 +22,8 @@ point:
   name: "Nallur"
   latitude: 9.674
   longitude: 80.029
+colors:
+  1215: "#cd51b8"
 note: "Kotte's prince Sapumal Kumaraya conquered Jaffna in 1450 and governed it for Kotte until the Aryacakravarti line returned in 1467. The dates follow the conventional chronology."
 transitions:
 - year: 1450

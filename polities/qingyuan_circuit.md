@@ -18,6 +18,8 @@ point:
   name: Quanzhou
   latitude: 24.8744
   longitude: 118.6757
+colors:
+  949: "#3434b2"
 note: "Begins with the creation of the circuit for Liu Congxiao in 949, although he had held Quanzhou since 946 and acted on his own from 947."
 transitions:
 - year: 949

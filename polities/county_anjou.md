@@ -18,6 +18,8 @@ point:
   name: Angers
   latitude: 47.4736
   longitude: -0.5542
+colors:
+  930: "#cda351"
 note: "930 estimates when Fulk the Red's hereditary rule began; he is first called count in 929. The Angevin kings of England from 1154 kept Anjou as a separate county, so the personal union does not end it. Ends with Philip II's conquest of 1204."
 transitions:
 - year: 1204

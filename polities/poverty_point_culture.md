@@ -21,5 +21,7 @@ point:
   name: "Poverty Point"
   latitude: 32.64
   longitude: -91.41
+colors:
+  -1700: "#51cd66"
 note: "Links the article on the site. Both dates are estimates."
 ---

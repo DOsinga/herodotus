@@ -20,6 +20,8 @@ point:
   name: Sukhumi
   latitude: 43.0036
   longitude: 41.0192
+colors:
+  1993: "#867627"
 note: "Governs its territory without wide international recognition. Starts with the end of the 1992–1993 war. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1993

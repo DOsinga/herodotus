@@ -20,6 +20,8 @@ point:
   name: "Chengdu"
   latitude: 30.66
   longitude: 104.0633
+colors:
+  -1000: "#b23449"
 note: "1000 BCE estimates the kingdom, outside Zhou control; the Sanxingdui culture precedes it. Qin conquered it."
 transitions:
 - year: -316

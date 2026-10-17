@@ -20,6 +20,8 @@ point:
   name: "Carchemish"
   latitude: 36.83
   longitude: 38.01
+colors:
+  -1180: "#372786"
 note: "The Hittite viceroys' kingdom survived the collapse. Sargon II annexed it."
 transitions:
 - year: -717

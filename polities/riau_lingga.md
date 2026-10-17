@@ -18,6 +18,8 @@ point:
   name: "Daik"
   latitude: -0.17
   longitude: 104.6
+colors:
+  1824: "#51cd51"
 note: "Ends with the 1857 treaty that placed it under Dutch sovereignty and handed its foreign relations to the Dutch, which counts as absorption; the Dutch deposed its last sultan in 1911."
 transitions:
 - year: 1857

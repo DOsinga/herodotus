@@ -11,6 +11,8 @@ point:
   name: "Uraiyur"
   latitude: 10.8308
   longitude: 78.6799
+colors:
+  -300: "#867627"
 note: "Both dates are estimates, matching the early Pandya record; the Kalabhras ended Chola rule."
 transitions:
 - year: 250

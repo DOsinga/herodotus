@@ -19,6 +19,8 @@ point:
   name: Bogotá
   latitude: 4.711
   longitude: -74.0721
+colors:
+  1810: "#278667"
 note: "Starts with the junta of 20 July 1810, which Cundinamarca's constitution of 1811 continued."
 transitions:
 - year: 1810

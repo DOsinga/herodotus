@@ -21,5 +21,7 @@ point:
   name: "Hallstatt"
   latitude: 47.56
   longitude: 13.65
+colors:
+  -800: "#cdcd51"
 note: "Both dates are estimates for the late Hallstatt chiefly centres of central Europe; the La Tène culture follows."
 ---

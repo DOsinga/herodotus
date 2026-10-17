@@ -19,6 +19,8 @@ point:
   name: "Tundama (Duitama)"
   latitude: 5.827
   longitude: -73.03
+colors:
+  1450: "#349db2"
 note: "One of several independent Muisca confederations. 1450 estimates its historical rulers; Tundama resisted until 1539."
 transitions:
 - year: 1539

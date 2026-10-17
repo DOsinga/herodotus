@@ -21,6 +21,10 @@ point:
   name: The Hague
   latitude: 52.08
   longitude: 4.31
+colors:
+  1250: "#7acd51"
+  1325: "#7acd51"
+  1350: "#34b234"
 note: "Joined with Hainaut from 1299. Jacqueline of Hainaut gave Holland up to Philip the Good of Burgundy in 1433 after a long war."
 transitions:
 - year: 1433

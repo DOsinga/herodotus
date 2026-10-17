@@ -20,6 +20,8 @@ point:
   name: Moscow
   latitude: 55.7558
   longitude: 37.6173
+colors:
+  1263: "#51cd7a"
 transitions:
 - year: 1547
   kind: succeeded_by

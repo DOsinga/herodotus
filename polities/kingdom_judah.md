@@ -20,6 +20,8 @@ point:
   name: "Jerusalem"
   latitude: 31.78
   longitude: 35.23
+colors:
+  -930: "#345eb2"
 note: "An Assyrian and then Babylonian tributary that kept its kings and army until Nebuchadnezzar destroyed Jerusalem."
 transitions:
 - year: -587

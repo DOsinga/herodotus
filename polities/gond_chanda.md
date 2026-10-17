@@ -18,6 +18,8 @@ point:
   name: Chandrapur
   latitude: 19.95
   longitude: 79.297
+colors:
+  1320: "#b23473"
 note: "The start rests on local tradition, which dates the founding to about 1320. The capital was at Sirpur until Khandkya Ballal Shah moved it to Ballarpur and then Chandrapur after 1472; the point is at Chandrapur."
 transitions:
 - year: 1751

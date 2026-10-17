@@ -20,6 +20,8 @@ point:
   name: "Shravasti"
   latitude: 27.5171
   longitude: 82.0506
+colors:
+  -700: "#b851cd"
 note: "The end estimates Magadha's conquest in Ajatashatru's reign."
 transitions:
 - year: -491

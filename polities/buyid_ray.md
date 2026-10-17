@@ -21,6 +21,8 @@ point:
   name: "Ray"
   latitude: 35.583
   longitude: 51.433
+colors:
+  935: "#cdb851"
 note: "The shared dynasty article covers the regional states. Rukn al-Dawla's government began at Isfahan in about 935; Ray became his capital in 943. The Samanids expelled him from central Iran in 945. Restoration is approximately dated 947, also given as 946. Other Buyid rulers' seniority did not extinguish its own court. Separate branches in Jibal are not all included here."
 transitions:
 - year: 945

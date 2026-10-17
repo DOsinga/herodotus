@@ -19,6 +19,8 @@ point:
   name: "Ujjain"
   latitude: 23.17
   longitude: 75.79
+colors:
+  -700: "#34b234"
 note: "The end estimates the Shishunaga conquest."
 transitions:
 - year: -400

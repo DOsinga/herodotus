@@ -20,6 +20,8 @@ point:
   name: Lomé
   latitude: 6.1308
   longitude: 1.2153
+colors:
+  1960: "#862776"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

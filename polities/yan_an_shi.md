@@ -19,6 +19,8 @@ point:
   name: "Luoyang"
   latitude: 34.6197
   longitude: 112.454
+colors:
+  756: "#cd6651"
 note: "The rebel rulers exercised government in captured territories, rather than merely claiming a throne. Luoyang was a principal seat; the court also used Yecheng and Fanyang. Tang government continued elsewhere."
 transitions:
 - year: 756

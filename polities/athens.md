@@ -25,6 +25,8 @@ point:
   name: "Athens"
   latitude: 37.9842
   longitude: 23.7281
+colors:
+  -508: "#cd7a51"
 note: "Starts with Cleisthenes' reforms. Macedonian garrisons and imposed regimes are gaps: Antipater and then Cassander's governor Demetrius of Phalerum from 322 BCE, until Demetrius Poliorcetes restored the democracy in 307 BCE; Demetrius' own garrison from 294 to 287 BCE; and Antigonus II's from 262 to 229 BCE after the Chremonidean War. Sulla's sack of 86 BCE ended its independent policy."
 transitions:
 - year: -322

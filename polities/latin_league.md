@@ -19,6 +19,8 @@ point:
   name: "Lavinium"
   latitude: 41.6616
   longitude: 12.4784
+colors:
+  -500: "#34b2b2"
 note: "500 BCE estimates the league of Latin cities alongside Rome; Rome dissolved it after the Latin War."
 transitions:
 - year: -338

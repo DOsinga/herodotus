@@ -18,5 +18,7 @@ point:
   name: "Xultun"
   latitude: 17.5
   longitude: -89.4
+colors:
+  400: "#862757"
 note: "400 estimates the Early Classic royal court known from inscriptions; 900 estimates its collapse after the last dated royal monument in 889. Earlier occupation is not used as a precise political foundation date."
 ---

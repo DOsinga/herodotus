@@ -21,6 +21,8 @@ point:
   name: Shigatse
   latitude: 29.267
   longitude: 88.881
+colors:
+  1565: "#a351cd"
 transitions:
 - year: 1642
   kind: absorbed_into

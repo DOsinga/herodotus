@@ -19,5 +19,7 @@ point:
   name: "Lower Nubia"
   latitude: 22.4
   longitude: 31.6
+colors:
+  -3800: "#cd51cd"
 note: "Both dates are estimates. The point is representative."
 ---

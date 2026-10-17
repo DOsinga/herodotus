@@ -21,5 +21,7 @@ point:
   name: "Pukará"
   latitude: -15.05
   longitude: -70.37
+colors:
+  -500: "#51cd8f"
 note: "Both dates are estimates for the Titicaca basin before Tiwanaku."
 ---

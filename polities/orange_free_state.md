@@ -20,6 +20,8 @@ point:
   name: Bloemfontein
   latitude: -29.1167
   longitude: 26.2167
+colors:
+  1854: "#34b2b2"
 transitions:
 - year: 1902
   kind: absorbed_into

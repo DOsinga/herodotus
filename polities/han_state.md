@@ -11,6 +11,8 @@ point:
   name: "Xinzheng"
   latitude: 34.3964
   longitude: 113.7402
+colors:
+  -453: "#66cd51"
 note: "Starts in 453 BCE, when the Han family, with the other two, destroyed the Zhi clan and governed its share of Jin as its own; the Zhou king's recognition in 403 BCE made it formal. Xinzheng was the capital from 375 BCE. Qin conquered it first."
 transitions:
 - year: -453

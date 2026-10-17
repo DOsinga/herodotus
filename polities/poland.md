@@ -13,5 +13,7 @@ point:
   name: Warsaw
   latitude: 52.23
   longitude: 21.0111
+colors:
+  1918: "#277686"
 note: "Gap for the German and Soviet occupation, when the government was in exile. Links the country article. Changes of regime are not split into separate records."
 ---

@@ -13,6 +13,12 @@ point:
   name: "Würzburg"
   latitude: 49.783
   longitude: 9.933
+colors:
+  1250: "#762786"
+  1404: "#762786"
+  1429: "#b29d34"
+  1680: "#b29d34"
+  1705: "#34b234"
 note: "Gap for the Swedish occupation of 1631 to 1634, when the bishop fled and Sweden governed the land, from 1633 as Bernhard of Saxe-Weimar's Duchy of Franconia. Secularised and given to Bavaria in 1803; the grand duchy of 1805–1814 is a separate record."
 transitions:
 - year: 1631

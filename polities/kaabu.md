@@ -19,6 +19,8 @@ point:
   name: "Kansala"
   latitude: 12.5364
   longitude: -14.1947
+colors:
+  1537: "#274786"
 note: "1537 is the conventional date for independence from Mali given by Wikipedia; the break was gradual."
 transitions:
 - year: 1867

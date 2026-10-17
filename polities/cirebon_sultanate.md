@@ -18,6 +18,8 @@ point:
   name: Cirebon
   latitude: -6.7071
   longitude: 108.5574
+colors:
+  1482: "#278657"
 note: >-
   1482 follows Sunan Gunungjati's letter proclaiming independence from Sunda; the settlement is older.
   Cirebon accepted Mataram's overlordship in the seventeenth century while governing itself. The 1681

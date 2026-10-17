@@ -18,6 +18,8 @@ point:
   name: Bukkur
   latitude: 27.713
   longitude: 68.864
+colors:
+  1520: "#862767"
 note: >-
   Links the dynasty article. The Tarkhan rulers of 1554 to 1591 are kept in this record, as the
   article treats them as a branch of the Arghuns and they governed the same state from Thatta. Ends

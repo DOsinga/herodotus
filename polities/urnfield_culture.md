@@ -22,5 +22,7 @@ point:
   name: "Southern Germany"
   latitude: 48.5
   longitude: 11.0
+colors:
+  -1300: "#cd517a"
 note: "Both dates are estimates; the point is representative. Hallstatt follows."
 ---

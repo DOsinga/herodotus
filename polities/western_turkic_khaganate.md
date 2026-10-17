@@ -19,6 +19,8 @@ point:
   name: "Suyab"
   latitude: 42.809
   longitude: 75.199
+colors:
+  603: "#b23449"
 note: "Dates the separate western state from the final division in 603, not the earlier western administrative wing. Ends with Su Dingfang's conquest of Ashina Helu in 657; later Tang-appointed nominal khagans are not a continuation of this government. Suyab represents the later main court."
 transitions:
 - year: 657

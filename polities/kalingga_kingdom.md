@@ -20,6 +20,8 @@ point:
   name: "Jepara"
   latitude: -6.59
   longitude: 110.67
+colors:
+  550: "#a351cd"
 note: "550 estimates the sixth-century northern Javanese court known as Ho-ling in Chinese accounts. 732 conventionally marks its replacement by the Medang government associated with Sanjaya; the connection between the courts is partly traditional. Jepara is one proposed location, not a securely identified capital."
 transitions:
 - year: 732

@@ -11,6 +11,10 @@ point:
   name: Cairo
   latitude: 30.0444
   longitude: 31.2357
+colors:
+  1250: "#278676"
+  1350: "#278676"
+  1375: "#472786"
 transitions:
 - year: 1517
   kind: absorbed_into

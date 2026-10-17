@@ -20,6 +20,8 @@ point:
   name: Cap-Haïtien
   latitude: 19.76
   longitude: -72.2
+colors:
+  1806: "#868627"
 note: "Henri Christophe's northern government, the State of Haiti until he took the royal title in 1811. The Haiti record follows Pétion's southern republic, which reunited the country in 1820."
 transitions:
 - year: 1806

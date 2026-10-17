@@ -20,6 +20,8 @@ point:
   name: Marrakesh
   latitude: 31.6295
   longitude: -7.9811
+colors:
+  1130: "#5151cd"
 transitions:
 - year: 1269
   kind: absorbed_into

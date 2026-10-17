@@ -20,6 +20,8 @@ point:
   name: "Pataliputra"
   latitude: 25.5939
   longitude: 85.1375
+colors:
+  -73: "#863727"
 note: "The dynasty name is the conventional name for the state. The Satavahanas ended it."
 transitions:
 - year: -28

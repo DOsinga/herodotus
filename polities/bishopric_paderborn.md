@@ -18,6 +18,8 @@ point:
   name: Paderborn
   latitude: 51.7189
   longitude: 8.7575
+colors:
+  1250: "#cd5166"
 note: "Starts with the end of royal government in Germany in 1250; Wikipedia dates the principality from 1281. Prussian troops occupied it in 1802."
 transitions:
 - year: 1802

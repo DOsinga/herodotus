@@ -19,6 +19,8 @@ point:
   name: Cusco
   latitude: -13.5169
   longitude: -71.9786
+colors:
+  1200: "#3473b2"
 transitions:
 - year: 1438
   kind: succeeded_by

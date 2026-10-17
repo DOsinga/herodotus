@@ -11,6 +11,8 @@ point:
   name: "Timna"
   latitude: 14.73
   longitude: 45.93
+colors:
+  -400: "#cd518f"
 note: "Both dates are estimates; Hadramawt conquered it in the late second century."
 transitions:
 - year: 200

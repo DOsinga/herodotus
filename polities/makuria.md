@@ -16,5 +16,9 @@ point:
   name: Old Dongola
   latitude: 18.223
   longitude: 30.744
+colors:
+  450: "#517acd"
+  945: "#517acd"
+  970: "#b851cd"
 note: "Start estimated (5th century). Mamluk interventions installed several kings from 1276 but did not govern the kingdom directly. Ends when Old Dongola was abandoned in 1365; the rump kingdom of Dotawo, which lasted into the late 15th century, is not shown."
 ---

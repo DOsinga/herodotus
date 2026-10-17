@@ -20,6 +20,8 @@ point:
   name: Marienburg
   latitude: 54.0333
   longitude: 19.0333
+colors:
+  1226: "#278676"
 transitions:
 - year: 1525
   kind: succeeded_by

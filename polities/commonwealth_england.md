@@ -21,6 +21,8 @@ point:
   name: "London"
   latitude: 51.5074
   longitude: -0.1278
+colors:
+  1649: "#b851cd"
 transitions:
 - year: 1660
   kind: split_into

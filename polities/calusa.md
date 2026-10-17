@@ -20,5 +20,7 @@ point:
   name: Mound Key
   latitude: 26.4222
   longitude: -81.8653
+colors:
+  1000: "#867627"
 note: "The start is an estimate for the rise of the Calusa chiefdom from the earlier Caloosahatchee culture. Ends in 1711, when survivors of the slave raids were evacuated to Cuba; the Spanish fort of 1566–1569 at Calos did not take over its government."
 ---

@@ -19,6 +19,8 @@ point:
   name: Oregon City
   latitude: 45.3569
   longitude: -122.6067
+colors:
+  1843: "#b25e34"
 transitions:
 - year: 1849
   kind: absorbed_into

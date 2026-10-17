@@ -21,5 +21,7 @@ point:
   name: "Lefkandi"
   latitude: 38.47
   longitude: 23.58
+colors:
+  -1100: "#a351cd"
 note: "Both dates are conventional. Lefkandi stands as the point. The city states that follow are recorded from the eighth century."
 ---

@@ -20,6 +20,8 @@ point:
   name: "Samatata"
   latitude: 23.47
   longitude: 91.13
+colors:
+  550: "#49b234"
 note: "550 estimates the sixth-century royal court known through the Bhadra ancestry of Shilabhadra. 658 estimates its replacement during Devakhadga's expansion into Samatata; the royal chronology is poorly known. Mainamati represents the region, not a securely identified Bhadra capital."
 transitions:
 - year: 658

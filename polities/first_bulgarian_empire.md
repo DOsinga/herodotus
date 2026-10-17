@@ -22,6 +22,8 @@ point:
   name: "Ohrid"
   latitude: 41.123
   longitude: 20.801
+colors:
+  681: "#6651cd"
 note: "Ohrid represents the later western government; earlier capitals included Pliska and Preslav. Byzantine conquest of the eastern capital in 971 did not extinguish the surviving Bulgarian state, which ended in 1018."
 transitions:
 - year: 1018

@@ -20,6 +20,8 @@ point:
   name: "Bacatá (Funza)"
   latitude: 4.716
   longitude: -74.212
+colors:
+  1450: "#378627"
 note: "One of several independent Muisca confederations, which were not a single state. 1450 estimates the rise of the zipas recorded in the chronicles; Spanish government starts with the founding of Bogotá in 1538."
 transitions:
 - year: 1538

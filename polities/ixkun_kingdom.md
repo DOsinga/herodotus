@@ -20,5 +20,7 @@ point:
   name: "Ixkun"
   latitude: 16.383
   longitude: -89.405
+colors:
+  600: "#b28834"
 note: "600 estimates the Late Classic governing centre before its named eighth-century rulers and wars. 950 estimates the end of its substantial Terminal Classic government. The point marks the capital of its own upper Mopan valley kingdom, not every site in that valley."
 ---

@@ -20,6 +20,8 @@ point:
   name: Georgetown
   latitude: 6.8011
   longitude: -58.155
+colors:
+  1966: "#867627"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1966

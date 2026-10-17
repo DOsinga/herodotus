@@ -20,6 +20,8 @@ point:
   name: Erzincan
   latitude: 39.7464
   longitude: 39.4914
+colors:
+  1072: "#b234b2"
 note: "The start is estimated from the conquests after Manzikert. The record follows the Erzincan branch; the Divriği branch, a minor Seljuk vassal until 1277, is left out."
 transitions:
 - year: 1228

@@ -20,6 +20,8 @@ point:
   name: Orugallu
   latitude: 17.9569
   longitude: 79.6158
+colors:
+  1163: "#274786"
 transitions:
 - year: 1323
   kind: absorbed_into

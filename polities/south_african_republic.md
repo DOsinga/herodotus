@@ -22,6 +22,8 @@ point:
   name: Pretoria
   latitude: -25.7461
   longitude: 28.1881
+colors:
+  1852: "#472786"
 note: "Gap for the British annexation of 1877; the Boer provisional government re-formed in December 1880."
 transitions:
 - year: 1877

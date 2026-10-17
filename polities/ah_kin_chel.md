@@ -19,6 +19,8 @@ point:
   name: Izamal
   latitude: 20.9314
   longitude: -89.0178
+colors:
+  1441: "#867627"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1543."
 transitions:
 - year: 1543

@@ -21,6 +21,8 @@ point:
   name: "Banavasi"
   latitude: 14.535
   longitude: 75.01
+colors:
+  345: "#cd5166"
 note: "345 estimates Mayurasharma's foundation. The native Banavasi court was separate from the rival Triparvata line; Krishnavarma II conquered it around 530. The later survival of Kadamba families is not treated as continued rule by this court."
 transitions:
 - year: 530

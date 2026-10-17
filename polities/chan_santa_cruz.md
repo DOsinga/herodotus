@@ -19,6 +19,8 @@ point:
   name: Chan Santa Cruz
   latitude: 19.5786
   longitude: -88.0453
+colors:
+  1850: "#275786"
 note: "Starts with the founding of the shrine of the speaking cross in 1850. Resistance continued in the forest after the Mexican occupation of 1901, but the state ends there."
 transitions:
 - year: 1850

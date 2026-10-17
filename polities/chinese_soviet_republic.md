@@ -20,6 +20,8 @@ point:
   name: Ruijin
   latitude: 25.886
   longitude: 116.027
+colors:
+  1931: "#278637"
 transitions:
 - year: 1931
   kind: broke_away_from

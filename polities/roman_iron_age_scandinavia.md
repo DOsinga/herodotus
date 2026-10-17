@@ -22,5 +22,7 @@ point:
   name: "Gudme"
   latitude: 55.7
   longitude: 10.6
+colors:
+  1: "#517acd"
 note: "Links the closest article, on northern European archaeology. Both dates are conventional; Gudme on Funen, a major centre, stands as the point. The Geatish and Swedish kingdoms follow from 500."
 ---

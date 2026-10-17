@@ -18,6 +18,8 @@ point:
   name: "Tortosa"
   latitude: 40.81
   longitude: 0.52
+colors:
+  1010: "#5166cd"
 note: "The second Tortosa taifa of 1081–1099 was part of al-Mundhir's realm, recorded under the Taifa of Lleida."
 transitions:
 - year: 1060

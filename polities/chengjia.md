@@ -18,6 +18,8 @@ point:
   name: Chengdu
   latitude: 30.5728
   longitude: 104.0668
+colors:
+  25: "#275786"
 transitions:
 - year: 25
   kind: broke_away_from

@@ -11,6 +11,8 @@ point:
   name: Nanjing
   latitude: 32.061
   longitude: 118.779
+colors:
+  1851: "#3449b2"
 transitions:
 - year: 1851
   kind: broke_away_from

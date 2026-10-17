@@ -17,5 +17,7 @@ point:
   name: "Vinča"
   latitude: 44.76
   longitude: 20.62
+colors:
+  -5700: "#73b234"
 note: "Both dates are estimates."
 ---

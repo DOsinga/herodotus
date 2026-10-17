@@ -18,6 +18,8 @@ point:
   name: Yarkand
   latitude: 38.39
   longitude: 77.22
+colors:
+  1465: "#3488b2"
 note: "No article treats the kingdom as a state; this links Abu Bakr's biography. The start in 1465 is the date given for his seizure of Yarkand; when he took Khotan is not certain, and it is placed with Kashgar in 1480. Ahmad Alaq's brief hold on Kashgar in 1499 is not shown."
 transitions:
 - year: 1465

@@ -11,6 +11,8 @@ point:
   name: "Esztergom"
   latitude: 47.786
   longitude: 18.741
+colors:
+  895: "#275786"
 note: "895 is the conventional estimate for the Magyar establishment in the Carpathian Basin. Esztergom became a royal centre later in the tenth century. The coronation of Stephen, dated Christmas 1000 or New Year 1001, is recorded in 1000 to match the existing kingdom."
 transitions:
 - year: 1000

@@ -19,6 +19,8 @@ point:
   name: Kumasi
   latitude: 6.7
   longitude: -1.625
+colors:
+  1701: "#cd518f"
 note: "Ends in 1896, when the British occupied Kumasi and exiled Prempeh I; formal annexation followed in 1901."
 transitions:
 - year: 1896

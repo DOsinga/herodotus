@@ -21,6 +21,8 @@ point:
   name: "Yotkan"
   latitude: 36.99
   longitude: 79.86
+colors:
+  -300: "#273786"
 note: "The founding around 300 BCE is an estimate from early traditions and archaeology, not a secure accession date. The native royal government survived long periods of Chinese and Tibetan overlordship. 1006 is the Karakhanid conquest. The point is at the old Yotkan capital west of modern Hotan, approximately located."
 transitions:
 - year: 1006

@@ -19,6 +19,8 @@ point:
   name: Riyadh
   latitude: 24.638
   longitude: 46.715
+colors:
+  1824: "#b23488"
 transitions:
 - year: 1891
   kind: absorbed_into

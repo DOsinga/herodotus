@@ -23,6 +23,12 @@ point:
   name: Roskilde
   latitude: 55.65
   longitude: 12.083
+colors:
+  936: "#b8cd51"
+  1213: "#b8cd51"
+  1238: "#cd51cd"
+  1315: "#cd51cd"
+  1340: "#b23488"
 note: "No article covers the medieval kingdom on its own, so the link is to the history of Denmark. Start estimated from Gorm the Old's reign. Gap for the kingless interregnum of 1332–1340, when Holstein counts held and governed the kingdom."
 transitions:
 - year: 1397

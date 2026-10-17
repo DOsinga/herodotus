@@ -20,6 +20,8 @@ point:
   name: "Danamombe"
   latitude: -19.947
   longitude: 29.331
+colors:
+  1683: "#cd518f"
 transitions:
 - year: 1866
   kind: absorbed_into

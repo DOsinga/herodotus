@@ -17,5 +17,7 @@ point:
   name: "El Argar"
   latitude: 37.18
   longitude: -1.82
+colors:
+  -2200: "#672786"
 note: "Both dates are estimates."
 ---

@@ -18,6 +18,8 @@ point:
   name: Leuven
   latitude: 50.883
   longitude: 4.7
+colors:
+  1250: "#9d34b2"
 note: "Philip the Good of Burgundy inherited Brabant in 1430."
 transitions:
 - year: 1430

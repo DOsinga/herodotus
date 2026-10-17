@@ -20,6 +20,10 @@ point:
   name: "Silves"
   latitude: 37.19
   longitude: -8.44
+colors:
+  1027: "#cd5166"
+  1120: "#cd5166"
+  1145: "#275786"
 note: "Two periods: the Banu Muzayn kingdom, taken by Seville in 1063, and the taifa of 1145–1150, taken by the Almohads."
 transitions:
 - year: 1063

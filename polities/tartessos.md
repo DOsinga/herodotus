@@ -20,5 +20,7 @@ point:
   name: "Lower Guadalquivir"
   latitude: 37.25
   longitude: -6.5
+colors:
+  -900: "#b2349d"
 note: "Both dates are estimates; the location of its centre is unknown. Greek sources name a king, Arganthonios."
 ---

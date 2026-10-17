@@ -21,6 +21,8 @@ point:
   name: "Itjtawy"
   latitude: 29.57
   longitude: 31.25
+colors:
+  -2040: "#278647"
 note: "Starts with Mentuhotep II's reunification. Thebes was the seat until the Twelfth Dynasty founded Itjtawy, whose site is not located exactly. The Thirteenth Dynasty is kept in this record until the Hyksos took Memphis."
 transitions:
 - year: -1650

@@ -19,6 +19,8 @@ point:
   name: "Kano"
   latitude: 12
   longitude: 8.5167
+colors:
+  999: "#518fcd"
 note: "999 is the traditional estimate for Bagauda's establishment in the Kano Chronicle, not a securely dated founding event. The first rulers used Sheme before Kano became the main seat. Ends around 1350 with the reign of Yaji, when the Islamic monarchy recorded as the Sultanate of Kano begins; the two records used to overlap."
 transitions:
 - year: 1350

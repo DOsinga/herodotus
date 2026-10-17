@@ -20,6 +20,8 @@ point:
   name: Benin City
   latitude: 6.335
   longitude: 5.6037
+colors:
+  1180: "#cdcd51"
 transitions:
 - year: 1897
   kind: absorbed_into

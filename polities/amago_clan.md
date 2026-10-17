@@ -18,6 +18,8 @@ point:
   name: Gassantoda Castle
   latitude: 35.3636
   longitude: 133.1828
+colors:
+  1486: "#278686"
 note: "Begins with Tsunehisa's recapture of Gassantoda in 1486. Amago Katsuhisa's later attempts to restore the house as an Oda ally are not counted. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1486

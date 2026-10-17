@@ -22,5 +22,7 @@ point:
   name: "Hemudu"
   latitude: 30.03
   longitude: 121.36
+colors:
+  -5500: "#278637"
 note: "Both dates are estimates. The Liangzhu culture follows."
 ---

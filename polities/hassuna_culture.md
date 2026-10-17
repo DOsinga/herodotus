@@ -12,5 +12,7 @@ point:
   name: "Hassuna"
   latitude: 36.1
   longitude: 43.1
+colors:
+  -6500: "#51a3cd"
 note: "Both dates are estimates."
 ---

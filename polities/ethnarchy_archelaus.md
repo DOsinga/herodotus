@@ -19,6 +19,8 @@ point:
   name: "Jerusalem"
   latitude: 31.78
   longitude: 35.23
+colors:
+  -4: "#272786"
 note: "Links Archelaus' article. Judea, Samaria and Idumea under Herod's son; Augustus deposed him and Roman prefects governed Judea from 6."
 transitions:
 - year: 6

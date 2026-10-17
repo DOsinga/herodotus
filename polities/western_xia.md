@@ -21,6 +21,8 @@ point:
   name: Xingqing
   latitude: 38.4667
   longitude: 106.2667
+colors:
+  1038: "#b8cd51"
 transitions:
 - year: 1227
   kind: absorbed_into

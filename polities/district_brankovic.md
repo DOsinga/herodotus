@@ -11,6 +11,8 @@ point:
   name: Priština
   latitude: 42.6629
   longitude: 21.1655
+colors:
+  1371: "#66cd51"
 transitions:
 - year: 1412
   kind: absorbed_into

@@ -11,6 +11,8 @@ point:
   name: Bukhara
   latitude: 39.7747
   longitude: 64.4286
+colors:
+  1501: "#b23434"
 transitions:
 - year: 1785
   kind: succeeded_by

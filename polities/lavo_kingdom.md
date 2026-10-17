@@ -24,6 +24,8 @@ point:
   name: "Lavapura (Lopburi)"
   latitude: 14.8
   longitude: 100.65
+colors:
+  648: "#a351cd"
 note: "648 is a traditional estimate for its foundation. This follows the Lopburi government, not an umbrella over every Dvaravati city or the separate Ayodhya court. Angkor's conquest around 1001 and renewed rule from 1181 interrupt local government; 1052 and 1218 follow the conventional restorations. The later court was incorporated into Ayutthaya in 1388."
 transitions:
 - year: 1001

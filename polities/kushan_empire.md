@@ -21,5 +21,7 @@ point:
   name: "Purushapura"
   latitude: 34.0144
   longitude: 71.5675
+colors:
+  30: "#b29d34"
 note: "30 estimates Kujula Kadphises' union of the Yuezhi. The Sasanians took Bactria about 230; the later Kushan kings in Gandhara and Punjab are kept in this record until the Kidarite conquest, estimated at 375."
 ---

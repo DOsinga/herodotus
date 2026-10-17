@@ -18,6 +18,8 @@ point:
   name: Mandla
   latitude: 22.5978
   longitude: 80.3714
+colors:
+  1440: "#278637"
 note: >-
   1440 follows the article and is approximate. The Mughal conquest of 1564 took Garha itself and
   much of the land, but the Gond rajas kept governing a smaller kingdom, so there is no gap. The

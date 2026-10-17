@@ -20,6 +20,8 @@ point:
   name: "Jiangling"
   latitude: 30.35
   longitude: 112.19
+colors:
+  617: "#278647"
 note: "The revived Liang government began with Xiao Xian's revolt in 617; it is distinct from both the sixth-century Liang courts and Liang Shidu's northern state. Ends with Jiangling's surrender to Tang. Links the ruler's biography."
 transitions:
 - year: 617

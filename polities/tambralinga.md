@@ -20,5 +20,7 @@ point:
   name: "Nakhon Si Thammarat"
   latitude: 8.43
   longitude: 99.96
+colors:
+  150: "#cda351"
 note: "150 estimates the early kingdom's existence from Chinese accounts, whose identification remains debated. Srivijayan influence is not treated as proof of direct government; later local kings conducted their own diplomacy and wars. 1277 follows the conventional end before the division under neighbouring powers."
 ---

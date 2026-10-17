@@ -20,6 +20,8 @@ point:
   name: "Shiraz"
   latitude: 29.61
   longitude: 52.542
+colors:
+  1751: "#cd517a"
 note: "Links the dynasty article; the dynasty name is the conventional name for the state."
 transitions:
 - year: 1794

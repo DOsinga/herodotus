@@ -19,6 +19,8 @@ point:
   name: Cetinje
   latitude: 42.3906
   longitude: 18.9142
+colors:
+  1451: "#5166cd"
 transitions:
 - year: 1496
   kind: absorbed_into

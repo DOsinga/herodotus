@@ -19,6 +19,8 @@ point:
   name: Paysandú
   latitude: -32.3214
   longitude: -58.0756
+colors:
+  1815: "#5166cd"
 note: "The point is Paysandú, the nearest town to Artigas's seat at Purificación, which has no article of its own. Buenos Aires troops held Santa Fe for parts of 1815, 1816 and 1818."
 transitions:
 - year: 1815

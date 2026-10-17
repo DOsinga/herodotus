@@ -18,6 +18,8 @@ point:
   name: Kulja
   latitude: 43.908
   longitude: 81.278
+colors:
+  1864: "#49b234"
 note: "No article covers the sultanate; this links the article on the Dungan revolt. Begins with the capture of Ningyuan (Yining) in November 1864; the Qing held Huiyuan until 1866."
 transitions:
 - year: 1864

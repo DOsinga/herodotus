@@ -20,6 +20,8 @@ point:
   name: "Long Bien"
   latitude: 21.05
   longitude: 105.87
+colors:
+  542: "#278647"
 note: "542 follows Ly Bi's seizure of local government after his revolt, before his imperial proclamation in 544. Trieu Quang Phuc and Ly Phat Tu continued and contested that territorial government; the change of ruler is not a new polity here. Long Bien's precise ancient site is disputed, so the point is approximate."
 transitions:
 - year: 542

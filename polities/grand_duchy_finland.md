@@ -21,6 +21,8 @@ point:
   name: Helsinki
   latitude: 60.171
   longitude: 24.938
+colors:
+  1809: "#5e34b2"
 note: "The Russian emperor was grand duke, but Finland kept its own Senate and laws."
 transitions:
 - year: 1917

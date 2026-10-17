@@ -21,6 +21,8 @@ point:
   name: Bangkok
   latitude: 13.752
   longitude: 100.494
+colors:
+  1782: "#278647"
 transitions:
 - year: 1932
   kind: succeeded_by

@@ -20,6 +20,8 @@ point:
   name: Warsaw
   latitude: 52.23
   longitude: 21.011
+colors:
+  1815: "#863727"
 note: "Ends with the November Uprising of 1830–1831, after which Russia governed it directly; Wikipedia's article runs to 1915."
 transitions:
 - year: 1831

@@ -18,6 +18,8 @@ point:
   name: "Þingvellir"
   latitude: 64.256
   longitude: -21.125
+colors:
+  930: "#273786"
 note: "930 is the traditional date of the Althing's founding; Þingvellir, its meeting place, stands as the point."
 transitions:
 - year: 1262

@@ -11,6 +11,10 @@ point:
   name: Antananarivo
   latitude: -18.91
   longitude: 47.525
+colors:
+  1540: "#868627"
+  1793: "#868627"
+  1818: "#862727"
 transitions:
 - year: 1897
   kind: absorbed_into

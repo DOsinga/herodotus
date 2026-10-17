@@ -20,6 +20,8 @@ point:
   name: Calicut
   latitude: 11.2588
   longitude: 75.7804
+colors:
+  1124: "#278686"
 transitions:
 - year: 1766
   kind: absorbed_into

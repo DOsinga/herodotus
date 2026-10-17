@@ -11,6 +11,8 @@ point:
   name: Kazan
   latitude: 55.7964
   longitude: 49.1089
+colors:
+  1438: "#9db234"
 transitions:
 - year: 1438
   kind: broke_away_from

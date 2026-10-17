@@ -12,5 +12,7 @@ point:
   name: "Lower Nubia"
   latitude: 22.4
   longitude: 31.6
+colors:
+  -2400: "#cd51b8"
 note: "Both dates are estimates; the Middle Kingdom held its forts in Lower Nubia from about 1950 to 1650 BCE."
 ---

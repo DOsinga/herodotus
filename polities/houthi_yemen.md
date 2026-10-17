@@ -11,6 +11,8 @@ point:
   name: Sanaa
   latitude: 15.348
   longitude: 44.206
+colors:
+  2015: "#278657"
 note: "The Houthi government in Sanaa: the Revolutionary Committee from February 2015, the Supreme Political Council from 2016. It governs Sanaa and most of the north-west, while the recognised government holds the south."
 transitions:
 - year: 2015

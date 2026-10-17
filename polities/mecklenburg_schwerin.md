@@ -22,6 +22,10 @@ point:
   name: "Schwerin"
   latitude: 53.633
   longitude: 11.417
+colors:
+  1621: "#b8cd51"
+  1838: "#b8cd51"
+  1863: "#b25e34"
 note: "Formed by the 1621 division of Mecklenburg. Wallenstein held both duchies as an imperial fief from 1628 to 1631. It inherited Güstrow in 1695 and ceded Strelitz in 1701. A grand duchy from 1815. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1867

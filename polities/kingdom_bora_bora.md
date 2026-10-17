@@ -19,6 +19,8 @@ point:
   name: "Vaitape"
   latitude: -16.5064
   longitude: -151.7494
+colors:
+  1820: "#51cdb8"
 note: "Start estimated: the article dates the unified kingdom only to the early nineteenth century; 1820 is when the island adopted a single law code. Ends with the French annexation of 1888, although the last queen kept her title until 1895."
 transitions:
 - year: 1888

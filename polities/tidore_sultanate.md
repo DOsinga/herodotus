@@ -18,6 +18,8 @@ point:
   name: Tidore
   latitude: 0.6833
   longitude: 127.4
+colors:
+  1450: "#277686"
 note: >-
   1450 estimates the established court before Islam became the state religion in the late fifteenth
   century; the local tradition of a first king in 1081 is doubtful. 1663 follows the Spanish

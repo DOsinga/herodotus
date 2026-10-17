@@ -20,6 +20,8 @@ point:
   name: Pagan
   latitude: 21.1722
   longitude: 94.8603
+colors:
+  849: "#278667"
 transitions:
 - year: 1297
   kind: succeeded_by

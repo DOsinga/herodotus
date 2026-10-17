@@ -20,5 +20,7 @@ point:
   name: "Merv"
   latitude: 37.6633
   longitude: 61.8391
+colors:
+  1118: "#517acd"
 note: "Sanjar's eastern government is separate from the western sultans at Hamadan. The end records its collapse after his capture by the Oghuz in 1153, rather than his death in 1157. His escape in 1156 did not restore the former state."
 ---

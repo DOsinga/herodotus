@@ -21,5 +21,7 @@ point:
   name: "Minusinsk Basin"
   latitude: 53.7
   longitude: 91.4
+colors:
+  -1500: "#b2b234"
 note: "Both dates are estimates; the Tagar culture follows."
 ---

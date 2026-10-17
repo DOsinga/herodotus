@@ -19,6 +19,8 @@ point:
   name: "Yin"
   latitude: 36.12
   longitude: 114.31
+colors:
+  -1600: "#478627"
 note: "Yin, near Anyang, was the capital from about 1300 BCE. The Zhou conquest ended it."
 transitions:
 - year: -1046

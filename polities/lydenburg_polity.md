@@ -22,5 +22,7 @@ point:
   name: "Lydenburg Heads site"
   latitude: -25.1
   longitude: 30.45
+colors:
+  500: "#276786"
 note: "500–800 estimates the Early Iron Age farming community known from the Lydenburg terracotta heads. Nothing is known of its government. The point represents the find site approximately."
 ---

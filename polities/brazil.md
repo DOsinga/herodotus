@@ -21,5 +21,7 @@ point:
   name: Rio de Janeiro
   latitude: -22.9111
   longitude: -43.2056
+colors:
+  1930: "#b8cd51"
 note: "Starts with the Vargas era; Rio de Janeiro was the capital until 1960. Links the country article. Changes of regime are not split into separate records."
 ---

@@ -22,6 +22,8 @@ point:
   name: Milan
   latitude: 45.467
   longitude: 9.19
+colors:
+  1097: "#862776"
 note: "Start estimated from the first recorded consuls. Gap for 1162–1167, when Frederick Barbarossa razed Milan and governed it through imperial officials until the Lombard League rebuilt it. Links the history of Milan."
 transitions:
 - year: 1162

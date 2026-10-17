@@ -19,6 +19,8 @@ point:
   name: "Guangzhou"
   latitude: 23.1291
   longitude: 113.2644
+colors:
+  907: "#cd51b8"
 note: "907 includes the Liu family's own Lingnan government after Tang's collapse; the imperial Yue/Han identity dates from 917–918. The later declaration did not start local rule. Song conquest ended the government in 971."
 transitions:
 - year: 907

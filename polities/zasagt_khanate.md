@@ -18,6 +18,8 @@ point:
   name: "Western Khalkha"
   latitude: 47.0
   longitude: 96.0
+colors:
+  1580: "#88b234"
 note: "1580 estimates the khanate's rise; the point is representative. The khanates sent tribute to the Qing from the 1630s but governed themselves until the Dolon Nor assembly of 1691, after the Dzungar invasion, made them Qing subjects."
 transitions:
 - year: 1691

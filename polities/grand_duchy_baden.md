@@ -20,6 +20,8 @@ point:
   name: Karlsruhe
   latitude: 49.009
   longitude: 8.404
+colors:
+  1806: "#862776"
 note: "Remained a monarchy inside the German Empire until 1918, but the Empire controlled war and foreign policy, so it counts as part of the Empire from 1871."
 transitions:
 - year: 1871

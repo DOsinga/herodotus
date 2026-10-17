@@ -20,6 +20,8 @@ point:
   name: Abu Dhabi
   latitude: 24.4667
   longitude: 54.3667
+colors:
+  1971: "#273786"
 note: "Before independence it was a British-protected state, which does not count as governing itself. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1971

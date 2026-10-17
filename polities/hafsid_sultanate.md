@@ -20,6 +20,8 @@ point:
   name: Tunis
   latitude: 36.8065
   longitude: 10.1815
+colors:
+  1229: "#278667"
 transitions:
 - year: 1574
   kind: absorbed_into

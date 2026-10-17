@@ -19,6 +19,8 @@ point:
   name: Champasak
   latitude: 14.84
   longitude: 105.75
+colors:
+  1713: "#517acd"
 transitions:
 - year: 1904
   kind: absorbed_into

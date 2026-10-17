@@ -19,6 +19,8 @@ point:
   name: Watampone
   latitude: -4.5386
   longitude: 120.3297
+colors:
+  1400: "#b23449"
 note: >-
   1400 estimates the reign of La Umasa, the first ruler in the Bone chronicle, in the early fifteenth
   century. Gowa conquered Bone in 1643 and governed it until Arung Palakka's revolt and the Dutch

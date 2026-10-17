@@ -20,6 +20,8 @@ point:
   name: Königsberg
   latitude: 54.7065
   longitude: 20.511
+colors:
+  1525: "#867627"
 transitions:
 - year: 1701
   kind: succeeded_by

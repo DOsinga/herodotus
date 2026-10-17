@@ -21,5 +21,7 @@ point:
   name: "Michaelsberg"
   latitude: 49.2
   longitude: 8.6
+colors:
+  -4400: "#51cd51"
 note: "Both dates are estimates."
 ---

@@ -20,6 +20,8 @@ point:
   name: "Corinth"
   latitude: 37.9053
   longitude: 22.8802
+colors:
+  -700: "#863727"
 note: "Philip II garrisoned the Acrocorinth after Chaeronea."
 transitions:
 - year: -338

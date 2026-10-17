@@ -20,6 +20,8 @@ point:
   name: Lusaka
   latitude: -15.4167
   longitude: 28.2833
+colors:
+  1964: "#cd6651"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1964

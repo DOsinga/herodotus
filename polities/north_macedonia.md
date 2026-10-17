@@ -11,6 +11,8 @@ point:
   name: Skopje
   latitude: 41.9961
   longitude: 21.4317
+colors:
+  1991: "#5166cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1991

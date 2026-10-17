@@ -21,6 +21,8 @@ point:
   name: Jerusalem
   latitude: 31.7789
   longitude: 35.2256
+colors:
+  1948: "#865727"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1948

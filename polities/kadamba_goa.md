@@ -19,5 +19,7 @@ point:
   name: Gopakapattana (Goa Velha)
   latitude: 15.444
   longitude: 73.881
+colors:
+  960: "#34b273"
 note: "Both dates are traditional. The capital was at Chandor until about 1054 and again after 1312."
 ---

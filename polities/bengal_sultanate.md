@@ -13,6 +13,8 @@ point:
   name: Gaur
   latitude: 24.871
   longitude: 88.141
+colors:
+  1352: "#b23473"
 transitions:
 - year: 1539
   kind: absorbed_into

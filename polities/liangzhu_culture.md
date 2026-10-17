@@ -21,5 +21,7 @@ point:
   name: "Liangzhu"
   latitude: 30.39
   longitude: 119.99
+colors:
+  -3300: "#cd8f51"
 note: "Both dates are estimates."
 ---

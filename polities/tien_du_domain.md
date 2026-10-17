@@ -11,6 +11,8 @@ point:
   name: "Tiên Du"
   latitude: 21.128
   longitude: 106.015
+colors:
+  965: "#862786"
 note: "965 estimates the separate Tiên Du government's appearance in the documented warlord period; it is not Nguyễn Thủ Tiệp's birth year. He ruled this domain in his own right until defeated in 967. The district point is approximate and the biography covers the polity."
 transitions:
 - year: 967

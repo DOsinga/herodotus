@@ -20,6 +20,10 @@ point:
   name: "Oyo-Ile"
   latitude: 8.0167
   longitude: 4.0
+colors:
+  1300: "#864727"
+  1811: "#864727"
+  1836: "#862767"
 note: "Its 1888 treaty bound the Alaafin to make no treaty and cede no land without British consent, which counts as a protectorate; the British bombarded Oyo in 1895."
 transitions:
 - year: 1888

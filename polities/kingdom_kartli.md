@@ -21,6 +21,10 @@ point:
   name: Tbilisi
   latitude: 41.7167
   longitude: 44.7833
+colors:
+  1478: "#cd5166"
+  1737: "#cd5166"
+  1762: "#34b288"
 transitions:
 - year: 1762
   kind: merged_into

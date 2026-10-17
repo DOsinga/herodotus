@@ -20,6 +20,8 @@ point:
   name: Turpan
   latitude: 42.9513
   longitude: 89.1895
+colors:
+  1487: "#51b8cd"
 transitions:
 - year: 1570
   kind: absorbed_into

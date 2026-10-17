@@ -22,6 +22,8 @@ point:
   name: Dijon
   latitude: 47.3167
   longitude: 5.0167
+colors:
+  918: "#866727"
 note: "918 is the first attestation of Richard the Justiciar as duke. Gaps for royal rule from 1004 to 1032 and from 1361 to 1363. The Burgundian state record takes over when Philip the Bold inherited Flanders in 1384."
 transitions:
 - year: 1004

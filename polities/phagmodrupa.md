@@ -20,6 +20,8 @@ point:
   name: Nedong
   latitude: 29.22
   longitude: 91.78
+colors:
+  1354: "#862747"
 note: "1354 is Changchub Gyaltsen's victory over the Sakya. Rinpungpa rule in Tsang from 1435 and in Lhasa from 1498 to 1517 is in the Rinpungpa record; this record keeps the Phagmodrupa court in Ü. 1618 follows the Tsangpa conquest of Ü; the article also names the defeats of 1613 and 1620, and the dynasty kept a nominal title until 1642."
 transitions:
 - year: 1618

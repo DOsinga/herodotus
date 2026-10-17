@@ -21,6 +21,8 @@ point:
   name: "Maingmaw"
   latitude: 21.3
   longitude: 96.12
+colors:
+  100: "#678627"
 note: "100 estimates the early urban Pyu centre; 1050 estimates its incorporation into Pagan during the eleventh-century expansion. The royal chronology and exact capital identification near Pinle are uncertain. Links the Pyu history, which describes this individual walled city rather than one united Pyu state."
 transitions:
 - year: 1050

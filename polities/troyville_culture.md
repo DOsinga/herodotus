@@ -12,5 +12,7 @@ point:
   name: "Troyville"
   latitude: 31.62683
   longitude: -91.81559
+colors:
+  400: "#378627"
 note: "400–700 follows the conventional span of the culture, named after the Troyville Earthworks at the point. The Coles Creek culture follows."
 ---

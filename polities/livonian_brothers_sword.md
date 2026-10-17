@@ -18,6 +18,8 @@ point:
   name: Cēsis
   latitude: 57.3167
   longitude: 25.2667
+colors:
+  1207: "#a351cd"
 note: Founded in 1202 as the bishop's military arm; the period starts with the 1207 division
   of Livonia, which gave the order lands of its own. The point is Wenden (Cēsis), one of its
   first castles; its masters also resided in Riga and later at Fellin.

@@ -18,6 +18,8 @@ point:
   name: Stuttgart
   latitude: 48.778
   longitude: 9.18
+colors:
+  1806: "#cd51a3"
 note: "Remained a monarchy inside the German Empire until 1918, but the Empire controlled war and foreign policy, so it counts as part of the Empire from 1871."
 transitions:
 - year: 1871

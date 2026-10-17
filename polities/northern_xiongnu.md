@@ -19,5 +19,7 @@ point:
   name: "Mongolian steppe"
   latitude: 47.5
   longitude: 102.5
+colors:
+  48: "#a351cd"
 note: "Starts at the split of 48; the earlier united Xiongnu has not been audited. The point stands for the royal court in central Mongolia. The Han victory of 89–91 ended it; the Xianbei took its lands."
 ---

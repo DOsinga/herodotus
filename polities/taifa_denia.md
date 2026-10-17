@@ -11,6 +11,8 @@ point:
   name: "Dénia"
   latitude: 38.8408
   longitude: 0.1057
+colors:
+  1010: "#864727"
 note: "Zaragoza conquered the independent taifa in 1076. Its later government under Mundhir belongs to his Lleida-based realm, not a separate Dénia state. The article's later Abu Zayd period concerns the ruler of Valencia's domain."
 transitions:
 - year: 1010

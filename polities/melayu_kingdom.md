@@ -21,6 +21,8 @@ point:
   name: "Muaro Jambi"
   latitude: -1.48
   longitude: 103.669
+colors:
+  645: "#cd5166"
 note: "645 follows the first recorded embassy of Mo-lo-yu; its identification with the later Jambi polity is conventional. It was absorbed by Srivijaya by Yijing's 692 visit. 1028 marks the reappearance of a Jambi-centred Sanfoqi government; the exact reconstitution after 1025 is uncertain. The court later moved to Dharmasraya, then Adityawarman's Pagaruyung in 1347."
 transitions:
 - year: 692

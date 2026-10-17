@@ -20,6 +20,8 @@ point:
   name: Sarai
   latitude: 47.1833
   longitude: 47.45
+colors:
+  1260: "#8f51cd"
 transitions:
 - year: 1466
   kind: succeeded_by

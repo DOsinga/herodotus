@@ -20,6 +20,8 @@ point:
   name: Tabriz
   latitude: 38.0667
   longitude: 46.3
+colors:
+  1374: "#518fcd"
 transitions:
 - year: 1468
   kind: absorbed_into

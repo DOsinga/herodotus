@@ -21,5 +21,7 @@ point:
   name: "Cupisnique"
   latitude: -7.5
   longitude: -79.3
+colors:
+  -1500: "#cd8f51"
 note: "Links the Cupisnique article. Both dates are estimates."
 ---

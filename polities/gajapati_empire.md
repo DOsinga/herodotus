@@ -21,4 +21,6 @@ point:
   name: Cuttack
   latitude: 20.5236
   longitude: 85.7881
+colors:
+  1434: "#278667"
 ---

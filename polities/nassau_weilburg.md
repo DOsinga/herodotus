@@ -18,6 +18,8 @@ point:
   name: "Weilburg"
   latitude: 50.4847
   longitude: 8.2627
+colors:
+  1344: "#865727"
 note: "Links the article on the house, as no article covers the county itself. Its internal divisions, including the Walramian union under Louis II of 1605–1629 and the short-lived shares of Idstein, Saarbrücken and Ottweiler, are not split out."
 transitions:
 - year: 1806

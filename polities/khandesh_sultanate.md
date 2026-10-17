@@ -11,6 +11,8 @@ point:
   name: Burhanpur
   latitude: 21.31
   longitude: 76.23
+colors:
+  1382: "#278647"
 transitions:
 - year: 1601
   kind: absorbed_into

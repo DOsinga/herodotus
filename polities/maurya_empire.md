@@ -21,6 +21,8 @@ point:
   name: "Pataliputra"
   latitude: 25.5939
   longitude: 85.1375
+colors:
+  -322: "#866727"
 note: "Pushyamitra Shunga killed the last Maurya emperor in 185 BCE."
 transitions:
 - year: -185

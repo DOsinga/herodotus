@@ -21,5 +21,7 @@ point:
   name: "Sha'ar HaGolan"
   latitude: 32.68
   longitude: 35.57
+colors:
+  -6400: "#cd517a"
 note: "Both dates are estimates."
 ---

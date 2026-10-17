@@ -21,6 +21,8 @@ point:
   name: Wellington
   latitude: -41.2889
   longitude: 174.7772
+colors:
+  1939: "#51a3cd"
 note: "Starts in 1939, when New Zealand declared war in its own right; it adopted the Statute of Westminster only in 1947. Self-governing at home earlier. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1939

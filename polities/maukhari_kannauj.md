@@ -20,6 +20,8 @@ point:
   name: "Kannauj"
   latitude: 27.055
   longitude: 79.919
+colors:
+  510: "#273786"
 note: "510 estimates Harivarman's separate court; the later kings asserted wider sovereignty. Ends with Grahavarman's death and Harsha's incorporation of the governing realm in 606. This is not the distinct Gaya branch."
 transitions:
 - year: 606

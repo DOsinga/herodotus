@@ -12,5 +12,7 @@ point:
   name: "Talianki"
   latitude: 48.27
   longitude: 30.12
+colors:
+  -5500: "#34b25e"
 note: "Both dates are estimates."
 ---

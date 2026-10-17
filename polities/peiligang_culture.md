@@ -21,5 +21,7 @@ point:
   name: "Peiligang"
   latitude: 34.38
   longitude: 113.73
+colors:
+  -7000: "#8f51cd"
 note: "Both dates are estimates."
 ---

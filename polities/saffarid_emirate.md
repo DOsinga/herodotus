@@ -22,6 +22,10 @@ point:
   name: "Zaranj"
   latitude: 30.959
   longitude: 61.861
+colors:
+  861: "#51cd7a"
+  945: "#51cd7a"
+  970: "#517acd"
 note: "The closest article covers the dynasty and its state. Samanid occupations interrupt local government in 911–912 and 913–922; tribute alone does not. The final conquest is dated 1003 following Encyclopaedia Iranica, rather than the 1002 date in some Wikipedia accounts. Later Sistan dynasties are not continuations of this record."
 transitions:
 - year: 911

@@ -19,6 +19,8 @@ point:
   name: Gorkha
   latitude: 28.0
   longitude: 84.633
+colors:
+  1559: "#278627"
 transitions:
 - year: 1768
   kind: succeeded_by

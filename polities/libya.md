@@ -21,6 +21,8 @@ point:
   name: Tripoli
   latitude: 32.888
   longitude: 13.188
+colors:
+  1951: "#8834b2"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1951

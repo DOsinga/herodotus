@@ -21,5 +21,7 @@ point:
   name: "Zeila"
   latitude: 11.333
   longitude: 43.5
+colors:
+  50: "#cd8f51"
 note: "50 estimates the locally governing port described in the Periplus, not an exact foundation. 650 estimates the end of the ancient port's Late Antique political identity, whose continuation into medieval Zeila is poorly documented. Zeila is the conventional location; Djibouti has also been proposed."
 ---

@@ -18,5 +18,7 @@ point:
   name: "San José Mogote"
   latitude: 17.13
   longitude: -96.78
+colors:
+  -1500: "#272786"
 note: "Both dates are estimates for the leading Zapotec centre before Monte Albán."
 ---

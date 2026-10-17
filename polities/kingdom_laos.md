@@ -21,6 +21,8 @@ point:
   name: Vientiane
   latitude: 17.98
   longitude: 102.63
+colors:
+  1953: "#51b8cd"
 note: "Starts with full independence in 1953; the autonomy within the French Union from 1947 does not count. The royal capital was Luang Prabang."
 transitions:
 - year: 1953

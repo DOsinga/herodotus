@@ -20,4 +20,6 @@ point:
   name: Berlin
   latitude: 52.52
   longitude: 13.405
+colors:
+  1933: "#272786"
 ---

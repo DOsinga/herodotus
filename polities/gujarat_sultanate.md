@@ -20,6 +20,8 @@ point:
   name: Ahmedabad
   latitude: 23.0225
   longitude: 72.5714
+colors:
+  1407: "#cd6651"
 transitions:
 - year: 1407
   kind: broke_away_from

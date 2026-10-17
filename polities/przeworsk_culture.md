@@ -23,5 +23,7 @@ point:
   name: "Przeworsk"
   latitude: 50.0667
   longitude: 22.5
+colors:
+  -300: "#b23473"
 note: "Both dates are estimates; the culture is often associated with the Vandals."
 ---

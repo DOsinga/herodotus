@@ -18,6 +18,8 @@ point:
   name: "Alpuente"
   latitude: 39.89
   longitude: -1.0
+colors:
+  1009: "#51cd8f"
 note: "1009 estimates the family's independence; the Almoravids took it in 1106."
 transitions:
 - year: 1106

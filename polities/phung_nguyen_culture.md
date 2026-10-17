@@ -22,5 +22,7 @@ point:
   name: "Phùng Nguyên"
   latitude: 21.3
   longitude: 105.4
+colors:
+  -2000: "#34b273"
 note: "Both dates are estimates."
 ---

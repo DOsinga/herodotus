@@ -12,5 +12,7 @@ point:
   name: "Pashash"
   latitude: -8.39
   longitude: -78.01
+colors:
+  300: "#672786"
 note: "300 estimates the governing centre represented by rich elite burials and Recuay sculpture; 1000 estimates the end of the later Pashash phase. Links the culture article because no separate English article covers the local polity. This is the individual Cabana-area community, not all Recuay centres."
 ---

@@ -19,5 +19,7 @@ point:
   name: Madurai
   latitude: 9.925
   longitude: 78.12
+colors:
+  1565: "#864727"
 note: "Founded in 1529. Before the Vijayanagara defeat at Talikota in 1565 its rulers were Vijayanagara governors; independence after 1565 was gradual."
 ---

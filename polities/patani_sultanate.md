@@ -18,6 +18,8 @@ point:
   name: Pattani
   latitude: 6.8692
   longitude: 101.2503
+colors:
+  1450: "#cdcd51"
 note: >-
   1450 estimates the rise of the Patani court as Langkasuka faded; the date of the royal conversion to
   Islam is uncertain. Ayutthaya's overlordship did not replace its own rulers. 1786 follows the

@@ -22,6 +22,8 @@ point:
   name: Tirana
   latitude: 41.3283
   longitude: 19.8181
+colors:
+  1912: "#51cd66"
 note: "Gap for the Italian and German occupations. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1912

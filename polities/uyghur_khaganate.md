@@ -19,5 +19,7 @@ point:
   name: "Ordu-Baliq"
   latitude: 47.43
   longitude: 102.658
+colors:
+  744: "#cdcd51"
 note: "The point approximates the ruined capital. The Orkhon imperial government collapsed in the Kyrgyz attack of 840. Refugee khagans continued fighting until 848, but that is not treated as continued government of the former empire. No fictional Kyrgyz empire is inferred as its successor."
 ---

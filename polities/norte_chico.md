@@ -22,5 +22,7 @@ point:
   name: "Caral"
   latitude: -10.89
   longitude: -77.52
+colors:
+  -3000: "#b234b2"
 note: "Both dates are estimates; its government is unknown."
 ---

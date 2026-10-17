@@ -20,6 +20,10 @@ point:
   name: Toledo
   latitude: 39.8628
   longitude: -4.0273
+colors:
+  1479: "#862776"
+  1562: "#862776"
+  1587: "#b2349d"
 transitions:
 - year: 1716
   kind: succeeded_by

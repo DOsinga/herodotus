@@ -19,6 +19,8 @@ point:
   name: "Bình Kiều (Triệu Sơn)"
   latitude: 19.98
   longitude: 105.6
+colors:
+  965: "#b23488"
 note: "Ngô Xương Xí retained a real domain after the royal government's 965 collapse, not merely a claim to all Vietnam. It ended with his 968 surrender to Đinh. The point approximately represents the Thanh Hóa identification in his biography; the ruler's article is the nearest source for the polity."
 transitions:
 - year: 968

@@ -19,6 +19,8 @@ point:
   name: Tainan
   latitude: 22.99
   longitude: 120.185
+colors:
+  1895: "#3449b2"
 note: "Taipei was the capital until early June 1895 and Tainan afterwards; Tainan is the point because it held out longer."
 transitions:
 - year: 1895

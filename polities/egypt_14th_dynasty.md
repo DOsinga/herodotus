@@ -11,6 +11,8 @@ point:
   name: "Avaris"
   latitude: 30.79
   longitude: 31.82
+colors:
+  -1725: "#517acd"
 note: "Both dates are estimates; the Canaanite kings of the eastern Delta, whom the Hyksos replaced."
 transitions:
 - year: -1725

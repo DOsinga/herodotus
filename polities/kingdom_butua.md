@@ -19,6 +19,8 @@ point:
   name: "Khami"
   latitude: -20.1433
   longitude: 28.4234
+colors:
+  1425: "#8fcd51"
 note: "Both dates are approximate, following Wikipedia."
 transitions:
 - year: 1683

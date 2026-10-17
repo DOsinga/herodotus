@@ -20,6 +20,8 @@ point:
   name: Castries
   latitude: 14.0108
   longitude: -60.9894
+colors:
+  1979: "#862737"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1979

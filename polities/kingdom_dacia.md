@@ -20,6 +20,8 @@ point:
   name: "Sarmizegetusa Regia"
   latitude: 45.6219
   longitude: 23.3093
+colors:
+  -82: "#768627"
 note: "Links the Dacia article; Burebista's and Decebalus's kingdoms are treated as one Dacian state."
 transitions:
 - year: 106

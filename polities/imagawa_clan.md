@@ -18,6 +18,8 @@ point:
   name: Sunpu
   latitude: 34.9796
   longitude: 138.3831
+colors:
+  1467: "#866727"
 note: "Covers the house as a Sengoku power from the Ōnin War to the loss of Suruga and Ujizane's surrender at Kakegawa in 1569. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1467

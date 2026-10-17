@@ -21,5 +21,7 @@ point:
   name: "Si Thep"
   latitude: 15.466
   longitude: 101.151
+colors:
+  500: "#34b249"
 note: "500 estimates the fortified urban court before the seventh-century royal inscription. 1300 estimates the final abandonment and loss of its government. The city retained its own centre through Dvaravati and Khmer cultural phases; an architectural style alone is not direct foreign administration."
 ---

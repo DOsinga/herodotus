@@ -20,6 +20,8 @@ point:
   name: "Plötzkau"
   latitude: 51.75
   longitude: 11.68
+colors:
+  1544: "#8834b2"
 note: "Two periods: George III's share of 1544–1553 and the principality of the 1603 partition, which August governed from 1611."
 transitions:
 - year: 1544

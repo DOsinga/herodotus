@@ -21,6 +21,10 @@ point:
   name: "Bernburg"
   latitude: 51.795
   longitude: 11.739
+colors:
+  1252: "#349db2"
+  1578: "#349db2"
+  1603: "#b2349d"
 note: "Two periods: the medieval line from the 1252 division, whose lands passed to Anhalt-Dessau when it died out in 1468, and the principality of the 1603 division. Its last duke died in 1863, and Anhalt was reunited under Dessau."
 transitions:
 - year: 1468

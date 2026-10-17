@@ -20,6 +20,12 @@ point:
   name: Siena
   latitude: 43.3186
   longitude: 11.3306
+colors:
+  1125: "#51cd51"
+  1255: "#51cd51"
+  1280: "#5151cd"
+  1381: "#5151cd"
+  1406: "#cda351"
 note: "1125 is the conventional date for the consular commune. The Visconti lordship of 1399–1404 is a gap. After the surrender of 1555 Spain held the city until it granted it to Cosimo de' Medici in 1557; exiles kept a republic at Montalcino until 1559, which is not shown."
 transitions:
 - year: 1399

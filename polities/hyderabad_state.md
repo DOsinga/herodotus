@@ -13,6 +13,8 @@ point:
   name: Hyderabad
   latitude: 17.362
   longitude: 78.475
+colors:
+  1724: "#372786"
 note: "Ends with the 1798 subsidiary alliance with the East India Company; it remained a princely state until British paramountcy lapsed in August 1947. The Nizam then governed outside India until the Indian invasion of September 1948. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1724

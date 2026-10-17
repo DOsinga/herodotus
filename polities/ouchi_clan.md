@@ -19,6 +19,8 @@ point:
   name: Yamaguchi
   latitude: 34.1781
   longitude: 131.4739
+colors:
+  1467: "#cd5151"
 note: "Covers the house as a Sengoku power from the Ōnin War to the suicide of Ōuchi Yoshinaga in 1557. Sue Harukata's rule through Yoshinaga from 1551 is kept in the period. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1467

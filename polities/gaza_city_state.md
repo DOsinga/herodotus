@@ -11,6 +11,8 @@ point:
   name: "Gaza"
   latitude: 31.5
   longitude: 34.47
+colors:
+  -1175: "#34b25e"
 note: "Links the article on the city. 1175 BCE estimates the Philistine settlement; it was one of the five cities of the Philistines, each with its own ruler. The end follows Nebuchadnezzar's campaigns against the Philistine cities."
 transitions:
 - year: -604

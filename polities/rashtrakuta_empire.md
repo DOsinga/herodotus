@@ -20,6 +20,8 @@ point:
   name: "Manyakheta (Malkhed)"
   latitude: 17.2
   longitude: 77.15
+colors:
+  753: "#a351cd"
 note: "The point approximates the old capital at Malkhed, used after the earlier Berar base. Tailapa's conquest of the imperial government in 973 is the end here, rather than claimant Indra IV's death in 982. Other Rashtrakuta branches and possible local remnants are not an uninterrupted Manyakheta empire."
 transitions:
 - year: 973

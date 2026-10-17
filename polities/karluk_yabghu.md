@@ -20,6 +20,8 @@ point:
   name: "Suyab"
   latitude: 42.8
   longitude: 75.2
+colors:
+  742: "#51cd8f"
 note: "742 is the conventional beginning of the Karluk yabghu government. Its centre moved to Suyab during its eighth-century westward expansion; the ruined city's point is approximate. Uyghur overlordship did not remove the Karluk leadership. 840 follows the conventional transition to the Karakhanid identity, whose origins are debated."
 transitions:
 - year: 840

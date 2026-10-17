@@ -20,6 +20,8 @@ point:
   name: Chucuito
   latitude: -15.8939
   longitude: -69.8889
+colors:
+  1100: "#672786"
 note: "The dates are estimates: the Lupaca arose after the decline of Tiwanaku and were absorbed by the Incas in the mid fifteenth century."
 transitions:
 - year: 1450

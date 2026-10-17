@@ -21,5 +21,7 @@ point:
   name: "Lower Volga"
   latitude: 47.5
   longitude: 44.5
+colors:
+  -3300: "#8f51cd"
 note: "Both dates are estimates; the point is representative."
 ---

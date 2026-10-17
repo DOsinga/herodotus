@@ -11,6 +11,8 @@ point:
   name: Kyoto
   latitude: 35.0116
   longitude: 135.7681
+colors:
+  1333: "#b25e34"
 transitions:
 - year: 1336
   kind: split_into

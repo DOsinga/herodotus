@@ -11,6 +11,8 @@ point:
   name: Baku
   latitude: 40.3756
   longitude: 49.8325
+colors:
+  1918: "#cd51b8"
 transitions:
 - year: 1920
   kind: absorbed_into

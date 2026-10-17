@@ -19,6 +19,8 @@ point:
   name: "Munich"
   latitude: 48.137
   longitude: 11.576
+colors:
+  1255: "#378627"
 note: "The Munich share of the 1255 partition, which also held the Palatinate until 1329. Louis IV reunited Bavaria in 1340; after the next partition it passed in 1363 to the Landshut dukes, who governed it with Lower Bavaria until their partition of 1392. Links the region article."
 transitions:
 - year: 1340

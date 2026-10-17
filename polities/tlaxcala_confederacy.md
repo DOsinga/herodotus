@@ -19,4 +19,6 @@ point:
   name: Tlaxcala
   latitude: 19.3139
   longitude: -98.2404
+colors:
+  1348: "#868627"
 ---

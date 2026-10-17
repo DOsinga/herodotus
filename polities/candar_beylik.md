@@ -19,6 +19,8 @@ point:
   name: Sinop
   latitude: 42.0268
   longitude: 35.1551
+colors:
+  1291: "#572786"
 transitions:
 - year: 1461
   kind: absorbed_into

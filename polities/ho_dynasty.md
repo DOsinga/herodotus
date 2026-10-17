@@ -19,6 +19,8 @@ point:
   name: "Tây Đô"
   latitude: 20.0783
   longitude: 105.6042
+colors:
+  1400: "#cd51cd"
 transitions:
 - year: 1407
   kind: absorbed_into

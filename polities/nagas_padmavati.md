@@ -20,6 +20,8 @@ point:
   name: "Padmavati"
   latitude: 25.89
   longitude: 78.25
+colors:
+  210: "#51cda3"
 note: "Both dates are estimates from coins; Samudragupta conquered them."
 transitions:
 - year: 350

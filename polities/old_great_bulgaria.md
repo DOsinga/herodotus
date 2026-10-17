@@ -20,6 +20,8 @@ point:
   name: "Phanagoria"
   latitude: 45.218
   longitude: 36.962
+colors:
+  632: "#34b25e"
 note: "632 and 668 are conventional dates for Kubrat's consolidation and the Khazar conquest. Phanagoria is a traditional proposed centre, not an established permanent capital. Batbayan's reduced government and the migrating groups do not represent the continued united realm."
 transitions:
 - year: 668

@@ -11,6 +11,8 @@ point:
   name: Gottorp
   latitude: 54.512
   longitude: 9.541
+colors:
+  1544: "#5166cd"
 note: "The ducal share of Schleswig and Holstein, governed by its own dukes from Gottorp. Denmark took the Schleswig part in 1713 and the rest by the 1773 Treaty of Tsarskoye Selo. Brief Danish occupations are not split out."
 transitions:
 - year: 1773

@@ -24,6 +24,12 @@ point:
   name: "Zerbst"
   latitude: 51.966
   longitude: 12.084
+colors:
+  1252: "#8f51cd"
+  1519: "#8f51cd"
+  1544: "#472786"
+  1641: "#472786"
+  1666: "#8834b2"
 note: "Three periods: the medieval line from the 1252 division, whose lands its princes divided in 1396 into Köthen and Dessau; the principality of 1544–1570, whose prince Joachim Ernest reunited Anhalt; and the principality of the 1603 division. The home of Catherine the Great's family. When its line died out in 1793 it was divided among Dessau, Bernburg and Köthen; linked to Dessau, which took the largest share."
 transitions:
 - year: 1396

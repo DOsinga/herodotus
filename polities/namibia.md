@@ -20,6 +20,8 @@ point:
   name: Windhoek
   latitude: -22.57
   longitude: 17.0836
+colors:
+  1990: "#278647"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1990

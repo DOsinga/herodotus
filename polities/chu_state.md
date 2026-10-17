@@ -20,6 +20,8 @@ point:
   name: "Ying"
   latitude: 30.3363
   longitude: 112.2414
+colors:
+  -1030: "#862786"
 note: "1030 BCE is the traditional date of Chu's enfeoffment; it lay beyond the Zhou kings' control. Ying was the capital until 278 BCE; Shouchun was the last. Qin conquered it."
 transitions:
 - year: -223

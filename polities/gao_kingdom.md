@@ -20,6 +20,8 @@ point:
   name: "Gao"
   latitude: 16.267
   longitude: -0.05
+colors:
+  700: "#518fcd"
 note: "700 estimates the early Gao polity's emergence; its kingdom is securely described in ninth-century Arabic accounts. 1325 follows Mali's capture and garrisoning of Gao during Mansa Musa's return, rather than later Songhai imperial identity. Earlier accounts date Mali's influence to the thirteenth century; influence alone does not show replacement of Gao's government."
 transitions:
 - year: 1325

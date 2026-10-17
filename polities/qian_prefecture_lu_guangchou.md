@@ -18,6 +18,8 @@ point:
   name: Qian Prefecture
   latitude: 25.831
   longitude: 114.933
+colors:
+  885: "#275786"
 note: "No article covers the regime as a state; this links Lu's biography. The rulers after Lu's death in 910 are Lu Yanchang, briefly Li Qiu, and Tan Quanbo, who held it until the Wu conquest of 918."
 transitions:
 - year: 885

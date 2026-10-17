@@ -19,6 +19,8 @@ point:
   name: "Guanggu"
   latitude: 36.6853
   longitude: 118.4796
+colors:
+  398: "#277686"
 note: "Murong De set up a separate government in the south after the Northern Wei took the Later Yan heartland."
 transitions:
 - year: 398

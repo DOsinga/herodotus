@@ -12,5 +12,7 @@ point:
   name: "Jericho"
   latitude: 31.87
   longitude: 35.44
+colors:
+  -8800: "#276786"
 note: "Both dates are estimates."
 ---

@@ -20,6 +20,8 @@ point:
   name: Omsk
   latitude: 54.9833
   longitude: 73.3667
+colors:
+  1918: "#372786"
 note: "Kolchak's White government."
 transitions:
 - year: 1918

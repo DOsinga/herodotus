@@ -18,6 +18,8 @@ point:
   name: Banjarmasin
   latitude: -3.32
   longitude: 114.5925
+colors:
+  1526: "#7acd51"
 note: >-
   1526 follows Sultan Suriansyah's conversion with Demak's help. The sultanate became a Dutch
   protectorate by the treaty of 1826, which counts as absorption; the Dutch abolished it in 1860 and

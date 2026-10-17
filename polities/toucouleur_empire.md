@@ -19,6 +19,8 @@ point:
   name: Ségou
   latitude: 13.45
   longitude: -6.267
+colors:
+  1849: "#862727"
 note: "Ends when the French took Bandiagara in 1893; Wikipedia's infobox runs to 1903."
 transitions:
 - year: 1893

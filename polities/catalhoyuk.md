@@ -21,5 +21,7 @@ point:
   name: "Çatalhöyük"
   latitude: 37.67
   longitude: 32.83
+colors:
+  -7100: "#572786"
 note: "Links the article on the town, the best-known Anatolian Neolithic settlement. Both dates are estimates."
 ---

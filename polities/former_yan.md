@@ -11,6 +11,8 @@ point:
   name: "Ye"
   latitude: 36.33
   longitude: 114.36
+colors:
+  337: "#862786"
 note: "Longcheng was the seat until 350; Ye was the capital from 357."
 transitions:
 - year: 370

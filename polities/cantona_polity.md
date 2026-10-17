@@ -19,5 +19,7 @@ point:
   name: "Cantona"
   latitude: 19.55206
   longitude: -97.48782
+colors:
+  -600: "#5151cd"
 note: "600 BCE estimates the beginnings of the walled settlement that developed into a regional state controlling an obsidian trade route. Its greatest power was in 600–1000 CE. 1050 estimates abandonment; the early political chronology is less secure than the settlement chronology."
 ---

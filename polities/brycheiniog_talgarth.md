@@ -19,6 +19,8 @@ point:
   name: "Talgarth"
   latitude: 51.995
   longitude: -3.233
+colors:
+  1045: "#865727"
 note: "1045 estimates this separately governing share after Brycheiniog's partition. 1093 follows the Norman conquest. The precise genealogy and handover chronology are uncertain. Links the parent kingdom's history."
 transitions:
 - year: 1093

@@ -20,6 +20,8 @@ point:
   name: Nantes
   latitude: 47.2184
   longitude: -1.5536
+colors:
+  939: "#7acd51"
 transitions:
 - year: 1532
   kind: absorbed_into

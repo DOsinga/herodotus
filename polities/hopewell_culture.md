@@ -12,5 +12,7 @@ point:
   name: "Mound City"
   latitude: 39.38
   longitude: -83.0
+colors:
+  -100: "#278637"
 note: "Both dates are estimates; the tradition linked many local societies of the Ohio and Illinois valleys through exchange."
 ---

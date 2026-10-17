@@ -19,4 +19,6 @@ point:
   name: Mogadishu
   latitude: 2.0469
   longitude: 45.3182
+colors:
+  1200: "#862737"
 ---

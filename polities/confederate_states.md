@@ -21,6 +21,8 @@ point:
   name: Richmond
   latitude: 37.541
   longitude: -77.437
+colors:
+  1861: "#51cdb8"
 transitions:
 - year: 1861
   kind: broke_away_from

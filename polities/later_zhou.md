@@ -19,6 +19,8 @@ point:
   name: "Kaifeng"
   latitude: 34.7972
   longitude: 114.3076
+colors:
+  951: "#cdcd51"
 note: "Guo Wei's central government replaced Later Han. Zhao Kuangyin's takeover in 960 began the Song regime, before Song had conquered the remaining regional states."
 transitions:
 - year: 960

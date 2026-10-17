@@ -21,5 +21,9 @@ point:
   name: "Coba"
   latitude: 20.49
   longitude: -87.73194
+colors:
+  200: "#51cd66"
+  575: "#51cd66"
+  600: "#349db2"
 note: "200 estimates the emergence of the regional city-state attested by its monumental development and later royal inscriptions. 1100 estimates the decline of this royal government's regional power after competition with Chichen Itza. Later settlement and religious activity do not by themselves establish a continuing independent court."
 ---

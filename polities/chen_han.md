@@ -18,6 +18,8 @@ point:
   name: Wuchang
   latitude: 30.5459
   longitude: 114.3
+colors:
+  1360: "#867627"
 note: "The capital was Jiujiang in 1360 and Wuchang after Zhu Yuanzhang took Jiujiang in 1361."
 transitions:
 - year: 1364

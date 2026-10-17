@@ -19,6 +19,8 @@ point:
   name: "Merano"
   latitude: 46.667
   longitude: 11.167
+colors:
+  1250: "#867627"
 note: "Margaret Maultasch handed Tyrol to Rudolf IV of Habsburg in 1363; the separate Habsburg line that held it with Further Austria from 1406 to 1490 has its own record."
 transitions:
 - year: 1363

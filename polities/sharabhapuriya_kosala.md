@@ -19,5 +19,7 @@ point:
   name: "Shripura"
   latitude: 21.353
   longitude: 82.186
+colors:
+  475: "#cd51a3"
 note: "475–590 follows A. M. Shastri's estimated royal chronology from Sharabha to Pravararaja. The inscriptions attest local government despite earlier Gupta allegiance. Shripura represents the later court; the exact location of the first Sharabhapura is disputed."
 ---

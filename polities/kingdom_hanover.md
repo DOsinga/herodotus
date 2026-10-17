@@ -19,6 +19,8 @@ point:
   name: Hanover
   latitude: 52.367
   longitude: 9.717
+colors:
+  1814: "#4934b2"
 transitions:
 - year: 1866
   kind: absorbed_into

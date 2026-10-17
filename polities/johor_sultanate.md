@@ -20,6 +20,8 @@ point:
   name: "Johor Lama"
   latitude: 1.57
   longitude: 104.02
+colors:
+  1528: "#b2b234"
 note: "The Anglo-Dutch Treaty of 1824 divided the realm into Riau-Lingga in the Dutch sphere and mainland Johor in the British sphere."
 transitions:
 - year: 1824

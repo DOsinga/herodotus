@@ -20,6 +20,8 @@ point:
   name: Taiz
   latitude: 13.5795
   longitude: 44.0209
+colors:
+  1229: "#3434b2"
 transitions:
 - year: 1454
   kind: succeeded_by

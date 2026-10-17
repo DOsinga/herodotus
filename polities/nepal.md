@@ -21,5 +21,7 @@ point:
   name: Kathmandu
   latitude: 27.71
   longitude: 85.32
+colors:
+  2008: "#278627"
 note: "The federal republic. Links the country article. Changes of regime are not split into separate records."
 ---

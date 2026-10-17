@@ -18,6 +18,8 @@ point:
   name: Urasoe
   latitude: 26.2458
   longitude: 127.7218
+colors:
+  1314: "#8834b2"
 transitions:
 - year: 1429
   kind: succeeded_by

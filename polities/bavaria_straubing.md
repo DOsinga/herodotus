@@ -18,6 +18,8 @@ point:
   name: "Straubing"
   latitude: 48.8817
   longitude: 12.5739
+colors:
+  1353: "#51b8cd"
 note: "The Straubing dukes were also counts of Holland and Hainaut, which have their own record. Its lands were divided in 1429 after John III's death in 1425."
 transitions:
 - year: 1353

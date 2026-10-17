@@ -19,6 +19,8 @@ point:
   name: Novgorod
   latitude: 58.5256
   longitude: 31.2742
+colors:
+  1136: "#672786"
 transitions:
 - year: 1136
   kind: broke_away_from

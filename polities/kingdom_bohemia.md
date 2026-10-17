@@ -19,6 +19,12 @@ point:
   name: Prague
   latitude: 50.0875
   longitude: 14.4214
+colors:
+  1198: "#5166cd"
+  1274: "#5166cd"
+  1299: "#cd51b8"
+  1540: "#cd51b8"
+  1565: "#9d34b2"
 transitions:
 - year: 1620
   kind: absorbed_into

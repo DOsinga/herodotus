@@ -20,5 +20,7 @@ point:
   name: "Naqada"
   latitude: 25.9
   longitude: 32.72
+colors:
+  -4000: "#51cd66"
 note: "Both dates are estimates. From about 3500 BCE its centres at Naqada, Nekhen and Thinis are recorded as chiefdoms."
 ---

@@ -20,6 +20,8 @@ point:
   name: Saray-Jük
   latitude: 47.5
   longitude: 51.7333
+colors:
+  1480: "#768627"
 transitions:
 - year: 1634
   kind: absorbed_into

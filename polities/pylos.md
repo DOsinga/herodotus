@@ -20,5 +20,7 @@ point:
   name: "Pylos"
   latitude: 37.03
   longitude: 21.7
+colors:
+  -1600: "#cdcd51"
 note: "Links the article on the palace, whose Linear B tablets document the kingdom. Both dates are estimates; the palace burned about 1180 BCE."
 ---

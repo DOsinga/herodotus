@@ -19,6 +19,10 @@ point:
   name: Chambéry
   latitude: 45.5646
   longitude: 5.9178
+colors:
+  1003: "#51cd7a"
+  1323: "#51cd7a"
+  1348: "#278657"
 note: "1003 follows the conventional beginning of Humbert I's rule as count; it is not a precise date for the formation of the later county. Chambéry is a later seat of government, not the capital throughout this period."
 transitions:
 - year: 1416

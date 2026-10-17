@@ -20,6 +20,8 @@ point:
   name: "Old Uppsala"
   latitude: 59.898
   longitude: 17.632
+colors:
+  500: "#cd51b8"
 note: "500 estimates the royal governing community attested in sixth-century accounts and the monumental centre at Old Uppsala, not the legendary Yngling genealogy. 970 conventionally marks the beginning of the existing medieval Sweden record under Eric; consolidation with the Geats was gradual and first securely attested under Olof around 995."
 transitions:
 - year: 970

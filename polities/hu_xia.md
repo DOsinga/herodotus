@@ -19,6 +19,8 @@ point:
   name: "Tongwancheng"
   latitude: 37.99
   longitude: 108.85
+colors:
+  407: "#51a3cd"
 note: "Northern Wei took Tongwan in 427. The Tuyuhun captured the last emperor in 431 and handed him to Wei, which took the rest of Xia's lands."
 transitions:
 - year: 431

@@ -21,5 +21,7 @@ point:
   name: "Botai"
   latitude: 53.3
   longitude: 67.6
+colors:
+  -3700: "#51cda3"
 note: "Both dates are estimates."
 ---

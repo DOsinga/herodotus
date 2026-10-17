@@ -21,5 +21,7 @@ point:
   name: Rome
   latitude: 41.8933
   longitude: 12.4828
+colors:
+  1946: "#862767"
 note: "The Italian Republic. Links the country article. Changes of regime are not split into separate records."
 ---

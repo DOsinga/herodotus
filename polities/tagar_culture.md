@@ -19,5 +19,7 @@ point:
   name: "Minusinsk Basin"
   latitude: 53.7
   longitude: 91.4
+colors:
+  -800: "#cd5166"
 note: "Both dates are estimates."
 ---

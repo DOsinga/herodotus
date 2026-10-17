@@ -21,5 +21,7 @@ point:
   name: "Central Germany"
   latitude: 50.5
   longitude: 10.0
+colors:
+  -5500: "#868627"
 note: "Both dates are estimates. The point is representative."
 ---

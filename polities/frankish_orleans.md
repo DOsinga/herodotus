@@ -20,5 +20,7 @@ point:
   name: "Orleans"
   latitude: 47.903
   longitude: 1.909
+colors:
+  511: "#51cda3"
 note: "Chlodomer's separate share after Clovis's death. After his death at Vezeronce in 524, his brothers divided the territory and killed two heirs; there was no enduring separate royal court. Links Chlodomer's biography."
 ---

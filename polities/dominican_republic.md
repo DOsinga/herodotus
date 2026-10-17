@@ -24,6 +24,8 @@ point:
   name: Santo Domingo
   latitude: 18.462
   longitude: -69.936
+colors:
+  1844: "#cd51cd"
 note: "Gap for the Spanish annexation of 1861; the restoration government formed in Santiago in 1863 and Spain withdrew in 1865. Links the country article. Changes of regime after independence are not split into separate records. Gap for the US occupation of 1916–1924."
 transitions:
 - year: 1844

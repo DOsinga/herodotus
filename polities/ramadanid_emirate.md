@@ -20,6 +20,10 @@ point:
   name: Adana
   latitude: 37.0
   longitude: 35.3213
+colors:
+  1352: "#cdcd51"
+  1428: "#cdcd51"
+  1453: "#678627"
 note: "The start is estimated from the Wikipedia account. Mamluk overlordship until the late fourteenth century did not end its government. From 1517 the Ramadanid beys governed Adana as Ottoman provincial governors, which counts as Ottoman rule; the family's governorship ended in 1608."
 transitions:
 - year: 1517

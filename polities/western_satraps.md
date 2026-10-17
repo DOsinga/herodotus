@@ -21,6 +21,8 @@ point:
   name: "Ujjain"
   latitude: 23.17
   longitude: 75.79
+colors:
+  35: "#cd5166"
 note: "Both dates are estimates; Chandragupta II conquered them about 415."
 transitions:
 - year: 415

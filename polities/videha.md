@@ -20,6 +20,8 @@ point:
   name: "Mithila"
   latitude: 26.73
   longitude: 85.92
+colors:
+  -1100: "#345eb2"
 note: "Both dates are estimates; Videha became part of the Vajjika League."
 transitions:
 - year: -700

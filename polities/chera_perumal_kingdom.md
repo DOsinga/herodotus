@@ -21,5 +21,7 @@ point:
   name: "Mahodayapuram (Kodungallur)"
   latitude: 10.22
   longitude: 76.2
+colors:
+  844: "#cd517a"
 note: "844 and 1124 estimate the span from the first securely recorded Perumal Sthanu Ravi to Rama Kulasekhara's final reign. This is the Makotai royal government, not an umbrella over every Kerala chiefdom. Its balance with local assemblies is debated; the record follows the interpretation of a functioning medieval monarchy, not merely ritual sovereignty."
 ---

@@ -20,6 +20,8 @@ point:
   name: Konya
   latitude: 37.8744
   longitude: 32.4931
+colors:
+  1250: "#5151cd"
 transitions:
 - year: 1487
   kind: absorbed_into

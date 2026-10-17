@@ -18,6 +18,8 @@ point:
   name: "Cổ Loa"
   latitude: 21.113
   longitude: 105.873
+colors:
+  965: "#865727"
 note: "Lã Xử Bình seized the royal capital in 965, while Ngô Xương Xí withdrew to Bình Kiều. This was a separate actual government, even though Lã is not in the traditional twelve-name list. 968 estimates its end in Đinh's unification; the period article is the nearest account."
 transitions:
 - year: 968

@@ -18,6 +18,8 @@ point:
   name: Hetu Ala
   latitude: 41.702
   longitude: 124.858
+colors:
+  1587: "#34b288"
 note: "No article covers the state before 1616; this links the article on the Jianzhou Jurchens. Begins with the founding of Fe Ala in 1587, by which time Nurhaci had united most of the Jianzhou chiefs. Fe Ala was the seat until 1603 and lies close to Hetu Ala."
 transitions:
 - year: 1616

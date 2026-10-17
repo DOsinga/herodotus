@@ -20,6 +20,8 @@ point:
   name: "Fuqi"
   latitude: 36.3
   longitude: 100.6
+colors:
+  284: "#9d34b2"
 note: "284 is the conventional beginning of Murong Tuyuhun's government. 663 dates the Tibetan conquest that expelled Nuohebo's court; 670 is the failure of the Tang restoration campaign, not seven additional years of rule over Qinghai. Later refugee rulers held Tang offices. Fuqi's location in Gonghe is approximate."
 transitions:
 - year: 663

@@ -20,6 +20,8 @@ point:
   name: "Kharkiv"
   latitude: 49.9925
   longitude: 36.2311
+colors:
+  1919: "#478627"
 note: "Before it joined the Soviet Union. The Bolshevik party directed it from Moscow, but it kept its own government and conducted its own diplomacy, signing the Treaty of Riga in 1921, so it is kept as a polity."
 transitions:
 - year: 1922

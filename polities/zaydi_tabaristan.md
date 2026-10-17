@@ -22,6 +22,8 @@ point:
   name: "Amol"
   latitude: 36.47
   longitude: 52.35
+colors:
+  864: "#b2b234"
 note: "864 follows Hasan ibn Zayd's territorial government. Samanid conquest interrupted it in 900; Hasan al-Utrush restored it in 914. The second period ended in the 928 conquest. This is the Tabaristan emirate, not an umbrella over every Alid ruler in northern Iran."
 transitions:
 - year: 864

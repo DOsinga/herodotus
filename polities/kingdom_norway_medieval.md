@@ -21,6 +21,8 @@ point:
   name: Bergen
   latitude: 60.389
   longitude: 5.33
+colors:
+  872: "#34b2b2"
 note: "Start estimated: 872 is the traditional date of Harald Fairhair's unification."
 transitions:
 - year: 1397

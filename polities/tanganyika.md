@@ -21,6 +21,8 @@ point:
   name: Dar es Salaam
   latitude: -6.8161
   longitude: 39.2803
+colors:
+  1961: "#34b2b2"
 transitions:
 - year: 1961
   kind: broke_away_from

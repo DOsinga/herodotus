@@ -19,6 +19,8 @@ point:
   name: Ichijōdani
   latitude: 35.9995
   longitude: 136.2956
+colors:
+  1471: "#cd8f51"
 note: "Begins with Toshikage's appointment as governor of Echizen in 1471, after which he governed the province himself. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1471

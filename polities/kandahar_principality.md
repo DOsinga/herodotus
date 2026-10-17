@@ -19,6 +19,8 @@ point:
   name: Kandahar
   latitude: 31.62
   longitude: 65.7158
+colors:
+  1818: "#cd7a51"
 note: "Sher Dil Khan's seizure of the city in 1818 starts it. The British occupation of 1839–1842 during the First Anglo-Afghan War is not split out. Dost Mohammad's capture of Kandahar in 1856 ends it."
 transitions:
 - year: 1818

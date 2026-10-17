@@ -22,5 +22,7 @@ point:
   name: "Dhar Tichitt"
   latitude: 18.45
   longitude: -9.5
+colors:
+  -2200: "#cda351"
 note: "Both dates are estimates."
 ---

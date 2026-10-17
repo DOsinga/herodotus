@@ -19,6 +19,8 @@ point:
   name: "Huairong"
   latitude: 40.401
   longitude: 115.517
+colors:
+  618: "#b8cd51"
 note: "618 conventionally dates Gao's territorial Yan court, first based at Yuyang and later Huairong. The Tang title accepted in 620 did not remove his native army or government; he again openly fought Tang in 621. The 624 coup ended his court. The Huairong point is approximate."
 transitions:
 - year: 618

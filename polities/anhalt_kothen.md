@@ -21,6 +21,10 @@ point:
   name: "Köthen"
   latitude: 51.751
   longitude: 11.974
+colors:
+  1396: "#cd7a51"
+  1578: "#cd7a51"
+  1603: "#b25e34"
 note: "Two periods: the line from the 1396 division of Zerbst, whose lands passed to Zerbst in 1562, and the principality of the 1603 division. Passed to Anhalt-Dessau when its line died out in 1847."
 transitions:
 - year: 1562

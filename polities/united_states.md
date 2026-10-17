@@ -19,6 +19,10 @@ point:
   name: Washington, D.C.
   latitude: 38.905
   longitude: -77.016
+colors:
+  1776: "#472786"
+  1920: "#472786"
+  1945: "#34b273"
 transitions:
 - year: 1776
   kind: broke_away_from

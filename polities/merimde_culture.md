@@ -20,5 +20,7 @@ point:
   name: "Merimde Beni Salama"
   latitude: 30.32
   longitude: 30.85
+colors:
+  -4800: "#b2349d"
 note: "Both dates are estimates for the Neolithic village culture of the western Delta."
 ---

@@ -20,6 +20,8 @@ point:
   name: "Ming Urik"
   latitude: 41.299
   longitude: 69.28
+colors:
+  500: "#518fcd"
 note: "500 estimates the fifth–eighth-century principality recorded in the Tashkent history. Ends with Gao Xianzhi's destruction of its royal government in 750. Ming Urik represents a main royal centre; the whole region is not equated with the modern city. Links Tashkent's history. Links the article on Tashkent, the city at its centre, as no article covers the kingdom."
 transitions:
 - year: 750

@@ -11,6 +11,8 @@ point:
   name: Kokand
   latitude: 40.529
   longitude: 70.942
+colors:
+  1709: "#3488b2"
 transitions:
 - year: 1709
   kind: broke_away_from

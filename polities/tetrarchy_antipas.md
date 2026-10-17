@@ -19,6 +19,8 @@ point:
   name: "Tiberias"
   latitude: 32.79
   longitude: 35.53
+colors:
+  -4: "#6651cd"
 note: "Links Herod Antipas' article. Sepphoris was the seat until Tiberias was founded about 20. Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. Caligula exiled Antipas and gave his lands to Agrippa I."
 transitions:
 - year: 39

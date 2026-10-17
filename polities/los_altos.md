@@ -20,6 +20,8 @@ point:
   name: Quetzaltenango
   latitude: 14.8333
   longitude: -91.5167
+colors:
+  1838: "#b25e34"
 note: "The second attempt at independence in 1848–1849 lasted only months and is left out."
 transitions:
 - year: 1838

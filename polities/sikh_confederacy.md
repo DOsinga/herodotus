@@ -20,6 +20,8 @@ point:
   name: Amritsar
   latitude: 31.64
   longitude: 74.86
+colors:
+  1748: "#b23434"
 transitions:
 - year: 1799
   kind: succeeded_by

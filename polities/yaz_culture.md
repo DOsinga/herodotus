@@ -12,5 +12,7 @@ point:
   name: "Yaz Depe"
   latitude: 37.62
   longitude: 61.83
+colors:
+  -1500: "#34b234"
 note: "Both dates are estimates for the Iron Age culture of Margiana and Bactria; the Achaemenid conquest ends the record."
 ---

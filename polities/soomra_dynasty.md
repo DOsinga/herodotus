@@ -18,6 +18,8 @@ point:
   name: Mansura
   latitude: 25.88
   longitude: 68.78
+colors:
+  1026: "#cd5151"
 note: >-
   Links the dynasty article; the dynasty name is the conventional name for the state. Both dates
   follow the article and are approximate; the start in particular is uncertain. The later seat at

@@ -19,6 +19,10 @@ point:
   name: "Hildburghausen"
   latitude: 50.4252
   longitude: 10.7276
+colors:
+  1680: "#5e34b2"
+  1779: "#5e34b2"
+  1804: "#cd7a51"
 note: "Made in the 1680 division of Gotha; in the 1826 reshuffling its duke moved to Saxe-Altenburg, which continues his government, and Hildburghausen itself went to Saxe-Meiningen."
 transitions:
 - year: 1680

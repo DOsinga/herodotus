@@ -20,6 +20,8 @@ point:
   name: Helsinki
   latitude: 60.1708
   longitude: 24.9375
+colors:
+  1917: "#277686"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1917

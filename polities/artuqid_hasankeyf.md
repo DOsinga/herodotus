@@ -19,6 +19,8 @@ point:
   name: Hasankeyf
   latitude: 37.7139
   longitude: 41.4114
+colors:
+  1102: "#678627"
 note: "Links the article on the whole dynasty; this record covers Sökmen's branch, which held Hisn Kayfa from 1102 and Amid from 1183. The Harput line, independent from 1185 to 1233, is left out. Ends with al-Kamil's conquest of 1232."
 transitions:
 - year: 1232

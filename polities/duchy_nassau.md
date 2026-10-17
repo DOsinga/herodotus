@@ -20,6 +20,8 @@ point:
   name: "Wiesbaden"
   latitude: 50.083
   longitude: 8.24
+colors:
+  1806: "#272786"
 note: "Formed in 1806 by the merger of Nassau-Usingen and Nassau-Weilburg, which have their own records; the other Nassau counties, such as the Ottonian lines of Dillenburg, Siegen and Dietz, are among the Empire's smaller members left out of the Holy Roman Empire pass. Annexed by Prussia in 1866."
 transitions:
 - year: 1866

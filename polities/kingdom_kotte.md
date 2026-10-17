@@ -16,4 +16,6 @@ point:
   name: Kotte
   latitude: 6.8906
   longitude: 79.9014
+colors:
+  1412: "#8fcd51"
 ---

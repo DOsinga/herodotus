@@ -11,6 +11,10 @@ point:
   name: Bijapur
   latitude: 16.8302
   longitude: 75.71
+colors:
+  1490: "#51b8cd"
+  1613: "#51b8cd"
+  1638: "#517acd"
 transitions:
 - year: 1686
   kind: absorbed_into

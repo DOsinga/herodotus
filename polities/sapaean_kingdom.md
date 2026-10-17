@@ -18,6 +18,8 @@ point:
   name: "Bizye"
   latitude: 41.57
   longitude: 27.77
+colors:
+  -50: "#768627"
 note: "Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. 50 BCE estimates its takeover from the Odrysian kings."
 transitions:
 - year: 46

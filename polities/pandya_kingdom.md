@@ -26,6 +26,8 @@ point:
   name: Madurai
   latitude: 9.9252
   longitude: 78.1198
+colors:
+  -300: "#472786"
 note: "300 BCE estimates the early historically attested kingdom, excluding the legendary Sangam genealogy. The end around 250 estimates the loss of royal power to the Kalabhras; Kadungon restored it around 560. Chola conquest ended Rajasimha's government around 920. Vira Pandya's separate government in 946–966 was another restoration, not the later Chola-appointed Pandya viceroyalty. The existing 1101–1323 period follows the later native kings. The early dates are conventional estimates; the tenth-century restoration is also dated from the mid-950s."
 transitions:
 - year: 250

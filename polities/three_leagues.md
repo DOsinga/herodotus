@@ -19,6 +19,10 @@ point:
   name: Chur
   latitude: 46.8508
   longitude: 9.532
+colors:
+  1367: "#34b25e"
+  1598: "#34b25e"
+  1623: "#864727"
 note: "Starts with the League of God's House in 1367, which took power from the bishop of Chur; the three leagues acted as one state from about 1471."
 transitions:
 - year: 1799

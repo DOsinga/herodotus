@@ -20,6 +20,8 @@ point:
   name: "Toledo"
   latitude: 39.8628
   longitude: -4.0273
+colors:
+  1018: "#678627"
 note: "1018 follows Ismail's expulsion of Córdoba's governor and effective independence, rather than the later royal title. Alfonso VI's conquest ended the taifa in 1085."
 transitions:
 - year: 1018

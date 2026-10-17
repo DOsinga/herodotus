@@ -21,6 +21,8 @@ point:
   name: "Worcester"
   latitude: 52.194
   longitude: -2.221
+colors:
+  577: "#34b25e"
 note: "577 is the conventional formation after Deorham. Native kings retained regional government under Mercian overlordship after Cirencester in 628. 780 estimates the replacement of royal government by Mercian officials in the later eighth century, not the original tribute agreement."
 transitions:
 - year: 780

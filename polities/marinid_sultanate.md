@@ -18,4 +18,6 @@ point:
   name: Fez
   latitude: 34.0181
   longitude: -5.0078
+colors:
+  1244: "#cd51a3"
 ---

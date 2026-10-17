@@ -20,6 +20,8 @@ point:
   name: Gurganj
   latitude: 42.3167
   longitude: 59.15
+colors:
+  1127: "#51cd7a"
 transitions:
 - year: 1231
   kind: absorbed_into

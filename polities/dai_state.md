@@ -19,6 +19,8 @@ point:
   name: "Shengle"
   latitude: 40.39
   longitude: 111.82
+colors:
+  310: "#864727"
 transitions:
 - year: 376
   kind: absorbed_into

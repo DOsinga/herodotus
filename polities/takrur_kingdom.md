@@ -18,6 +18,8 @@ point:
   name: "Senegal River (Podor region)"
   latitude: 16.655
   longitude: -14.959
+colors:
+  500: "#5166cd"
 note: "500 is an estimate from the early Dya'ogo tradition; the kingdom is securely attested only in the ninth century. The river point represents its heartland, since the early capital's exact location is uncertain. The Manna and later ruling houses are not separate states. Mali's tributary relationship after about 1285 left local rule; Jolof's conquest in 1456 ends it."
 transitions:
 - year: 1456

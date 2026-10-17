@@ -11,6 +11,8 @@ point:
   name: Nicosia
   latitude: 35.1725
   longitude: 33.365
+colors:
+  1192: "#cd5151"
 transitions:
 - year: 1489
   kind: absorbed_into

@@ -11,6 +11,10 @@ point:
   name: Abomey
   latitude: 7.186
   longitude: 1.988
+colors:
+  1600: "#cdb851"
+  1699: "#cdb851"
+  1724: "#51cd7a"
 note: "Start estimated (about 1600). Ends in 1894, when the French installed Agoli-agbo as a traditional chief under French supervision rather than as head of a sovereign state."
 transitions:
 - year: 1894

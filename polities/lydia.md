@@ -19,6 +19,8 @@ point:
   name: "Sardis"
   latitude: 38.49
   longitude: 28.04
+colors:
+  -1200: "#862786"
 note: "The kingdom is historically attested from the Mermnad dynasty, about 680 BCE. Cyrus took Sardis."
 transitions:
 - year: -546

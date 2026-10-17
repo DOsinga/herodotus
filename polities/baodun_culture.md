@@ -20,5 +20,7 @@ point:
   name: "Baodun"
   latitude: 30.6
   longitude: 103.6
+colors:
+  -2800: "#276786"
 note: "Both dates are estimates; Sanxingdui follows."
 ---

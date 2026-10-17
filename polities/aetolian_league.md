@@ -19,6 +19,8 @@ point:
   name: "Thermon"
   latitude: 38.58
   longitude: 21.67
+colors:
+  -370: "#cd51cd"
 note: "370 BCE estimates the federal state. Its 189 BCE treaty bound it to Rome's friends and enemies, which counts as absorption."
 transitions:
 - year: -189

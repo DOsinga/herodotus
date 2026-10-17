@@ -20,6 +20,8 @@ point:
   name: "Memphis"
   latitude: 29.85
   longitude: 31.25
+colors:
+  -2686: "#345eb2"
 note: "Ends with the Sixth Dynasty; the weak Memphite kings who followed are a separate record."
 transitions:
 - year: -2181

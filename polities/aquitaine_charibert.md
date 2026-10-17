@@ -20,6 +20,8 @@ point:
   name: "Toulouse"
   latitude: 43.604
   longitude: 1.444
+colors:
+  629: "#678627"
 note: "A separate royal government created for Charibert II while Dagobert ruled the rest of Francia. Ends when Dagobert seized the realm after Charibert and his young heir died. Links Charibert's biography; this is not the later independent Aquitanian duchy."
 transitions:
 - year: 629

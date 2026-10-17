@@ -20,6 +20,8 @@ point:
   name: Thăng Long
   latitude: 21.0333
   longitude: 105.84
+colors:
+  1527: "#34b273"
 transitions:
 - year: 1667
   kind: absorbed_into

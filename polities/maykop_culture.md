@@ -21,5 +21,7 @@ point:
   name: "Maykop"
   latitude: 44.6
   longitude: 40.1
+colors:
+  -3700: "#478627"
 note: "Both dates are estimates."
 ---

@@ -22,6 +22,8 @@ point:
   name: Prague
   latitude: 50.0875
   longitude: 14.4214
+colors:
+  1918: "#51cd7a"
 note: "Gap for the German occupation of the Czech lands and the Slovak Republic. It dissolved at midnight on 31 December 1992, so its successors start in 1993."
 transitions:
 - year: 1939

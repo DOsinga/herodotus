@@ -21,5 +21,7 @@ point:
   name: "Middle Dnieper"
   latitude: 49.5
   longitude: 31.0
+colors:
+  200: "#b2b234"
 note: "Both dates are estimates; the culture of the Gothic-led peoples north of the Black Sea, ended by the Hunnic invasions. The point is representative."
 ---

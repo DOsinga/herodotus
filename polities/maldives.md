@@ -19,6 +19,8 @@ point:
   name: Malé
   latitude: 4.1753
   longitude: 73.5089
+colors:
+  1965: "#b23434"
 note: "Before independence it was a British-protected state, which does not count as governing itself. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1965

@@ -20,6 +20,8 @@ point:
   name: Bidar
   latitude: 17.9133
   longitude: 77.5301
+colors:
+  1347: "#51cd51"
 transitions:
 - year: 1347
   kind: broke_away_from

@@ -21,5 +21,7 @@ point:
   name: "Únětice"
   latitude: 50.15
   longitude: 14.38
+colors:
+  -2300: "#cd51a3"
 note: "Both dates are estimates; the Tumulus culture follows."
 ---

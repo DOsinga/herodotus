@@ -21,6 +21,8 @@ point:
   name: Djibouti (city)
   latitude: 11.5944
   longitude: 43.1481
+colors:
+  1977: "#472786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1977

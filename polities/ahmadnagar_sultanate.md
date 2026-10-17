@@ -21,6 +21,8 @@ point:
   name: Ahmadnagar
   latitude: 19.0948
   longitude: 74.748
+colors:
+  1490: "#274786"
 transitions:
 - year: 1636
   kind: absorbed_into

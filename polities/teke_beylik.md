@@ -20,6 +20,8 @@ point:
   name: Antalya
   latitude: 36.8969
   longitude: 30.7133
+colors:
+  1321: "#b234b2"
 transitions:
 - year: 1423
   kind: absorbed_into

@@ -21,5 +21,9 @@ point:
   name: "Sa Huỳnh"
   latitude: 14.83
   longitude: 108.95
+colors:
+  -1000: "#517acd"
+  -135: "#517acd"
+  -110: "#51cd7a"
 note: "Both dates are estimates; Champa follows from 192."
 ---

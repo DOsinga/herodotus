@@ -20,6 +20,8 @@ point:
   name: "Gurganj"
   latitude: 42.326
   longitude: 59.152
+colors:
+  995: "#3434b2"
 note: "Mamun's conquest replaced the Kath court and made Gurganj the capital in 995. Ends with Mahmud of Ghazni's conquest and replacement of the royal government in 1017; its rulers' earlier Samanid connections did not make it a provincial administration."
 transitions:
 - year: 1017

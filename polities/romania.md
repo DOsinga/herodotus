@@ -20,5 +20,7 @@ point:
   name: Bucharest
   latitude: 44.4325
   longitude: 26.1039
+colors:
+  1947: "#867627"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

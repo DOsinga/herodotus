@@ -20,6 +20,8 @@ point:
   name: "Polonnaruwa"
   latitude: 7.94
   longitude: 81
+colors:
+  1055: "#866727"
 note: "1055 follows Vijayabahu's own kingship in the south, before his recovery of Polonnaruwa in 1070. Locally governing usurpers do not automatically create new states. Kalinga Magha's 1215 conquest ended this royal government; later southern courts and the continued occupation of the capital are not an unchanged kingdom to 1232."
 transitions:
 - year: 1215

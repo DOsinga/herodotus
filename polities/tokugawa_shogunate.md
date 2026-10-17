@@ -21,6 +21,8 @@ point:
   name: Edo
   latitude: 35.6875
   longitude: 139.7542
+colors:
+  1600: "#7334b2"
 transitions:
 - year: 1868
   kind: succeeded_by

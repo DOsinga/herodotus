@@ -18,6 +18,8 @@ point:
   name: Bobastro
   latitude: 36.9025
   longitude: -4.7815
+colors:
+  880: "#9db234"
 note: "No article covers the lordship, so the link goes to its founder. The start is Ibn Hafsun's occupation of Bobastro around 880, and the end the surrender of the fortress in January 928."
 transitions:
 - year: 928
