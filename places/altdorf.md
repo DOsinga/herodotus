@@ -10,6 +10,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1290
+  polity: uri
+  importance: 2
 - start: 1291
   end: 1797
   polity: old_swiss_confederacy

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Meiningen
 point:
   latitude: 50.55
   longitude: 10.4167
-note: "Gap for the counts of Henneberg and the joint Saxon administration of their lands after 1583. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Wettins administered the Henneberg lands jointly from 1583 to 1660, with the electoral line holding the larger share. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1008
   end: 1249
@@ -14,6 +14,14 @@ control:
 - start: 1250
   end: 1541
   polity: wurzburg
+  importance: 1
+- start: 1542
+  end: 1583
+  polity: county_henneberg
+  importance: 1
+- start: 1584
+  end: 1659
+  polity: electorate_saxony
   importance: 1
 - start: 1660
   end: 1679

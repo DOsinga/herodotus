@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Passau
 point:
   latitude: 48.5744
   longitude: 13.4647
-note: "Roman Batavis. Gap for the Prince-Bishopric of Passau, which has no record, from 1250 until Bavaria annexed it in 1803. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Roman Batavis. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1
   end: 394
@@ -14,6 +14,22 @@ control:
 - start: 395
   end: 475
   polity: western_roman_empire
+  importance: 1
+- start: 476
+  end: 492
+  polity: kingdom_odoacer
+  importance: 1
+- start: 493
+  end: 536
+  polity: ostrogothic_kingdom
+  importance: 1
+- start: 537
+  end: 554
+  polity: austrasia
+  importance: 1
+- start: 555
+  end: 738
+  polity: duchy_bavaria
   importance: 1
 - start: 739
   end: 788
@@ -38,6 +54,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1802
+  polity: bishopric_passau
   importance: 2
 - start: 1803
   end: 1805

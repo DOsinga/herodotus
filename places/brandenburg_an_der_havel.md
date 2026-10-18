@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Brandenburg_an_der_Havel
 point:
   latitude: 52.4167
   longitude: 12.5333
-note: "The Hevelli stronghold of Brenna. Henry I took it in 929 and lost it in the Slav uprising of 983; gap for the Hevelli princes until Albert the Bear took it in 1157. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Hevelli stronghold of Brenna. Jaxa of Köpenick held it from 1150 until Albert the Bear took it in 1157. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 600
   end: 788
   polity: veletian_principality
+  importance: 2
+- start: 789
+  end: 927
+  polity: hevelli
   importance: 2
 - start: 928
   end: 961
@@ -18,6 +22,10 @@ control:
 - start: 962
   end: 982
   polity: holy_roman_empire
+  importance: 2
+- start: 983
+  end: 1150
+  polity: hevelli
   importance: 2
 - start: 1157
   end: 1249

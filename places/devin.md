@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Devín
 point:
   latitude: 48.1747
   longitude: 16.9783
-note: "Stands in for Samo's realm, whose centre Wogastisburg has not been found; Devín is one of the sites proposed. Germany annexed Devín in 1938."
+note: "Stands in for Samo's realm, whose centre Wogastisburg has not been found; Devín is one of the sites proposed. The Avar span after Samo rests on the Avar-Slav cemeteries nearby and is an estimate. Germany annexed Devín in 1938."
 control:
 - start: 623
   end: 658
   polity: samos_realm
   importance: 2
+- start: 659
+  end: 811
+  polity: avar_khaganate
+  importance: 1
 - start: 833
   end: 906
   polity: great_moravia

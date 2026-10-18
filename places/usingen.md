@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Usingen
 point:
   latitude: 50.3344
   longitude: 8.5375
-note: "Gap for the Nassau counts before the Usingen line of 1659. The princes moved to Biebrich near Wiesbaden in 1744. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Pledged to Nassau in 1326 and Nassau's for good from 1405. The princes moved to Biebrich near Wiesbaden in 1744. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 802
   end: 842
@@ -18,6 +18,18 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 1
+- start: 1250
+  end: 1325
+  polity: county_diez
+  importance: 1
+- start: 1326
+  end: 1343
+  polity: county_nassau
+  importance: 1
+- start: 1344
+  end: 1658
+  polity: nassau_weilburg
   importance: 1
 - start: 1659
   end: 1743

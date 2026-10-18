@@ -5,11 +5,23 @@ wikipedia: https://en.wikipedia.org/wiki/Inowrocław
 point:
   latitude: 52.7931
   longitude: 18.2611
-note: "Gap for the Kuyavian dukes from the 1230s. The Teutonic Order held Kuyavia from 1332 until the Treaty of Kalisz in 1343."
+note: "The Teutonic Order held Kuyavia from 1332 until the Treaty of Kalisz in 1343."
 control:
 - start: 1138
   end: 1229
   polity: duchy_masovia
+  importance: 2
+- start: 1230
+  end: 1232
+  polity: duchy_masovia
+  importance: 2
+- start: 1233
+  end: 1326
+  polity: duchy_kuyavia
+  importance: 2
+- start: 1327
+  end: 1331
+  polity: kingdom_poland
   importance: 2
 - start: 1332
   end: 1342

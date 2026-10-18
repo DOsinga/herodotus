@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Legnica
 point:
   latitude: 51.2083
   longitude: 16.1603
-note: "Seat of the Piast dukes of Legnica, who split from Wrocław in 1248 and became Bohemian vassals in 1329; the duchy is kept under Bohemia from then until Prussia took Silesia."
+note: "The Piast dukes of Legnica became Bohemian vassals in 1329; the duchy is kept under Bohemia from then until Prussia took Silesia."
 control:
 - start: 1149
   end: 1247
   polity: duchy_silesia
+  importance: 2
+- start: 1248
+  end: 1328
+  polity: duchy_legnica
   importance: 2
 - start: 1329
   end: 1468

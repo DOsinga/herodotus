@@ -10,6 +10,14 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1263
+  polity: county_kyburg
+  importance: 1
+- start: 1264
+  end: 1277
+  polity: county_habsburg
+  importance: 1
 - start: 1278
   end: 1351
   polity: duchy_austria

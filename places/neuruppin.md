@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Neuruppin
 point:
   latitude: 52.9331
   longitude: 12.8
-note: "Gap for the counts of Lindow-Ruppin, whose county fell to Brandenburg in 1524. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1238
   end: 1249
   polity: holy_roman_empire
+  importance: 1
+- start: 1250
+  end: 1523
+  polity: county_ruppin
   importance: 1
 - start: 1524
   end: 1700

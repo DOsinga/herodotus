@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Göttingen
 point:
   latitude: 51.5339
   longitude: 9.9356
-note: "Gap for the Guelph Principality of Göttingen, 1345 to 1463. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 962
   end: 1249
@@ -19,6 +19,10 @@ control:
   end: 1344
   polity: brunswick_wolfenbuttel
   importance: 1
+- start: 1345
+  end: 1462
+  polity: principality_gottingen
+  importance: 2
 - start: 1463
   end: 1583
   polity: principality_calenberg

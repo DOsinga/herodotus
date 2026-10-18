@@ -5,11 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Kołobrzeg
 point:
   latitude: 54.1761
   longitude: 15.5761
-note: "Seat of a short-lived Polish bishopric from 1000. From 1276 it belonged to the bishops of Cammin, kept here under Pomerania. Farther Pomerania went to Brandenburg in 1653."
+note: "Seat of a short-lived Polish bishopric from 1000. Bolesław III took the town around 1108. From 1276 it belonged to the bishops of Cammin, kept here under Pomerania. Farther Pomerania went to Brandenburg in 1653."
 control:
 - start: 990
   end: 1004
   polity: civitas_schinesghe
+  importance: 2
+- start: 1005
+  end: 1107
+  polity: pomeranians
+  importance: 2
+- start: 1108
+  end: 1120
+  polity: kingdom_poland
   importance: 2
 - start: 1121
   end: 1629

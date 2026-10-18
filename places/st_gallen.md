@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/St._Gallen
 point:
   latitude: 47.4245
   longitude: 9.3767
-note: "The abbey and the city were associates of the Confederacy from 1451 and 1454 and have no records."
+note: "The abbey and the city were associates of the Confederacy from 1451 and 1454."
 control:
 - start: 719
   end: 745
@@ -34,6 +34,14 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1414
+  polity: abbey_st_gall
+  importance: 2
+- start: 1415
+  end: 1797
+  polity: st_gallen
   importance: 2
 - start: 1798
   end: 1802

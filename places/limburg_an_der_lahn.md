@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Limburg_an_der_Lahn
 point:
   latitude: 50.3833
   longitude: 8.0667
-note: "Gap for the lords of Limburg, whose town passed fully to Trier in 1420. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Trier held half the town from 1344 and took the rest when the lords of Limburg died out in 1406, though it only secured it fully in 1420. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 910
   end: 961
@@ -15,7 +15,11 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
-- start: 1420
+- start: 1250
+  end: 1406
+  polity: isenburg_limburg
+  importance: 1
+- start: 1407
   end: 1802
   polity: electorate_trier
   importance: 1

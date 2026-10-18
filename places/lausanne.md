@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Lausanne
 point:
   latitude: 46.5197
   longitude: 6.6323
-note: "Ruled by the prince-bishops of Lausanne, who have no record, from 1250 until Bern's conquest of Vaud in 1536."
 control:
 - start: -15
   end: 394
@@ -82,6 +81,10 @@ control:
 - start: 1032
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1535
+  polity: bishopric_lausanne
   importance: 2
 - start: 1536
   end: 1797

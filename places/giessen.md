@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Giessen
 point:
   latitude: 50.5833
   longitude: 8.6667
-note: "Gap for the landgraviate of Hesse-Marburg, 1567 to 1604. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1197
   end: 1249
@@ -14,6 +14,10 @@ control:
 - start: 1265
   end: 1566
   polity: landgraviate_hesse
+  importance: 1
+- start: 1567
+  end: 1603
+  polity: hesse_marburg
   importance: 1
 - start: 1604
   end: 1805

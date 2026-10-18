@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Opole
 point:
   latitude: 50.6667
   longitude: 17.9242
-note: "Gap for the Upper Silesian duchy of Opole between the division of Silesia in 1172 and its homage to Bohemia in 1327. Stayed German after the 1921 plebiscite."
+note: "Stayed German after the 1921 plebiscite."
 control:
 - start: 1025
   end: 1137
@@ -14,6 +14,10 @@ control:
 - start: 1138
   end: 1172
   polity: duchy_silesia
+  importance: 2
+- start: 1173
+  end: 1326
+  polity: duchy_opole
   importance: 2
 - start: 1327
   end: 1468

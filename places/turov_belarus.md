@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Turov,_Belarus
 point:
   latitude: 52.07
   longitude: 27.74
-note: "Gap for the principality of Turov after it slipped from Kyiv's control around 1158; it has no record."
 control:
 - start: 980
   end: 1131
@@ -14,6 +13,10 @@ control:
 - start: 1132
   end: 1157
   polity: principality_kiev
+  importance: 2
+- start: 1158
+  end: 1319
+  polity: principality_turov
   importance: 2
 - start: 1320
   end: 1568

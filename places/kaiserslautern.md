@@ -11,6 +11,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1356
+  polity: kaiserslautern
+  importance: 1
 - start: 1357
   end: 1622
   polity: electoral_palatinate

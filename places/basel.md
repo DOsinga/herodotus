@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Basel
 point:
   latitude: 47.5596
   longitude: 7.5886
-note: "The Roman spans stand for Augusta Raurica. The city bought out the bishop's rights from 1386 and governed itself until joining the Confederacy in 1501."
+note: "The Roman spans stand for Augusta Raurica. Alamannic settlement after the Roman withdrawal of 401 came gradually, so the Alamannic span is an estimate. The city bought out the bishop's rights in the late fourteenth century and governed itself until joining the Confederacy in 1501."
 control:
 - start: -44
   end: -28
@@ -18,6 +18,10 @@ control:
 - start: 395
   end: 401
   polity: western_roman_empire
+  importance: 2
+- start: 402
+  end: 535
+  polity: alamanni
   importance: 2
 - start: 536
   end: 555
@@ -78,6 +82,10 @@ control:
 - start: 1250
   end: 1385
   polity: prince_bishopric_basel
+  importance: 3
+- start: 1386
+  end: 1500
+  polity: basel
   importance: 3
 - start: 1501
   end: 1797

@@ -5,12 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Kulmbach
 point:
   latitude: 50.1
   longitude: 11.4333
-note: "The margraves resided at the Plassenburg above Kulmbach until 1604. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Meranian inheritance was disputed from 1248 until the counts of Orlamünde took Kulmbach in 1260. The margraves resided at the Plassenburg above Kulmbach until 1604. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1035
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1260
+  end: 1339
+  polity: county_orlamunde
+  importance: 2
+- start: 1340
+  end: 1397
+  polity: burgraviate_nuremberg
+  importance: 2
 - start: 1398
   end: 1603
   polity: principality_bayreuth

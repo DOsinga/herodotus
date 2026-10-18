@@ -22,6 +22,10 @@ control:
   end: 406
   polity: western_roman_empire
   importance: 2
+- start: 407
+  end: 505
+  polity: alamanni
+  importance: 2
 - start: 506
   end: 510
   polity: merovingian_francia_late

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Regensburg
 point:
   latitude: 49.0167
   longitude: 12.0833
-note: "Roman Castra Regina, the Agilolfing dukes' seat and the main residence of the East Frankish kings. Gaps for the free imperial city, apart from its submission to Bavaria-Munich from 1486 to 1492. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Roman Castra Regina, the Agilolfing dukes' seat and the main residence of the East Frankish kings. A free city apart from its submission to Bavaria-Munich from 1486 to 1492. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 179
   end: 394
@@ -14,6 +14,18 @@ control:
 - start: 395
   end: 475
   polity: western_roman_empire
+  importance: 2
+- start: 476
+  end: 492
+  polity: kingdom_odoacer
+  importance: 2
+- start: 493
+  end: 536
+  polity: ostrogothic_kingdom
+  importance: 2
+- start: 537
+  end: 554
+  polity: austrasia
   importance: 2
 - start: 555
   end: 788
@@ -39,10 +51,18 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 3
+- start: 1250
+  end: 1485
+  polity: regensburg
+  importance: 3
 - start: 1486
   end: 1492
   polity: bavaria_munich
   importance: 2
+- start: 1493
+  end: 1802
+  polity: regensburg
+  importance: 3
 - start: 1803
   end: 1809
   polity: grand_duchy_frankfurt

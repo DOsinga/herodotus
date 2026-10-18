@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Aschersleben
 point:
   latitude: 51.75
   longitude: 11.4667
-note: "Gap for the Prince-Bishopric of Halberstadt, which took the town in 1315. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1130
   end: 1249
@@ -19,6 +19,10 @@ control:
   end: 1315
   polity: anhalt_aschersleben
   importance: 3
+- start: 1316
+  end: 1647
+  polity: bishopric_halberstadt
+  importance: 1
 - start: 1648
   end: 1700
   polity: margraviate_brandenburg

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Weilburg
 point:
   latitude: 50.4833
   longitude: 8.25
-note: "Gap for the counts of Nassau before the Weilburg line was founded in 1344. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 906
   end: 938
@@ -19,6 +19,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1343
+  polity: county_nassau
+  importance: 2
 - start: 1344
   end: 1805
   polity: nassau_weilburg

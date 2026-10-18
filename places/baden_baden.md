@@ -11,6 +11,10 @@ control:
   end: 259
   polity: roman_empire
   importance: 1
+- start: 260
+  end: 536
+  polity: alamanni
+  importance: 1
 - start: 537
   end: 555
   polity: austrasia

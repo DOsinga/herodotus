@@ -5,12 +5,28 @@ wikipedia: https://en.wikipedia.org/wiki/Saarbrücken
 point:
   latitude: 49.2333
   longitude: 7
-note: "Gaps for the County of Saarbrücken, for the League of Nations Saar Territory from 1920 to 1935, and for the French-run Saar Protectorate until 1957. France governed the Saar from 1945 and as a protectorate from 1947 until it rejoined Germany in 1957."
+note: "Nassau-Weilburg here includes the Saarbrücken line. France held the town under the reunions from 1680 to 1697. Gaps for the League of Nations Saar Territory from 1920 to 1935, and for the French-run Saar Protectorate until 1957. France governed the Saar from 1945 and as a protectorate from 1947 until it rejoined Germany in 1957."
 control:
 - start: 999
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1380
+  polity: county_saarbrucken
+  importance: 2
+- start: 1381
+  end: 1679
+  polity: nassau_weilburg
+  importance: 2
+- start: 1680
+  end: 1696
+  polity: kingdom_france
+  importance: 2
+- start: 1697
+  end: 1792
+  polity: nassau_weilburg
+  importance: 2
 - start: 1793
   end: 1803
   polity: french_first_republic

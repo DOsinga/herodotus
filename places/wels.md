@@ -19,7 +19,10 @@ control:
   end: 487
   polity: kingdom_odoacer
   importance: 2
-- start: 776
+- start: 488
+  end: 554
+  ungoverned: "Odoacer withdrew the Roman garrisons and much of the population of Noricum Ripense in 488, and no state governed the Danube valley here until the Bavarian duchy."
+- start: 555
   end: 788
   polity: duchy_bavaria
   importance: 1

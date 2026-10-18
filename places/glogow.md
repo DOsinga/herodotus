@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Głogów
 point:
   latitude: 51.6589
   longitude: 16.0803
-note: "Gap for the Duchy of Głogów before its dukes became Bohemian vassals in 1331."
 control:
 - start: 1010
   end: 1024
@@ -18,6 +17,10 @@ control:
 - start: 1138
   end: 1250
   polity: duchy_silesia
+  importance: 2
+- start: 1251
+  end: 1330
+  polity: duchy_glogow
   importance: 2
 - start: 1331
   end: 1468

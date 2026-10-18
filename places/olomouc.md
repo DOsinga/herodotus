@@ -5,11 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Olomouc
 point:
   latitude: 49.5939
   longitude: 17.2508
-note: "Bolesław I of Poland held Moravia from 999 to 1019. Capital of Moravia until 1641. Swedish garrison from 1642 to 1650."
+note: "Moravia after the fall of Great Moravia is given to the Magyars until Boleslaus I of Bohemia took it, probably after 955; both dates are estimates. Bolesław I of Poland held Moravia from 999 to 1019. Capital of Moravia until 1641. Swedish garrison from 1642 to 1650."
 control:
 - start: 833
   end: 906
   polity: great_moravia
+  importance: 2
+- start: 907
+  end: 954
+  polity: magyar_principality
+  importance: 2
+- start: 955
+  end: 998
+  polity: duchy_bohemia
   importance: 2
 - start: 999
   end: 1018

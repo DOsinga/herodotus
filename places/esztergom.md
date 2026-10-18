@@ -15,9 +15,32 @@ control:
   end: 432
   polity: western_roman_empire
   importance: 1
+- start: 433
+  end: 453
+  polity: hunnic_empire
+  importance: 1
+- start: 454
+  end: 473
+  polity: pannonian_ostrogoths
+  importance: 1
+- start: 474
+  end: 546
+  ungoverned: "After the Ostrogoths left Pannonia in 473, no state is known to have governed it until the Lombards arrived; Suebi, Sciri and Heruli fought over the province."
+- start: 547
+  end: 567
+  polity: danubian_lombards
+  importance: 1
 - start: 568
   end: 795
   polity: avar_khaganate
+  importance: 1
+- start: 796
+  end: 842
+  polity: carolingian_francia
+  importance: 1
+- start: 843
+  end: 894
+  polity: east_francia
   importance: 1
 - start: 895
   end: 999

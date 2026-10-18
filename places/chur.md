@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Chur
 point:
   latitude: 46.8508
   longitude: 9.532
-note: "Ruled by the prince-bishops of Chur, who have no record, from 1250 until the League of God's House in 1367."
 control:
 - start: -15
   end: 394
@@ -14,6 +13,14 @@ control:
 - start: 395
   end: 401
   polity: western_roman_empire
+  importance: 2
+- start: 402
+  end: 475
+  polity: western_roman_empire
+  importance: 2
+- start: 476
+  end: 492
+  polity: kingdom_odoacer
   importance: 2
 - start: 493
   end: 536
@@ -79,6 +86,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 2
+- start: 1250
+  end: 1366
+  polity: bishopric_chur
+  importance: 3
 - start: 1367
   end: 1798
   polity: three_leagues

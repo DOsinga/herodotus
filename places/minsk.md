@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Minsk
 point:
   latitude: 53.9006
   longitude: 27.5586
-note: "Gap for the principality of Minsk, which split from Polotsk in 1101 and has no record, until Lithuania took the town around 1326."
 control:
 - start: 1067
   end: 1070
@@ -14,6 +13,18 @@ control:
 - start: 1071
   end: 1100
   polity: principality_polotsk
+  importance: 2
+- start: 1101
+  end: 1128
+  polity: principality_minsk
+  importance: 2
+- start: 1129
+  end: 1131
+  polity: kievan_rus
+  importance: 2
+- start: 1132
+  end: 1325
+  polity: principality_minsk
   importance: 2
 - start: 1326
   end: 1568

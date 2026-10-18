@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Zurich
 point:
   latitude: 47.3769
   longitude: 8.5417
-note: "Zurich was a free imperial city from 1250 until it joined the Confederacy in 1351; free cities have no records."
+note: "Alamannic settlement after the Roman withdrawal of 401 came gradually, so the Alamannic span is an estimate."
 control:
 - start: -15
   end: 394
@@ -14,6 +14,10 @@ control:
 - start: 395
   end: 401
   polity: western_roman_empire
+  importance: 2
+- start: 402
+  end: 535
+  polity: alamanni
   importance: 2
 - start: 536
   end: 555
@@ -71,6 +75,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 2
+- start: 1250
+  end: 1350
+  polity: zurich
+  importance: 3
 - start: 1351
   end: 1797
   polity: old_swiss_confederacy
