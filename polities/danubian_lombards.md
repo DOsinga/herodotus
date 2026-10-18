@@ -18,7 +18,7 @@ point:
   name: Tulln
   latitude: 48.33
   longitude: 16.05
-note: "Links the article on the people. 489 estimates their arrival in Rugiland. The towns along the Danube in western Pannonia are given to them from their defeat of the Heruli around 508, before they settled south of the river after 526; they held all of Pannonia after Justinian's grant of about 547. Tulln stands for the plain called Feld, their seat before Pannonia."
+note: "Links the article on the people. 489 estimates their arrival in Rugiland. They moved into Pannonia after 526 and held it all after Justinian's grant of about 547. Tulln stands for the plain called Feld, their seat before Pannonia."
 transitions:
 - year: 568
   kind: succeeded_by
