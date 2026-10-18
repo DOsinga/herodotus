@@ -41,7 +41,10 @@ control:
   chief who held the town for decades matters enough to add. Shorter gaps
   are allowed for a sack, a civil war or a changeover nobody can date. Where
   nobody governed the town for longer, because it lay abandoned or in a
-  long anarchy, say so with an ungoverned span, which casts no influence:
+  long anarchy, say so with an ungoverned span, which casts no influence.
+  Not knowing who ruled is not a reason: tribes, clans and local lords get a
+  chiefdom record, and a town in a dark age goes to the power whose reach
+  it most plausibly lay in, with a note that says so.
 
   ```yaml
   - start: 1150
