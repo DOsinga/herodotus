@@ -27,6 +27,29 @@ control:
   end: 574
   polity: himyarite_kingdom
   importance: 2
+- start: 575
+  end: 627
+  polity: sasanian_empire
+  importance: 2
+- start: 628
+  end: 631
+  polity: medinan_state
+  importance: 2
+- start: 632
+  end: 660
+  polity: rashidun_caliphate
+  importance: 2
+- start: 661
+  end: 749
+  polity: umayyad_caliphate
+  importance: 2
+- start: 750
+  end: 900
+  polity: abbasid_caliphate
+  importance: 2
+- start: 901
+  end: 1917
+  ungoverned: "Bedouin tribes and local sharifs held the ruined Sabaean capital, outside any lasting state, until Imam Yahya's Yemen."
 - start: 1918
   end: 1961
   polity: mutawakkilite_yemen

@@ -27,6 +27,10 @@ control:
   end: 934
   polity: abbasid_caliphate
   importance: 2
+- start: 935
+  end: 966
+  polity: ikhshidid_emirate
+  importance: 2
 - start: 967
   end: 1424
   polity: sharifate_mecca

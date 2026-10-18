@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Erzincan
 point:
   latitude: 39.7464
   longitude: 39.4914
-note: "The Urartian spans stand for the fortress of Altıntepe nearby. Mutahharten, who ruled Erzincan from about 1379 to 1410, has no record."
+note: "The Urartian spans stand for the fortress of Altıntepe nearby."
 control:
 - start: -800
   end: -590
@@ -30,6 +30,10 @@ control:
 - start: 117
   end: 252
   polity: kingdom_armenia
+  importance: 2
+- start: 253
+  end: 286
+  polity: sasanian_empire
   importance: 2
 - start: 287
   end: 386
@@ -59,6 +63,14 @@ control:
   end: 1335
   polity: ilkhanate
   importance: 2
+- start: 1343
+  end: 1378
+  polity: eretnid_sultanate
+  importance: 2
+- start: 1379
+  end: 1409
+  polity: erzincan_emirate
+  importance: 3
 - start: 1410
   end: 1467
   polity: qara_qoyunlu

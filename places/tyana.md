@@ -11,6 +11,9 @@ control:
   end: -1181
   polity: hittite_empire
   importance: 2
+- start: -1180
+  end: -901
+  ungoverned: "No state is attested at Tuwana between the Hittite collapse and the rise of Tabal."
 - start: -900
   end: -714
   polity: tabal
@@ -18,6 +21,14 @@ control:
 - start: -713
   end: -706
   polity: neo_assyrian_empire
+  importance: 2
+- start: -705
+  end: -587
+  polity: tabal
+  importance: 3
+- start: -586
+  end: -550
+  polity: median_kingdom
   importance: 2
 - start: -546
   end: -332
@@ -35,7 +46,7 @@ control:
   end: 1073
   polity: byzantine_empire
   importance: 2
-- start: 1100
+- start: 1077
   end: 1261
   polity: sultanate_rum
   importance: 2

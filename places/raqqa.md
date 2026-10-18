@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Raqqa
 point:
   latitude: 35.95
   longitude: 39.01
-note: "Harun al-Rashid made Raqqa his residence from 796 to 809. The town was deserted after the Mongol invasions and resettled under the Ottomans in the 1860s. The Numayrids, who held it in the eleventh century, and the later Ayyubid princes of the Jazira have no record."
+note: "Harun al-Rashid made Raqqa his residence from 796 to 809."
 control:
 - start: -300
   end: -141
@@ -63,9 +63,37 @@ control:
   end: 1001
   polity: hamdanid_aleppo
   importance: 2
+- start: 1002
+  end: 1006
+  polity: lulu_aleppo
+  importance: 2
+- start: 1007
+  end: 1039
+  polity: numayrid_emirate
+  importance: 2
+- start: 1040
+  end: 1055
+  polity: mirdasid_emirate
+  importance: 2
+- start: 1056
+  end: 1062
+  polity: numayrid_emirate
+  importance: 2
+- start: 1063
+  end: 1080
+  polity: mirdasid_emirate
+  importance: 2
+- start: 1081
+  end: 1085
+  polity: uqaylid_mosul
+  importance: 2
 - start: 1086
   end: 1094
   polity: seljuk_empire
+  importance: 2
+- start: 1095
+  end: 1134
+  polity: uqaylid_jabar
   importance: 2
 - start: 1135
   end: 1145
@@ -79,6 +107,17 @@ control:
   end: 1192
   polity: ayyubid_egypt
   importance: 2
+- start: 1193
+  end: 1249
+  polity: ayyubid_egypt
+  importance: 1
+- start: 1250
+  end: 1259
+  polity: ayyubid_aleppo
+  importance: 1
+- start: 1260
+  end: 1863
+  ungoverned: "Destroyed in the Mongol invasions of the 1260s; the last inhabitants were killed in 1288 and the site lay deserted until the Ottomans resettled it in the 1860s."
 - start: 1864
   end: 1917
   polity: ottoman_empire

@@ -102,6 +102,14 @@ control:
   end: 1094
   polity: seljuk_empire
   importance: 2
+- start: 1108
+  end: 1113
+  polity: principality_antioch
+  importance: 2
+- start: 1114
+  end: 1129
+  polity: burid_emirate
+  importance: 2
 - start: 1130
   end: 1145
   polity: zengid_state

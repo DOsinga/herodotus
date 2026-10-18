@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Samsun
 point:
   latitude: 41.2903
   longitude: 36.3336
-note: "Amisos was a Greek city before it came under Pontus. The local Turkmen beys and the Genoese, who shared the town before the Ottomans, have no record."
+note: "Amisos was a Greek city before it came under Pontus. The Genoese kept a trading post beside the town in the fourteenth century."
 control:
 - start: -250
   end: -64
@@ -34,6 +34,18 @@ control:
 - start: 1262
   end: 1335
   polity: ilkhanate
+  importance: 2
+- start: 1336
+  end: 1392
+  polity: candar_beylik
+  importance: 2
+- start: 1393
+  end: 1402
+  polity: ottoman_empire
+  importance: 2
+- start: 1403
+  end: 1419
+  polity: candar_beylik
   importance: 2
 - start: 1420
   end: 1919

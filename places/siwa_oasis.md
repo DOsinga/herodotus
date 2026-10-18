@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Siwa_Oasis
 point:
   latitude: 29.2053
   longitude: 25.5194
-note: "Siwa governed itself between the Arab conquest and Muhammad Ali's conquest of 1820."
 control:
 - start: -323
   end: -31
@@ -30,6 +29,10 @@ control:
 - start: 629
   end: 640
   polity: byzantine_empire
+  importance: 1
+- start: 641
+  end: 1819
+  polity: siwa
   importance: 1
 - start: 1820
   end: 1881

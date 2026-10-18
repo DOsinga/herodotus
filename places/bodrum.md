@@ -31,6 +31,10 @@ control:
   end: -198
   polity: ptolemaic_kingdom
   importance: 2
+- start: -197
+  end: -130
+  polity: halicarnassus_city
+  importance: 2
 - start: -129
   end: -89
   polity: roman_republic

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ashkelon
 point:
   latitude: 31.67
   longitude: 34.55
-note: "Ascalon governed itself as a free city from 104 BCE until the Romans; that city has no record. Saladin razed it in 1191 and Baybars again in 1270; from then the neighbouring town of al-Majdal, from which modern Ashkelon grew, stands for it."
+note: "Saladin razed Ascalon in 1191; the treaty of Jaffa left it in ruins in Ayyubid hands until the Crusaders refortified it in 1239. Baybars razed it again in 1270; from then the neighbouring town of al-Majdal, from which modern Ashkelon grew, stands for it."
 control:
 - start: -1175
   end: -604
@@ -38,6 +38,10 @@ control:
 - start: -200
   end: -105
   polity: seleucid_empire
+  importance: 2
+- start: -104
+  end: -65
+  polity: ashkelon
   importance: 2
 - start: -64
   end: -28
@@ -95,6 +99,10 @@ control:
   end: 1191
   polity: ayyubid_egypt
   importance: 2
+- start: 1192
+  end: 1238
+  polity: ayyubid_egypt
+  importance: 1
 - start: 1239
   end: 1246
   polity: kingdom_jerusalem

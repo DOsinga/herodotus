@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Riyadh
 point:
   latitude: 24.638
   longitude: 46.715
-note: "The early spans stand for Hajr, the capital of al-Yamama, on whose site Riyadh grew. The Ukhaydhirid emirs who ruled the Yamama from 867, and the emirate of Dahham ibn Dawwas before the Saudi conquest of 1773, have no record."
+note: "The early spans stand for Hajr, the capital of al-Yamama, on whose site Riyadh grew."
 control:
 - start: 632
   end: 660
@@ -26,6 +26,17 @@ control:
 - start: 750
   end: 866
   polity: abbasid_caliphate
+  importance: 2
+- start: 867
+  end: 1050
+  polity: ukhaydhirid_emirate
+  importance: 3
+- start: 1051
+  end: 1736
+  ungoverned: "After the Ukhaydhirids Hajr declined into a cluster of villages held by local clans of al-Yamama, outside any state."
+- start: 1737
+  end: 1772
+  polity: emirate_riyadh
   importance: 2
 - start: 1773
   end: 1817

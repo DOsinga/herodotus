@@ -11,6 +11,9 @@ control:
   end: -1070
   polity: egypt_new_kingdom
   importance: 2
+- start: -1069
+  end: -781
+  ungoverned: "No state is known in Upper Nubia between the Egyptian withdrawal and the rise of the Kushite kings at el-Kurru."
 - start: -780
   end: -591
   polity: kingdom_kush
@@ -19,10 +22,16 @@ control:
   end: 350
   polity: kingdom_kush
   importance: 2
+- start: 351
+  end: 449
+  ungoverned: "No state is known at Napata between the fall of Kush and the rise of Makuria."
 - start: 450
   end: 1365
   polity: makuria
   importance: 1
+- start: 1366
+  end: 1503
+  ungoverned: "After Makuria broke up, Arab tribes and Nubian lords fought over the Dongola reach and no lasting state held it until the Funj."
 - start: 1504
   end: 1820
   polity: funj_sultanate

@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Homs
 point:
   latitude: 34.7308
   longitude: 36.7094
-note: "The local Ayyubid emirs of Homs, who ruled from 1179 to 1262, and the Turkish lords of the early twelfth century have no record."
 control:
 - start: -64
   end: 72
@@ -67,6 +66,18 @@ control:
   end: 1094
   polity: seljuk_empire
   importance: 2
+- start: 1097
+  end: 1134
+  polity: emirate_homs
+  importance: 3
+- start: 1135
+  end: 1137
+  polity: burid_emirate
+  importance: 2
+- start: 1138
+  end: 1145
+  polity: zengid_state
+  importance: 2
 - start: 1149
   end: 1173
   polity: zengid_aleppo
@@ -75,6 +86,18 @@ control:
   end: 1178
   polity: ayyubid_egypt
   importance: 2
+- start: 1179
+  end: 1248
+  polity: ayyubid_homs
+  importance: 3
+- start: 1249
+  end: 1259
+  polity: ayyubid_aleppo
+  importance: 2
+- start: 1260
+  end: 1262
+  polity: ayyubid_homs
+  importance: 3
 - start: 1263
   end: 1515
   polity: mamluk_sultanate

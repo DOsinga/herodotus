@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Nicosia
 point:
   latitude: 35.1725
   longitude: 33.365
-note: "Nicosia became the capital of Byzantine Cyprus in the eleventh century. The city kingdoms of Cyprus before the Ptolemies, the Arab-Byzantine condominium from 688 to 965 and Isaac Komnenos's breakaway rule from 1184 to 1191 have no record."
+note: "Nicosia became the capital of Byzantine Cyprus in the eleventh century. The city kingdoms of Cyprus before the Ptolemies and Isaac Komnenos's breakaway rule from 1184 to 1191 have no record."
 control:
 - start: 965
   end: 1183

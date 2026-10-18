@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Qatif
 point:
   latitude: 26.556
   longitude: 49.996
+note: "The Muntafiq chiefs of Basra held Qatif between the Jabrids and the Ottoman garrison, so those years follow Basra."
 control:
 - start: 629
   end: 631
@@ -38,9 +39,21 @@ control:
   end: 1238
   polity: uyunid_emirate
   importance: 2
+- start: 1253
+  end: 1329
+  polity: usfurid_emirate
+  importance: 2
+- start: 1330
+  end: 1416
+  polity: jarwanid_emirate
+  importance: 3
 - start: 1417
   end: 1523
   polity: jabrid_sultanate
+  importance: 2
+- start: 1534
+  end: 1549
+  follows: basra
   importance: 2
 - start: 1550
   end: 1669

@@ -19,8 +19,20 @@ control:
   polity: umayyad_caliphate
   importance: 2
 - start: 750
-  end: 892
+  end: 945
   polity: abbasid_caliphate
+  importance: 2
+- start: 967
+  end: 1051
+  polity: buyid_fars
+  importance: 2
+- start: 1053
+  end: 1153
+  polity: seljuk_kerman
+  importance: 2
+- start: 1154
+  end: 1299
+  polity: nabhani_oman
   importance: 2
 - start: 1300
   end: 1506

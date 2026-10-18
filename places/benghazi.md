@@ -51,6 +51,9 @@ control:
   end: 1050
   polity: fatimid_caliphate
   importance: 2
+- start: 1051
+  end: 1639
+  ungoverned: "Largely deserted after the Hilalian invasions; Bedouin held Cyrenaica and no state governed it until the Ottomans."
 - start: 1640
   end: 1710
   polity: ottoman_empire

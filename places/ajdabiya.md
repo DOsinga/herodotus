@@ -10,6 +10,9 @@ control:
   end: 1050
   polity: fatimid_caliphate
   importance: 2
+- start: 1051
+  end: 1834
+  ungoverned: "Sacked by the Banu Hilal and Banu Sulaym around 1051; Bedouin held the area and no state governed it until the Ottomans."
 - start: 1835
   end: 1910
   polity: ottoman_empire

@@ -51,6 +51,9 @@ control:
   end: 1050
   polity: fatimid_caliphate
   importance: 2
+- start: 1051
+  end: 1841
+  ungoverned: "Barca declined after the Hilalian invasions and was abandoned; the Ottomans founded Marj on its site in 1842."
 - start: 1842
   end: 1910
   polity: ottoman_empire

@@ -19,6 +19,9 @@ control:
   end: -1056
   polity: middle_assyrian_empire
   importance: 2
+- start: -1055
+  end: -901
+  ungoverned: "No state is attested at Harran between the Middle Assyrian retreat and the Neo-Assyrian reconquest; Aramean tribes held the Balikh valley."
 - start: -900
   end: -613
   polity: neo_assyrian_empire
@@ -74,6 +77,22 @@ control:
 - start: 750
   end: 934
   polity: abbasid_caliphate
+  importance: 2
+- start: 935
+  end: 943
+  polity: hamdanid_mosul
+  importance: 2
+- start: 944
+  end: 989
+  polity: hamdanid_aleppo
+  importance: 2
+- start: 990
+  end: 1081
+  polity: numayrid_emirate
+  importance: 3
+- start: 1082
+  end: 1085
+  polity: uqaylid_mosul
   importance: 2
 - start: 1086
   end: 1101

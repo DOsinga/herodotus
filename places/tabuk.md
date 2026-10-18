@@ -22,6 +22,9 @@ control:
   end: 934
   polity: abbasid_caliphate
   importance: 1
+- start: 935
+  end: 1516
+  ungoverned: "An oasis of the Bedouin on the pilgrim road, outside any state until the Ottomans garrisoned it."
 - start: 1517
   end: 1917
   polity: ottoman_empire

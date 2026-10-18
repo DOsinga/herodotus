@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Mytilene
 point:
   latitude: 39.1036
   longitude: 26.5547
-note: "The Genoese Gattilusio lordship of Lesbos (1355–1462) has no record."
 control:
 - start: -133
   end: -28
@@ -31,6 +30,10 @@ control:
   end: 1354
   polity: byzantine_empire
   importance: 1
+- start: 1355
+  end: 1461
+  polity: gattilusio_lesbos
+  importance: 3
 - start: 1462
   end: 1911
   polity: ottoman_empire

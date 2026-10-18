@@ -8,7 +8,7 @@ point:
 note: "Antiochus I refounded Celaenae as Apamea; the later spans stand for the town of Dinar."
 control:
 - start: -1200
-  end: -675
+  end: -591
   polity: phrygia
   importance: 2
 - start: -590

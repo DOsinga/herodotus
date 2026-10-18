@@ -27,6 +27,9 @@ control:
   end: 642
   polity: byzantine_empire
   importance: 3
+- start: 643
+  end: 1896
+  ungoverned: "Declined after the Arab conquest and lay deserted until the town of Susa was founded in 1897."
 - start: 1897
   end: 1910
   polity: ottoman_empire

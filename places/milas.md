@@ -35,6 +35,10 @@ control:
   end: -168
   polity: rhodes
   importance: 2
+- start: -167
+  end: -130
+  polity: mylasa_city
+  importance: 2
 - start: -129
   end: -89
   polity: roman_republic

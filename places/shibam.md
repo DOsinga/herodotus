@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Shibam
 point:
   latitude: 15.9269
   longitude: 48.6267
-note: "Shibam replaced Shabwa as the capital of Hadramawt. The Kathiri and Qu'aiti sultans who ruled the valley between the Abbasids and the British protectorate have no record."
+note: "Shibam replaced Shabwa as the capital of Hadramawt."
 control:
 - start: 250
   end: 299
@@ -43,6 +43,17 @@ control:
   end: 900
   polity: abbasid_caliphate
   importance: 2
+- start: 901
+  end: 1394
+  ungoverned: "Hadramawt was divided among local tribal dynasties, known only from chronicles, until the Kathiri sultanate."
+- start: 1395
+  end: 1857
+  polity: kathiri_sultanate
+  importance: 3
+- start: 1858
+  end: 1887
+  polity: quaiti_sultanate
+  importance: 3
 - start: 1888
   end: 1921
   polity: united_kingdom_gbi

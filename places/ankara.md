@@ -8,7 +8,7 @@ point:
 note: "The Ahi brotherhood governed Ankara between the Mongols and the Ottoman conquest of 1354; it has no record."
 control:
 - start: -1200
-  end: -675
+  end: -591
   polity: phrygia
   importance: 2
 - start: -590

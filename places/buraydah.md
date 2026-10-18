@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Buraydah,_Saudi_Arabia
 point:
   latitude: 26.3333
   longitude: 43.9667
-note: "The emirs of Qassim governed Buraydah themselves between 1862 and the Rashidi takeover; they have no record."
 control:
 - start: 1775
   end: 1817
@@ -19,6 +18,10 @@ control:
   end: 1862
   polity: emirate_nejd
   importance: 2
+- start: 1863
+  end: 1890
+  polity: emirate_buraydah
+  importance: 3
 - start: 1891
   end: 1903
   polity: emirate_jabal_shammar

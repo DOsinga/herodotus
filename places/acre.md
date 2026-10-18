@@ -84,7 +84,7 @@ control:
   polity: ikhshidid_emirate
   importance: 2
 - start: 970
-  end: 1072
+  end: 1103
   polity: fatimid_caliphate
   importance: 2
 - start: 1104

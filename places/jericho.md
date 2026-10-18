@@ -11,6 +11,14 @@ control:
   end: -721
   polity: kingdom_israel
   importance: 2
+- start: -720
+  end: -587
+  polity: kingdom_judah
+  importance: 2
+- start: -586
+  end: -540
+  polity: neo_babylonian_empire
+  importance: 2
 - start: -539
   end: -333
   polity: achaemenid_empire

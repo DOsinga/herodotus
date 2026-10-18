@@ -35,6 +35,18 @@ control:
   end: 1072
   polity: fatimid_caliphate
   importance: 2
+- start: 1073
+  end: 1094
+  polity: seljuk_empire
+  importance: 2
+- start: 1104
+  end: 1114
+  polity: burid_emirate
+  importance: 2
+- start: 1115
+  end: 1170
+  polity: kingdom_jerusalem
+  importance: 2
 - start: 1171
   end: 1249
   polity: ayyubid_egypt

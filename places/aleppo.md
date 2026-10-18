@@ -19,6 +19,14 @@ control:
   end: -1181
   polity: hittite_empire
   importance: 3
+- start: -1180
+  end: -1101
+  polity: carchemish
+  importance: 2
+- start: -1100
+  end: -901
+  polity: palistin
+  importance: 3
 - start: -900
   end: -741
   polity: arpad

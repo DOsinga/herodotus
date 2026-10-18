@@ -8,7 +8,7 @@ point:
 note: "Gordion was deserted after the Roman campaign of 189 BCE."
 control:
 - start: -1200
-  end: -675
+  end: -591
   polity: phrygia
   importance: 4
 - start: -590

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Najran
 point:
   latitude: 17.4917
   longitude: 44.1322
-note: "The Yam tribe and the Makrami religious leaders who governed Najran for most of its later history have no record."
+note: "Al-Hamdani and the lives of the first Zaydi imams describe their rule over Najran in the tenth century. The Makrami da'is of the Principality of Najran governed it until 1934."
 control:
 - start: -100
   end: 274
@@ -43,6 +43,17 @@ control:
   end: 900
   polity: abbasid_caliphate
   importance: 2
+- start: 901
+  end: 1010
+  polity: zaydi_imamate
+  importance: 2
+- start: 1011
+  end: 1632
+  ungoverned: "Najran drops out of the record for six centuries; the Yam and other tribes held it outside any known state."
+- start: 1633
+  end: 1917
+  polity: principality_najran
+  importance: 3
 - start: 1918
   end: 1933
   polity: mutawakkilite_yemen
