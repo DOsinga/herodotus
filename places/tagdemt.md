@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tagdemt
 point:
   latitude: 35.36
   longitude: 1.2
+note: "After the Fatimids took Tahert in 909 the region was administered from its neighbours; the spans follow the Tiaret region. Abd al-Qadir rebuilt Tagdemt as his capital in 1836."
 control:
 - start: 777
   end: 908
@@ -17,6 +18,30 @@ control:
 - start: 972
   end: 1013
   polity: zirid_emirate
+  importance: 1
+- start: 1014
+  end: 1081
+  polity: hammadid_emirate
+  importance: 1
+- start: 1082
+  end: 1146
+  polity: almoravid_emirate
+  importance: 1
+- start: 1147
+  end: 1234
+  polity: almohad_caliphate
+  importance: 1
+- start: 1235
+  end: 1555
+  polity: zayyanid_kingdom
+  importance: 1
+- start: 1556
+  end: 1658
+  polity: ottoman_empire
+  importance: 1
+- start: 1659
+  end: 1830
+  polity: regency_algiers
   importance: 1
 - start: 1836
   end: 1840

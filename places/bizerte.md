@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bizerte
 point:
   latitude: 37.2778
   longitude: 9.8639
-note: "German and Italian forces occupied Tunisia from November 1942 until the Allies took it in May 1943."
+note: "After the Banu Hilal invasion broke Zirid rule, Bizerte is placed with Tunis, the nearest regional power; its own lords in these years are poorly documented. German and Italian forces occupied Tunisia from November 1942 until the Allies took it in May 1943."
 control:
 - start: -600
   end: -147
@@ -55,6 +55,10 @@ control:
   end: 1056
   polity: zirid_emirate
   importance: 2
+- start: 1057
+  end: 1159
+  follows: tunis
+  importance: 1
 - start: 1160
   end: 1228
   polity: almohad_caliphate

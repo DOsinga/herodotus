@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Chester
 point:
   latitude: 53.1914
   longitude: -2.8903
+note: "Chester lay in the British kingdom of Powys until Æthelfrith's victory at the Battle of Chester in 616; the start of Powys is an estimate."
 control:
 - start: 75
   end: 259
@@ -30,6 +31,13 @@ control:
   end: 409
   polity: western_roman_empire
   importance: 2
+- start: 410
+  end: 449
+  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and Powys."
+- start: 450
+  end: 615
+  polity: powys_kingdom
+  importance: 1
 - start: 616
   end: 655
   polity: kingdom_mercia

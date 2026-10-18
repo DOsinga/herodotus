@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Santarém,_Portugal
 point:
   latitude: 39.2339
   longitude: -8.6861
+note: "The Alans held Lusitania from 411 until the Visigoths destroyed them in 418; Roman rule then returned until the Suebi took Mérida in 439 and held the province until the Visigoths drove them back."
 control:
 - start: -138
   end: -28
@@ -18,7 +19,11 @@ control:
   end: 408
   polity: western_roman_empire
   importance: 2
-- start: 469
+- start: 419
+  end: 438
+  polity: western_roman_empire
+  importance: 2
+- start: 439
   end: 584
   polity: suebic_kingdom
   importance: 2

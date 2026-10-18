@@ -10,6 +10,10 @@ control:
   end: 942
   polity: gwent_kingdom
   importance: 3
+- start: 943
+  end: 973
+  polity: glywysing_morgannwg
+  importance: 2
 - start: 974
   end: 1055
   polity: gwent_kingdom

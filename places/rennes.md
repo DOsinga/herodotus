@@ -26,6 +26,10 @@ control:
   end: 460
   polity: western_roman_empire
   importance: 2
+- start: 461
+  end: 486
+  polity: domain_soissons
+  importance: 1
 - start: 497
   end: 510
   polity: merovingian_francia_late

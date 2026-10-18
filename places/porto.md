@@ -30,6 +30,9 @@ control:
   end: 739
   polity: umayyad_caliphate
   importance: 2
+- start: 740
+  end: 867
+  ungoverned: "Left in the emptied Duero frontier after the Berber garrisons abandoned the northwest in the revolt of 740, until Vímara Peres took and resettled it for Asturias in 868."
 - start: 868
   end: 909
   polity: kingdom_asturias

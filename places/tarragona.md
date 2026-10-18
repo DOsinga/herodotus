@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tarragona
 point:
   latitude: 41.1175
   longitude: 1.2528
-note: "Tarragona lay ruined and largely empty in the frontier zone between about 750 and its restoration in the twelfth century. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "Tarragona lay largely ruined and empty in the frontier between about 750 and its restoration in the twelfth century, a border post of Córdoba and then of Zaragoza. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -218
   end: -28
@@ -34,6 +34,22 @@ control:
 - start: 714
   end: 750
   polity: umayyad_caliphate
+  importance: 1
+- start: 756
+  end: 928
+  polity: emirate_cordoba
+  importance: 1
+- start: 929
+  end: 1012
+  polity: caliphate_cordoba
+  importance: 1
+- start: 1013
+  end: 1109
+  polity: taifa_zaragoza
+  importance: 1
+- start: 1110
+  end: 1117
+  polity: almoravid_emirate
   importance: 1
 - start: 1118
   end: 1161

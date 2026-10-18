@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Fez,_Morocco
 point:
   latitude: 34.0181
   longitude: -5.0078
-note: "Between 928 and 973 Fez changed hands between Miknasa chiefs and governors for the Fatimids and for Córdoba; from 1465 to 1471 it was held by a sharif and from 1662 to 1665 by local leaders, without records."
+note: "Between 928 and 973 Miknasa chiefs and governors held Fez for the Fatimids or for Córdoba; the spans follow Musa ibn Abi'l-Afiya's switch to Córdoba in 931 and Jawhar's Fatimid reconquest of 958, and the dates are approximate. From 1465 to 1471 it was held by a sharif and from 1662 to 1665 by local leaders, without records."
 control:
 - start: 788
   end: 919
@@ -18,6 +18,18 @@ control:
 - start: 925
   end: 927
   polity: idrisid_fez
+  importance: 3
+- start: 928
+  end: 930
+  polity: fatimid_caliphate
+  importance: 3
+- start: 931
+  end: 957
+  polity: caliphate_cordoba
+  importance: 3
+- start: 958
+  end: 972
+  polity: fatimid_caliphate
   importance: 3
 - start: 973
   end: 986

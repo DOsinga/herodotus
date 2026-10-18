@@ -79,8 +79,24 @@ control:
   polity: carolingian_francia
   importance: 2
 - start: 843
-  end: 986
+  end: 944
   polity: west_francia
+  importance: 2
+- start: 945
+  end: 1076
+  polity: county_amiens
+  importance: 2
+- start: 1077
+  end: 1084
+  polity: kingdom_france
+  importance: 2
+- start: 1085
+  end: 1117
+  polity: county_amiens
+  importance: 2
+- start: 1118
+  end: 1184
+  polity: county_vermandois
   importance: 2
 - start: 1185
   end: 1434

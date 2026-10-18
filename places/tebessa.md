@@ -54,6 +54,10 @@ control:
   end: 1056
   polity: zirid_emirate
   importance: 2
+- start: 1057
+  end: 1159
+  polity: banu_hilal
+  importance: 1
 - start: 1160
   end: 1228
   polity: almohad_caliphate

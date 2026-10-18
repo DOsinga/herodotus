@@ -31,9 +31,16 @@ control:
   end: 428
   polity: western_roman_empire
   importance: 2
+- start: 429
+  end: 1028
+  ungoverned: "Roman Sala was abandoned from the fifth century and lay mostly in ruins until the Banu Ifran founded Salé across the river around 1030."
 - start: 1029
   end: 1057
   polity: ifranid_sale
+  importance: 2
+- start: 1070
+  end: 1147
+  polity: almoravid_emirate
   importance: 2
 - start: 1150
   end: 1268

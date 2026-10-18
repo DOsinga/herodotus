@@ -30,6 +30,9 @@ control:
   end: 409
   polity: western_roman_empire
   importance: 3
+- start: 410
+  end: 449
+  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and Deira."
 - start: 450
   end: 603
   polity: deira

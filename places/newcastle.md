@@ -31,6 +31,9 @@ control:
   end: 409
   polity: western_roman_empire
   importance: 2
+- start: 410
+  end: 546
+  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and Bernicia."
 - start: 547
   end: 603
   polity: bernicia

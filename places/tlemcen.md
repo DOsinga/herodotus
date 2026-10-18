@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tlemcen
 point:
   latitude: 34.8828
   longitude: -1.3167
-note: "The town was refounded by the Banu Ifran around 765 on the site of Roman Pomaria. The Banu Ifran and Maghrawa rulers of the tenth and eleventh centuries have no record."
+note: "The town was refounded by the Banu Ifran around 765 on the site of Roman Pomaria. After 931 Fatimid and Zirid clients and then the Maghrawa held it, with the Banu Ifran ruling for spells in between; those spells are left out."
 control:
 - start: 40
   end: 394
@@ -34,6 +34,22 @@ control:
 - start: 790
   end: 828
   polity: idrisid_fez
+  importance: 2
+- start: 829
+  end: 930
+  polity: sulaymanid_tlemcen
+  importance: 2
+- start: 931
+  end: 972
+  polity: fatimid_caliphate
+  importance: 2
+- start: 973
+  end: 986
+  polity: zirid_emirate
+  importance: 2
+- start: 987
+  end: 1069
+  polity: maghrawa_fez
   importance: 2
 - start: 1081
   end: 1144

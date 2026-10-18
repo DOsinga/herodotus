@@ -11,6 +11,9 @@ control:
   end: -147
   polity: carthage
   importance: 4
+- start: -146
+  end: -45
+  ungoverned: "Razed by Rome in 146 BC; Gaius Gracchus's colony of 122 BC failed, and the site lay empty until Caesar's colony of 44 BC."
 - start: -44
   end: -28
   polity: roman_republic

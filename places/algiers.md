@@ -35,6 +35,9 @@ control:
   end: 533
   polity: vandal_kingdom
   importance: 1
+- start: 534
+  end: 971
+  ungoverned: "Roman Icosium dwindled after the Vandal period and lay largely in ruins until Buluggin ibn Ziri founded Algiers on the site in 972."
 - start: 972
   end: 1013
   polity: zirid_emirate

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bayonne
 point:
   latitude: 43.49
   longitude: -1.48
+note: "Follows Dax, the nearest regional centre, until the dukes of Gascony."
 control:
 - start: 300
   end: 394
@@ -13,6 +14,10 @@ control:
 - start: 395
   end: 417
   polity: western_roman_empire
+  importance: 1
+- start: 418
+  end: 768
+  follows: dax_landes
   importance: 1
 - start: 769
   end: 1062

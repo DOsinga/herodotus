@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Clermont-Ferrand
 point:
   latitude: 45.7831
   longitude: 3.0824
+note: "Between 927 and 963 the dukes of Aquitaine and the counts of Toulouse fought over the Auvergne; the bishops of Clermont shared the city with the counts."
 control:
 - start: -10
   end: 259
@@ -75,9 +76,21 @@ control:
   polity: west_francia
   importance: 2
 - start: 887
-  end: 926
+  end: 933
   polity: duchy_aquitaine
   importance: 2
+- start: 934
+  end: 960
+  polity: county_toulouse
+  importance: 2
+- start: 961
+  end: 962
+  polity: duchy_aquitaine
+  importance: 2
+- start: 963
+  end: 1212
+  polity: county_auvergne
+  importance: 3
 - start: 1213
   end: 1791
   polity: kingdom_france

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Nijmegen
 point:
   latitude: 51.8475
   longitude: 5.8625
+note: "Between the Romans and Charlemagne's palace Nijmegen follows Cologne, the centre of the Rhineland Franks and then of Austrasia's Rhine lands."
 control:
 - start: -12
   end: 259
@@ -22,6 +23,13 @@ control:
   end: 406
   polity: western_roman_empire
   importance: 3
+- start: 407
+  end: 449
+  ungoverned: "The Roman garrison left the lower Rhine around 406, and the Frankish settlers who followed formed no recorded state until the Rhineland Franks of Cologne."
+- start: 450
+  end: 750
+  follows: cologne
+  importance: 1
 - start: 751
   end: 842
   polity: carolingian_francia

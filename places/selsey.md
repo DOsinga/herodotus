@@ -10,6 +10,10 @@ control:
   end: 686
   polity: kingdom_sussex
   importance: 3
+- start: 687
+  end: 714
+  polity: kingdom_wessex
+  importance: 2
 - start: 715
   end: 772
   polity: kingdom_sussex

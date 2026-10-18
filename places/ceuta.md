@@ -43,6 +43,13 @@ control:
   end: 739
   polity: umayyad_caliphate
   importance: 2
+- start: 740
+  end: 849
+  ungoverned: "Destroyed in the Berber Revolt around 740 and left a village among ruins until Majakas resettled it in the ninth century."
+- start: 850
+  end: 930
+  polity: banu_isam
+  importance: 2
 - start: 931
   end: 1008
   polity: caliphate_cordoba

@@ -71,10 +71,10 @@ control:
   polity: carolingian_francia
   importance: 2
 - start: 843
-  end: 986
+  end: 955
   polity: west_francia
   importance: 2
-- start: 1022
+- start: 956
   end: 1283
   polity: county_champagne
   importance: 3

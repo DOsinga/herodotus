@@ -10,6 +10,14 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 2
+- start: 1250
+  end: 1505
+  polity: groningen
+  importance: 2
+- start: 1506
+  end: 1513
+  polity: east_frisia
+  importance: 2
 - start: 1514
   end: 1535
   polity: duchy_guelders

@@ -11,6 +11,9 @@ control:
   end: 1638
   polity: kingdom_kuku
   importance: 3
+- start: 1639
+  end: 1856
+  ungoverned: "After the kingdom faded the Kabyle village confederations governed themselves, outside the Regency of Algiers, until the French conquest of 1857."
 - start: 1857
   end: 1869
   polity: second_french_empire

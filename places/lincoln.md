@@ -31,6 +31,9 @@ control:
   end: 409
   polity: western_roman_empire
   importance: 2
+- start: 410
+  end: 499
+  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and the kingdom of Lindsey."
 - start: 500
   end: 679
   polity: kingdom_lindsey
@@ -42,6 +45,10 @@ control:
 - start: 830
   end: 877
   polity: kingdom_mercia
+  importance: 2
+- start: 878
+  end: 917
+  polity: five_boroughs
   importance: 2
 - start: 918
   end: 926

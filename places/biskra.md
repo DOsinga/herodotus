@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Biskra
 point:
   latitude: 34.85
   longitude: 5.7333
+note: "The Vandals held Vescera until the Aurès kingdom rose in 484; Byzantium took the Zab in Solomon's campaign of 539 and 540. From Kusaila's victory over Uqba near Biskra in 683 the Berber resistance held it until the Arab conquest."
 control:
 - start: -202
   end: -47
@@ -22,6 +23,22 @@ control:
   end: 438
   polity: western_roman_empire
   importance: 2
+- start: 439
+  end: 483
+  polity: vandal_kingdom
+  importance: 1
+- start: 484
+  end: 539
+  polity: kingdom_aures
+  importance: 1
+- start: 540
+  end: 682
+  polity: byzantine_empire
+  importance: 1
+- start: 683
+  end: 699
+  polity: kingdom_aures
+  importance: 1
 - start: 700
   end: 744
   polity: umayyad_caliphate

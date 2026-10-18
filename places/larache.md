@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Larache
 point:
   latitude: 35.1833
   longitude: -6.15
-note: "The ancient spans are those of Lixus, just outside the modern town."
+note: "The ancient spans are those of Lixus, just outside the modern town, which stayed inhabited into the Islamic period. Until the Almoravids it follows Tangier; the medieval town was founded by the Idrisid Banu Arus."
 control:
 - start: -225
   end: -34
@@ -31,6 +31,10 @@ control:
   end: 428
   polity: western_roman_empire
   importance: 2
+- start: 429
+  end: 1069
+  follows: tangier
+  importance: 1
 - start: 1070
   end: 1146
   polity: almoravid_emirate

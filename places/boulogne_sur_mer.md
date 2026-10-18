@@ -83,9 +83,13 @@ control:
   polity: carolingian_francia
   importance: 1
 - start: 843
-  end: 986
+  end: 963
   polity: west_francia
   importance: 1
+- start: 964
+  end: 1213
+  polity: county_boulogne
+  importance: 2
 - start: 1214
   end: 1543
   polity: kingdom_france

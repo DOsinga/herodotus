@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Niebla,_Spain
 point:
   latitude: 37.3667
   longitude: -6.6833
-note: "From 1016 to 1022 the town was held by local leaders without a record."
+note: "The Silingi and then the Hasding Vandals held Baetica from 411 until they crossed to Africa in 429; Roman rule then returned, interrupted by the Suebi from 441 to 456, until the Visigoths took over. From 1016 to 1022 the town was held by local leaders without a record."
 control:
 - start: -206
   end: -28
@@ -17,6 +17,18 @@ control:
   importance: 1
 - start: 395
   end: 410
+  polity: western_roman_empire
+  importance: 1
+- start: 429
+  end: 440
+  polity: western_roman_empire
+  importance: 1
+- start: 441
+  end: 455
+  polity: suebic_kingdom
+  importance: 1
+- start: 456
+  end: 470
   polity: western_roman_empire
   importance: 1
 - start: 471

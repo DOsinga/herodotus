@@ -5,11 +5,18 @@ wikipedia: https://en.wikipedia.org/wiki/Tétouan
 point:
   latitude: 35.5667
   longitude: -5.3667
-note: "Castile destroyed the town in 1399. Granadan refugees rebuilt it in the 1480s and governed it themselves until the Saadis took over."
+note: "Castile destroyed the town in 1399. Granadan refugees under Ali al-Mandari rebuilt it in the 1480s and governed it themselves until the Saadis took over."
 control:
 - start: 1286
   end: 1398
   polity: marinid_sultanate
+  importance: 2
+- start: 1399
+  end: 1483
+  ungoverned: "Destroyed by Castile in 1399 and left largely deserted until Granadan refugees rebuilt it in the 1480s."
+- start: 1484
+  end: 1553
+  polity: mandari_tetouan
   importance: 2
 - start: 1554
   end: 1640

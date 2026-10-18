@@ -67,6 +67,9 @@ control:
   end: 1379
   polity: emirate_granada
   importance: 1
+- start: 1380
+  end: 1703
+  ungoverned: "Razed by Granada in 1379 and left in ruins until refugees from Gibraltar refounded it in 1704."
 - start: 1704
   end: 1715
   polity: spanish_monarchy

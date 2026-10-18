@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kairouan
 point:
   latitude: 35.6781
   longitude: 10.0963
-note: "Kusaila held Kairouan from 683 to 688, and Kharijite Berbers from 757 to 761. After the Banu Hilal sacked it in 1057 the town had no settled government until the Almohads. German and Italian forces occupied Tunisia from November 1942 until the Allies took it in May 1943."
+note: "Kusaila held Kairouan from 683 to 688, and Kharijite Berbers from 757 to 761. After the Banu Hilal sacked it in 1057 the Hilali chiefs held the ruined town until the Zirid emir Tamim recovered it around 1083. German and Italian forces occupied Tunisia from November 1942 until the Allies took it in May 1943."
 control:
 - start: 670
   end: 682
@@ -35,6 +35,18 @@ control:
   end: 1056
   polity: zirid_emirate
   importance: 3
+- start: 1057
+  end: 1082
+  polity: banu_hilal
+  importance: 2
+- start: 1083
+  end: 1148
+  polity: zirid_emirate
+  importance: 2
+- start: 1149
+  end: 1159
+  polity: banu_hilal
+  importance: 2
 - start: 1160
   end: 1228
   polity: almohad_caliphate

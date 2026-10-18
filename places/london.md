@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/London
 point:
   latitude: 51.5072
   longitude: -0.1275
-note: "London was held by the Danes from 871 until Alfred took it in 886; between the Romans' departure and the kingdom of Essex it has no record."
+note: "London was held by the Danes from 871 until Alfred took it in 886. The East Saxon span before Mellitus's bishopric of 604 is an estimate."
 control:
 - start: 43
   end: 259
@@ -31,7 +31,10 @@ control:
   end: 409
   polity: western_roman_empire
   importance: 3
-- start: 604
+- start: 410
+  end: 526
+  ungoverned: "The Roman city was largely deserted after the end of Roman rule in 410, and no government is recorded until the East Saxons."
+- start: 527
   end: 729
   polity: kingdom_essex
   importance: 2

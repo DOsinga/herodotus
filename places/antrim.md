@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Antrim,_County_Antrim
 point:
   latitude: 54.7173
   longitude: -6.2055
-note: "The Earldom of Ulster collapsed in 1333; the Clandeboye O'Neills who then held the area have no record."
+note: "The Earldom of Ulster collapsed in 1333, and the Clandeboye O'Neills took over the area in the following years."
 control:
 - start: 450
   end: 1176
@@ -14,6 +14,10 @@ control:
 - start: 1177
   end: 1332
   polity: kingdom_england
+  importance: 2
+- start: 1347
+  end: 1602
+  polity: clandeboye
   importance: 2
 - start: 1603
   end: 1648

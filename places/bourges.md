@@ -71,8 +71,12 @@ control:
   polity: carolingian_francia
   importance: 2
 - start: 843
-  end: 986
+  end: 925
   polity: west_francia
+  importance: 2
+- start: 926
+  end: 1100
+  polity: viscounty_bourges
   importance: 2
 - start: 1101
   end: 1417

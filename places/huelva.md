@@ -5,12 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Huelva
 point:
   latitude: 37.25
   longitude: -6.95
-note: "Stands in for Tartessos, whose centre in the lower Guadalquivir and Huelva area is not securely identified, and for the taifa based on the nearby island of Saltés. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "The Silingi and then the Hasding Vandals held Baetica from 411 until they crossed to Africa in 429; Roman rule then returned, interrupted by the Suebi from 441 to 456, until the Visigoths took over. Stands in for Tartessos, whose centre in the lower Guadalquivir and Huelva area is not securely identified, and for the taifa based on the nearby island of Saltés. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -900
   end: -550
   polity: tartessos
   importance: 3
+- start: -549
+  end: -238
+  polity: turdetani
+  importance: 2
+- start: -237
+  end: -207
+  polity: carthage
+  importance: 1
 - start: -206
   end: -28
   polity: roman_republic
@@ -23,6 +31,18 @@ control:
   end: 410
   polity: western_roman_empire
   importance: 2
+- start: 429
+  end: 440
+  polity: western_roman_empire
+  importance: 1
+- start: 441
+  end: 455
+  polity: suebic_kingdom
+  importance: 1
+- start: 456
+  end: 470
+  polity: western_roman_empire
+  importance: 1
 - start: 471
   end: 510
   polity: visigothic_kingdom

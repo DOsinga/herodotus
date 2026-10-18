@@ -106,6 +106,10 @@ control:
   end: 1213
   polity: county_provence
   importance: 3
+- start: 1214
+  end: 1251
+  polity: commune_marseille
+  importance: 3
 - start: 1252
   end: 1480
   polity: county_provence

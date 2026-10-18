@@ -30,6 +30,9 @@ control:
   end: 409
   polity: western_roman_empire
   importance: 2
+- start: 410
+  end: 499
+  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and Rheged."
 - start: 500
   end: 649
   polity: rheged
@@ -42,6 +45,9 @@ control:
   end: 866
   polity: kingdom_northumbria
   importance: 2
+- start: 875
+  end: 899
+  ungoverned: "Sacked by Halfdan's Danes in 875 and left in ruins until Strathclyde took Cumbria."
 - start: 900
   end: 1030
   polity: strathclyde

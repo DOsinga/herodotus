@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Aachen
 point:
   latitude: 50.7756
   longitude: 6.0836
-note: "Charlemagne's capital. Gap for the free imperial city from 1250 to the French occupation of 1794. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Charlemagne's capital. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1
   end: 394
@@ -14,6 +14,10 @@ control:
 - start: 395
   end: 449
   polity: western_roman_empire
+  importance: 1
+- start: 450
+  end: 764
+  follows: cologne
   importance: 1
 - start: 765
   end: 793
@@ -46,6 +50,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1793
+  polity: aachen
   importance: 2
 - start: 1794
   end: 1803

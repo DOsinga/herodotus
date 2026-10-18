@@ -23,7 +23,7 @@ control:
   polity: roman_empire
   importance: 1
 - start: 395
-  end: 450
+  end: 475
   polity: western_roman_empire
   importance: 1
 - start: 486
@@ -101,6 +101,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1551
+  polity: prince_bishopric_verdun
   importance: 2
 - start: 1552
   end: 1791

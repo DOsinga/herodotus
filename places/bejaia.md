@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Béjaïa
 point:
   latitude: 36.7514
   longitude: 5.0557
-note: "The spans before 1067 are those of Roman Saldae. The Hammadids built the medieval city as their capital."
+note: "The spans before 1067 are those of Roman Saldae, which the Arabs took only around 708 and which then went with Ifriqiya. The Hammadids built the medieval city as their capital."
 control:
 - start: -225
   end: -34
@@ -34,6 +34,38 @@ control:
 - start: 435
   end: 533
   polity: vandal_kingdom
+  importance: 1
+- start: 534
+  end: 707
+  polity: byzantine_empire
+  importance: 1
+- start: 708
+  end: 744
+  polity: umayyad_caliphate
+  importance: 1
+- start: 745
+  end: 756
+  polity: fihrid_ifriqiya
+  importance: 1
+- start: 761
+  end: 799
+  polity: abbasid_caliphate
+  importance: 1
+- start: 800
+  end: 908
+  polity: aghlabid_emirate
+  importance: 1
+- start: 909
+  end: 971
+  polity: fatimid_caliphate
+  importance: 1
+- start: 972
+  end: 1013
+  polity: zirid_emirate
+  importance: 1
+- start: 1014
+  end: 1066
+  polity: hammadid_emirate
   importance: 1
 - start: 1067
   end: 1089
