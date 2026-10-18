@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Nagaur
 point:
   latitude: 27.2
   longitude: 73.73
-note: "The Khanzada sultans of Nagaur held it in the fifteenth century without a record."
+note: "Jalal Khan Khokhar governed Nagaur for the Tughluqs from 1391. Rana Kumbha held it briefly in the 1450s."
 control:
 - start: 1206
   end: 1397
   polity: delhi_sultanate
   importance: 2
+- start: 1405
+  end: 1535
+  polity: nagaur_principality
+  importance: 3
 - start: 1536
   end: 1555
   polity: kingdom_marwar

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kannauj
 point:
   latitude: 27.05
   longitude: 79.913
-note: "The Bangash nawabs of Farrukhabad held Kannauj from 1714 until its cession to the British in 1802 and have no record."
+note: "Between the last Pratiharas and the Gahadavalas Kannauj is given to the Kalachuris of Tripuri, whose decline preceded the Gahadavala rise; local Rashtrakuta rulers may have held it, and this is an estimate."
 control:
 - start: -1100
   end: -351
@@ -18,6 +18,18 @@ control:
 - start: -322
   end: -186
   polity: maurya_empire
+  importance: 2
+- start: -185
+  end: 99
+  polity: panchala
+  importance: 2
+- start: 100
+  end: 230
+  polity: kushan_empire
+  importance: 2
+- start: 231
+  end: 349
+  polity: panchala
   importance: 2
 - start: 350
   end: 509
@@ -43,6 +55,10 @@ control:
   end: 1036
   polity: gurjara_pratihara_empire
   importance: 3
+- start: 1037
+  end: 1088
+  polity: kalachuri_tripuri
+  importance: 2
 - start: 1089
   end: 1193
   polity: gahadavala_dynasty
@@ -74,6 +90,10 @@ control:
 - start: 1555
   end: 1713
   polity: mughal_empire
+  importance: 2
+- start: 1714
+  end: 1801
+  polity: farrukhabad_state
   importance: 2
 - start: 1802
   end: 1857

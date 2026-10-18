@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kabul
 point:
   latitude: 34.525
   longitude: 69.178
-note: "The Lawik and Hindu Shahi rulers held Kabul between the Saffarid raids and Sebuktigin, and Babur ruled it as a Timurid prince from 1504 to 1526. Humayun's brother Kamran held it while the Sur ruled Hindustan. British forces occupied Kabul in the two Anglo-Afghan wars."
+note: "The Yuezhi took the Paropamisadae from Hermaeus about 70 BCE, and the Alchon took Kabulistan from the Sasanians about 385; both dates are estimates. Saffarid rule after Yaqub's conquest of 870 lasted until about 900, when the Hindu Shahis returned. Babur ruled Kabul as a Timurid prince from 1504 to 1526. Humayun's brother Kamran held it while the Sur ruled Hindustan. British forces occupied Kabul in the two Anglo-Afghan wars."
 control:
 - start: -545
   end: -331
@@ -31,10 +31,22 @@ control:
   end: -71
   polity: indo_greek_paropamisadae
   importance: 2
+- start: -70
+  end: 29
+  polity: yuezhi
+  importance: 3
 - start: 30
   end: 375
   polity: kushan_empire
   importance: 2
+- start: 376
+  end: 384
+  polity: sasanian_empire
+  importance: 3
+- start: 385
+  end: 483
+  polity: alchon_kingdom
+  importance: 3
 - start: 484
   end: 664
   polity: nezak_kingdom
@@ -48,8 +60,12 @@ control:
   polity: hindu_shahi_kingdom
   importance: 3
 - start: 870
-  end: 879
+  end: 899
   polity: saffarid_emirate
+  importance: 3
+- start: 900
+  end: 976
+  polity: hindu_shahi_kingdom
   importance: 3
 - start: 977
   end: 1149

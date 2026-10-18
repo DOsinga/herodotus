@@ -10,6 +10,10 @@ control:
   end: -186
   polity: maurya_empire
   importance: 2
+- start: -185
+  end: 369
+  follows: peshawar
+  importance: 2
 - start: 370
   end: 669
   polity: alchon_kingdom
@@ -31,6 +35,10 @@ control:
   polity: ghurid_sultanate
   importance: 2
 - start: 1206
+  end: 1525
+  follows: peshawar
+  importance: 1
+- start: 1526
   end: null
   follows: taxila
   importance: 1

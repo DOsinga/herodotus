@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Thanesar
 point:
   latitude: 29.969
   longitude: 76.819
-note: "The Tomaras, earlier vassals of the Pratiharas in this area, are given the town from their estimated independence around 950."
+note: "The Yaudheya republic of the eastern Punjab is given Thanesar from the fall of the Mauryas to the Guptas; an estimate from its coins. The Tomaras, earlier vassals of the Pratiharas in this area, are given the town from their estimated independence around 950, and the Chahamanas from their capture of Delhi in the 1150s."
 control:
 - start: -1200
   end: -351
@@ -18,6 +18,10 @@ control:
 - start: -322
   end: -186
   polity: maurya_empire
+  importance: 2
+- start: -185
+  end: 349
+  polity: yaudheya
   importance: 2
 - start: 350
   end: 499
@@ -38,6 +42,10 @@ control:
 - start: 950
   end: 1155
   polity: tomara_delhi
+  importance: 2
+- start: 1156
+  end: 1191
+  polity: chahamana_shakambhari
   importance: 2
 - start: 1192
   end: 1205

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Multan
 point:
   latitude: 30.197
   longitude: 71.469
-note: "Nasir ad-Din Qabacha held Multan on his own account from 1206 until Iltutmish took it in 1228."
+note: "The spans from the Indo-Greeks to the Alchons are estimates that follow the neighbouring Punjab towns; the Kushan hold is supported by the Sui Vihar inscription of Kanishka's eleventh year near Bahawalpur. Toramana took Multan in the later fifth century; the Rai kings of Sindh held it from 489."
 control:
 - start: -326
   end: -317
@@ -14,6 +14,34 @@ control:
 - start: -316
   end: -186
   polity: maurya_empire
+  importance: 2
+- start: -185
+  end: -131
+  polity: indo_greek_kingdom
+  importance: 2
+- start: -130
+  end: -81
+  polity: indo_greek_east
+  importance: 2
+- start: -80
+  end: 18
+  polity: indo_scythian_kingdom
+  importance: 2
+- start: 19
+  end: 59
+  polity: indo_parthian_kingdom
+  importance: 2
+- start: 60
+  end: 374
+  polity: kushan_empire
+  importance: 2
+- start: 375
+  end: 459
+  polity: kidarite_kingdom
+  importance: 2
+- start: 460
+  end: 488
+  polity: alchon_kingdom
   importance: 2
 - start: 489
   end: 712
@@ -38,6 +66,10 @@ control:
 - start: 1175
   end: 1205
   polity: ghurid_sultanate
+  importance: 3
+- start: 1206
+  end: 1227
+  polity: qabacha_sultanate
   importance: 3
 - start: 1228
   end: 1444

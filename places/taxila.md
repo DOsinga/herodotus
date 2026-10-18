@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Taxila
 point:
   latitude: 33.7458
   longitude: 72.7875
-note: "The Kushan conquest of Taxila is dated about 60. Between the Ghurids and the Mughals the Potwar plateau was held by Gakhar chiefs and contested by Delhi and the Mongols, so it is left as a gap."
+note: "The Kushan conquest of Taxila is dated about 60. Between the Ghurids and the Mughals the Pothohar plateau is given to the Gakhar chiefs, although Delhi and the Mongols contested it and Jasrat Khokhar dominated it in the early fifteenth century. Ancient Taxila declined after the Alchon conquest; the later spans stand for the plateau around it."
 control:
 - start: -518
   end: -331
@@ -74,6 +74,10 @@ control:
 - start: 1187
   end: 1205
   polity: ghurid_sultanate
+  importance: 2
+- start: 1206
+  end: 1525
+  polity: gakhar_chiefdom
   importance: 2
 - start: 1526
   end: 1539

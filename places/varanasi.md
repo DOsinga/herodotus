@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Varanasi
 point:
   latitude: 25.3189
   longitude: 83.0128
+note: "The Mitra kings of Kosambi, who extended their power over Magadha, are given Varanasi before and after the Kushans; this is an estimate."
 control:
 - start: -600
   end: -492
@@ -26,14 +27,26 @@ control:
   end: -29
   polity: kanva_dynasty
   importance: 2
+- start: -28
+  end: 79
+  polity: kingdom_kosambi
+  importance: 2
 - start: 80
   end: 249
   polity: kushan_empire
+  importance: 2
+- start: 250
+  end: 319
+  polity: kingdom_kosambi
   importance: 2
 - start: 320
   end: 549
   polity: gupta_empire
   importance: 3
+- start: 550
+  end: 605
+  polity: maukhari_kannauj
+  importance: 2
 - start: 606
   end: 646
   polity: thanesar_kingdom

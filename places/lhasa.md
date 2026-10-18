@@ -10,6 +10,10 @@ control:
   end: 842
   polity: tibetan_empire
   importance: 4
+- start: 843
+  end: 1246
+  polity: u_tsang_lords
+  importance: 3
 - start: 1247
   end: 1270
   polity: mongol_empire

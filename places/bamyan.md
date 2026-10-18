@@ -5,11 +5,35 @@ wikipedia: https://en.wikipedia.org/wiki/Bamyan
 point:
   latitude: 34.825
   longitude: 67.8333
-note: "Local Buddhist kings ruled Bamyan before the Islamic conquest, and the Hazaras governed themselves until Abdur Rahman Khan's conquest of 1893."
+note: "Kushanshahs under the Sasanians, then Alchon and Hephthalite rulers held Bamyan before its own Buddhist kings; the Alchon and Hephthalite dates are estimates. After the Saffarid conquest local Shirs governed under Samanid overlords. Genghis Khan destroyed the city in 1221, and the valley later went with Kabul, while the wider Hazarajat governed itself until Abdur Rahman Khan's conquest of 1893."
 control:
 - start: 30
   end: 229
   polity: kushan_empire
+  importance: 2
+- start: 230
+  end: 369
+  polity: sasanian_empire
+  importance: 2
+- start: 370
+  end: 449
+  polity: alchon_kingdom
+  importance: 2
+- start: 450
+  end: 559
+  polity: hephthalite_empire
+  importance: 2
+- start: 560
+  end: 869
+  polity: bamyan_kingdom
+  importance: 3
+- start: 870
+  end: 900
+  polity: saffarid_emirate
+  importance: 2
+- start: 901
+  end: 976
+  polity: samanid_emirate
   importance: 2
 - start: 977
   end: 1149
@@ -27,7 +51,11 @@ control:
   end: 1265
   polity: mongol_empire
   importance: 2
-- start: 1893
+- start: 1266
+  end: 1878
+  follows: kabul
+  importance: 2
+- start: 1879
   end: 1925
   polity: emirate_afghanistan
   importance: 2

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Gauḍa_(city)
 point:
   latitude: 24.8667
   longitude: 88.1333
-note: "Gauda, also called Lakhnauti, was the Pala and Sena seat of Gauda and the capital of the Bengal Sultanate from 1453. The independent Balbani sultans of Bengal from 1287 to 1323 and the rulers before Ilyas Shah's Bengal Sultanate of 1352 have no records."
+note: "Gauda, also called Lakhnauti, was the Pala and Sena seat of Gauda and the capital of the Bengal Sultanate from 1453. The rulers of Lakhnauti between 1342 and Ilyas Shah's Bengal Sultanate of 1352 have no records."
 control:
 - start: 750
   end: 1160
@@ -22,6 +22,10 @@ control:
 - start: 1206
   end: 1286
   polity: delhi_sultanate
+  importance: 3
+- start: 1287
+  end: 1323
+  polity: lakhnauti_sultanate
   importance: 3
 - start: 1324
   end: 1341

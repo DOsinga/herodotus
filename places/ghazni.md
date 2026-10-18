@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Ghazni
 point:
   latitude: 33.55
   longitude: 68.42
-note: "Alptigin and his successors held Ghazni as Samanid commanders from 962 before the Ghaznavid state took shape; the Oghuz held the city from 1163 to 1173."
+note: "Ghazni went with the Kabul region until the Zunbils made it a capital about 680. The Lawiks ruled it after the Saffarids until 962; Alp-Tegin and his successors then held it as Samanid commanders until Sebuktigin's accession in 977. The Oghuz held the city from 1163 to 1173."
 control:
 - start: -545
   end: -331
   polity: achaemenid_empire
+  importance: 2
+- start: -329
+  end: 679
+  follows: kabul
   importance: 2
 - start: 680
   end: 869
@@ -18,6 +22,14 @@ control:
 - start: 870
   end: 900
   polity: saffarid_emirate
+  importance: 2
+- start: 901
+  end: 961
+  polity: lawik_ghazni
+  importance: 3
+- start: 962
+  end: 976
+  polity: samanid_emirate
   importance: 2
 - start: 977
   end: 1149

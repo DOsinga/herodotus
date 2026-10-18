@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bhopal
 point:
   latitude: 23.2589
   longitude: 77.4125
-note: "Bhopal State governed itself from its foundation by Dost Mohammad Khan in 1707 until British protection in 1818, and has no record; the nawab acceded only in 1949."
+note: "Dost Mohammad Khan founded his state in 1707, leased Berasia in 1709 and fortified Bhopal in the early 1720s; the town stands for the state from its foundation. The nawab acceded to India only in 1949."
 control:
 - start: 1010
   end: 1304
@@ -36,9 +36,13 @@ control:
   polity: malwa_sultanate
   importance: 2
 - start: 1562
-  end: 1736
+  end: 1706
   polity: mughal_empire
   importance: 2
+- start: 1707
+  end: 1817
+  polity: bhopal_state
+  importance: 3
 - start: 1818
   end: 1857
   polity: company_rule_india

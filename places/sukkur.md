@@ -5,11 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Sukkur
 point:
   latitude: 27.7061
   longitude: 68.8483
-note: "The point stands for Sukkur and the island fort of Bukkur beside it, the Arghun capital. Ghurid and Qabacha rule of upper Sindh from 1187 to 1227 is left as a gap."
+note: "The point stands for Sukkur and the island fort of Bukkur beside it, the Arghun capital. Qabacha was besieged at Bhakkar and drowned in the Indus there in 1228."
 control:
 - start: 1026
   end: 1186
   polity: soomra_dynasty
+  importance: 2
+- start: 1187
+  end: 1205
+  polity: ghurid_sultanate
+  importance: 2
+- start: 1206
+  end: 1227
+  polity: qabacha_sultanate
   importance: 2
 - start: 1228
   end: 1350

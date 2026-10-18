@@ -10,6 +10,10 @@ control:
   end: -186
   polity: maurya_empire
   importance: 1
+- start: -185
+  end: 449
+  follows: pataliputra
+  importance: 1
 - start: 450
   end: 600
   polity: maukhari_gaya

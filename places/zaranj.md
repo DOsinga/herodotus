@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Zaranj
 point:
   latitude: 30.959
   longitude: 61.861
-note: "The maliks of Sistan governed from Zaranj under Ghurid, Mongol and Timurid overlords, and the Kayanid maliks continued after the Safavids."
+note: "Medieval Zaranj lay at Nad-i Ali, just north of the modern town. The Nasrid and Mihrabanid maliks governed Sistan from here under Seljuk, Ghurid, Ilkhanid and Timurid overlords. Baloch chiefs held the lower Helmand after the Durrani empire broke up; Afghan rule followed Abdur Rahman's campaign of 1882 rather than the Goldsmid award of 1872."
 control:
 - start: -545
   end: -331
@@ -68,21 +68,25 @@ control:
   polity: ghaznavid_empire
   importance: 2
 - start: 1040
-  end: 1117
+  end: 1067
   polity: seljuk_empire
   importance: 2
-- start: 1118
-  end: 1152
-  polity: seljuk_khorasan
+- start: 1068
+  end: 1224
+  polity: nasrid_sistan
+  importance: 3
+- start: 1225
+  end: 1230
+  polity: khwarazmian_empire
   importance: 2
-- start: 1221
-  end: 1259
+- start: 1231
+  end: 1235
   polity: mongol_empire
   importance: 2
-- start: 1383
-  end: 1447
-  polity: timurid_empire
-  importance: 2
+- start: 1236
+  end: 1536
+  polity: mihrabanid_sistan
+  importance: 3
 - start: 1537
   end: 1721
   polity: safavid_iran
@@ -95,7 +99,11 @@ control:
   end: 1822
   polity: durrani_empire
   importance: 2
-- start: 1872
+- start: 1823
+  end: 1881
+  polity: sanjrani_chiefdom
+  importance: 2
+- start: 1882
   end: 1925
   polity: emirate_afghanistan
   importance: 2

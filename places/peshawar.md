@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Peshawar
 point:
   latitude: 34.0144
   longitude: 71.5675
-note: "The Indo-Greek conquest of Gandhara and Kujula Kadphises' conquest of the Peshawar valley are dated by estimate. Purushapura was the capital of Kanishka and his successors. After the Mongol conquest of 1221 and until Babur, and again under the Sur Empire, the Peshawar valley was held by Afghan tribes and outside powers without records here."
+note: "The Indo-Greek conquest of Gandhara and Kujula Kadphises' conquest of the Peshawar valley are dated by estimate. Purushapura was the capital of Kanishka and his successors. The Mongols destroyed the city in 1221. From then until 1501 the valley is given to the Mongol, Chagatai and Timurid rulers of Kabul, whose hold east of the Khyber was loose while Dilazak Afghans settled the valley. From Ulugh Beg Kabuli's death to Babur, and again under the Sur Empire, it was held by Afghan tribes without a record here."
 control:
 - start: -518
   end: -331
@@ -78,6 +78,26 @@ control:
 - start: 1206
   end: 1220
   polity: khwarazmian_empire
+  importance: 2
+- start: 1221
+  end: 1265
+  polity: mongol_empire
+  importance: 2
+- start: 1266
+  end: 1346
+  polity: chagatai_khanate
+  importance: 2
+- start: 1347
+  end: 1360
+  polity: western_chagatai_khanate
+  importance: 2
+- start: 1363
+  end: 1369
+  polity: western_chagatai_khanate
+  importance: 2
+- start: 1370
+  end: 1501
+  polity: timurid_empire
   importance: 2
 - start: 1526
   end: 1539

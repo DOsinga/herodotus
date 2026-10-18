@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mahoba
 point:
   latitude: 25.28
   longitude: 79.8729
-note: "Bundela chiefs held Mahoba in the fifteenth and early sixteenth centuries, and Chhatrasal's Bundela kingdom from 1671 to 1731; neither has a record."
+note: "A minor Chandela branch ruled Mahoba after the Tughluqs. After Islam Shah's death the Baghela raja Ram Chand held Kalinjar until Akbar took it in 1569; whether he also held Mahoba is not recorded. Chhatrasal took Mahoba in 1680."
 control:
 - start: 831
   end: 1202
@@ -23,9 +23,21 @@ control:
   end: 1393
   polity: delhi_sultanate
   importance: 2
+- start: 1394
+  end: 1544
+  polity: chandela_mahoba
+  importance: 2
+- start: 1545
+  end: 1554
+  polity: sur_empire
+  importance: 2
 - start: 1569
-  end: 1670
+  end: 1679
   polity: mughal_empire
+  importance: 2
+- start: 1680
+  end: 1731
+  polity: panna_state
   importance: 2
 - start: 1732
   end: 1802
