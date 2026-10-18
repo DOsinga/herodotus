@@ -5,11 +5,23 @@ wikipedia: https://en.wikipedia.org/wiki/Coburg
 point:
   latitude: 50.2667
   longitude: 10.9667
-note: "Gap for the counts of Henneberg, before the Wettins took Coburg in 1353. Joined Bavaria in 1920. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The margraves of Brandenburg held the Coburg lordship from 1291 to 1312. Joined Bavaria in 1920. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1056
   end: 1249
   polity: holy_roman_empire
+  importance: 1
+- start: 1250
+  end: 1290
+  polity: county_henneberg
+  importance: 1
+- start: 1291
+  end: 1311
+  polity: margraviate_brandenburg
+  importance: 1
+- start: 1312
+  end: 1352
+  polity: county_henneberg
   importance: 1
 - start: 1353
   end: 1422

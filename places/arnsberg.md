@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Arnsberg
 point:
   latitude: 51.3833
   longitude: 8.0833
-note: "Gap for the counts of Arnsberg, who sold their county to the archbishops of Cologne in 1368. Seat of the electoral government of the Duchy of Westphalia. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Seat of the electoral government of the Duchy of Westphalia. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 789
   end: 803
@@ -31,6 +31,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1367
+  polity: county_arnsberg
+  importance: 2
 - start: 1368
   end: 1802
   polity: electorate_cologne

@@ -5,11 +5,18 @@ wikipedia: https://en.wikipedia.org/wiki/Pinsk
 point:
   latitude: 52.1153
   longitude: 26.1031
-note: "Gap for the principality of Turov and Pinsk, which has no record, until Lithuania took the town around 1320."
 control:
 - start: 1097
   end: 1131
   polity: kievan_rus
+  importance: 2
+- start: 1132
+  end: 1157
+  polity: principality_kiev
+  importance: 2
+- start: 1158
+  end: 1319
+  polity: principality_turov
   importance: 2
 - start: 1320
   end: 1568

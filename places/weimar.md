@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Weimar
 point:
   latitude: 50.9811
   longitude: 11.3294
-note: "Gap for the counts of Weimar-Orlamünde, before the Wettins took the town in 1373. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 899
   end: 961
@@ -15,6 +15,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1372
+  polity: county_orlamunde
+  importance: 2
 - start: 1373
   end: 1422
   polity: margraviate_meissen

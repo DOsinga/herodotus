@@ -5,11 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Wiesbaden
 point:
   latitude: 50.0825
   longitude: 8.24
-note: "Roman Aquae Mattiacorum. Gap for the Nassau counts of Wiesbaden and Idstein until Nassau-Usingen inherited the town in 1728. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Roman Aquae Mattiacorum. Went with Mainz under the Franks. Nassau-Weilburg here includes the Idstein line, which held Wiesbaden until Nassau-Usingen inherited it in 1728. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 6
   end: 259
   polity: roman_empire
+  importance: 1
+- start: 260
+  end: 496
+  polity: alamanni
+  importance: 1
+- start: 497
+  end: 828
+  follows: mainz
   importance: 1
 - start: 829
   end: 842
@@ -23,6 +31,14 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1343
+  polity: county_nassau
+  importance: 2
+- start: 1344
+  end: 1727
+  polity: nassau_weilburg
+  importance: 2
 - start: 1728
   end: 1743
   polity: nassau_usingen

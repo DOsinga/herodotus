@@ -5,11 +5,14 @@ wikipedia: https://en.wikipedia.org/wiki/Schaffhausen
 point:
   latitude: 47.697
   longitude: 8.634
-note: "A free imperial city from 1250 to 1330 and from 1415 to 1501, apart from the Habsburg pledge."
 control:
 - start: 1045
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1329
+  polity: schaffhausen
   importance: 2
 - start: 1330
   end: 1378
@@ -22,6 +25,10 @@ control:
 - start: 1406
   end: 1414
   polity: habsburg_tyrol
+  importance: 2
+- start: 1415
+  end: 1500
+  polity: schaffhausen
   importance: 2
 - start: 1501
   end: 1797

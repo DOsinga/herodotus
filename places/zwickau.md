@@ -5,13 +5,21 @@ wikipedia: https://en.wikipedia.org/wiki/Zwickau
 point:
   latitude: 50.7167
   longitude: 12.5
-note: "Gap for the imperial city, pledged to the Wettins and finally theirs in 1348. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Wettins held the Pleissenland as a pledge until Rudolf of Habsburg recovered it in 1290; Louis IV granted it to them again in 1323, and they held Zwickau for good from 1348. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1118
   end: 1249
   polity: holy_roman_empire
   importance: 1
-- start: 1348
+- start: 1250
+  end: 1289
+  polity: margraviate_meissen
+  importance: 1
+- start: 1290
+  end: 1323
+  polity: zwickau
+  importance: 1
+- start: 1324
   end: 1422
   polity: margraviate_meissen
   importance: 1

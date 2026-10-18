@@ -15,6 +15,10 @@ control:
   end: 454
   polity: western_roman_empire
   importance: 1
+- start: 455
+  end: 480
+  polity: ripuarian_cologne
+  importance: 1
 - start: 481
   end: 510
   polity: merovingian_francia_late

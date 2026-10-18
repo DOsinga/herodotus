@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Wels
 point:
   latitude: 48.15
   longitude: 14.0167
-note: "Roman Ovilava, capital of Noricum Ripense."
+note: "Roman Ovilava, capital of Noricum Ripense. After Odoacer's evacuation of 488 the town is given to the powers that claimed Noricum, the Ostrogoths and then the Franks; an estimate."
 control:
 - start: 50
   end: 394
@@ -16,10 +16,18 @@ control:
   polity: western_roman_empire
   importance: 2
 - start: 476
-  end: 487
+  end: 492
   polity: kingdom_odoacer
   importance: 2
-- start: 776
+- start: 493
+  end: 536
+  polity: ostrogothic_kingdom
+  importance: 2
+- start: 537
+  end: 554
+  polity: austrasia
+  importance: 2
+- start: 555
   end: 788
   polity: duchy_bavaria
   importance: 1

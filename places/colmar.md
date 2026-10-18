@@ -10,6 +10,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1672
+  polity: colmar
+  importance: 2
 - start: 1673
   end: 1791
   polity: kingdom_france

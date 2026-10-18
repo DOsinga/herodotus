@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Gdańsk
 point:
   latitude: 54.3475
   longitude: 18.6453
-note: "Gaps for the Pomeranian revolts after 1038 and for the Samborid governors, who ruled Pomerelia for the Polish dukes until they made themselves dukes in 1227. The Napoleonic Free City of 1807–1814 was run by a French governor."
+note: "The Samborid governors ruled Pomerelia for the senior Polish dukes at Kraków until they made themselves dukes in 1227. The Napoleonic Free City of 1807–1814 was run by a French governor."
 control:
 - start: 980
   end: 1024
@@ -15,9 +15,17 @@ control:
   end: 1037
   polity: kingdom_poland
   importance: 2
+- start: 1038
+  end: 1115
+  polity: pomeranians
+  importance: 2
 - start: 1116
   end: 1137
   polity: kingdom_poland
+  importance: 2
+- start: 1138
+  end: 1226
+  polity: duchy_krakow
   importance: 2
 - start: 1227
   end: 1294

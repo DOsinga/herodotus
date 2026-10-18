@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Solothurn
 point:
   latitude: 47.2088
   longitude: 7.5323
-note: "Solothurn was a free imperial city from 1250 until it joined the Confederacy in 1481."
 control:
 - start: -15
   end: 394
@@ -83,6 +82,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1480
+  polity: solothurn
+  importance: 2
 - start: 1481
   end: 1797
   polity: old_swiss_confederacy

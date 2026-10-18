@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Głogów
 point:
   latitude: 51.6589
   longitude: 16.0803
-note: "Gap for the Duchy of Głogów before its dukes became Bohemian vassals in 1331."
+note: "From 1349 the Bohemian crown held half of Głogów and the dukes of Żagań the other half; the town is given to the dukes."
 control:
 - start: 1010
   end: 1024
@@ -19,15 +19,35 @@ control:
   end: 1250
   polity: duchy_silesia
   importance: 2
+- start: 1251
+  end: 1330
+  polity: duchy_glogow
+  importance: 2
 - start: 1331
-  end: 1468
+  end: 1336
   polity: kingdom_bohemia
   importance: 2
-- start: 1469
+- start: 1337
+  end: 1345
+  polity: duchy_glogow
+  importance: 2
+- start: 1346
+  end: 1348
+  polity: kingdom_bohemia
+  importance: 2
+- start: 1349
+  end: 1487
+  polity: duchy_glogow
+  importance: 2
+- start: 1488
   end: 1490
   polity: kingdom_hungary
   importance: 2
 - start: 1491
+  end: 1505
+  polity: duchy_glogow
+  importance: 2
+- start: 1506
   end: 1619
   polity: kingdom_bohemia
   importance: 2

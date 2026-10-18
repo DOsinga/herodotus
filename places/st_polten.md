@@ -19,6 +19,14 @@ control:
   end: 487
   polity: kingdom_odoacer
   importance: 2
+- start: 505
+  end: 567
+  polity: danubian_lombards
+  importance: 1
+- start: 568
+  end: 790
+  polity: avar_khaganate
+  importance: 1
 - start: 791
   end: 842
   polity: carolingian_francia

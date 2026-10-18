@@ -15,7 +15,19 @@ control:
   end: 475
   polity: western_roman_empire
   importance: 1
-- start: 700
+- start: 476
+  end: 492
+  polity: kingdom_odoacer
+  importance: 1
+- start: 493
+  end: 536
+  polity: ostrogothic_kingdom
+  importance: 1
+- start: 537
+  end: 554
+  polity: austrasia
+  importance: 1
+- start: 555
   end: 788
   polity: duchy_bavaria
   importance: 1

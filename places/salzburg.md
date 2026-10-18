@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Salzburg
 point:
   latitude: 47.8
   longitude: 13.045
-note: "Roman Iuvavum, refounded by Saint Rupert around 696. Austria annexed the secularised archbishopric in 1805; Bavaria held it from 1810 to 1816."
+note: "Roman Iuvavum, refounded by Saint Rupert around 696. Austria annexed the secularised archbishopric in 1805; Bavaria held it from 1810 to 1816. After Odoacer's evacuation of 488 the town is given to the powers that claimed Noricum, the Ostrogoths and then the Franks; an estimate."
 control:
 - start: -15
   end: 394
@@ -16,10 +16,18 @@ control:
   polity: western_roman_empire
   importance: 2
 - start: 476
-  end: 487
+  end: 492
   polity: kingdom_odoacer
   importance: 2
-- start: 696
+- start: 493
+  end: 536
+  polity: ostrogothic_kingdom
+  importance: 2
+- start: 537
+  end: 554
+  polity: austrasia
+  importance: 2
+- start: 555
   end: 788
   polity: duchy_bavaria
   importance: 2

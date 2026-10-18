@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Szczecin
 point:
   latitude: 53.4325
   longitude: 14.5481
-note: "Swedish from 1630 until Prussia took it in 1713, confirmed in 1720. French garrison from 1806 to 1813."
+note: "A Pomeranian stronghold before Wartislaw I made it the ducal seat. Swedish from 1630 until Prussia took it in 1713, confirmed in 1720. French garrison from 1806 to 1813."
 control:
+- start: 1005
+  end: 1120
+  polity: pomeranians
+  importance: 2
 - start: 1121
   end: 1629
   polity: duchy_pomerania

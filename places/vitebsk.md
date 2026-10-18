@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Vitebsk
 point:
   latitude: 55.1917
   longitude: 30.2056
-note: "Gap for the principality of Vitebsk, which split from Polotsk in 1101 and has no record, until it passed to Lithuania around 1320."
 control:
 - start: 1021
   end: 1066
@@ -18,6 +17,18 @@ control:
 - start: 1071
   end: 1100
   polity: principality_polotsk
+  importance: 2
+- start: 1101
+  end: 1128
+  polity: principality_vitebsk
+  importance: 2
+- start: 1129
+  end: 1131
+  polity: kievan_rus
+  importance: 2
+- start: 1132
+  end: 1319
+  polity: principality_vitebsk
   importance: 2
 - start: 1320
   end: 1568

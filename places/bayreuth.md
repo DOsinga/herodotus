@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Bayreuth
 point:
   latitude: 49.9481
   longitude: 11.5783
-note: "Gap for the counts of Andechs-Merania and the burgraves of Nuremberg. Residence of the margraves from 1604. Under French administration from 1806 until it was sold to Bavaria in 1810. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Meranian inheritance was disputed from 1248 until the burgraves took Bayreuth around 1260. Residence of the margraves from 1604. Under French administration from 1806 until it was sold to Bavaria in 1810. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1194
   end: 1249
   polity: holy_roman_empire
+  importance: 1
+- start: 1260
+  end: 1397
+  polity: burgraviate_nuremberg
   importance: 1
 - start: 1398
   end: 1603

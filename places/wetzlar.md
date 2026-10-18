@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Wetzlar
 point:
   latitude: 50.5667
   longitude: 8.5
-note: "Stands in for the Conradine Duchy of Franconia. Gap for the free imperial city from 1250. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Stands in for the Conradine Duchy of Franconia. Seat of the Imperial Chamber Court from 1689. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 832
   end: 842
@@ -27,6 +27,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1802
+  polity: wetzlar
+  importance: 2
 - start: 1803
   end: 1813
   polity: grand_duchy_frankfurt

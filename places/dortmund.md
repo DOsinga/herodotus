@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Dortmund
 point:
   latitude: 51.5139
   longitude: 7.4653
-note: "Gap for the free imperial city, and for the House of Orange-Nassau from 1803 to 1806. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Gap for the House of Orange-Nassau from 1803 to 1806. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 775
   end: 803
@@ -30,6 +30,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1802
+  polity: dortmund
   importance: 2
 - start: 1806
   end: 1808

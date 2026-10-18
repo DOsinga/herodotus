@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Vienna
 point:
   latitude: 48.2083
   longitude: 16.3725
-note: "The legionary fortress of Vindobona. Hungary held the town until the frontier was set on the Leitha around 1040; the date is an estimate. Matthias Corvinus held Vienna and made it his residence from 1485 to 1490."
+note: "The legionary fortress of Vindobona. Hungary held the town until the frontier was set on the Leitha around 1040; the date is an estimate. Matthias Corvinus held Vienna and made it his residence from 1485 to 1490. The Herulian span after the Ostrogoths left Pannonia in 473 is an estimate of whose reach the town lay in; the Lombards replaced the Heruli around 508."
 control:
 - start: 50
   end: 394
@@ -15,6 +15,22 @@ control:
   end: 432
   polity: western_roman_empire
   importance: 2
+- start: 433
+  end: 453
+  polity: hunnic_empire
+  importance: 1
+- start: 454
+  end: 473
+  polity: pannonian_ostrogoths
+  importance: 1
+- start: 474
+  end: 507
+  polity: heruli
+  importance: 1
+- start: 508
+  end: 567
+  polity: danubian_lombards
+  importance: 1
 - start: 568
   end: 790
   polity: avar_khaganate

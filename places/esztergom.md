@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Esztergom
 point:
   latitude: 47.7856
   longitude: 18.7403
-note: "Roman Solva. Seat of Grand Prince Géza and of the first kings, and of the archbishops after the court moved away."
+note: "Roman Solva. Seat of Grand Prince Géza and of the first kings, and of the archbishops after the court moved away. The Gepid span after the Ostrogoths left Pannonia in 473 is an estimate: the town lay on the Danube opposite the Gepid plain until the Lombards took Pannonia around 547."
 control:
 - start: 10
   end: 394
@@ -15,9 +15,33 @@ control:
   end: 432
   polity: western_roman_empire
   importance: 1
+- start: 433
+  end: 453
+  polity: hunnic_empire
+  importance: 1
+- start: 454
+  end: 473
+  polity: pannonian_ostrogoths
+  importance: 1
+- start: 474
+  end: 546
+  polity: gepid_kingdom
+  importance: 1
+- start: 547
+  end: 567
+  polity: danubian_lombards
+  importance: 1
 - start: 568
   end: 795
   polity: avar_khaganate
+  importance: 1
+- start: 796
+  end: 842
+  polity: carolingian_francia
+  importance: 1
+- start: 843
+  end: 894
+  polity: east_francia
   importance: 1
 - start: 895
   end: 999

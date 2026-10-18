@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Cheb
 point:
   latitude: 50.0794
   longitude: 12.3706
-note: "Egerland was imperial land until Louis IV pledged it to Bohemia in 1322; gaps for the imperial administration after 1250, apart from Ottokar's rule from 1266."
+note: "Egerland was imperial land until Louis IV pledged it to Bohemia in 1322. Ottokar II held the town from 1266 and Wenceslaus II from 1291 to 1304."
 control:
 - start: 1061
   end: 1249
@@ -14,6 +14,18 @@ control:
 - start: 1266
   end: 1276
   polity: kingdom_bohemia
+  importance: 2
+- start: 1277
+  end: 1290
+  polity: cheb
+  importance: 2
+- start: 1291
+  end: 1303
+  polity: kingdom_bohemia
+  importance: 2
+- start: 1304
+  end: 1321
+  polity: cheb
   importance: 2
 - start: 1322
   end: 1619

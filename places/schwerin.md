@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Schwerin
 point:
   latitude: 53.6333
   longitude: 11.4167
-note: "Gap for the County of Schwerin, which the dukes of Mecklenburg bought in 1358. Wallenstein held Mecklenburg from 1628 to 1631. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Wallenstein held Mecklenburg from 1628 to 1631. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1018
   end: 1159
@@ -14,6 +14,10 @@ control:
 - start: 1160
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1357
+  polity: county_schwerin
   importance: 2
 - start: 1358
   end: 1620

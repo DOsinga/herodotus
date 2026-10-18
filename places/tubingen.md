@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Tübingen
 point:
   latitude: 48.52
   longitude: 9.0556
-note: "Gap for the counts palatine of Tübingen, who sold the town to Württemberg in 1342. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 1078
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1341
+  polity: county_palatine_tubingen
+  importance: 2
 - start: 1342
   end: 1494
   polity: county_wurttemberg

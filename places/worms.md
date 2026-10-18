@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Worms,_Germany
 point:
   latitude: 49.6319
   longitude: 8.3653
-note: "Gap for the free imperial city from 1250. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949. The first Burgundian kingdom, destroyed by the Huns in 437, was seated at Worms."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949. The first Burgundian kingdom, destroyed by the Huns in 437, was seated at Worms."
 control:
 - start: -14
   end: 394
@@ -22,6 +22,10 @@ control:
 - start: 437
   end: 454
   polity: western_roman_empire
+  importance: 2
+- start: 455
+  end: 480
+  polity: alamanni
   importance: 2
 - start: 481
   end: 510
@@ -82,6 +86,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1793
+  polity: worms
   importance: 2
 - start: 1794
   end: 1803

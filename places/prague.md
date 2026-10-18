@@ -11,6 +11,9 @@ control:
   end: 19
   polity: marcomanni_kingdom
   importance: 3
+- start: 20
+  end: 869
+  ungoverned: "No town stood here between Maroboduus's kingdom and the Přemyslid castle founded around 880; the peoples of Bohemia in between had no known centre at Prague."
 - start: 870
   end: 1197
   polity: duchy_bohemia

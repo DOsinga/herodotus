@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Verden,_Aller
 point:
   latitude: 52.9233
   longitude: 9.235
-note: "Stands in for the Old Saxons, whose assembly place at Marklo has not been found; Charlemagne had Saxon captives executed at Verden in 782. Gap for the Prince-Bishopric of Verden, which has no record. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Stands in for the Old Saxons, whose assembly place at Marklo has not been found; Charlemagne had Saxon captives executed at Verden in 782. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 500
   end: 803
@@ -31,6 +31,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1647
+  polity: bishopric_verden
+  importance: 2
 - start: 1648
   end: 1711
   polity: kingdom_sweden

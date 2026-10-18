@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ansbach
 point:
   latitude: 49.3
   longitude: 10.5833
-note: "Gap for the burgraves of Nuremberg, who bought Ansbach in 1331. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The counts of Oettingen held Ansbach until the burgraves of Nuremberg bought it in 1331. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 748
   end: 750
@@ -23,6 +23,14 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 1
+- start: 1250
+  end: 1330
+  polity: county_oettingen
+  importance: 1
+- start: 1331
+  end: 1397
+  polity: burgraviate_nuremberg
+  importance: 2
 - start: 1398
   end: 1790
   polity: principality_ansbach

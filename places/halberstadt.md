@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Halberstadt
 point:
   latitude: 51.8958
   longitude: 11.0467
-note: "Gap for the Prince-Bishopric of Halberstadt, which has no record, until Brandenburg received it in 1648. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 804
   end: 842
@@ -26,6 +26,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1647
+  polity: bishopric_halberstadt
   importance: 2
 - start: 1648
   end: 1700

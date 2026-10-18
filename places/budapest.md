@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Budapest
 point:
   latitude: 47.4925
   longitude: 19.0514
-note: "Roman Aquincum, capital of Lower Pannonia from 106. Buda became the main royal seat in the fourteenth century. John Zápolya held it for most of 1526 to 1540, Ferdinand from 1527 to 1529, and the Ottomans from 1541 to 1686."
+note: "Roman Aquincum, capital of Lower Pannonia from 106. Buda became the main royal seat in the fourteenth century. John Zápolya held it for most of 1526 to 1540, Ferdinand from 1527 to 1529, and the Ottomans from 1541 to 1686. The Gepid span after the Ostrogoths left Pannonia in 473 is an estimate: the town lay on the Danube opposite the Gepid plain until the Lombards took Pannonia around 547."
 control:
 - start: 10
   end: 105
@@ -23,9 +23,29 @@ control:
   end: 453
   polity: hunnic_empire
   importance: 2
+- start: 454
+  end: 473
+  polity: pannonian_ostrogoths
+  importance: 2
+- start: 474
+  end: 546
+  polity: gepid_kingdom
+  importance: 2
+- start: 547
+  end: 566
+  polity: danubian_lombards
+  importance: 2
 - start: 567
   end: 795
   polity: avar_khaganate
+  importance: 2
+- start: 796
+  end: 842
+  polity: carolingian_francia
+  importance: 2
+- start: 843
+  end: 894
+  polity: east_francia
   importance: 2
 - start: 895
   end: 999

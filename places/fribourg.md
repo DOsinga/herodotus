@@ -5,11 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Fribourg
 point:
   latitude: 46.8065
   longitude: 7.1619
-note: "Held by the Kyburg counts from 1250 and free between Savoy's withdrawal in 1477 and joining the Confederacy in 1481."
+note: "Rudolf of Habsburg governed the western Kyburg lands as guardian of the heiress Anna from 1264 and bought Fribourg in 1277. Free between Savoy's withdrawal in 1477 and joining the Confederacy in 1481."
 control:
 - start: 1157
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1263
+  polity: county_kyburg
+  importance: 2
+- start: 1264
+  end: 1277
+  polity: county_habsburg
   importance: 2
 - start: 1278
   end: 1378

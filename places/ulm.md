@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ulm
 point:
   latitude: 48.3986
   longitude: 9.9911
-note: "Gap for the free imperial city from 1250. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: 854
   end: 914
@@ -23,6 +23,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 2
+- start: 1250
+  end: 1802
+  polity: ulm
+  importance: 3
 - start: 1803
   end: 1805
   polity: electorate_bavaria

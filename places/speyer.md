@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Speyer
 point:
   latitude: 49.3194
   longitude: 8.4311
-note: "Gap for the free imperial city from 1250. Capital of the Bavarian Palatinate from 1816. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
+note: "Capital of the Bavarian Palatinate from 1816. The Allies governed Germany in four occupation zones from 1945 until the two German states were founded in 1949."
 control:
 - start: -10
   end: 394
@@ -14,6 +14,10 @@ control:
 - start: 395
   end: 454
   polity: western_roman_empire
+  importance: 1
+- start: 455
+  end: 480
+  polity: alamanni
   importance: 1
 - start: 481
   end: 510
@@ -74,6 +78,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1793
+  polity: speyer
   importance: 2
 - start: 1794
   end: 1803

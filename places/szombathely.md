@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Szombathely
 point:
   latitude: 47.2351
   longitude: 16.6219
-note: "Roman Savaria, capital of Pannonia Prima."
+note: "Roman Savaria, capital of Pannonia Prima. The Herulian span after the Ostrogoths left Pannonia in 473 is an estimate of whose reach the town lay in; the Lombards replaced the Heruli around 508."
 control:
 - start: 45
   end: 394
@@ -15,6 +15,22 @@ control:
   end: 432
   polity: western_roman_empire
   importance: 3
+- start: 433
+  end: 453
+  polity: hunnic_empire
+  importance: 1
+- start: 454
+  end: 473
+  polity: pannonian_ostrogoths
+  importance: 1
+- start: 474
+  end: 507
+  polity: heruli
+  importance: 1
+- start: 508
+  end: 567
+  polity: danubian_lombards
+  importance: 1
 - start: 568
   end: 790
   polity: avar_khaganate
