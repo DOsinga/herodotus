@@ -21,7 +21,8 @@ control:
   importance: 1
 - start: 201
   end: 627
-  ungoverned: "No state governed the oasis between the Roman withdrawal and Islam; its Jewish and Arab clans ran their own affairs."
+  polity: wadi_al_qura
+  importance: 2
 - start: 628
   end: 631
   polity: medinan_state
@@ -40,7 +41,8 @@ control:
   importance: 1
 - start: 935
   end: 1907
-  ungoverned: "No state governed the oasis between the Abbasids and the Hejaz Railway; its own families and the neighbouring Bedouin held it."
+  polity: wadi_al_qura
+  importance: 2
 - start: 1908
   end: 1917
   polity: ottoman_empire

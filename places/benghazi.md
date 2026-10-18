@@ -53,7 +53,8 @@ control:
   importance: 2
 - start: 1051
   end: 1639
-  ungoverned: "Largely deserted after the Hilalian invasions; Bedouin held Cyrenaica and no state governed it until the Ottomans."
+  polity: barqa_bedouin
+  importance: 2
 - start: 1640
   end: 1710
   polity: ottoman_empire

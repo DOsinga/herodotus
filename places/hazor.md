@@ -11,9 +11,13 @@ control:
   polity: hazor
   importance: 3
 - start: -1249
-  end: -901
-  ungoverned: "Destroyed in the thirteenth century BCE; only a small village stood on the ruins until the Israelite town was built."
-- start: -900
+  end: -1001
+  ungoverned: "Destroyed in the thirteenth century BCE and left in ruins, with only storage pits dug into the mound, until the Israelite town was built."
+- start: -1000
+  end: -931
+  polity: united_monarchy
+  importance: 2
+- start: -930
   end: -733
   polity: kingdom_israel
   importance: 2

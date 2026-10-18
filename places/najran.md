@@ -49,7 +49,8 @@ control:
   importance: 2
 - start: 1011
   end: 1632
-  ungoverned: "Najran drops out of the record for six centuries; the Yam and other tribes held it outside any known state."
+  polity: banu_yam
+  importance: 2
 - start: 1633
   end: 1917
   polity: principality_najran

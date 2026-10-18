@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Napata
 point:
   latitude: 18.53
   longitude: 31.84
-note: "The later spans stand for Karima and Merowe, beside the site at Jebel Barkal."
+note: "The later spans stand for Karima and Merowe, beside the site at Jebel Barkal. Between Makuria and the Funj the town is given to Dotawo as an estimate."
 control:
 - start: -1450
   end: -1070
@@ -13,7 +13,8 @@ control:
   importance: 2
 - start: -1069
   end: -781
-  ungoverned: "No state is known in Upper Nubia between the Egyptian withdrawal and the rise of the Kushite kings at el-Kurru."
+  polity: kurru_chiefdom
+  importance: 2
 - start: -780
   end: -591
   polity: kingdom_kush
@@ -23,15 +24,13 @@ control:
   polity: kingdom_kush
   importance: 2
 - start: 351
-  end: 449
-  ungoverned: "No state is known at Napata between the fall of Kush and the rise of Makuria."
-- start: 450
   end: 1365
   polity: makuria
   importance: 1
 - start: 1366
   end: 1503
-  ungoverned: "After Makuria broke up, Arab tribes and Nubian lords fought over the Dongola reach and no lasting state held it until the Funj."
+  polity: dotawo
+  importance: 1
 - start: 1504
   end: 1820
   polity: funj_sultanate

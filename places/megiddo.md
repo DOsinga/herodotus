@@ -7,6 +7,10 @@ point:
   longitude: 35.1844
 note: "The Late Bronze Age city kingdom of Megiddo has no record. The town was abandoned in the fourth century BCE."
 control:
+- start: -1000
+  end: -931
+  polity: united_monarchy
+  importance: 2
 - start: -930
   end: -733
   polity: kingdom_israel

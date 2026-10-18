@@ -45,7 +45,8 @@ control:
   importance: 2
 - start: 901
   end: 1394
-  ungoverned: "Hadramawt was divided among local tribal dynasties, known only from chronicles, until the Kathiri sultanate."
+  polity: hadrami_tribal_lords
+  importance: 3
 - start: 1395
   end: 1857
   polity: kathiri_sultanate

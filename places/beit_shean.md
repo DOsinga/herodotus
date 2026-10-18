@@ -12,8 +12,13 @@ control:
   polity: egypt_new_kingdom
   importance: 3
 - start: -1134
+  end: -1001
+  polity: beth_shean_city
+  importance: 2
+- start: -1000
   end: -931
-  ungoverned: "No state is attested at Beth Shean between the Egyptian withdrawal and the Israelite kingdom."
+  polity: united_monarchy
+  importance: 2
 - start: -930
   end: -733
   polity: kingdom_israel

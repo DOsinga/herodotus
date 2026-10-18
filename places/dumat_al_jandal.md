@@ -25,7 +25,8 @@ control:
   importance: 2
 - start: 935
   end: 1837
-  ungoverned: "No state governed the oasis between the Abbasids and the Rashidis; its own clans and the Bedouin of the Jawf held it."
+  polity: al_jawf
+  importance: 2
 - start: 1838
   end: 1908
   polity: emirate_jabal_shammar

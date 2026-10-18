@@ -49,7 +49,8 @@ control:
   importance: 2
 - start: 901
   end: 1917
-  ungoverned: "Bedouin tribes and local sharifs held the ruined Sabaean capital, outside any lasting state, until Imam Yahya's Yemen."
+  polity: marib_chiefdom
+  importance: 2
 - start: 1918
   end: 1961
   polity: mutawakkilite_yemen

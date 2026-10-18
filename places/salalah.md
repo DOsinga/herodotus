@@ -16,8 +16,12 @@ control:
   polity: himyarite_kingdom
   importance: 2
 - start: 450
+  end: 999
+  ungoverned: "Sumhuram was abandoned in the fifth century, and no town stood here until Zafar rose at al-Baleed."
+- start: 1000
   end: 1278
-  ungoverned: "Sumhuram was abandoned in the fifth century; the local rulers of medieval Zafar, at al-Baleed, are known only from scattered reports until the Rasulid conquest."
+  polity: dhofar_chiefdom
+  importance: 2
 - start: 1279
   end: 1413
   polity: rasulid_sultanate
@@ -28,7 +32,8 @@ control:
   importance: 2
 - start: 1829
   end: 1878
-  ungoverned: "After Kathiri rule faded, Dhofar was fought over by its tribes and by adventurers such as Muhammad Aqil until the Muscat sultans took it in 1879."
+  polity: dhofar_chiefdom
+  importance: 2
 - start: 1879
   end: 1969
   polity: muscat_oman

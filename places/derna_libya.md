@@ -51,8 +51,12 @@ control:
   polity: fatimid_caliphate
   importance: 2
 - start: 1051
+  end: 1492
+  ungoverned: "Deserted after the Hilalian invasions until Andalusian refugees resettled it in 1493."
+- start: 1493
   end: 1639
-  ungoverned: "Deserted after the Hilalian invasions; Andalusian refugees resettled it in 1493, and no state governed it until the Ottomans."
+  polity: barqa_bedouin
+  importance: 2
 - start: 1640
   end: 1710
   polity: ottoman_empire

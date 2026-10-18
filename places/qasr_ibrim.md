@@ -20,9 +20,6 @@ control:
   polity: kingdom_kush
   importance: 2
 - start: 351
-  end: 399
-  ungoverned: "No state is known in Lower Nubia between the fall of Kush and the rise of Nobatia."
-- start: 400
   end: 650
   polity: nobatia
   importance: 2
@@ -31,12 +28,9 @@ control:
   polity: makuria
   importance: 2
 - start: 1366
-  end: 1500
+  end: 1559
   polity: dotawo
   importance: 2
-- start: 1501
-  end: 1559
-  ungoverned: "No state is known in Lower Nubia between the last of Dotawo and the Ottoman conquest."
 - start: 1560
   end: 1811
   polity: ottoman_empire

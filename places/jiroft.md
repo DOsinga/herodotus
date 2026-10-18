@@ -28,7 +28,8 @@ control:
   importance: 2
 - start: 912
   end: 967
-  ungoverned: "The Koch and Baloch of the Kerman mountains held the Jiroft district between the Saffarid collapse and the Buyid conquest, outside the Ilyasid emirate of Kerman."
+  polity: kufichis
+  importance: 2
 - start: 968
   end: 1040
   polity: buyid_fars

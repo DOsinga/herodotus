@@ -29,7 +29,8 @@ control:
   importance: 2
 - start: 106
   end: 629
-  ungoverned: "No state governed Tayma between the Nabataeans and Islam; its Jewish families, such as that of al-Samaw'al, ran the oasis."
+  polity: tayma_oasis
+  importance: 2
 - start: 630
   end: 631
   polity: medinan_state
@@ -48,7 +49,8 @@ control:
   importance: 2
 - start: 935
   end: 1835
-  ungoverned: "No state governed the oasis between the Abbasids and the Rashidis of Ha'il; local clans and the Bedouin held it."
+  polity: tayma_oasis
+  importance: 2
 - start: 1836
   end: 1920
   polity: emirate_jabal_shammar

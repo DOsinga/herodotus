@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Old_Dongola
 point:
   latitude: 18.223
   longitude: 30.744
-note: "Old Dongola was abandoned for New Dongola around 1812."
+note: "Old Dongola was abandoned for New Dongola around 1812. Between Makuria and the Funj the town is given to Dotawo, the continuing Nubian kingdom, as an estimate."
 control:
 - start: 450
   end: 1365
@@ -13,7 +13,8 @@ control:
   importance: 4
 - start: 1366
   end: 1503
-  ungoverned: "After Makuria broke up, Arab tribes and Nubian lords fought over the Dongola reach and no lasting state held it until the Funj."
+  polity: dotawo
+  importance: 1
 - start: 1504
   end: 1811
   polity: funj_sultanate

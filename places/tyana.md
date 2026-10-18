@@ -13,7 +13,8 @@ control:
   importance: 2
 - start: -1180
   end: -901
-  ungoverned: "No state is attested at Tuwana between the Hittite collapse and the rise of Tabal."
+  polity: tuwana_lords
+  importance: 2
 - start: -900
   end: -714
   polity: tabal

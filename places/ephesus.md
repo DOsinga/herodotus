@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ephesus
 point:
   latitude: 37.94
   longitude: 27.34
-note: "Apasa, the Arzawan capital, is thought to be Ephesus. The later spans stand for Ayasoluk, now Selçuk."
+note: "Apasa, the Arzawan capital, is thought to be Ephesus. The span between the Hittite collapse and the Ionian settlement is an estimate, giving the site to its Maeonian neighbours at Sardis. The later spans stand for Ayasoluk, now Selçuk."
 control:
 - start: -1650
   end: -1321
@@ -17,7 +17,8 @@ control:
   importance: 2
 - start: -1184
   end: -1051
-  ungoverned: "No government is known at Ephesus between the fall of Hittite power and the Ionian settlement."
+  polity: lydia
+  importance: 2
 - start: -1050
   end: -561
   polity: ephesus_city

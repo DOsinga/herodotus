@@ -33,7 +33,8 @@ control:
   importance: 3
 - start: 1051
   end: 1736
-  ungoverned: "After the Ukhaydhirids Hajr declined into a cluster of villages held by local clans of al-Yamama, outside any state."
+  polity: al_yamama
+  importance: 2
 - start: 1737
   end: 1772
   polity: emirate_riyadh

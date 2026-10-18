@@ -2,7 +2,7 @@
 id: nobatia
 description: >-
   Nobatia was a kingdom along the Nile in Lower Nubia, in present southern Egypt and northern
-  Sudan. It formed around 400 after the decline of Kush, with Pachoras, now the archaeological
+  Sudan. It formed in the fourth century as Kush declined, with Pachoras, now the archaeological
   site of Faras, becoming its capital. Early royal burials associated with the Ballana culture
   show wealthy rulers and links with surrounding regions. King Silko's inscription records
   victories over the Blemmyes and provides evidence of royal authority. The kingdom adopted
@@ -13,7 +13,7 @@ description: >-
 name: "Nobatia"
 wikipedia: https://en.wikipedia.org/wiki/Nobatia
 periods:
-- start: 400
+- start: 351
   end: 650
 point:
   name: "Pachoras"
@@ -23,7 +23,7 @@ colors:
   400: "#cd51cd"
   617: "#cd51cd"
   642: "#cd6651"
-note: "400 estimates the formation of the Lower Nubian kingdom. Its incorporation into Makuria is not exactly dated: it certainly occurred by 707 and may have preceded the Arab invasion of 652. 650 is an explicit mid-seventh-century estimate. Pachoras is the archaeological site of Faras."
+note: "The start follows the fall of Kush around 350; the Ballana culture of the Noba begins in the later fourth century and the kingdom is tangible by 400. Its incorporation into Makuria is not exactly dated: it certainly occurred by 707 and may have preceded the Arab invasion of 652. 650 is an explicit mid-seventh-century estimate. Pachoras is the archaeological site of Faras."
 transitions:
 - year: 650
   kind: absorbed_into
