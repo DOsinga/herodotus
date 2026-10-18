@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Khulna
 point:
   latitude: 22.83
   longitude: 89.55
-note: "Pratapaditya of Jessore and the other Bara-Bhuiyan chiefs held the region from 1576 to 1612 without a record."
 control:
 - start: 1450
   end: 1538
@@ -18,6 +17,10 @@ control:
 - start: 1554
   end: 1575
   polity: bengal_sultanate
+  importance: 2
+- start: 1576
+  end: 1611
+  polity: jessore_kingdom
   importance: 2
 - start: 1612
   end: 1716

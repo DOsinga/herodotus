@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Chittagong
 point:
   latitude: 22.356
   longitude: 91.783
-note: "Bengal, Tripura and Arakan fought over Chittagong in the fifteenth and sixteenth centuries; it is given to Arakan from 1459. The Company governed it from 1760, and the years from Plassey are given to the Company."
+note: "Pattikera's hold on Chittagong from 1051 and the Deva kingdom's after its last recorded event in 1294 are estimates; Damodaradeva's 1243 copperplate is the firm evidence. Bengal, Tripura and Arakan fought over Chittagong in the fifteenth and sixteenth centuries; it is given to Arakan from 1459. The Company governed it from 1760, and the years from Plassey are given to the Company."
 control:
 - start: 650
   end: 899
@@ -14,6 +14,18 @@ control:
 - start: 900
   end: 1050
   polity: chandra_bengal
+  importance: 2
+- start: 1051
+  end: 1230
+  polity: pattikera_kingdom
+  importance: 2
+- start: 1231
+  end: 1339
+  polity: deva_kingdom_bengal
+  importance: 2
+- start: 1340
+  end: 1351
+  polity: sonargaon_sultanate
   importance: 2
 - start: 1352
   end: 1458

@@ -14,6 +14,10 @@ control:
   end: 1540
   polity: gajapati_empire
   importance: 2
+- start: 1541
+  end: 1567
+  polity: bhoi_kingdom
+  importance: 2
 - start: 1571
   end: 1686
   polity: golconda_sultanate

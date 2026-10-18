@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Avissawella
 point:
   latitude: 6.95
   longitude: 80.22
-note: "The point stands for Sitawaka, the capital of Mayadunne and Rajasinha I, beside the modern town."
+note: "The point stands for Sitawaka, the capital of Mayadunne and Rajasinha I, beside the modern town. After 1658 it was a Kandyan border town close to the Dutch lowlands."
 control:
 - start: 1412
   end: 1520
@@ -22,6 +22,10 @@ control:
 - start: 1640
   end: 1657
   polity: kingdom_portugal
+  importance: 1
+- start: 1658
+  end: 1814
+  polity: kingdom_kandy
   importance: 1
 - start: 1815
   end: 1921

@@ -5,12 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Port_Blair
 point:
   latitude: 11.6683
   longitude: 92.7378
-note: "The first British settlement of 1789 was abandoned in 1796. Japan occupied the islands from March 1942 to October 1945."
+note: "Japan occupied the islands from March 1942 to October 1945."
 control:
 - start: 1789
   end: 1795
   polity: company_rule_india
   importance: 2
+- start: 1796
+  end: 1857
+  ungoverned: "The first British settlement was abandoned in 1796, and the islands were left to the Andamanese until the penal colony of 1858."
 - start: 1858
   end: 1921
   polity: united_kingdom_gbi

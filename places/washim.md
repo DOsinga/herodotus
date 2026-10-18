@@ -15,6 +15,18 @@ control:
   end: 509
   polity: vakataka_vatsagulma
   importance: 3
+- start: 510
+  end: 549
+  polity: vishnukundina_kingdom
+  importance: 2
+- start: 550
+  end: 624
+  polity: kalachuri_mahishmati
+  importance: 2
+- start: 625
+  end: 752
+  polity: badami_chalukya_kingdom
+  importance: 2
 - start: 753
   end: null
   follows: achalpur

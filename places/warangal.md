@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Warangal
 point:
   latitude: 17.9569
   longitude: 79.6158
-note: "The Musunuri Nayaks and the Recherla Velamas held Warangal between the Delhi Sultanate and the Bahmani conquest of 1425, without records."
+note: "Sultan Quli's Golconda is given Warangal from 1501, the start of its record; the local chief Shitab Khan held the fort for part of the early sixteenth century."
 control:
 - start: 1163
   end: 1322
@@ -15,9 +15,21 @@ control:
   end: 1335
   polity: delhi_sultanate
   importance: 3
+- start: 1336
+  end: 1367
+  polity: musunuri_nayakas
+  importance: 3
+- start: 1368
+  end: 1424
+  polity: recherla_nayakas
+  importance: 2
 - start: 1425
   end: 1489
   polity: bahmani_sultanate
+  importance: 2
+- start: 1501
+  end: 1517
+  polity: golconda_sultanate
   importance: 2
 - start: 1518
   end: 1686

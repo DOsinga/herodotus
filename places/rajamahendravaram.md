@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Rajamahendravaram
 point:
   latitude: 17.0135
   longitude: 81.7815
+note: "Golconda raided the Godavari delta under Sultan Quli but annexed Rajahmundry only in 1571."
 control:
 - start: 1000
   end: 1074
@@ -14,7 +15,11 @@ control:
   end: 1117
   polity: chola_empire
   importance: 2
-- start: 1163
+- start: 1118
+  end: 1206
+  polity: velanati_chodas
+  importance: 2
+- start: 1207
   end: 1322
   polity: kakatiya_kingdom
   importance: 2
@@ -33,6 +38,10 @@ control:
 - start: 1448
   end: 1540
   polity: gajapati_empire
+  importance: 2
+- start: 1541
+  end: 1567
+  polity: bhoi_kingdom
   importance: 2
 - start: 1571
   end: 1686

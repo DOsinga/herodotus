@@ -10,6 +10,9 @@ control:
   end: 832
   polity: halin_kingdom
   importance: 3
+- start: 833
+  end: 1049
+  ungoverned: "Nanzhao sacked Halin in 832 and 835; radiocarbon dates show the city abandoned by about 870, and it was not a town again before Pagan's expansion."
 - start: 1050
   end: 1296
   polity: pagan_kingdom

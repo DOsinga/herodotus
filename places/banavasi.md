@@ -5,7 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Banavasi
 point:
   latitude: 14.535
   longitude: 75.01
+note: "Banavasi, ancient Vaijayanti, was the Chutu capital before the Kadambas."
 control:
+- start: 225
+  end: 344
+  polity: chutu_dynasty
+  importance: 3
 - start: 345
   end: 529
   polity: kadamba_banavasi

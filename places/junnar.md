@@ -10,6 +10,30 @@ control:
   end: 224
   polity: satavahana_empire
   importance: 2
+- start: 249
+  end: 370
+  polity: abhira_kingdom
+  importance: 2
+- start: 388
+  end: 549
+  polity: traikutaka_aparanta
+  importance: 2
+- start: 550
+  end: 624
+  polity: kalachuri_mahishmati
+  importance: 2
+- start: 625
+  end: 752
+  polity: badami_chalukya_kingdom
+  importance: 2
+- start: 753
+  end: 972
+  polity: rashtrakuta_empire
+  importance: 2
+- start: 973
+  end: 1188
+  polity: western_chalukya_empire
+  importance: 2
 - start: 1189
   end: 1312
   polity: seuna_kingdom

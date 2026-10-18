@@ -5,11 +5,27 @@ wikipedia: https://en.wikipedia.org/wiki/Trincomalee
 point:
   latitude: 8.5667
   longitude: 81.2333
-note: "The coast was under Kandyan authority before the Portuguese fort of 1624."
+note: "Trincomalee was a Vanni dependency of the Jaffna kingdom, which Kotte held from 1450 to 1467, until the Portuguese conquest; the Danes and Portuguese fortified it from 1620."
 control:
 - start: 1017
   end: 1069
   polity: chola_empire
+  importance: 2
+- start: 1070
+  end: 1214
+  polity: polonnaruwa_kingdom
+  importance: 2
+- start: 1215
+  end: 1449
+  polity: jaffna_kingdom
+  importance: 2
+- start: 1450
+  end: 1466
+  polity: kingdom_kotte
+  importance: 2
+- start: 1467
+  end: 1619
+  polity: jaffna_kingdom
   importance: 2
 - start: 1624
   end: 1638

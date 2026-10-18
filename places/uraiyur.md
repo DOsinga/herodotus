@@ -15,7 +15,11 @@ control:
   end: 559
   polity: kalabhra_kingdom
   importance: 2
-- start: 600
+- start: 560
+  end: 574
+  polity: pandya_kingdom
+  importance: 2
+- start: 575
   end: 847
   polity: pallava_kingdom
   importance: 2

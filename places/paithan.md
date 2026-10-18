@@ -5,11 +5,32 @@ wikipedia: https://en.wikipedia.org/wiki/Paithan
 point:
   latitude: 19.48
   longitude: 75.38
+note: "Abhira control of Paithan before 330 and the Kadamba span after the Vakataka collapse are inferred from regional evidence, not from records at Paithan."
 control:
 - start: -120
   end: 224
   polity: satavahana_empire
   importance: 3
+- start: 249
+  end: 329
+  polity: abhira_kingdom
+  importance: 2
+- start: 330
+  end: 509
+  polity: vakataka_vatsagulma
+  importance: 2
+- start: 510
+  end: 529
+  polity: kadamba_banavasi
+  importance: 2
+- start: 550
+  end: 624
+  polity: kalachuri_mahishmati
+  importance: 2
+- start: 625
+  end: 752
+  polity: badami_chalukya_kingdom
+  importance: 2
 - start: 753
   end: 972
   polity: rashtrakuta_empire

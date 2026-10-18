@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bharuch
 point:
   latitude: 21.712
   longitude: 72.993
-note: "Nandipuri, the Gurjara capital, lay near Bharuch. The nawabs of Broach governed from 1736 until the British capture of 1772 without a record."
+note: "Nandipuri, the Gurjara capital, lay near Bharuch."
 control:
 - start: 35
   end: 414
@@ -15,6 +15,14 @@ control:
   end: 474
   polity: gupta_empire
   importance: 2
+- start: 475
+  end: 549
+  polity: traikutaka_aparanta
+  importance: 2
+- start: 550
+  end: 579
+  polity: kalachuri_mahishmati
+  importance: 2
 - start: 580
   end: 738
   polity: gurjara_lata
@@ -22,6 +30,10 @@ control:
 - start: 753
   end: 972
   polity: rashtrakuta_empire
+  importance: 2
+- start: 973
+  end: 999
+  polity: western_chalukya_empire
   importance: 2
 - start: 1000
   end: 1243
@@ -51,6 +63,10 @@ control:
   end: 1735
   polity: mughal_empire
   importance: 2
+- start: 1736
+  end: 1771
+  polity: broach_state
+  importance: 3
 - start: 1772
   end: 1782
   polity: company_rule_india

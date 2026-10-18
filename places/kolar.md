@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kolar
 point:
   latitude: 13.13
   longitude: 78.13
-note: "Local chiefs held Kolar after the fall of Vijayanagara, without a record."
+note: "After 1565 Kolar stayed under the Aravidu kings of Vijayanagara at Penukonda and Chandragiri, through local chiefs, until Bijapur took it; this is an estimate."
 control:
 - start: 350
   end: 1003
@@ -21,6 +21,10 @@ control:
   importance: 2
 - start: 1346
   end: 1564
+  polity: vijayanagara_empire
+  importance: 2
+- start: 1565
+  end: 1638
   polity: vijayanagara_empire
   importance: 2
 - start: 1639
