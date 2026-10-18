@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Maragheh
 point:
   latitude: 37.3894
   longitude: 46.2378
-note: "The Atropatene span stands for the Median kingdom's seat at nearby Ganzak or Phraaspa, whose sites are uncertain. The Ahmadili atabegs governed Maragheh from 1122 until the Mongols. Hülegü made it his first capital."
+note: "The Atropatene span stands for the Median kingdom's seat at nearby Ganzak or Phraaspa, whose sites are uncertain. Hülegü made it his first capital."
 control:
 - start: -550
   end: -331
@@ -55,10 +55,10 @@ control:
   end: 1121
   polity: seljuk_iraq
   importance: 2
-- start: 1221
+- start: 1122
   end: 1224
-  polity: eldiguzid_state
-  importance: 2
+  polity: ahmadili_maragheh
+  importance: 3
 - start: 1225
   end: 1230
   polity: khwarazmian_empire

@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Belozersk
 point:
   latitude: 60.0333
   longitude: 37.7667
-note: "Gap for the separate principality of Beloozero, which has no record, until Moscow annexed it in 1389."
 control:
 - start: 882
   end: 1131
@@ -15,6 +14,10 @@ control:
   end: 1237
   polity: vladimir_suzdal
   importance: 2
+- start: 1238
+  end: 1388
+  polity: principality_beloozero
+  importance: 3
 - start: 1389
   end: 1546
   polity: grand_duchy_moscow

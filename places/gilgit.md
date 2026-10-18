@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Gilgit
 point:
   latitude: 35.9208
   longitude: 74.3083
-note: "Local Trakhan rulers held Gilgit between the Tibetan Empire and the Sikhs, and again from 1852 to 1860."
+note: "The Trakhan rulers held Gilgit again from 1852 to 1860."
 control:
 - start: 550
   end: 754
@@ -15,6 +15,10 @@ control:
   end: 842
   polity: tibetan_empire
   importance: 2
+- start: 843
+  end: 1841
+  polity: trakhan_gilgit
+  importance: 3
 - start: 1842
   end: 1845
   polity: sikh_empire

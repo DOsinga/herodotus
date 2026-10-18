@@ -31,6 +31,9 @@ control:
   end: -1721
   polity: old_babylonian_empire
   importance: 2
+- start: -1720
+  end: -1461
+  ungoverned: "Largely abandoned after the Old Babylonian period until the Kassites rebuilt the city."
 - start: -1460
   end: -1226
   polity: kassite_babylonia

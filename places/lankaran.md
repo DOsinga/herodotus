@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Lankaran
 point:
   latitude: 38.7536
   longitude: 48.8511
-note: "The khans of Talysh governed the town from 1747 until Russia annexed the khanate in 1813."
 control:
 - start: 224
   end: 225
@@ -115,6 +114,10 @@ control:
   end: 1746
   polity: afsharid_iran
   importance: 2
+- start: 1747
+  end: 1812
+  polity: talysh_khanate
+  importance: 3
 - start: 1813
   end: 1916
   polity: russian_empire

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Denov
 point:
   latitude: 38.2667
   longitude: 67.9
-note: "Stands for Chaghaniyan, the principality of the upper Surkhan valley."
+note: "Stands for Chaghaniyan, the principality of the upper Surkhan valley. The Qara Khitai span stands for their local vassals; the Ghurid branch of Bamiyan held Chaghaniyan from the late twelfth century."
 control:
 - start: -545
   end: -330
@@ -70,6 +70,18 @@ control:
 - start: 1118
   end: 1152
   polity: seljuk_khorasan
+  importance: 2
+- start: 1153
+  end: 1197
+  polity: qara_khitai
+  importance: 2
+- start: 1198
+  end: 1205
+  polity: ghurid_sultanate
+  importance: 2
+- start: 1206
+  end: 1219
+  polity: khwarazmian_empire
   importance: 2
 - start: 1220
   end: 1265

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Termez
 point:
   latitude: 37.2167
   longitude: 67.2833
+note: "The Qara Khitai span stands for the Turkish amirs who held the town as their vassals."
 control:
 - start: -545
   end: -330
@@ -89,6 +90,10 @@ control:
 - start: 1118
   end: 1152
   polity: seljuk_khorasan
+  importance: 2
+- start: 1153
+  end: 1197
+  polity: qara_khitai
   importance: 2
 - start: 1198
   end: 1205

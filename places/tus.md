@@ -67,6 +67,10 @@ control:
   end: 1152
   polity: seljuk_khorasan
   importance: 2
+- start: 1157
+  end: 1186
+  polity: nishapur_ay_aba
+  importance: 2
 - start: 1187
   end: 1220
   polity: khwarazmian_empire
@@ -79,6 +83,10 @@ control:
   end: 1334
   polity: ilkhanate
   importance: 2
+- start: 1336
+  end: 1380
+  polity: jauni_qurban
+  importance: 3
 - start: 1381
   end: 1389
   polity: timurid_empire

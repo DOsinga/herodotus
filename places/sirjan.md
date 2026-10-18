@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Sirjan
 point:
   latitude: 29.4419
   longitude: 55.6858
+note: "The Abbasid span after the fall of the Saffarids is an estimate."
 control:
 - start: -550
   end: -331
@@ -45,6 +46,14 @@ control:
 - start: 869
   end: 911
   polity: saffarid_emirate
+  importance: 2
+- start: 912
+  end: 931
+  polity: abbasid_caliphate
+  importance: 2
+- start: 932
+  end: 967
+  polity: ilyasid_kerman
   importance: 2
 - start: 968
   end: 1040

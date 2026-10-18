@@ -11,6 +11,9 @@ control:
   end: -339
   polity: scythian_kingdom
   importance: 3
+- start: -338
+  end: 1785
+  ungoverned: "The Kamianka hillfort was abandoned in the third century BCE; the modern town was founded in 1786."
 - start: 1786
   end: 1916
   polity: russian_empire

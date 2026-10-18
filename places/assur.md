@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Assur
 point:
   latitude: 35.46
   longitude: 43.26
-note: "Shapur I destroyed the city about 240 CE."
+note: "Shapur I destroyed the city about 240 CE. The Gutian span is an estimate for the dark years after Akkad; who governed Assur then is not known."
 control:
 - start: -2334
   end: -2155
   polity: akkadian_empire
+  importance: 2
+- start: -2154
+  end: -2119
+  polity: gutian_rule
   importance: 2
 - start: -2112
   end: -2026

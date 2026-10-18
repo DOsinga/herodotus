@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Nakhchivan_(city)
 point:
   latitude: 39.2161
   longitude: 45.4106
-note: "The khans of Nakhchivan governed on their own from 1747 until the Russian conquest of 1828."
 control:
 - start: -550
   end: -331
@@ -95,6 +94,22 @@ control:
   end: 1334
   polity: ilkhanate
   importance: 2
+- start: 1335
+  end: 1337
+  polity: jalayirid_sultanate
+  importance: 2
+- start: 1338
+  end: 1356
+  polity: chobanid_state
+  importance: 2
+- start: 1357
+  end: 1358
+  polity: golden_horde
+  importance: 2
+- start: 1359
+  end: 1385
+  polity: jalayirid_sultanate
+  importance: 2
 - start: 1386
   end: 1405
   polity: timurid_empire
@@ -135,6 +150,10 @@ control:
   end: 1746
   polity: afsharid_iran
   importance: 2
+- start: 1747
+  end: 1827
+  polity: nakhchivan_khanate
+  importance: 3
 - start: 1828
   end: 1916
   polity: russian_empire

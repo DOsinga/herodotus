@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Azov
 point:
   latitude: 47.1083
   longitude: 39.4181
-note: "The Golden Horde town of Azak, with the Venetian and Genoese colony of Tana. Gap for 1739–1768, when the fortress was razed and left neutral by the Treaty of Belgrade, and for 1918–1919, when the Don Cossack government held the area."
+note: "The Golden Horde town of Azak, with the Venetian and Genoese colony of Tana. Gap for 1918–1919, when the Don Cossack government held the area."
 control:
 - start: 1240
   end: 1259
@@ -31,6 +31,9 @@ control:
   end: 1738
   polity: russian_empire
   importance: 2
+- start: 1739
+  end: 1768
+  ungoverned: "The fortress was razed and the site left neutral by the Treaty of Belgrade."
 - start: 1769
   end: 1916
   polity: russian_empire

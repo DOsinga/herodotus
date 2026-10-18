@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Khorramabad
 point:
   latitude: 33.4875
   longitude: 48.3561
-note: "The Khorshidi atabegs of Lesser Luristan governed from here from 1184 until Shah Abbas removed them in 1597."
 control:
 - start: 224
   end: 641
@@ -51,6 +50,10 @@ control:
   end: 1183
   polity: seljuk_iraq
   importance: 2
+- start: 1184
+  end: 1596
+  polity: khorshidi_luristan
+  importance: 3
 - start: 1597
   end: 1721
   polity: safavid_iran

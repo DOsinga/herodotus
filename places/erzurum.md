@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Erzurum
 point:
   latitude: 39.9086
   longitude: 41.2769
-note: "The Armenian town of Karin became the Byzantine fortress of Theodosiopolis. The emirs who held it between the Ilkhanate and the Qara Qoyunlu have no record."
+note: "The Armenian town of Karin became the Byzantine fortress of Theodosiopolis. The Chobanid and Eretnid spans after the Ilkhanate are estimates."
 control:
 - start: -189
   end: 114
@@ -14,6 +14,10 @@ control:
 - start: 117
   end: 252
   polity: kingdom_armenia
+  importance: 2
+- start: 253
+  end: 286
+  polity: sasanian_empire
   importance: 2
 - start: 287
   end: 386
@@ -58,6 +62,18 @@ control:
 - start: 1260
   end: 1335
   polity: ilkhanate
+  importance: 2
+- start: 1338
+  end: 1342
+  polity: chobanid_state
+  importance: 2
+- start: 1343
+  end: 1380
+  polity: eretnid_sultanate
+  importance: 2
+- start: 1387
+  end: 1405
+  polity: timurid_empire
   importance: 2
 - start: 1410
   end: 1467

@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Shaki,_Azerbaijan
 point:
   latitude: 41.192
   longitude: 47.171
-note: "Local rulers governed Shaki from the end of the Ilkhanate until the Safavid conquest of 1551."
 control:
 - start: -100
   end: 461
@@ -59,6 +58,10 @@ control:
   end: 1334
   polity: ilkhanate
   importance: 2
+- start: 1335
+  end: 1550
+  polity: shaki_principality
+  importance: 3
 - start: 1551
   end: 1722
   polity: safavid_iran

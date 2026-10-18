@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Khujand
 point:
   latitude: 40.2794
   longitude: 69.6319
-note: "Alexandria Eschate, founded by Alexander in 329 BCE."
+note: "Alexandria Eschate, founded by Alexander in 329 BCE, probably the chief city of Dayuan."
 control:
 - start: -545
   end: -330
@@ -18,6 +18,18 @@ control:
 - start: -311
   end: -256
   polity: seleucid_empire
+  importance: 2
+- start: -255
+  end: -161
+  polity: greco_bactrian_kingdom
+  importance: 2
+- start: -160
+  end: 599
+  polity: dayuan
+  importance: 3
+- start: 600
+  end: 719
+  polity: farghana_principality
   importance: 2
 - start: 720
   end: 749

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bam,_Iran
 point:
   latitude: 29.0994
   longitude: 58.3436
+note: "The Abbasid span after the fall of the Saffarids is an estimate."
 control:
 - start: -550
   end: -331
@@ -45,6 +46,14 @@ control:
 - start: 869
   end: 911
   polity: saffarid_emirate
+  importance: 2
+- start: 912
+  end: 931
+  polity: abbasid_caliphate
+  importance: 2
+- start: 932
+  end: 967
+  polity: ilyasid_kerman
   importance: 2
 - start: 968
   end: 1040

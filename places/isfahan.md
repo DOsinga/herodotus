@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Isfahan
 point:
   latitude: 32.6539
   longitude: 51.666
-note: "The Kakuyids governed Isfahan from about 1008 until Toghrul Beg took it in 1051."
 control:
 - start: -550
   end: -331
@@ -58,6 +57,10 @@ control:
 - start: 947
   end: 1007
   polity: buyid_ray
+  importance: 3
+- start: 1008
+  end: 1050
+  polity: kakuyid_emirate
   importance: 3
 - start: 1051
   end: 1117

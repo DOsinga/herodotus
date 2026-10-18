@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Qaen
 point:
   latitude: 33.7333
   longitude: 59.1811
+note: "Quhistan was held by local lords under Kartid overlordship after the Ilkhanate; the Kartid span is an estimate."
 control:
 - start: 224
   end: 650
@@ -53,6 +54,10 @@ control:
 - start: 1260
   end: 1334
   polity: ilkhanate
+  importance: 2
+- start: 1335
+  end: 1380
+  polity: kartid_state
   importance: 2
 - start: 1381
   end: 1506

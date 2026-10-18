@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Gorgan
 point:
   latitude: 36.84
   longitude: 54.44
-note: "Astarabad. Turkic princes held the country between the Sasanian collapse and the Arab conquest of 716, and Togha Temür and Amir Vali ruled here after the Ilkhanate."
+note: "Astarabad. The Zaydi span stands for the Alid rulers of Tabaristan, who fought the Saffarids and Samanids for Gorgan and held it for much of the time."
 control:
 - start: -550
   end: -331
@@ -31,6 +31,10 @@ control:
   end: 651
   polity: sasanian_empire
   importance: 2
+- start: 652
+  end: 715
+  polity: gurgan_principality
+  importance: 2
 - start: 716
   end: 749
   polity: umayyad_caliphate
@@ -42,6 +46,10 @@ control:
 - start: 821
   end: 863
   polity: tahirid_khorasan
+  importance: 2
+- start: 864
+  end: 899
+  polity: zaydi_tabaristan
   importance: 2
 - start: 900
   end: 930
@@ -79,6 +87,26 @@ control:
   end: 1334
   polity: ilkhanate
   importance: 2
+- start: 1336
+  end: 1352
+  polity: togha_temur_khanate
+  importance: 3
+- start: 1353
+  end: 1355
+  polity: sarbadar_state
+  importance: 2
+- start: 1356
+  end: 1365
+  polity: amir_vali_astarabad
+  importance: 3
+- start: 1366
+  end: 1373
+  polity: sarbadar_state
+  importance: 2
+- start: 1374
+  end: 1383
+  polity: amir_vali_astarabad
+  importance: 3
 - start: 1384
   end: 1506
   polity: timurid_empire

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kursk
 point:
   latitude: 51.7167
   longitude: 36.1833
-note: "Gap while the town lay deserted after the Mongol invasion, until Moscow rebuilt it as a fortress in 1586."
+note: "Rebuilt after the Mongol sack of 1239 and laid waste again around 1290. The date of the Muscovite fortress is given as 1586 or 1596."
 control:
 - start: 1032
   end: 1131
@@ -15,6 +15,17 @@ control:
   end: 1238
   polity: principality_chernigov
   importance: 2
+- start: 1239
+  end: 1259
+  polity: mongol_empire
+  importance: 2
+- start: 1260
+  end: 1289
+  polity: golden_horde
+  importance: 2
+- start: 1290
+  end: 1585
+  ungoverned: "The Golden Horde devastated Kursk again at the end of the thirteenth century; it survived only as a place name until Moscow built a new fortress."
 - start: 1586
   end: 1720
   polity: tsardom_russia

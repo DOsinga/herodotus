@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Silvan,_Diyarbakır
 point:
   latitude: 38.1422
   longitude: 41.0014
-note: "Byzantine Martyropolis and medieval Mayyafariqin. The Ayyubid branch that held it from 1250 until the Mongols took it in 1260 has no record."
+note: "Byzantine Martyropolis and medieval Mayyafariqin. The Ayyubid branch that held it from 1250 until the Mongols took it in 1260 has no record. The Artuqids of Mardin held it after the Ilkhanate."
 control:
 - start: 395
   end: 639
@@ -46,6 +46,10 @@ control:
 - start: 1260
   end: 1335
   polity: ilkhanate
+  importance: 2
+- start: 1336
+  end: 1400
+  polity: artuqid_mardin
   importance: 2
 - start: 1401
   end: 1500

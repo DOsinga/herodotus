@@ -5,16 +5,24 @@ wikipedia: https://en.wikipedia.org/wiki/Fuman,_Iran
 point:
   latitude: 37.224
   longitude: 49.313
-note: "Local Gilani lords governed the town between the Dabuyids and the Mongol conquest of Gilan in 1307, and again until 1592."
+note: "Fuman was the seat of the Eshaqvand lords of western Gilan; before the fourteenth century its rulers are not known by name. Agha Jamal Fumani, father of Hedayat-Allah Khan, came from here."
 control:
 - start: 642
   end: 759
   polity: dabuyid_kingdom
   importance: 3
+- start: 760
+  end: 1306
+  polity: eshaqvand_gilan
+  importance: 3
 - start: 1307
   end: 1334
   polity: ilkhanate
   importance: 2
+- start: 1335
+  end: 1591
+  polity: eshaqvand_gilan
+  importance: 3
 - start: 1592
   end: 1721
   polity: safavid_iran
@@ -28,8 +36,20 @@ control:
   polity: safavid_iran
   importance: 2
 - start: 1736
-  end: 1749
+  end: 1748
   polity: afsharid_iran
+  importance: 2
+- start: 1749
+  end: 1759
+  polity: gilan_hedayat_allah
+  importance: 2
+- start: 1760
+  end: 1766
+  polity: zand_iran
+  importance: 2
+- start: 1767
+  end: 1786
+  polity: gilan_hedayat_allah
   importance: 2
 - start: 1789
   end: 1919

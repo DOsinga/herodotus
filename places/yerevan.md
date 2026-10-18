@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Yerevan
 point:
   latitude: 40.1778
   longitude: 44.5128
-note: "Erebuni, founded by Argishti I in 782 BCE. The khans of Erivan governed on their own from 1747 until Agha Mohammad Khan's campaign of 1795."
+note: "Erebuni, founded by Argishti I in 782 BCE."
 control:
 - start: -782
   end: -591
@@ -87,6 +87,14 @@ control:
   end: 1117
   polity: seljuk_empire
   importance: 2
+- start: 1118
+  end: 1135
+  polity: seljuk_iraq
+  importance: 2
+- start: 1136
+  end: 1200
+  polity: eldiguzid_state
+  importance: 2
 - start: 1201
   end: 1235
   polity: kingdom_georgia
@@ -98,6 +106,22 @@ control:
 - start: 1260
   end: 1334
   polity: ilkhanate
+  importance: 2
+- start: 1335
+  end: 1337
+  polity: jalayirid_sultanate
+  importance: 2
+- start: 1338
+  end: 1356
+  polity: chobanid_state
+  importance: 2
+- start: 1357
+  end: 1358
+  polity: golden_horde
+  importance: 2
+- start: 1359
+  end: 1385
+  polity: jalayirid_sultanate
   importance: 2
 - start: 1386
   end: 1405
@@ -139,6 +163,10 @@ control:
   end: 1746
   polity: afsharid_iran
   importance: 2
+- start: 1747
+  end: 1794
+  polity: erivan_khanate
+  importance: 3
 - start: 1795
   end: 1827
   polity: qajar_iran

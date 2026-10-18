@@ -5,12 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Murom
 point:
   latitude: 55.5667
   longitude: 42.0333
-note: "Gap for the principality of Murom, which governed itself after 1129 and has no record, until Moscow took it in 1392."
 control:
 - start: 882
   end: 1131
   polity: kievan_rus
   importance: 2
+- start: 1132
+  end: 1391
+  polity: principality_murom
+  importance: 3
 - start: 1392
   end: 1546
   polity: grand_duchy_moscow

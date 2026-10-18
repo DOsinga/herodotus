@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Turkistan_(city)
 point:
   latitude: 43.3019
   longitude: 68.2692
-note: "Yasi, renamed after the shrine of Khoja Ahmed Yasawi. The Middle Jüz khans Abilmambet and Ablai ruled from here in the eighteenth century."
+note: "Yasi, renamed after the shrine of Khoja Ahmed Yasawi. Timurid governors held it until Muhammad Shaybani took it. The Middle Jüz khans Abilmambet and Ablai ruled from here in the eighteenth century."
 control:
 - start: 1370
   end: 1446
@@ -15,7 +15,11 @@ control:
   end: 1468
   polity: uzbek_khanate
   importance: 2
-- start: 1510
+- start: 1469
+  end: 1500
+  polity: timurid_empire
+  importance: 2
+- start: 1501
   end: 1597
   polity: khanate_bukhara
   importance: 2

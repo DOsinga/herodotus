@@ -79,7 +79,23 @@ control:
   end: 1334
   polity: ilkhanate
   importance: 2
-- start: 1380
+- start: 1335
+  end: 1346
+  polity: chagatai_khanate
+  importance: 2
+- start: 1347
+  end: 1359
+  polity: western_chagatai_khanate
+  importance: 2
+- start: 1360
+  end: 1362
+  polity: moghulistan
+  importance: 2
+- start: 1363
+  end: 1369
+  polity: western_chagatai_khanate
+  importance: 2
+- start: 1370
   end: 1506
   polity: timurid_empire
   importance: 2

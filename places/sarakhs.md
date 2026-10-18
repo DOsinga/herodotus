@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Sarakhs
 point:
   latitude: 36.5425
   longitude: 61.1589
+note: "The Ay-Aba and Kartid spans are estimates of how far their domains reached."
 control:
 - start: -550
   end: -331
@@ -66,6 +67,10 @@ control:
   end: 1152
   polity: seljuk_khorasan
   importance: 1
+- start: 1157
+  end: 1186
+  polity: nishapur_ay_aba
+  importance: 1
 - start: 1187
   end: 1220
   polity: khwarazmian_empire
@@ -77,6 +82,10 @@ control:
 - start: 1260
   end: 1334
   polity: ilkhanate
+  importance: 1
+- start: 1335
+  end: 1380
+  polity: kartid_state
   importance: 1
 - start: 1381
   end: 1506

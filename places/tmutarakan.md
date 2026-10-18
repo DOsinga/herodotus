@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tmutarakan
 point:
   latitude: 45.2192
   longitude: 36.7142
-note: "Hermonassa of the Bosporan kingdom, Tamatarkha of the Khazars and the Rus principality of Tmutarakan; the modern village of Taman stands on the site. Gap after the Rus left around 1094."
+note: "Hermonassa of the Bosporan kingdom, Tamatarkha of the Khazars and the Rus principality of Tmutarakan; the modern village of Taman stands on the site. Byzantium held Matarcha after the Rus left around 1094; that span and the Cuman one after 1204 are estimates. The Genoese Ghisolfi family held the town as Matrega from 1419 until the Ottomans took it, so it follows Genoa."
 control:
 - start: -438
   end: -108
@@ -27,6 +27,10 @@ control:
   end: 602
   polity: first_turkic_khaganate
   importance: 2
+- start: 603
+  end: 631
+  polity: byzantine_empire
+  importance: 2
 - start: 632
   end: 667
   polity: old_great_bulgaria
@@ -39,6 +43,14 @@ control:
   end: 1093
   polity: kievan_rus
   importance: 3
+- start: 1094
+  end: 1203
+  polity: byzantine_empire
+  importance: 3
+- start: 1204
+  end: 1239
+  polity: cumania
+  importance: 3
 - start: 1240
   end: 1259
   polity: mongol_empire
@@ -46,6 +58,10 @@ control:
 - start: 1260
   end: 1418
   polity: golden_horde
+  importance: 1
+- start: 1419
+  end: 1481
+  follows: genoa
   importance: 1
 - start: 1482
   end: 1773

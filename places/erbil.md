@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Erbil
 point:
   latitude: 36.1912
   longitude: 44.0092
-note: "The Begtiginid emirs, the last of them Gökböri, governed Erbil on their own from 1144 until 1233. The Kurdish autonomous region outside Baghdad's control from 1991 to 2003 has no record."
+note: "The Kurdish autonomous region outside Baghdad's control from 1991 to 2003 has no record."
 control:
 - start: -2112
   end: -2026
@@ -115,6 +115,10 @@ control:
   end: 1143
   polity: zengid_state
   importance: 2
+- start: 1144
+  end: 1232
+  polity: begteginid_erbil
+  importance: 3
 - start: 1233
   end: 1257
   polity: abbasid_caliphate

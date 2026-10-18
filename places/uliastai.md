@@ -11,7 +11,7 @@ control:
   end: 1690
   polity: zasagt_khanate
   importance: 3
-- start: 1733
+- start: 1691
   end: 1910
   polity: qing_dynasty
   importance: 3

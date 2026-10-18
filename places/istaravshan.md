@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Istaravshan
 point:
   latitude: 39.9108
   longitude: 69.0064
-note: "Ura-Tyube, whose begs governed themselves between Bukhara and Kokand until the Russian conquest of 1866."
 control:
 - start: 1220
   end: 1265
@@ -39,6 +38,10 @@ control:
   end: 1799
   polity: emirate_bukhara
   importance: 2
+- start: 1800
+  end: 1865
+  polity: ura_tyube_bekdom
+  importance: 3
 - start: 1866
   end: 1916
   polity: russian_empire

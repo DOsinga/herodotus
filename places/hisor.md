@@ -42,6 +42,10 @@ control:
   end: 559
   polity: hephthalite_empire
   importance: 2
+- start: 560
+  end: 599
+  polity: chaghaniyan_principality
+  importance: 2
 - start: 600
   end: 750
   polity: khuttal_principality
@@ -69,6 +73,18 @@ control:
 - start: 1118
   end: 1152
   polity: seljuk_khorasan
+  importance: 2
+- start: 1153
+  end: 1197
+  polity: qara_khitai
+  importance: 2
+- start: 1198
+  end: 1205
+  polity: ghurid_sultanate
+  importance: 2
+- start: 1206
+  end: 1219
+  polity: khwarazmian_empire
   importance: 2
 - start: 1220
   end: 1265

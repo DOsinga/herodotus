@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Nur,_Iran
 point:
   latitude: 36.575
   longitude: 52.012
-note: "Baduspanid branches kept governing Rustamdar after 1453 until Shah Abbas ended them in the 1590s."
 control:
 - start: 224
   end: 650
@@ -22,6 +21,10 @@ control:
 - start: 1390
   end: 1453
   polity: baduspan_kingdom
+  importance: 3
+- start: 1454
+  end: 1596
+  polity: baduspanid_nur
   importance: 3
 - start: 1597
   end: 1735
