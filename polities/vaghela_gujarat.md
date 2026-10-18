@@ -22,7 +22,7 @@ point:
   latitude: 22.727
   longitude: 72.442
 colors:
-  1244: "#b2349d"
+  1244: "#cd51cd"
 note: "1244 follows Visaladeva's takeover. Delhi's first conquest in 1299 removed Karna; he recovered territory after the occupation army withdrew around 1300. The final 1304 conquest ended his government, not his later attempts to recover it."
 transitions:
 - year: 1299

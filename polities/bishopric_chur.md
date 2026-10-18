@@ -18,6 +18,8 @@ point:
   name: Chur
   latitude: 46.8508
   longitude: 9.532
+colors:
+  1250: "#b2345e"
 note: "Starts with the end of royal government in 1250. Ends in 1367 with the League of God's House, which took over the government of the town and the valleys; the bishops kept a share of power until the Ilanz articles of 1524 and 1526."
 transitions:
 - year: 1367

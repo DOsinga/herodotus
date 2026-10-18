@@ -20,7 +20,7 @@ point:
   latitude: 58.38
   longitude: 26.7225
 colors:
-  1224: "#863727"
+  1224: "#cd6651"
 note: Ends where the existing Livonian Confederation record begins, although the bishopric
   lasted as a member until Russia took Dorpat in 1558.
 transitions:

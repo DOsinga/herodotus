@@ -19,5 +19,7 @@ point:
   name: Tarim
   latitude: 16.05
   longitude: 49.0
+colors:
+  901: "#a351cd"
 note: "The tribal dynasties of Tarim and Shibam succeeded and overlapped each other in ways the sources do not separate, so one regional record stands for them; both dates are approximate."
 ---

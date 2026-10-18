@@ -18,6 +18,8 @@ point:
   name: "Kyunglung"
   latitude: 31.132
   longitude: 80.52
+colors:
+  843: "#518fcd"
 note: "The record stands for the local lords of western Tibet between the fall of the Tibetan Empire and Kyide Nyimagon's arrival, about whom almost nothing is known. Both dates are estimates; the end is the founding of Guge, dated about 930, which takes the town that year. No article covers these lords, so the record links the article on the Ngari region."
 transitions:
 - year: 930

@@ -20,5 +20,9 @@ point:
   name: Najran
   latitude: 17.4917
   longitude: 44.1322
+colors:
+  1011: "#274786"
+  1128: "#274786"
+  1153: "#672786"
 note: "1011 follows the end of the documented Zaydi involvement in Najran; the dates are estimates."
 ---

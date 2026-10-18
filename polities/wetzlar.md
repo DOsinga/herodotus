@@ -18,6 +18,8 @@ point:
   name: Wetzlar
   latitude: 50.5667
   longitude: 8.5
+colors:
+  1250: "#864727"
 note: "Starts with the end of royal government in 1250. Ends in 1803, when it was given to Dalberg."
 transitions:
 - year: 1803

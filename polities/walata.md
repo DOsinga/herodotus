@@ -21,6 +21,8 @@ point:
   name: "Oualata"
   latitude: 17.3
   longitude: -7.025
+colors:
+  1433: "#3473b2"
 note: "No article covers the town's government, so the link goes to Oualata. The gap is the Songhai period. The later period covers the Lemhajib and their Hassaniya-speaking successors; its dates follow the fall of Songhai and the French occupation."
 transitions:
 - year: 1480

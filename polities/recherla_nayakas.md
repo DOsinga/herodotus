@@ -19,6 +19,8 @@ point:
   name: "Rachakonda"
   latitude: 17.1822
   longitude: 78.8025
+colors:
+  1368: "#b8cd51"
 note: "Both dates follow the Wikipedia article: the battle of Bhimavaram in 1368 and the Bahmani capture of Rachakonda by 1435."
 transitions:
 - year: 1435

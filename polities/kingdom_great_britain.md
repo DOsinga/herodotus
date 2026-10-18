@@ -22,7 +22,7 @@ point:
   latitude: 51.507
   longitude: -0.128
 colors:
-  1707: "#862747"
+  1707: "#4934b2"
 note: "Ireland is part of this record: its separate parliament did not change that Britain appointed its executive."
 transitions:
 - year: 1800

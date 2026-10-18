@@ -21,9 +21,11 @@ point:
   latitude: 44.839
   longitude: 11.617
 colors:
-  1264: "#b234b2"
-  1432: "#b234b2"
-  1457: "#8fcd51"
+  1264: "#9d34b2"
+  1432: "#9d34b2"
+  1457: "#b2349d"
+  1532: "#b2349d"
+  1557: "#b2345e"
 note: "The Este were made lords of Ferrara in 1264 and also held Modena and Reggio from 1288; dukes of Ferrara from 1471. When Alfonso II died without an heir the Pope took Ferrara, and the Este state carried on from Modena."
 transitions:
 - year: 1598

@@ -13,8 +13,8 @@ point:
   longitude: 43.15
 colors:
   -911: "#862727"
-  -759: "#862727"
-  -734: "#cd5151"
+  -731: "#862727"
+  -706: "#cda351"
 note: "Assur, Nimrud and Dur-Sharrukin were earlier capitals. Nineveh fell in 612 BCE and the last king's stand at Harran ended in 609 BCE."
 transitions:
 - year: -609

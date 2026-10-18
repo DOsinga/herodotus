@@ -21,6 +21,10 @@ point:
   name: Ancona
   latitude: 43.6169
   longitude: 13.5167
+colors:
+  1100: "#478627"
+  1358: "#478627"
+  1383: "#cd51a3"
 note: "1100 estimates the commune's emergence from imperial and papal rule in the eleventh century. The gap is the Malatesta lordship of 1348–1355 and papal rule from Albornoz's citadel until 1383."
 transitions:
 - year: 1348

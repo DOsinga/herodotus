@@ -21,7 +21,9 @@ point:
   latitude: 50.9853
   longitude: 12.4339
 colors:
-  1603: "#278686"
+  1603: "#277686"
+  1801: "#277686"
+  1826: "#3449b2"
 note: "Two periods, the duchies of 1603–1672 and from 1826. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1603

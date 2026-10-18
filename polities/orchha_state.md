@@ -22,7 +22,7 @@ point:
   latitude: 25.35
   longitude: 78.64
 colors:
-  1531: "#867627"
+  1531: "#862737"
 note: "The gap is the Mughal occupation of 1635 to 1641. Tikamgarh replaced Orchha as the capital in 1783; the point stays at Orchha."
 transitions:
 - year: 1635

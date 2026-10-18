@@ -13,6 +13,8 @@ point:
   longitude: 79.8
 colors:
   930: "#cdb851"
+  1167: "#cdb851"
+  1192: "#cd5166"
 note: "The start is an estimate for the separate Guge government after the division of Kyide Nyimagon's western Tibetan realm; Trashigon is attested around 947. It is not a claim that the entire realm founded around 912 was already Guge alone. Mongol, Sakya and Rinpungpa overlordship did not remove its native kings. Ladakh conquest and deportation of the royal family ended it in 1630."
 transitions:
 - year: 1630

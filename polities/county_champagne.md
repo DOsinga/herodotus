@@ -19,7 +19,7 @@ point:
   latitude: 48.2997
   longitude: 4.0792
 colors:
-  1022: "#278676"
+  956: "#b27334"
 note: "Starts with Robert of Vermandois, count of Meaux from 946, becoming count of Troyes in 956; his Herbertian heirs held both until Stephen I died around 1021 and Odo II of Blois took them over in 1022. Joan's marriage to Philip IV in 1284 put the county under the French crown, although it was formally united with the royal domain only in 1361."
 transitions:
 - year: 1284

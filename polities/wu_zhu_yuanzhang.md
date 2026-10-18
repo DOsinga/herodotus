@@ -20,7 +20,7 @@ point:
   latitude: 32.0608
   longitude: 118.7789
 colors:
-  1355: "#34b249"
+  1355: "#34b273"
 note: "No article treats the Wu state on its own; this links Zhu Yuanzhang's biography. Begins when Zhu took over Guo Zixing's army at Hezhou in 1355, before he captured Nanjing in 1356. His formal loyalty to Han Lin'er's Song is not counted, since that court never governed his territory."
 transitions:
 - year: 1355

@@ -28,7 +28,7 @@ point:
   latitude: 49.382
   longitude: 3.324
 colors:
-  511: "#5eb234"
+  511: "#b23488"
 note: "Follows Chlothar's Soissons kingdom and the later western court, not every western Frankish territorial title. It absorbed the eastern and Burgundian courts in 613; Austrasia regained its own court in 623 while Neustria and Burgundy stayed under Chlothar. Dagobert united the governments in 629. The final period records the separate Neustrian government during the struggle after Pepin's death."
 transitions:
 - year: 558

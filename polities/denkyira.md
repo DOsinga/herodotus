@@ -22,7 +22,7 @@ point:
   latitude: 5.9667
   longitude: -1.7833
 colors:
-  1620: "#272786"
+  1620: "#862786"
 note: "Founding date estimated: Denkyira rose to power in the early 17th century. Point approximate: the capital Abankeseso has no coordinates on Wikipedia; Dunkwa-on-Offin marks the Denkyira area. The gap is the Asante period; the second period covers the kingdom re-founded south of the Ofin, which governed itself in alliance with the British until the Gold Coast Colony was proclaimed in 1874."
 transitions:
 - year: 1701

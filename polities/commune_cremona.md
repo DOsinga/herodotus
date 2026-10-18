@@ -19,6 +19,8 @@ point:
   name: Cremona
   latitude: 45.1333
   longitude: 10.0247
+colors:
+  1098: "#51cdcd"
 note: "Start estimated from the first consuls. The lordships of Buoso da Dovara, the Cavalcabò and the Ponzone are not split out. The record links the city's article."
 transitions:
 - year: 1334

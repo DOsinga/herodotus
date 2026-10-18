@@ -19,7 +19,7 @@ point:
   latitude: 50.81
   longitude: 8.771
 colors:
-  1264: "#51cd66"
+  1264: "#34b249"
 note: "Separated from Thuringia in the succession war that ended in 1264. Philip the Magnanimous divided it among his four sons in 1567; the two shares that lasted, Kassel and Darmstadt, have their own records."
 transitions:
 - year: 1567

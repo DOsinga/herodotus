@@ -21,7 +21,7 @@ point:
   latitude: 51.941
   longitude: -3.3
 colors:
-  1045: "#278627"
+  1045: "#34b273"
 note: "1045 estimates this share of Brycheiniog's division among heirs. The point represents its territory rather than a known capital. 1093 follows the Norman conquest. Links the parent kingdom's history because no separate article covers this government."
 transitions:
 - year: 1093

@@ -23,6 +23,8 @@ point:
   longitude: 35.8331
 colors:
   -281: "#768627"
+  -129: "#768627"
+  -104: "#b8cd51"
 note: "Pompey ended the Mithridatic kingdom in 63 BCE. Antony made Polemon king of a smaller Pontus in 37 BCE; it was a client kingdom until Nero annexed it in 62. Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. "
 transitions:
 - year: -63

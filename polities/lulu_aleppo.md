@@ -21,7 +21,7 @@ point:
   latitude: 36.202
   longitude: 37.134
 colors:
-  1002: "#272786"
+  1002: "#762786"
 note: "Lu'lu' displaced the Hamdanids in 1002 and his son Mansur succeeded him in 1008 or 1009. Their government ended in the 1016 revolt and subsequent Fatimid-appointed administration. The ruler's article is the nearest account of this regime."
 transitions:
 - year: 1016

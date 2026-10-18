@@ -19,7 +19,7 @@ point:
   latitude: -8.5353
   longitude: 115.4036
 colors:
-  1686: "#275786"
+  1686: "#cd7a51"
 note: >-
   Links the regency article, as no article covers the kingdom on its own. The other Balinese kingdoms,
   such as Badung, Buleleng, Gianyar and Karangasem, governed themselves;

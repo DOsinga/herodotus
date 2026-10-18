@@ -21,7 +21,7 @@ point:
   latitude: 54.329
   longitude: -5.715
 colors:
-  450: "#372786"
+  450: "#cda351"
 note: "450 estimates the emergence of the historically attested royal line in eastern Down. This record follows the Dal Fiatach governing territory and its Ulaid kings, not an umbrella over all the separate Ulster kingdoms. Ends with John de Courcy's conquest; later descendants do not prove an uninterrupted royal government."
 transitions:
 - year: 1177

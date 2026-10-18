@@ -19,6 +19,8 @@ point:
   name: Zaranj
   latitude: 30.959
   longitude: 61.861
+colors:
+  1068: "#278647"
 note: "Starts in 1068, the date Wikipedia gives for the kingdom; Abu'l-Fadl Nasr governed Sistan for the Ghaznavids from 1029. Seljuk, Ghurid and Khwarazmian overlordship and tribute are not treated as gaps, since the maliks governed the province themselves. Medieval Zaranj lay at Nad-i Ali, just north of the modern town."
 transitions:
 - year: 1225

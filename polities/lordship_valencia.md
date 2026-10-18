@@ -20,7 +20,7 @@ point:
   latitude: 39.4699
   longitude: -0.3763
 colors:
-  1094: "#868627"
+  1094: "#862727"
 note: "El Cid governed independently in practice, despite acknowledging Alfonso VI. Jimena Díaz continued the government after his death in 1099, until the Almoravid takeover in 1102."
 transitions:
 - year: 1102

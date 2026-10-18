@@ -18,5 +18,7 @@ point:
   name: Dortmund
   latitude: 51.5139
   longitude: 7.4653
+colors:
+  1250: "#8fcd51"
 note: "Starts with the end of royal government in 1250. Ends in 1802, before the transfer of 1803 to William Frederick of Orange-Nassau, whose principality has no record."
 ---

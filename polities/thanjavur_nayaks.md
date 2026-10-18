@@ -19,7 +19,7 @@ point:
   latitude: 10.787
   longitude: 79.138
 colors:
-  1565: "#51cdb8"
+  1565: "#6651cd"
 note: "Founded in 1532. Before the Vijayanagara defeat at Talikota in 1565 its rulers were Vijayanagara governors; independence after 1565 was gradual."
 transitions:
 - year: 1673

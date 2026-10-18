@@ -21,6 +21,8 @@ point:
   name: Hà Tiên
   latitude: 10.3858
   longitude: 104.4898
+colors:
+  1707: "#862747"
 note: "1707 is Mạc Cửu's submission to the Nguyễn lords; the principality counts as active while the Mạc governed it themselves. Siam held it from 1771 to 1773. 1777 is the Tây Sơn conquest of the south and Mạc Thiên Tứ's flight. The Mạc rulers installed afterwards by Siam or the Nguyễn did not govern on their own account, and the Nguyễn abolished the principality in 1832."
 transitions:
 - year: 1771

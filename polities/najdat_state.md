@@ -12,7 +12,7 @@ point:
   latitude: 24.15
   longitude: 46.7
 colors:
-  685: "#678627"
+  685: "#278627"
 note: "685 estimates the consolidation of Najda's territorial government in Yamama and eastern Arabia, rather than the first Kharijite preaching. His successors retained control after his murder until the Zubayrid-Umayyad campaigns ended the state around 693. Al-Yamama's court location is approximate; the linked article covers the governing movement."
 transitions:
 - year: 693

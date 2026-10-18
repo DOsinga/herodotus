@@ -21,7 +21,7 @@ point:
   latitude: 43.6766
   longitude: 4.6278
 colors:
-  933: "#cd8f51"
+  933: "#276786"
 note: "The period covers the united kingdom's own royal government. Imperial inheritance ended that court in 1032; later imperial titles and appointed governors do not extend this polity into the fifteenth century. Its counts, such as Savoy, governed their own lands afterwards."
 transitions:
 - year: 1032

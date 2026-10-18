@@ -25,7 +25,7 @@ point:
   latitude: 16.4639
   longitude: 107.5867
 colors:
-  1600: "#862747"
+  1600: "#278686"
 note: "Nguyễn Ánh retook Saigon in late 1777 and held Gia Định until the Tây Sơn drove him out in 1782–1783. After exile in Siam he retook Saigon in 1788; that government became the Nguyễn dynasty in 1802."
 transitions:
 - year: 1777

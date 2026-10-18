@@ -18,6 +18,10 @@ point:
   name: Passau
   latitude: 48.5744
   longitude: 13.4647
+colors:
+  1250: "#cd5151"
+  1325: "#cd5151"
+  1350: "#518fcd"
 note: "Starts with the end of royal government in 1250. Ends with secularisation in 1803. Links the article on the diocese, which covers the prince-bishopric."
 transitions:
 - year: 1803

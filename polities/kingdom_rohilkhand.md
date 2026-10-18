@@ -19,7 +19,7 @@ point:
   latitude: 28.3667
   longitude: 79.4306
 colors:
-  1740: "#372786"
+  1740: "#349db2"
 note: "No article covers the state itself, so the link goes to the region. The start is an estimate from Ali Muhammad Khan's return after Nadir Shah's invasion of 1739. After 1774 the Rohilla remnant at Rampur was a protected state and is not recorded."
 transitions:
 - year: 1740

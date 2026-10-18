@@ -21,7 +21,7 @@ point:
   latitude: 48.8566
   longitude: 2.3522
 colors:
-  843: "#478627"
+  843: "#cd6651"
 note: "This is the western king's government formed at Verdun, not an umbrella for all autonomous governments in the western realm. Paris is a representative royal centre; courts were itinerant. The Capetian accession marks the existing Kingdom of France identity in 987."
 transitions:
 - year: 987

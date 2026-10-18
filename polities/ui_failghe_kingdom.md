@@ -12,7 +12,7 @@ point:
   latitude: 53.29
   longitude: -7.29
 colors:
-  500: "#7a51cd"
+  500: "#862737"
 note: "500 estimates the court associated with the early sixth-century Rus Failge tradition. Its native rulers retained their own government under Leinster overlordship. 1556 follows the crown plantation and creation of King's County, not the disappearance of the O'Connor family. The point represents its later governing area."
 transitions:
 - year: 1556

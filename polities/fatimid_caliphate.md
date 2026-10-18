@@ -21,9 +21,7 @@ point:
   latitude: 30.0444
   longitude: 31.2357
 colors:
-  909: "#518fcd"
-  1048: "#518fcd"
-  1073: "#51cd7a"
+  909: "#51cdcd"
 note: "Cairo became the seat of government in 973, after the earlier Ifriqiyan capitals. The 1171 change records Saladin's abolition of the Fatimid regime, not a claim that the last caliph personally directed its government."
 transitions:
 - year: 1171

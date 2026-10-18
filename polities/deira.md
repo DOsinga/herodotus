@@ -24,7 +24,7 @@ point:
   latitude: 53.96
   longitude: -1.088
 colors:
-  450: "#865727"
+  450: "#b25e34"
 note: "450 estimates the emergence of the Anglian royal community; Aella is the first securely named late-sixth-century king. Gaps record unified Northumbrian government. Oswine and Aethelwald later governed separately until the final union, conventionally dated 654 although some accounts use 655."
 transitions:
 - year: 604

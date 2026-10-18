@@ -12,7 +12,9 @@ point:
   latitude: 35.1725
   longitude: 33.365
 colors:
-  1192: "#cd5151"
+  1192: "#862737"
+  1336: "#862737"
+  1361: "#572786"
 transitions:
 - year: 1489
   kind: absorbed_into

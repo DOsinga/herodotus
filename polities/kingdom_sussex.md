@@ -24,7 +24,7 @@ point:
   latitude: 50.734
   longitude: -0.79
 colors:
-  477: "#b23449"
+  477: "#868627"
 note: "477 is the traditional Aelle foundation date. Gaps represent direct West Saxon conquest and later Mercian annexation, not merely tribute. The 772 end follows the change from native kings to subordinate duces around Offa's conquest; accounts also use 771. Selsey is a representative early royal and church centre."
 transitions:
 - year: 686

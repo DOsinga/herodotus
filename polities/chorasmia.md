@@ -19,6 +19,8 @@ point:
   name: "Kath"
   latitude: 41.6833
   longitude: 60.75
+colors:
+  -400: "#862757"
 note: "Links the article on Khwarazm. Both dates are estimates: the end of Achaemenid control around 400 BCE and al-Biruni's date for the Afrighids. The capital is unknown for most of the period; Kath is used as the point."
 transitions:
 - year: -400

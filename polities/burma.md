@@ -12,7 +12,7 @@ point:
   latitude: 16.795
   longitude: 96.16
 colors:
-  1948: "#5eb234"
+  1948: "#472786"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1948

@@ -18,6 +18,8 @@ point:
   name: Göttingen
   latitude: 51.5339
   longitude: 9.9356
+colors:
+  1345: "#3473b2"
 note: "Starts with the Guelph division of 1345 and ends with the passage to Calenberg in 1463."
 transitions:
 - year: 1463

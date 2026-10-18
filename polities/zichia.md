@@ -20,5 +20,7 @@ point:
   name: "Anapa"
   latitude: 44.8944
   longitude: 37.3167
+colors:
+  241: "#b8cd51"
 note: "Both dates are estimates and follow Anapa, the record's only place: from the overrunning of Gorgippia to the Genoese post of Mapa. The Zikh and later Circassian chiefs inland continued long afterwards and have no record."
 ---

@@ -22,7 +22,7 @@ point:
   latitude: 30.98
   longitude: 31.88
 colors:
-  -1069: "#572786"
+  -1069: "#a3cd51"
 note: "The kings at Tanis, who governed Lower Egypt; the high priests of Amun governed Upper Egypt from Thebes while recognising them."
 transitions:
 - year: -943

@@ -21,6 +21,8 @@ point:
   name: Nangqên
   latitude: 32.2033
   longitude: 96.4769
+colors:
+  1175: "#278686"
 note: "1175 is the founding date given in the article. The Mongol and Yuan years from 1253 to 1367 are shown under those states, which ran Kham through local lords; the kingdom counts again from the end of Yuan rule. 1642 follows Güshi Khan's conquest of Kham. The article says the kings kept their throne and paid tribute to Lhasa afterwards, and later served the Qing as native chiefs; neither period is shown. Yushu stands in for its lands."
 transitions:
 - year: 1252

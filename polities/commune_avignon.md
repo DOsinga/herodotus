@@ -18,6 +18,8 @@ point:
   name: "Avignon"
   latitude: 43.95
   longitude: 4.8075
+colors:
+  1129: "#cda351"
 note: "No article covers the commune, so the link goes to the city. The start of the consulate around 1129 is approximate."
 transitions:
 - year: 1251

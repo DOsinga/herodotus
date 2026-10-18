@@ -19,6 +19,8 @@ point:
   name: Bamyan
   latitude: 34.825
   longitude: 67.8333
+colors:
+  560: "#a351cd"
 note: "No article covers the kingdom, so this links the city. 560 follows the fall of the Hephthalite empire and is an estimate. Ends with the Saffarid conquest of 870; later local Shirs under Samanid overlords are not recorded separately."
 transitions:
 - year: 870

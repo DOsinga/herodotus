@@ -19,6 +19,8 @@ point:
   name: "Gwalior"
   latitude: 26.2125
   longitude: 78.1775
+colors:
+  1035: "#278647"
 note: "The start estimates the end of Chandela overlordship after Vidyadhara's death; earlier the Kachchhapaghatas held Gwalior as Chandela vassals. The Narwar and Dubkund branches are not separated."
 transitions:
 - year: 1196

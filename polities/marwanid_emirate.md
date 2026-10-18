@@ -20,7 +20,7 @@ point:
   latitude: 38.1422
   longitude: 41.0014
 colors:
-  990: "#b2b234"
+  990: "#278676"
 note: "Starts with the Marwanid succession to Badh in 990; Wikipedia gives 983 or 990. Ends with the Seljuk conquest of Mayyafariqin and Amid in 1085."
 transitions:
 - year: 1085

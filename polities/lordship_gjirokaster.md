@@ -18,6 +18,8 @@ point:
   name: Gjirokastër
   latitude: 40.0667
   longitude: 20.1333
+colors:
+  1386: "#274786"
 note: "Links John Zenevisi's article; no article covers the lordship."
 transitions:
 - year: 1418

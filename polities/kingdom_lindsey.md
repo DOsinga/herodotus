@@ -12,7 +12,7 @@ point:
   latitude: 53.23
   longitude: -0.54
 colors:
-  500: "#a351cd"
+  500: "#862727"
 note: "500 estimates the early Anglian kingdom's emergence. Its native government was increasingly subject to Northumbria and Mercia; 679 follows the final Mercian acquisition after the Battle of the Trent. Earlier subjection and the genealogical king-list do not establish an exact date when local control ceased."
 transitions:
 - year: 679

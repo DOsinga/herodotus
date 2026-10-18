@@ -22,7 +22,7 @@ point:
   latitude: 9.3111
   longitude: 42.1278
 colors:
-  1647: "#51cdcd"
+  1647: "#7acd51"
 note: "Gap for the Egyptian occupation of 1875 to 1885."
 transitions:
 - year: 1647

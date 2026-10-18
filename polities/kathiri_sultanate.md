@@ -19,6 +19,8 @@ point:
   name: Seiyun
   latitude: 15.9431
   longitude: 48.7873
+colors:
+  1395: "#cda351"
 note: "Founded in 1395 according to the article's history section, which also gives 1379; ends with the 1918 agreement in which the Kathiri accepted the Qu'aiti treaty of 1888 with Britain as binding on them."
 transitions:
 - year: 1918

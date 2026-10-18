@@ -19,7 +19,7 @@ point:
   latitude: 43.8429
   longitude: 10.5027
 colors:
-  1316: "#51b8cd"
+  1316: "#3449b2"
 note: "Links Castruccio's article. Lucca was then held by German soldiers, Gherardino Spinola, John of Bohemia, the Rossi, the della Scala, Florence and Pisa until 1369."
 transitions:
 - year: 1316

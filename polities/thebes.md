@@ -22,7 +22,7 @@ point:
   latitude: 38.3208
   longitude: 23.3178
 colors:
-  -700: "#518fcd"
+  -700: "#517acd"
 note: "The record covers Thebes and its Boeotian League. Alexander destroyed the city in 335 BCE. The second period starts after Cynoscephalae, when Macedonian control ended; Rome dissolved the Boeotian League in 171 BCE, and the city governed itself as a Roman ally until the Achaean War."
 transitions:
 - year: -335

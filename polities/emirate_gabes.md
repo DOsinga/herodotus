@@ -18,6 +18,8 @@ point:
   name: "Gabès"
   latitude: 33.8833
   longitude: 10.1167
+colors:
+  1062: "#b27334"
 note: "Covers the Banu Walmiya from 1062 and the Banu Jami' from about 1096; the brief Zirid recapture of the town around 1096 is left out. The link goes to the Banu Jami', as no article covers the emirate as a whole."
 transitions:
 - year: 1159

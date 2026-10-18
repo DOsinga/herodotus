@@ -21,7 +21,9 @@ point:
   latitude: 34.084
   longitude: 74.797
 colors:
-  625: "#278637"
+  625: "#278627"
+  700: "#278627"
+  725: "#866727"
 note: "625 estimates the beginning of Karkota government. The Utpala change in 855, Lohara succession in 1003 and later native regimes are kept in one polity rather than one file per dynasty. It ends with Shah Mir's establishment of the existing Kashmir Sultanate in 1339. The linked history covers this wider sequence; Kashmir's early chronology relies heavily on the Rajatarangini."
 transitions:
 - year: 1339

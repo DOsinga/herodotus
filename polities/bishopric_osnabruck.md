@@ -20,7 +20,9 @@ point:
   latitude: 52.2789
   longitude: 8.0431
 colors:
-  1250: "#276786"
+  1250: "#278667"
+  1770: "#278667"
+  1795: "#278686"
 note: "Starts with the end of royal government in Germany in 1250. Hanover took possession in 1802 and the secularisation of 1803 confirmed it."
 transitions:
 - year: 1802

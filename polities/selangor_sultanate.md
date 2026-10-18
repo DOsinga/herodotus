@@ -18,7 +18,7 @@ point:
   latitude: 3.0333
   longitude: 101.45
 colors:
-  1766: "#278637"
+  1766: "#864727"
 note: >-
   Links the state article, as no article covers the sultanate before British rule on its own. 1766
   follows the installation of Raja Lumu as Sultan Salehuddin. The first royal seat was Kuala Selangor;

@@ -21,9 +21,7 @@ point:
   latitude: 57.817
   longitude: 28.333
 colors:
-  1266: "#51cd8f"
-  1453: "#51cd8f"
-  1478: "#517acd"
+  1266: "#8f51cd"
 note: "Start estimated from the reign of Dovmont (1266–1299), under whom Pskov governed itself in practice, choosing its own princes and fighting its own wars. Novgorod formally recognised its independence in the Treaty of Bolotovo in 1348. Vasily III of Moscow annexed it in 1510."
 transitions:
 - year: 1266

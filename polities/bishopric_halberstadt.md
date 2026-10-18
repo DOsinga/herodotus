@@ -18,6 +18,8 @@ point:
   name: Halberstadt
   latitude: 51.8958
   longitude: 11.0467
+colors:
+  1250: "#b23473"
 note: "Starts with the end of royal government in 1250. Ends in 1648. Links the article on the diocese, which covers the prince-bishopric."
 transitions:
 - year: 1648

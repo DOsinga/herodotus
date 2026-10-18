@@ -14,7 +14,7 @@ point:
   latitude: -33.438
   longitude: -70.65
 colors:
-  1810: "#88b234"
+  1810: "#9db234"
 note: "The first period is the Patria Vieja, from the junta of September 1810 to the defeat at Rancagua in 1814. The second starts with O'Higgins's government after Chacabuco in February 1817, a year before the declaration of independence. Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1810

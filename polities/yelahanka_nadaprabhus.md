@@ -19,6 +19,8 @@ point:
   name: "Bangalore"
   latitude: 12.9789
   longitude: 77.5917
+colors:
+  1565: "#278637"
 note: "No article covers the family's state; the link is its founder of Bangalore. The start follows the collapse of Vijayanagara in 1565; before that the family governed as Vijayanagara officers and their towns are given to the empire. The point is Bangalore, their seat until 1638; afterwards they ruled from Magadi."
 transitions:
 - year: 1728

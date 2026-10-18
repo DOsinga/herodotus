@@ -19,6 +19,8 @@ point:
   name: "Tumbere-Jiinde"
   latitude: 16.15
   longitude: -14.4
+colors:
+  1512: "#517acd"
 note: "1512 follows Koli Tenguella's succession after his father's death; the Mali Empire's history dates the Denianke conquest of Futa Toro to 1514. The point is approximate, since Tumbere-Jiinde is not located."
 transitions:
 - year: 1776

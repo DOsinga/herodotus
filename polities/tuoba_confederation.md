@@ -18,6 +18,8 @@ point:
   name: "Shengle"
   latitude: 40.39
   longitude: 111.82
+colors:
+  248: "#5eb234"
 note: "Links the Tuoba article. The start is the year Liwei took over the Moluhui tribes; he moved to Shengle in 258, where the point is. Between 294 and 307 the domain was split among three chiefs. In 310 Yilu became Duke of Dai, which begins the Dai record."
 transitions:
 - year: 310

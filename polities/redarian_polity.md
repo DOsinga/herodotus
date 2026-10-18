@@ -24,7 +24,7 @@ point:
   latitude: 53.45
   longitude: 13.15
 colors:
-  789: "#277686"
+  789: "#278686"
 note: "789 estimates the local governing community after Veletian central rule collapsed; Rethra's exact location is disputed. In 983 its common-war government joined the Lutician federation. 1057 estimates the restoration after the federation's civil war; 1127 follows Lothar's destruction of Rethra."
 transitions:
 - year: 983

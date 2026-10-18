@@ -21,7 +21,7 @@ point:
   latitude: 34.6872
   longitude: 135.5258
 colors:
-  1573: "#278686"
+  1573: "#863727"
 note: "No article treats the Oda and Toyotomi governments as a state. This record covers the unification regimes from Nobunaga deposing the last Ashikaga shogun in 1573 to Sekigahara in 1600."
 transitions:
 - year: 1600

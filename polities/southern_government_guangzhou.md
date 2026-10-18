@@ -19,7 +19,7 @@ point:
   latitude: 23.1291
   longitude: 113.2644
 colors:
-  1917: "#278637"
+  1917: "#7acd51"
 note: "Links the article on the 1917 junta; the record continues through Sun's military government and the National Government, which moved to Wuhan and Nanjing during the Northern Expedition. When it took Beijing in 1928 it became the national government recorded in the Republic of China record."
 transitions:
 - year: 1917

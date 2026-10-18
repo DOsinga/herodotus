@@ -17,7 +17,7 @@ point:
   latitude: 52.52
   longitude: 13.405
 colors:
-  1867: "#273786"
+  1867: "#6651cd"
 note: "Its constitution gave the presidency to the King of Prussia and put the members' armies and foreign relations under the confederation, so the northern states count as part of it from 1867. Hesse joined only with its province north of the Main and stays separate, like the southern states, until 1871."
 transitions:
 - year: 1871

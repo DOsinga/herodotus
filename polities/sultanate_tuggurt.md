@@ -21,6 +21,8 @@ point:
   longitude: 6.0667
 colors:
   1414: "#b23449"
+  1509: "#b23449"
+  1534: "#b2b234"
 note: "Wikipedia runs the sultanate to 1881. This record ends it with the French capture of Touggourt in 1854, after which the town was governed by a caïd under French command."
 transitions:
 - year: 1854

@@ -19,6 +19,8 @@ point:
   name: Rimini
   latitude: 44.0594
   longitude: 12.5683
+colors:
+  1101: "#cdb851"
 note: "Start estimated where the imperial span ends; consuls are recorded later in the twelfth century. The record links the city's article."
 transitions:
 - year: 1295

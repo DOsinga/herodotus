@@ -19,6 +19,8 @@ point:
   name: "Huaraz"
   latitude: -9.5333
   longitude: -77.5333
+colors:
+  1100: "#862776"
 note: "1100 follows the end of the Wari record and 1460 approximates the conquest under Pachacuti. Links Huaraz, whose article describes the kingdom, because no separate article covers it. Its extent along the Callejón de Huaylas is uncertain."
 transitions:
 - year: 1460

@@ -20,7 +20,7 @@ point:
   latitude: 42.356
   longitude: 42.193
 colors:
-  131: "#b2349d"
+  131: "#b234b2"
 note: "131 is a conventional date for the post-Colchian kingdom. Its own kings governed despite Roman and Persian overlordship during the Lazic War. 697 estimates the replacement of kingship by imperial administration near the end of the seventh century. Archaeopolis is the archaeological site of Nokalakevi."
 transitions:
 - year: 697

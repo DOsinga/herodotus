@@ -19,6 +19,8 @@ point:
   name: Zaranj
   latitude: 30.959
   longitude: 61.861
+colors:
+  1236: "#b8cd51"
 note: "Ilkhanid and Timurid overlordship is not treated as a gap, since the maliks kept governing Sistan. 1537 estimates the handover to the Safavids, which Wikipedia places around the end of Sultan Mahmud's reign. The capital, Shahr-i Sistan, moved within the Sistan basin; Zaranj marks it approximately."
 transitions:
 - year: 1537

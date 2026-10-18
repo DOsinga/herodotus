@@ -18,6 +18,10 @@ point:
   name: Rimini
   latitude: 44.0594
   longitude: 12.5683
+colors:
+  1295: "#3488b2"
+  1398: "#3488b2"
+  1423: "#b23434"
 note: "Links the family's article. The Malatesta lordship of Ancona (1348–1355) is included. Pandolfo IV's brief return in 1503, before he sold Rimini to Venice, is not shown."
 transitions:
 - year: 1500

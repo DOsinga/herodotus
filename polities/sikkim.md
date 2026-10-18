@@ -20,7 +20,7 @@ point:
   latitude: 27.33
   longitude: 88.62
 colors:
-  1642: "#517acd"
+  1642: "#672786"
 note: "Ends with the 1861 Treaty of Tumlong, which made it a British protectorate; it was an Indian protectorate from 1950 until annexation in 1975. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1861

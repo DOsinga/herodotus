@@ -17,7 +17,7 @@ point:
   latitude: 35.3
   longitude: 75.617
 colors:
-  600: "#8834b2"
+  600: "#472786"
 note: "600 estimates the Great Palola court in Baltistan, separately represented in Tang embassies in 717 and 719. Its relationship to the Gilgit kings and periods of Tibetan supremacy is disputed. This choice treats its locally governing royal centre as separate, rather than one record for all modern Baltistan. Ends with the Tang campaign in 753; Skardu is a representative identification."
 transitions:
 - year: 753

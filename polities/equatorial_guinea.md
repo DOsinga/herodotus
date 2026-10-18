@@ -21,7 +21,7 @@ point:
   latitude: 3.7456
   longitude: 8.7744
 colors:
-  1968: "#3488b2"
+  1968: "#51cd8f"
 note: "Links the country article. Changes of regime are not split into separate records. Ciudad de la Paz became the capital in January 2026; Malabo, the seat for most of the record, stays the point."
 transitions:
 - year: 1968

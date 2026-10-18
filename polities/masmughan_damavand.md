@@ -17,7 +17,7 @@ point:
   latitude: 35.719
   longitude: 52.065
 colors:
-  651: "#278627"
+  651: "#51cd66"
 note: "651 conventionally dates Mardanshah's local kingdom after the Sasanian collapse. Ends with the Abbasid capture of the ruling masmughan in 760. Its defeat of an Abbasid expedition in 748–749 demonstrates continued governing control."
 transitions:
 - year: 760

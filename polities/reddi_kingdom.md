@@ -20,7 +20,7 @@ point:
   latitude: 16.2583
   longitude: 80.271
 colors:
-  1325: "#277686"
+  1325: "#51b8cd"
 note: "This record follows the main line at Addanki and Kondavidu, which Vijayanagara took in 1424; the Rajahmundry branch, which governed separately from 1395, is its own record."
 transitions:
 - year: 1424

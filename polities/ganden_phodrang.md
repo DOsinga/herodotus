@@ -23,9 +23,7 @@ point:
   latitude: 29.654
   longitude: 91.118
 colors:
-  1642: "#862757"
-  1718: "#862757"
-  1743: "#cdcd51"
+  1642: "#cdb851"
 note: "Güshi Khan, founder of the Khoshut Khanate, gave the Dalai Lama authority over Tibet in 1642 and left the government to him. Gap from 1705, when Lha-bzang Khan killed the regent and took control, through the Dzungar occupation until 1720; Qing ambans were present from 1727. Ends in 1959, when the Dalai Lama fled and the Lhasa government was dissolved."
 transitions:
 - year: 1705

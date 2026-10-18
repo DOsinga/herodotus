@@ -18,6 +18,8 @@ point:
   name: "Urgench"
   latitude: 42.326
   longitude: 59.152
+colors:
+  1361: "#66cd51"
 note: "The article dates the dynasty's independence to about 1361 to 1379; the record runs to Timur's final conquest of 1388, as the place histories do."
 transitions:
 - year: 1388

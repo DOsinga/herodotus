@@ -22,7 +22,7 @@ point:
   latitude: 34.02
   longitude: 72.435
 colors:
-  822: "#b851cd"
+  822: "#cd5151"
 note: "822 follows the chronology for Kallar's overthrow of the Turk Shahis; the founding is often dated later. The centre moved from Kabul to Hund and later Lahore as territory was lost. The last surviving kingdom ended with Ghaznavid conquest in 1026, not the first loss of Kabul."
 transitions:
 - year: 1026

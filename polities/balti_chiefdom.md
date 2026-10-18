@@ -20,6 +20,8 @@ point:
   name: "Skardu"
   latitude: 35.2903
   longitude: 75.6444
+colors:
+  843: "#49b234"
 note: "The record stands for the valley chiefs of Baltistan between Tibetan rule and the Maqpon kingdom, whom the evidence does not separate. Both dates are estimates; the end follows the traditional rise of the Maqpon rajas, dated here to 1150."
 transitions:
 - year: 1150

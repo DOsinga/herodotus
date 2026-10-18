@@ -20,7 +20,7 @@ point:
   latitude: -8.55
   longitude: 125.56
 colors:
-  1975: "#862786"
+  1975: "#762786"
 note: "FRETILIN governed after Portugal withdrew in 1975 and declared the republic on 28 November. Indonesia invaded on 7 December and took Dili, but FRETILIN's support bases in the interior held until the fall of Mount Matebian in late 1978."
 transitions:
 - year: 1975

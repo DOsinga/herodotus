@@ -18,6 +18,8 @@ point:
   name: Arnsberg
   latitude: 51.3833
   longitude: 8.0833
+colors:
+  1250: "#867627"
 note: "Links the article on the town, which covers the counts. Ends with the sale to Cologne in 1368."
 transitions:
 - year: 1368

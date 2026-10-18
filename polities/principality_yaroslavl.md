@@ -18,6 +18,8 @@ point:
   name: "Yaroslavl"
   latitude: 57.6264
   longitude: 39.8933
+colors:
+  1218: "#867627"
 transitions:
 - year: 1463
   kind: absorbed_into

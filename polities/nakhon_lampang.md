@@ -20,6 +20,8 @@ point:
   name: Lampang
   latitude: 18.2888
   longitude: 99.4908
+colors:
+  1732: "#866727"
 note: "No article covers the state, so this links the city article. 1732 follows Thipchang's accession; 1763 the Burmese campaign that killed the usurper Thao Linkang and installed a ruler under Burmese sovereignty. The tributary period is treated like Nakhon Chiang Mai's and ends with Monthon Phayap in 1899."
 transitions:
 - year: 1763

@@ -20,7 +20,7 @@ point:
   latitude: 53.83
   longitude: -1.394
 colors:
-  450: "#518fcd"
+  450: "#a3cd51"
 note: "450 estimates the post-Roman Brittonic kingdom's emergence. 617 follows the conventional date of Edwin's expulsion of Ceretic, also given as 616; continued Brittonic population does not show a restored government. Barwick is a proposed royal centre, not a securely identified capital."
 transitions:
 - year: 617

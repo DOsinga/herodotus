@@ -20,6 +20,8 @@ point:
   name: "Tallahassee"
   latitude: 30.4428
   longitude: -84.2147
+colors:
+  1750: "#cdcd51"
 note: "1750 estimates when Creek settlers had taken over the old Apalachee lands. The record ends with the transfer of Florida to the United States in 1821; the Seminole kept governing themselves in the peninsula until the wars of removal, which are not recorded."
 transitions:
 - year: 1821

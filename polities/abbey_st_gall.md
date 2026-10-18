@@ -18,6 +18,14 @@ point:
   name: St. Gallen
   latitude: 47.4233
   longitude: 9.3772
+colors:
+  1250: "#34b288"
+  1339: "#34b288"
+  1364: "#cd51cd"
+  1559: "#cd51cd"
+  1584: "#cd51a3"
+  1661: "#cd51a3"
+  1686: "#275786"
 note: "Starts with the end of royal government in 1250. Ends with the Helvetic Republic of 1798; the monastery itself was dissolved in 1805."
 transitions:
 - year: 1798

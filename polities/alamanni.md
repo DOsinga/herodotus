@@ -19,6 +19,8 @@ point:
   name: Runder Berg
   latitude: 48.4925
   longitude: 9.3989
+colors:
+  260: "#51cdb8"
 note: "A chiefdom because the Alamanni had several kings and no single government. 260 dates the Roman loss of the Agri Decumates. The northern Alamanni fell to the Franks after Clovis's victories of about 496 and 506; the record ends with the Ostrogothic cession of the south in 536. The Runder Berg stands for the hilltop seats of their leaders."
 transitions:
 - year: 536

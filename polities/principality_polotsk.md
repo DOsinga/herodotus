@@ -28,7 +28,7 @@ point:
 colors:
   1001: "#862727"
   1117: "#862727"
-  1142: "#cd5151"
+  1142: "#768627"
 note: "Start estimated from the death of Izyaslav in 1001: his son Bryachislav and grandson Vseslav governed Polotsk in their own right and fought Kyiv. Gap for 1067–1071, when the sons of Yaroslav captured Vseslav and put their own princes in Polotsk, although he briefly ruled Kyiv itself in 1068–1069. Gap for 1129–1132, when Mstislav the Great exiled its princes; they returned on his death. Came under Lithuanian princes in 1307."
 transitions:
 - year: 1001

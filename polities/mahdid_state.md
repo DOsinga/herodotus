@@ -18,6 +18,8 @@ point:
   name: Zabid
   latitude: 14.195
   longitude: 43.315
+colors:
+  1159: "#868627"
 note: "Starts with Ali ibn Mahdi's capture of Zabid, dated 1158 or 1159; Abd al-Nabi was captured when the Ayyubids took the city in 1174 and executed in 1176."
 transitions:
 - year: 1174

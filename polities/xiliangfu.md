@@ -19,6 +19,8 @@ point:
   name: Liangzhou
   latitude: 37.929
   longitude: 102.638
+colors:
+  906: "#862747"
 note: "906 is the start in the article's infobox. Liangzhou slipped from Guiyi control around 881 or 882, and who held it until 906 is not recorded. 1015 is the Tangut capture of Liangzhou."
 transitions:
 - year: 1015

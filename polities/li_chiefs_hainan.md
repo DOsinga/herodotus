@@ -18,6 +18,8 @@ point:
   name: "Haikou"
   latitude: 20.0186
   longitude: 110.3488
+colors:
+  -46: "#51cd7a"
 note: "The record stands for the village chiefs who governed Hainan between the Han withdrawal in 46 BCE and Lady Xian's return of the island to Chinese rule, dated about 535; the evidence names no overall ruler. The point is Haikou, the main crossing to the mainland."
 transitions:
 - year: 534

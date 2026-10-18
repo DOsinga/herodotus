@@ -22,7 +22,7 @@ point:
   latitude: 48.857
   longitude: 2.352
 colors:
-  511: "#cdcd51"
+  511: "#cd517a"
 note: "Childebert I and later Charibert I governed separate royal shares from Paris. The first was inherited by Chlothar in 558; Charibert's share was divided among his brothers in 567. Links Childebert's biography because no single article covers both periods."
 transitions:
 - year: 558

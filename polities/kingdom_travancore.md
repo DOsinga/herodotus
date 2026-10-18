@@ -21,7 +21,7 @@ point:
   latitude: 8.251
   longitude: 77.327
 colors:
-  1729: "#478627"
+  1729: "#378627"
 note: "Ends with the 1795 subsidiary treaty with the East India Company; it remained a princely state until 1949. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1795

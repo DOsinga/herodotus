@@ -12,7 +12,7 @@ point:
   latitude: 44.818
   longitude: 20.457
 colors:
-  1804: "#6651cd"
+  1804: "#51cdcd"
 transitions:
 - year: 1804
   kind: broke_away_from

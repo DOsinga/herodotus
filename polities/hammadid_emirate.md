@@ -20,9 +20,9 @@ point:
   latitude: 36.7514
   longitude: 5.0557
 colors:
-  1014: "#cd5166"
-  1090: "#cd5166"
-  1115: "#b851cd"
+  1014: "#578627"
+  1090: "#578627"
+  1115: "#7a51cd"
 note: "Hammad established his own government in 1014; Zirid recognition followed in 1017. Changing caliphal allegiance did not end local rule. Bejaia became the capital around 1090, replacing Qalat Beni Hammad."
 transitions:
 - year: 1014

@@ -20,7 +20,7 @@ point:
   latitude: 31.78
   longitude: 35.23
 colors:
-  37: "#272786"
+  37: "#572786"
 note: "Links Agrippa I's article. Starts with Philip's former tetrarchy; Galilee followed in 39 and Judea in 41. Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. After his death Roman procurators governed the whole kingdom."
 transitions:
 - year: 44

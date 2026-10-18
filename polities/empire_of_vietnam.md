@@ -12,7 +12,7 @@ point:
   latitude: 16.4639
   longitude: 107.5867
 colors:
-  1945: "#b27334"
+  1945: "#cdcd51"
 note: "The Japanese-sponsored government of Bảo Đại and Trần Trọng Kim, March to August 1945."
 transitions:
 - year: 1945

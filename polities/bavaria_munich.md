@@ -12,9 +12,9 @@ point:
   latitude: 48.139
   longitude: 11.574
 colors:
-  1392: "#51cda3"
-  1479: "#51cda3"
-  1504: "#51cdcd"
+  1392: "#9db234"
+  1478: "#9db234"
+  1503: "#274786"
 note: "The Munich share of the 1392 partition. Albert IV won the Landshut War and reunited Bavaria in 1505."
 transitions:
 - year: 1392

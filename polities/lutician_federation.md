@@ -12,7 +12,7 @@ point:
   latitude: 53.45
   longitude: 13.15
 colors:
-  983: "#51cd8f"
+  983: "#7a51cd"
 note: "This treats the federation's common council and coordinated war government as one polity after the 983 revolt, not simply a cultural label. 1057 follows its destructive civil war and return to separate governments. Rethra's site is disputed; the point is approximate."
 transitions:
 - year: 1057

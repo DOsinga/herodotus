@@ -18,6 +18,8 @@ point:
   name: "Kikuchi Castle"
   latitude: 32.979
   longitude: 130.816
+colors:
+  1467: "#51cd8f"
 note: "Covers the house as a Sengoku power, from the Ōnin War until Ōtomo Sōrin drove Kikuchi Yoshitake out of Higo in 1550. From 1520 its heads were Ōtomo by birth, but they fought the Ōtomo rather than serving them."
 transitions:
 - year: 1467

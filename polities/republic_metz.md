@@ -18,6 +18,8 @@ point:
   name: "Metz"
   latitude: 49.119
   longitude: 6.176
+colors:
+  1250: "#8834b2"
 note: "Before 1250 Metz counts with the German kingdom. Ends with the French occupation of 1552; the aldermen kept administering the city under a royal governor until 1634."
 transitions:
 - year: 1552

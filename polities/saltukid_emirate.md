@@ -20,7 +20,7 @@ point:
   latitude: 39.9086
   longitude: 41.2769
 colors:
-  1072: "#273786"
+  1072: "#cd6651"
 note: "The start is estimated from Saltuk's grant after Manzikert. The Byzantine reoccupation of Erzurum from 1077 to 1079 is not split out."
 transitions:
 - year: 1202

@@ -20,7 +20,7 @@ point:
   latitude: 41.192
   longitude: 47.171
 colors:
-  1743: "#518fcd"
+  1743: "#cd5166"
 note: "Ends with the treaty of 1805 placing the khanate under Russian protection; the khans kept their own administration until Russia abolished the khanate in 1819."
 transitions:
 - year: 1805

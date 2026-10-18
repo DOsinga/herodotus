@@ -22,7 +22,5 @@ point:
   longitude: -4.28
 colors:
   757: "#678627"
-  948: "#678627"
-  973: "#864727"
 note: "757 estimates the establishment of the Sufri community's elected government. The later Midrarid genealogy is disputed; it does not date the polity's beginning. Local rule survived changing allegiances and Fatimid interventions until the 976 conquest."
 ---

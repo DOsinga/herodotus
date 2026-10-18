@@ -18,6 +18,10 @@ point:
   name: "Groningen"
   latitude: 53.2189
   longitude: 6.5675
+colors:
+  1250: "#9d34b2"
+  1443: "#9d34b2"
+  1468: "#b2349d"
 note: "Before 1250 Groningen counts with the German kingdom. No article covers the city-state, so the link goes to the city. Ends with the acceptance of Edzard of East Frisia in 1506."
 transitions:
 - year: 1506

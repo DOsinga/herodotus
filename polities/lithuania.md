@@ -24,7 +24,7 @@ point:
   latitude: 54.6872
   longitude: 25.28
 colors:
-  1918: "#864727"
+  1918: "#578627"
 note: "Gap for the Soviet annexation; Kaunas was the interwar capital. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1918

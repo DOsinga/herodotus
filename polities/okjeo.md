@@ -20,6 +20,8 @@ point:
   name: Hamhung
   latitude: 39.9167
   longitude: 127.5333
+colors:
+  30: "#276786"
 note: "Covers only the self-governing years between the end of Lelang's eastern division in 30 and Goguryeo's conquest in 56, the date the Samguk sagi gives; before and after, Gojoseon, the Han commanderies and Goguryeo governed Okjeo. Northern Okjeo on the Tumen has no separate record."
 transitions:
 - year: 56

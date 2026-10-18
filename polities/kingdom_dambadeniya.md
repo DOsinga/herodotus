@@ -19,7 +19,7 @@ point:
   latitude: 7.37
   longitude: 80.15
 colors:
-  1220: "#34b234"
+  1220: "#478627"
 note: "Links the kingdom article, whose 1345 end overlaps the Gampola record. The capitals moved from Dambadeniya to Yapahuwa and Kurunegala; 1220 and 1341 are approximate."
 transitions:
 - year: 1341

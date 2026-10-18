@@ -22,6 +22,8 @@ point:
   longitude: 25.3056
 colors:
   -480: "#862737"
+  -306: "#862737"
+  -281: "#51a3cd"
 note: "Philip II conquered it in 342 BCE; Seuthes III restored it about 330 BCE. By the middle of the first century BCE the Sapaean kingdom, a different dynasty ruling from Bizye, had taken over Thracian royal government; 50 BCE is an estimate."
 transitions:
 - year: -342

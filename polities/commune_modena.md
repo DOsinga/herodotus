@@ -22,6 +22,10 @@ point:
   name: Modena
   latitude: 44.647
   longitude: 10.926
+colors:
+  1115: "#7a51cd"
+  1303: "#7a51cd"
+  1328: "#278676"
 note: "The gaps are the Este lordship of 1288–1306 and the Bonacolsi lordship of 1312–1327. The papal legate's and John of Bohemia's brief holds of 1327–1336 are not split out. The record links the city's article."
 transitions:
 - year: 1288

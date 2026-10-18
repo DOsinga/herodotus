@@ -21,7 +21,7 @@ point:
   latitude: 32.03
   longitude: 44.4
 colors:
-  685: "#b851cd"
+  685: "#4934b2"
 note: "Mukhtar expelled the Zubayrid governor and governed Kufa, much of Iraq and adjacent Iranian districts for eighteen months. Ends with Musab ibn al-Zubayr's conquest, rather than treating it as only a religious movement or a caliphal claim. Links Mukhtar's biography."
 transitions:
 - year: 685

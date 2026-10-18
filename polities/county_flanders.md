@@ -22,7 +22,9 @@ point:
   latitude: 51.209
   longitude: 3.224
 colors:
-  862: "#5166cd"
+  862: "#51cdcd"
+  1329: "#51cdcd"
+  1354: "#3449b2"
 note: "A French fief, but governed by its own counts. Gap for Philip IV's annexation, ended by the Flemish victory at Courtrai in 1302. Philip the Bold of Burgundy inherited it in 1384, where the Burgundian state record starts."
 transitions:
 - year: 1300

@@ -19,6 +19,8 @@ point:
   name: Qatif
   latitude: 26.556
   longitude: 49.996
+colors:
+  1330: "#278686"
 note: "Both dates are estimates: the start follows Ibn Battuta's report of the Jarwanids at al-Qatif around 1331 (see the Usfurid note), and the Jabrids replaced them early in the fifteenth century."
 transitions:
 - year: 1417

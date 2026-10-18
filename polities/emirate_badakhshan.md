@@ -20,6 +20,8 @@ point:
   name: "Fayzabad"
   latitude: 37.1175
   longitude: 70.5797
+colors:
+  1657: "#5eb234"
 note: "The article runs to the Afghan conquest of 1873; the record ends with the Afghan supremacy of 1859 used in the place history. Murad Beg's occupation from 1829 to about 1836 makes a gap."
 transitions:
 - year: 1829

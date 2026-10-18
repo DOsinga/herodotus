@@ -18,6 +18,8 @@ point:
   name: "Lahijan"
   latitude: 37.2042
   longitude: 50.0047
+colors:
+  1335: "#51cdb8"
 note: "No article covers Lahijan's rulers before the Kar-Kiya; the record links the Kar-Kiya article, which describes their arrival. Both dates are estimates."
 transitions:
 - year: 1370

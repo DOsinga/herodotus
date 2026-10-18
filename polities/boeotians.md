@@ -20,6 +20,8 @@ point:
   name: Thebes
   latitude: 38.3208
   longitude: 23.3178
+colors:
+  -1200: "#34b273"
 note: "Dates follow the end of the Mycenaean palace and the emergence of the Theban city-state; the migration from Thessaly is traditional. No individual chiefs are known."
 transitions:
 - year: -700

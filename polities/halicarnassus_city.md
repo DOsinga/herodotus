@@ -19,6 +19,8 @@ point:
   name: Halicarnassus
   latitude: 37.0333
   longitude: 27.4333
+colors:
+  -197: "#cd51cd"
 note: "Covers only the free city from the end of Ptolemaic rule in 197 BCE until the Roman province of Asia; when the city itself came under the province is uncertain."
 transitions:
 - year: -130

@@ -18,6 +18,10 @@ point:
   name: Neuruppin
   latitude: 52.9331
   longitude: 12.8
+colors:
+  1250: "#345eb2"
+  1325: "#345eb2"
+  1350: "#7acd51"
 note: "Starts with the end of royal government in 1250. Ends with the extinction of the counts in 1524."
 transitions:
 - year: 1524

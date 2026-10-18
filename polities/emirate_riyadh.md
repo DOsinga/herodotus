@@ -18,6 +18,8 @@ point:
   name: Riyadh
   latitude: 24.638
   longitude: 46.715
+colors:
+  1737: "#278676"
 note: "Links the article on its ruler Dahham ibn Dawwas. Counted from the murder of Zaid ibn Musa in 1737 and the regency that followed; Dahham took control in 1740 and ruled in his own name from 1745."
 transitions:
 - year: 1773

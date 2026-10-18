@@ -12,7 +12,6 @@ places/<id>.md       one file per town, with which polity controlled it when
 database.py          loads and validates the files, builds and queries herodotus.sqlite
 validate.py          runs the checks; use it after every data change
 coverage.py          lists active polities without a place in given years
-gaps.py              lists places with a gap of more than 25 years between spans
 draft.py             drafts place control from segments of candidate polities
 colors.py            proposes polity colours from which polities touch
 herodotus.py         douwe.com Project subclass; the page and its year and polity endpoints

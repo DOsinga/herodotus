@@ -19,6 +19,8 @@ point:
   name: "Pachacamac"
   latitude: -12.2567
   longitude: -76.9003
+colors:
+  1000: "#b27334"
 note: "1000 continues from the Early Pachacamac record; the article dates Ichma's formation to around 1100, after the breakup of Wari, and the change is not sharply dated. 1470 follows the Inca conquest, which the article puts around 1469."
 transitions:
 - year: 1470

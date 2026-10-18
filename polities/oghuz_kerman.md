@@ -19,7 +19,7 @@ point:
   latitude: 30.28
   longitude: 57.08
 colors:
-  1187: "#275786"
+  1187: "#cdb851"
 note: "Shares the Kerman Seljuk article, which covers its end; no article covers the Oghuz government. Both dates are estimates."
 transitions:
 - year: 1196

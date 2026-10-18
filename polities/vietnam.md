@@ -21,6 +21,6 @@ point:
   latitude: 21
   longitude: 105.85
 colors:
-  1976: "#51b8cd"
+  1976: "#b23473"
 note: "The Socialist Republic of Vietnam. Links the country article. Changes of regime are not split into separate records."
 ---

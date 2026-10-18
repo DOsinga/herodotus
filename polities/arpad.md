@@ -21,7 +21,7 @@ point:
   latitude: 36.47
   longitude: 37.09
 colors:
-  -900: "#378627"
+  -900: "#b2345e"
 note: "900 BCE estimates the Aramaean state; Tiglath-Pileser III took Arpad."
 transitions:
 - year: -740

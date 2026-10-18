@@ -18,6 +18,8 @@ point:
   name: Saarbrücken
   latitude: 49.2333
   longitude: 7.0
+colors:
+  1250: "#34b234"
 note: "Links the article on the later Nassau county, which covers the earlier counts. Ends with the Nassau inheritance of 1381."
 transitions:
 - year: 1381

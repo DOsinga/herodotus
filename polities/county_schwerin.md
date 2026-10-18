@@ -18,6 +18,8 @@ point:
   name: Schwerin
   latitude: 53.6333
   longitude: 11.4167
+colors:
+  1250: "#51cdb8"
 note: "Starts with the end of royal government in 1250. Ends with the sale to Mecklenburg in 1358."
 transitions:
 - year: 1358

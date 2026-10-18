@@ -21,7 +21,7 @@ point:
   latitude: 52.373
   longitude: 4.894
 colors:
-  1806: "#51b8cd"
+  1806: "#278686"
 note: "Napoleon installed his brother Louis, who governed in Dutch interests until Napoleon deposed him and annexed the kingdom in 1810."
 transitions:
 - year: 1810

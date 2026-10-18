@@ -12,7 +12,7 @@ point:
   latitude: 48.857
   longitude: 2.352
 colors:
-  1870: "#66cd51"
+  1870: "#278647"
 transitions:
 - year: 1940
   kind: succeeded_by

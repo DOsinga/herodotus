@@ -23,6 +23,10 @@ point:
   name: Głogów
   latitude: 51.6589
   longitude: 16.0803
+colors:
+  1251: "#b29d34"
+  1404: "#b29d34"
+  1429: "#cd51a3"
 note: "The gaps are John of Bohemia's direct rule after 1331 and after 1346, and Matthias Corvinus's from 1488 to 1490. From 1349 the crown held half the town and the Żagań dukes the other half; the town is given to the dukes. The Jagiellonian dukes of 1491 to 1506 are kept in the same record."
 transitions:
 - year: 1331

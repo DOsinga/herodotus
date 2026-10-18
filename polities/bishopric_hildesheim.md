@@ -20,7 +20,7 @@ point:
   latitude: 52.15
   longitude: 9.95
 colors:
-  1250: "#867627"
+  1250: "#518fcd"
 note: "Starts with the end of royal government in Germany in 1250. Prussian troops occupied it in 1802 and the Reichsdeputationshauptschluss confirmed the annexation in 1803."
 transitions:
 - year: 1802

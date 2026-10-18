@@ -19,7 +19,9 @@ point:
   latitude: 18.7883
   longitude: 98.9853
 colors:
-  1292: "#cd51cd"
+  1292: "#8f51cd"
+  1702: "#8f51cd"
+  1727: "#cd5166"
 note: "The second period follows the 1727 revolt and the Burmese reconquest completed in January 1763. Chiang Mai accepted Konbaung overlordship in 1757 but kept its own king, so it stays active until then. Lampang had its own rulers from 1732 and is recorded separately."
 transitions:
 - year: 1558

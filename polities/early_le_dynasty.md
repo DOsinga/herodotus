@@ -19,7 +19,7 @@ point:
   latitude: 20.283
   longitude: 105.906
 colors:
-  980: "#b2349d"
+  980: "#cd51b8"
 note: "This records the Lê government of Đại Cồ Việt, distinct from the later Lê dynasty. Tribute and recognition from Song China did not replace its own government. Lý Công Uẩn's accession marks the successor regime."
 transitions:
 - year: 1009

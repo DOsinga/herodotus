@@ -21,7 +21,7 @@ point:
   latitude: 34.95
   longitude: -101.6667
 colors:
-  1750: "#a351cd"
+  1750: "#5151cd"
 note: "Starts around 1750, by which time the Comanche had driven the Apache from the southern plains; they had been on the plains since about 1700. The divisions had no common government, but historians treat them as one power, so they share one record. The Comanche had no fixed seat; the point is Palo Duro Canyon, a winter camp and the site of their last great defeat in 1874."
 transitions:
 - year: 1875

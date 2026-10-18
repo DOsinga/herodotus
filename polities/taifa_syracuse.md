@@ -18,6 +18,8 @@ point:
   name: Syracuse
   latitude: 37.0692
   longitude: 15.2875
+colors:
+  1053: "#278657"
 note: "Links Benavert's article; no article covers the lordship. Who ruled Syracuse between Ibn al-Thumna's death in 1062 and Benavert's appearance around 1071 is not clear."
 transitions:
 - year: 1086

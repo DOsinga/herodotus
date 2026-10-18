@@ -21,9 +21,7 @@ point:
   latitude: 30.73
   longitude: 35.6
 colors:
-  -1000: "#a3cd51"
-  -610: "#a3cd51"
-  -585: "#275786"
+  -1000: "#cd51a3"
 note: "Both dates are estimates; Nabonidus' campaign ended the kingdom."
 transitions:
 - year: -553

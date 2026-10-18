@@ -19,6 +19,8 @@ point:
   name: Harran
   latitude: 36.8708
   longitude: 39.025
+colors:
+  990: "#864727"
 transitions:
 - year: 1081
   kind: absorbed_into

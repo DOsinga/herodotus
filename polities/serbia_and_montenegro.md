@@ -21,7 +21,7 @@ point:
   latitude: 44.8178
   longitude: 20.4569
 colors:
-  2003: "#275786"
+  2003: "#b23473"
 transitions:
 - year: 2006
   kind: split_into

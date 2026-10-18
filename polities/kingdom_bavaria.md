@@ -12,7 +12,7 @@ point:
   latitude: 48.138
   longitude: 11.575
 colors:
-  1806: "#518fcd"
+  1806: "#51cdcd"
 note: "Remained a monarchy inside the German Empire until 1918, but the Empire controlled war and foreign policy, so it counts as part of the Empire from 1871."
 transitions:
 - year: 1871

@@ -21,7 +21,9 @@ point:
   latitude: 55.6761
   longitude: 12.5683
 colors:
-  1397: "#8f51cd"
+  1397: "#862747"
+  1497: "#862747"
+  1522: "#cd51cd"
 note: "Sweden's own governments under Karl Knutsson and the Sture regents are gaps in the union's hold on Sweden and periods of the Swedish record. When Sweden left for good, the union continued as Denmark–Norway."
 transitions:
 - year: 1523

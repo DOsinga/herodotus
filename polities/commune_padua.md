@@ -21,6 +21,10 @@ point:
   name: Padua
   latitude: 45.4015
   longitude: 11.8809
+colors:
+  1138: "#865727"
+  1231: "#865727"
+  1256: "#862737"
 note: "The gap is Ezzelino da Romano's lordship of 1237–1256."
 transitions:
 - year: 1237

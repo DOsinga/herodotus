@@ -19,6 +19,8 @@ point:
   name: "Pangai"
   latitude: -19.8033
   longitude: -174.3489
+colors:
+  1808: "#9db234"
 note: "1808 follows the start of Tupoutoʻa's rule of Haʻapai; his son Tāufaʻāhau inherited it in 1820, added Vavaʻu in 1833 and became Tuʻi Kanokupolu in 1845, when the record continues as Tonga. Links the article on Tāufaʻāhau because no article covers the chiefdom."
 transitions:
 - year: 1845

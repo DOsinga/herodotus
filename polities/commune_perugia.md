@@ -21,6 +21,12 @@ point:
   name: Perugia
   latitude: 43.1122
   longitude: 12.3889
+colors:
+  1101: "#b851cd"
+  1265: "#b851cd"
+  1290: "#8f51cd"
+  1370: "#8f51cd"
+  1395: "#51cd8f"
 note: "Start set at the end of the earlier spans; consuls are first recorded in 1139. Braccio da Montone's lordship (1416–1424) and the Baglioni dominance under papal sovereignty are included. The gap is the rule of Gian Galeazzo Visconti, the pope and Ladislaus of Naples between 1400 and 1414. The record links the city's article."
 transitions:
 - year: 1400

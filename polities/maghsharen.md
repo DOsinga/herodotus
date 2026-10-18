@@ -19,6 +19,8 @@ point:
   name: "Timbuktu"
   latitude: 16.7758
   longitude: -3.0094
+colors:
+  1433: "#b2b234"
 note: "Links the history of Timbuktu because no article covers the Maghsharen. 1433 follows Mali's loss of the town and 1468 Sunni Ali's capture of it."
 transitions:
 - year: 1468

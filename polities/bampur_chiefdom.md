@@ -21,6 +21,8 @@ point:
   name: Bampur
   latitude: 27.195
   longitude: 60.4547
+colors:
+  912: "#8834b2"
 note: "No article covers the chiefdom, so this links the article on the Baloch of Iran. Several families held Bampur over these centuries; they share one record because the sources do not separate them. Both starts follow the end of Saffarid and Kerman Seljuk rule and are estimates. Safavid claims and the conquests of Nasir Khan of Kalat (1749–1794) are not treated as gaps, as no evidence shows them governing the town."
 transitions:
 - year: 970

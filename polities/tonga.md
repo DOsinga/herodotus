@@ -23,7 +23,7 @@ point:
   latitude: -21.1333
   longitude: -175.2
 colors:
-  1845: "#678627"
+  1845: "#278647"
 note: "Unified under George Tupou I in 1845. Gap for the British protected-state period of 1900–1970. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1900

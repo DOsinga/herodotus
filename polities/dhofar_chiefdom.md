@@ -22,5 +22,7 @@ point:
   name: Zafar
   latitude: 17.0
   longitude: 54.1
+colors:
+  1000: "#672786"
 note: "1000 estimates the rise of Zafar; a regional record for chiefs the sources do not separate."
 ---

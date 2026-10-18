@@ -20,7 +20,7 @@ point:
   latitude: 52.267
   longitude: 10.517
 colors:
-  1250: "#345eb2"
+  1250: "#277686"
 note: "Created for the Welfs in 1235 and divided between the brothers Albert and John in 1269. The duchy stayed a legal umbrella over the Welf principalities until 1806; the principalities are what was governed."
 transitions:
 - year: 1269

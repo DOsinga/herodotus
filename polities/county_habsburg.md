@@ -18,6 +18,8 @@ point:
   name: Habsburg Castle
   latitude: 47.4625
   longitude: 8.1847
+colors:
+  1250: "#cdb851"
 note: "Links the article on the dynasty, as no article covers the county itself. Ends in 1278, when Rudolf's victory over Ottokar made his western lands part of the Habsburg domain governed with Austria."
 transitions:
 - year: 1278

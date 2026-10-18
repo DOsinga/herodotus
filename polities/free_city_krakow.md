@@ -20,7 +20,7 @@ point:
   latitude: 50.0614
   longitude: 19.9372
 colors:
-  1815: "#276786"
+  1815: "#274786"
 note: "Governed by its own senate under the supervision of the three protecting powers, who sent troops in 1836 and 1846; counted as self-governing throughout."
 transitions:
 - year: 1846

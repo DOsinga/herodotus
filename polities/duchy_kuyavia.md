@@ -18,6 +18,8 @@ point:
   name: Inowrocław
   latitude: 52.7931
   longitude: 18.2611
+colors:
+  1233: "#762786"
 note: "Follows the Inowrocław line after the division of 1267. Ends with Przemysł's exchange of Inowrocław for Sieradz in 1327, which gave the town to the king."
 transitions:
 - year: 1327

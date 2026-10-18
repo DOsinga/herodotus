@@ -25,8 +25,6 @@ point:
   longitude: 8.682
 colors:
   1250: "#678627"
-  1790: "#678627"
-  1815: "#866727"
 note: "A royal city governed by its own council, formally a free imperial city from 1372. Dalberg's state took it over in 1806; free again from 1815, after two years of Allied administration, until Prussia annexed it in 1866."
 transitions:
 - year: 1806

@@ -18,6 +18,10 @@ point:
   name: Ravenna
   latitude: 44.4161
   longitude: 12.2017
+colors:
+  1101: "#51cd66"
+  1312: "#51cd66"
+  1337: "#862747"
 note: "Start estimated where the imperial span ends. The da Polenta lordship of 1275–1441, which ruled through the commune, is included."
 transitions:
 - year: 1441

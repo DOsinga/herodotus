@@ -18,6 +18,10 @@ point:
   name: "Gilgit"
   latitude: 35.9208
   longitude: 74.3083
+colors:
+  843: "#862767"
+  1515: "#862767"
+  1540: "#cd5166"
 note: "No article covers the kingdom; the record links the history of Gilgit-Baltistan. 843 follows the Tibetan collapse. The Trakhan genealogy is legendary before the fourteenth century, and the record stands for the native rulers of Gilgit throughout."
 transitions:
 - year: 1842

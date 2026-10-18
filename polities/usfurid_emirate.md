@@ -18,6 +18,8 @@ point:
   name: Al-Ahsa
   latitude: 25.383
   longitude: 49.583
+colors:
+  1253: "#868627"
 note: "The end is an estimate: Ibn Battuta found the Jarwanids ruling at al-Qatif around 1331, while one source gives the Usfurids 150 years of rule."
 transitions:
 - year: 1330

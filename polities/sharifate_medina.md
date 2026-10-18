@@ -19,6 +19,8 @@ point:
   name: Medina
   latitude: 24.468
   longitude: 39.611
+colors:
+  940: "#572786"
 note: "About 940 rests on Ubayd Allah ibn Tahir's seizure of power, whose date is uncertain. The Meccan occupations of the eleventh century and the tightening Mamluk control from the fourteenth are kept inside the record."
 transitions:
 - year: 1517

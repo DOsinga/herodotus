@@ -19,7 +19,7 @@ point:
   latitude: 6.8161
   longitude: -5.2742
 colors:
-  1960: "#578627"
+  1960: "#864727"
 note: "Abidjan was the capital until 1983. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

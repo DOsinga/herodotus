@@ -18,6 +18,8 @@ point:
   name: "Lyon"
   latitude: 45.764
   longitude: 4.835
+colors:
+  1250: "#51cd7a"
 note: "Before 1250 Lyon counts with the German kingdom. No article covers the archbishops' temporal lordship, so the link goes to the archdiocese. Ends with the Treaty of Vienne of 1312."
 transitions:
 - year: 1312

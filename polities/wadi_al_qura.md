@@ -21,5 +21,7 @@ point:
   name: Al-Ula
   latitude: 26.6089
   longitude: 37.9236
+colors:
+  201: "#862737"
 note: "Links the article on the valley; the periods follow the years when no state held the oasis."
 ---

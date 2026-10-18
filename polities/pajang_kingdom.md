@@ -18,6 +18,8 @@ point:
   name: Pajang
   latitude: -7.5664
   longitude: 110.7811
+colors:
+  1568: "#862776"
 note: >-
   1568 is the article's date for Adiwijaya's kingship; the end of Demak and the rise of Pajang
   overlap and are poorly dated. The point is placed at Pajang village on the western edge of

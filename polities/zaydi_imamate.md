@@ -20,6 +20,8 @@ point:
   name: Saada
   latitude: 16.94
   longitude: 43.7592
+colors:
+  897: "#278647"
 note: "Starts with al-Hadi's arrival at Saada in 897. The gap from 1066 to 1138 is the long vacancy of the Sulayhid period; the vacancy of 1171-1187 is kept inside the record because the Zaydi sharifs of Saada still governed the north. Rival imamates after 1436 are not separated, and al-Mutahhar held out in the north for some years after the Ottomans took Sanaa in 1547. The later Qasimid State has its own record."
 transitions:
 - year: 1547

@@ -21,9 +21,9 @@ point:
   latitude: 52.162
   longitude: 10.537
 colors:
-  1269: "#278676"
-  1548: "#278676"
-  1573: "#572786"
+  1269: "#34b288"
+  1678: "#34b288"
+  1703: "#cd518f"
 note: "The Brunswick share of the 1269 partition, governed from Wolfenbüttel from the fifteenth century. France occupied it in 1806 and made it part of the Kingdom of Westphalia in 1807; restored in 1813 as the Duchy of Brunswick."
 transitions:
 - year: 1806

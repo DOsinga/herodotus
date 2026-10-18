@@ -12,6 +12,6 @@ point:
   latitude: 13.7525
   longitude: 100.4942
 colors:
-  1932: "#862786"
+  1932: "#868627"
 note: "Starts with the 1932 revolution that ended absolute monarchy. Links the country article. Changes of regime are not split into separate records."
 ---

@@ -23,7 +23,13 @@ point:
   latitude: 43.7311
   longitude: 7.42
 colors:
-  1297: "#345eb2"
+  1297: "#34b2b2"
+  1392: "#34b2b2"
+  1417: "#862776"
+  1608: "#862776"
+  1633: "#274786"
+  1767: "#274786"
+  1792: "#345eb2"
 note: "Start is the Grimaldi seizure of 1297. Gap for the French annexation of 1793–1814. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1793

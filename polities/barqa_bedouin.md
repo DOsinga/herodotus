@@ -20,5 +20,7 @@ point:
   name: Benghazi
   latitude: 32.1167
   longitude: 20.0667
+colors:
+  1051: "#272786"
 note: "Links the article on the Banu Sulaym; a regional record for the tribes of Cyrenaica, with 1051 dating the Hilalian migrations."
 ---

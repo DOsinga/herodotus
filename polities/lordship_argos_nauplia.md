@@ -18,6 +18,8 @@ point:
   name: Nafplio
   latitude: 37.566
   longitude: 22.8
+colors:
+  1311: "#5166cd"
 note: "The lordship's years under the de la Roche dukes are shown under the Duchy of Athens. Argos was held by the despot of the Morea from 1388 to 1394, which is not split out."
 transitions:
 - year: 1388

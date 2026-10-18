@@ -18,6 +18,8 @@ point:
   name: Belgrade
   latitude: 44.818
   longitude: 20.457
+colors:
+  1284: "#b24934"
 note: "Dragutin's lands around Rudnik from 1282 and Vladislav II's brief return in the 1320s are not included."
 transitions:
 - year: 1316

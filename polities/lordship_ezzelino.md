@@ -18,5 +18,7 @@ point:
   name: Verona
   latitude: 45.439
   longitude: 10.993
+colors:
+  1226: "#51cda3"
 note: "Links Ezzelino's own article; no article covers his lordship. Alberico da Romano's rule of Treviso (1239–1259), allied with Ezzelino for most of those years, is included. Belluno and Feltre were also his."
 ---

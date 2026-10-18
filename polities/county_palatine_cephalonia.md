@@ -20,6 +20,8 @@ point:
   name: Argostoli
   latitude: 38.1754
   longitude: 20.489
+colors:
+  1185: "#278667"
 note: "The gap is direct Angevin rule under Achaea (1335–1357). From 1411 the Tocco counts were also despots of Epirus, and their islands are shown under the Despotate of Epirus until the Ottoman and Venetian conquest of 1479."
 transitions:
 - year: 1335

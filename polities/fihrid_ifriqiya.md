@@ -20,7 +20,7 @@ point:
   latitude: 35.6781
   longitude: 10.0963
 colors:
-  745: "#278676"
+  745: "#51cd8f"
 note: "No article covers the state, so the link goes to its founder. The start is the governor's departure in early 745. The Warfajuma and then the Ibadi imam Abu al-Khattab held Kairouan from 757 until the Abbasid reconquest of 761; neither has a record."
 transitions:
 - year: 745

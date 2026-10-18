@@ -22,7 +22,7 @@ point:
   latitude: 22.567
   longitude: 88.37
 colors:
-  1757: "#b24934"
+  1757: "#3434b2"
 note: "The East India Company's Indian territories, treated as one polity because the Company governed them. From 1858 the British government ruled India through a viceroy answerable to London, so it counts as part of the United Kingdom."
 transitions:
 - year: 1858

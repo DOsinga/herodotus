@@ -18,5 +18,7 @@ point:
   name: "Altai Mountains"
   latitude: 48.0
   longitude: 90.0
+colors:
+  1100: "#867627"
 note: "1100 is an estimate for the khanate's emergence, which the sources do not record. The point is approximate."
 ---

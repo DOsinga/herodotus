@@ -21,7 +21,7 @@ point:
   latitude: 36.444
   longitude: 50.586
 colors:
-  1090: "#7acd51"
+  1090: "#51cd8f"
 note: "1090 follows Hasan-i Sabbah's capture of Alamut and establishment of territorial government, not the founding of the religious movement. The central Iranian state ended with the Mongol conquest in 1256; surviving believers and separately governed Syrian fortresses do not extend its period."
 transitions:
 - year: 1256

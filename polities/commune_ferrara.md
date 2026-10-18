@@ -19,6 +19,8 @@ point:
   name: Ferrara
   latitude: 44.839
   longitude: 11.617
+colors:
+  1101: "#278676"
 note: "Matilda of Canossa's rule of 1101–1115 and Azzo VII's domination after 1240 are included. The record links the city's article."
 transitions:
 - year: 1264

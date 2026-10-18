@@ -20,7 +20,7 @@ point:
   latitude: 15.37
   longitude: -16.42
 colors:
-  1549: "#5151cd"
+  1549: "#cd51cd"
 note: "Point approximate: Mboul has no coordinates on Wikipedia."
 transitions:
 - year: 1549

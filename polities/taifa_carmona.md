@@ -21,9 +21,7 @@ point:
   latitude: 37.47
   longitude: -5.64
 colors:
-  1013: "#cdcd51"
-  1118: "#cdcd51"
-  1143: "#868627"
+  1013: "#b8cd51"
 note: "Two periods: the first Birzalid kingdom, taken by Seville in 1066, and the second taifa of about 1143–1150, taken by the Almohads."
 transitions:
 - year: 1066

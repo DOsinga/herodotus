@@ -22,9 +22,7 @@ point:
   latitude: 51.983
   longitude: 5.917
 colors:
-  1250: "#51cd8f"
-  1467: "#51cd8f"
-  1492: "#5151cd"
+  1250: "#572786"
 note: "Gap for Charles the Bold's conquest of 1473 and the Burgundian and Habsburg rule that followed, until Charles of Egmond won it back in 1492. Ceded to Charles V in the Treaty of Venlo, 1543."
 transitions:
 - year: 1473

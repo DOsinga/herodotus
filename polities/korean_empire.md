@@ -20,7 +20,7 @@ point:
   latitude: 37.56
   longitude: 126.99
 colors:
-  1897: "#478627"
+  1897: "#278686"
 note: "The Eulsa Treaty of 1905 made Korea a Japanese protectorate under a Japanese resident-general, so it counts as absorbed then; formal annexation followed in 1910."
 transitions:
 - year: 1905

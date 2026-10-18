@@ -24,6 +24,14 @@ point:
   name: Bologna
   latitude: 44.4939
   longitude: 11.3428
+colors:
+  1116: "#cd5151"
+  1241: "#cd5151"
+  1266: "#278676"
+  1351: "#278676"
+  1376: "#272786"
+  1476: "#272786"
+  1501: "#b25e34"
 note: "The Pepoli lordship of 1337–1350 and the Bentivoglio lordship from 1443 governed through the commune and are included. Between 1403 and 1443 papal government, interrupted by short communal revolts, and Visconti rule are gaps."
 transitions:
 - year: 1327

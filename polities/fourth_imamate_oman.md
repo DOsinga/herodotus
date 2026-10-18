@@ -18,5 +18,7 @@ point:
   name: Nizwa
   latitude: 22.933
   longitude: 57.533
+colors:
+  1016: "#51cd66"
 note: "Links the article covering all the Omani imamates. Ends with the rise of the Nabhani kings in 1154; Wikipedia gives 1164 for the end of the imamate."
 ---

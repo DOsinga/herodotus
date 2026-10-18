@@ -18,6 +18,8 @@ point:
   name: "Gao"
   latitude: 16.2667
   longitude: -0.05
+colors:
+  1430: "#34b25e"
 note: "1430 approximates Sunni Sulayman Dama's break from Mali in the first half of the fifteenth century; the earlier Sunni kings at Kukiya are not recorded. Links the Songhai Empire's article, which describes the kingdom Sunni Ali inherited."
 transitions:
 - year: 1430

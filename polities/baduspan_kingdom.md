@@ -22,10 +22,6 @@ point:
   latitude: 36.575
   longitude: 52.012
 colors:
-  665: "#51cd66"
-  955: "#51cd66"
-  980: "#7a51cd"
-  1333: "#7a51cd"
-  1358: "#51b8cd"
+  665: "#862767"
 note: "665 is the traditional estimate for Baduspan's separate mountain government. The Mar'ashis removed it in 1381 and restored a native ruler in 1390. Timur's 1400 administration reduced Kayumarth's own territory to Nur but did not erase that surviving government. His 1453 death led to separate Nur and Kojur governments, not one continuing Baduspanid umbrella."
 ---

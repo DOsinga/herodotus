@@ -20,7 +20,13 @@ point:
   latitude: 45.133
   longitude: 8.45
 colors:
-  967: "#278627"
+  967: "#b23449"
+  1113: "#b23449"
+  1138: "#578627"
+  1376: "#578627"
+  1401: "#51cdcd"
+  1482: "#51cdcd"
+  1507: "#b28834"
 note: "Start follows the imperial grant to Aleramo in 967. Passed to the Gonzaga in 1536 when the Palaiologos line died out, and was governed from Mantua."
 transitions:
 - year: 1536

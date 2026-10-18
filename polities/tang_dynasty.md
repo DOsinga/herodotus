@@ -22,9 +22,7 @@ point:
   latitude: 34.261
   longitude: 108.943
 colors:
-  618: "#34b2b2"
-  728: "#34b2b2"
-  753: "#51cd66"
+  618: "#cd517a"
 note: "The Wu Zhou interregnum is a separate regime. Tang government survived the loss of capitals during rebellions. Later regional states governed independently while the Tang court still existed; this record is not an umbrella for them. Luoyang replaced Chang’an as the last capital."
 transitions:
 - year: 618

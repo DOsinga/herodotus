@@ -19,9 +19,9 @@ point:
   latitude: 50.3355
   longitude: 8.5344
 colors:
-  1659: "#862757"
-  1753: "#862757"
-  1778: "#34b29d"
+  1659: "#478627"
+  1779: "#478627"
+  1804: "#66cd51"
 note: "Starts with the effective division of 1659; Biebrich became the residence in the eighteenth century."
 transitions:
 - year: 1659

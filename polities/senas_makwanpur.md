@@ -18,6 +18,8 @@ point:
   name: Makwanpur Gadhi
   latitude: 27.411
   longitude: 85.1475
+colors:
+  1553: "#517acd"
 note: "The start is an estimate from the division of Mukunda Sen's kingdom after 1553. Tribute to Darbhanga did not take away the kingdom's own government. Later branches such as Vijayapur have no records."
 transitions:
 - year: 1762

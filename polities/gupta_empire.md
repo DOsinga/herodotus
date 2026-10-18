@@ -21,6 +21,8 @@ point:
   latitude: 25.61
   longitude: 85.14
 colors:
-  240: "#b23473"
+  240: "#862757"
+  325: "#862757"
+  350: "#8f51cd"
 note: "240 estimates Sri Gupta's early royal government. 550 follows the conventional end around the last attested imperial king Vishnugupta; some chronologies place residual Gupta rule later. Pataliputra is the traditional principal capital, not a claim that the reduced sixth-century court still controlled all earlier imperial lands."
 ---

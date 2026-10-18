@@ -19,6 +19,8 @@ point:
   name: Como
   latitude: 45.8081
   longitude: 9.0852
+colors:
+  1100: "#862757"
 note: "Start estimated; consuls are recorded in the early twelfth century. The Rusca lordship of the early fourteenth century is included. The record links the city's article."
 transitions:
 - year: 1335

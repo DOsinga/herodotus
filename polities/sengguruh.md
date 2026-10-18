@@ -17,6 +17,8 @@ point:
   name: Sengguruh, near Kepanjen
   latitude: -8.1303
   longitude: 112.5722
+colors:
+  1527: "#cd6651"
 note: >-
   Links the Malang article, whose section on Sengguruh is the only English account. The dates rest
   on Javanese chronicles summarised by de Graaf; Demak's role after 1545 is counted as overlordship.

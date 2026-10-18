@@ -21,6 +21,8 @@ point:
   name: "Tangier"
   latitude: 35.7767
   longitude: -5.8039
+colors:
+  1923: "#345eb2"
 note: "The gap is the Spanish occupation of June 1940 to October 1945."
 transitions:
 - year: 1940

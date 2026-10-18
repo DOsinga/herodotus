@@ -20,6 +20,8 @@ point:
   name: Tumen basin
   latitude: 42.9
   longitude: 129.5
+colors:
+  1388: "#b234b2"
 note: "Treats many independent tribes as one chiefdom. Places cover only the southern tribes of the Tumen basin and the upper Mudan. The end follows Nurhaci's campaigns of 1607 to 1611 against the Warka; the tribes of the Ussuri and the Amur, subdued by Hong Taiji into the 1640s, are not covered."
 transitions:
 - year: 1611

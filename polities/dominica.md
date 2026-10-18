@@ -22,7 +22,7 @@ point:
   latitude: 15.3014
   longitude: -61.3883
 colors:
-  1978: "#274786"
+  1978: "#5151cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1978

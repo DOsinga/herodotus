@@ -20,5 +20,7 @@ point:
   name: "Verulamium"
   latitude: 51.755
   longitude: -0.336
+colors:
+  410: "#274786"
 note: "Stands for the unnamed local rulers of the British towns between 410 and the kingdom that first held each town; the evidence does not separate them. The point is a representative town. The end follows the Saxon advance into the Chilterns in 571."
 ---

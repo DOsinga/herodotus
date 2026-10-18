@@ -12,9 +12,7 @@ point:
   latitude: 51.856
   longitude: -4.311
 colors:
-  410: "#276786"
-  593: "#276786"
-  618: "#517acd"
+  410: "#51cda3"
 note: "410 estimates the post-Roman government's emergence, not an exact foundation year. The native kings are epigraphically attested by Vortiporius in the sixth century. Hywel's inheritance began after Llywarch's death around 904; 920 follows the conventional union of the separate Dyfed and Seisyllwg governments."
 transitions:
 - year: 920

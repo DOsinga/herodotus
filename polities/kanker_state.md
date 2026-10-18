@@ -18,6 +18,8 @@ point:
   name: "Kanker"
   latitude: 20.27
   longitude: 81.49
+colors:
+  1125: "#762786"
 note: "1125 follows the Kanker district article's local-tradition date for the Som dynasty; the Som, Kandra and Chandra houses are counted as one state because the sources treat them as successive rulers of the same Kanker kingdom. Tribute to Ratanpur and later military service to the Bhonsles did not end its own government. 1809 is Nagpur's occupation."
 transitions:
 - year: 1809

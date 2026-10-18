@@ -21,7 +21,7 @@ point:
   latitude: 34.6197
   longitude: 112.454
 colors:
-  690: "#6651cd"
+  690: "#a3cd51"
 note: "Wu Zetian's government is recorded under the distinct Zhou identity adopted in 690. Her earlier regency remained part of Tang government. The 705 coup restored the Tang regime."
 transitions:
 - year: 705

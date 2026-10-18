@@ -18,6 +18,8 @@ point:
   name: "Toon"
   latitude: 9.3928
   longitude: 44.1183
+colors:
+  1600: "#863727"
 note: "1600 follows the article's statement that the Isaaq formed a clan state by the 1600s, after Adal's fall. The Tol Je'lo kings who led the clans then are included; the Guled dynasty took over about 1750. Ends in 1884, when the first of the treaties that made the coast a British protectorate were signed."
 transitions:
 - year: 1884

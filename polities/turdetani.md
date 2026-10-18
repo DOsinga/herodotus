@@ -19,6 +19,8 @@ point:
   name: "Carmona"
   latitude: 37.4667
   longitude: -5.6333
+colors:
+  -549: "#b27334"
 note: "Stands for the towns of Turdetania, whose local rulers are not recorded separately. The start follows the estimated end of Tartessos; the end follows the Barcid conquest. Carmo is a representative town, not a capital."
 transitions:
 - year: -238

@@ -21,7 +21,7 @@ point:
   latitude: 42.7469
   longitude: 75.25
 colors:
-  840: "#278676"
+  840: "#5166cd"
 note: "840 is a conventional approximate origin for the khanate after the Uyghur collapse; early chronology is poorly documented. Balasagun became a later capital. The record ends at the formation of separate eastern and western governments, not the later extinction of the dynasty."
 transitions:
 - year: 1041

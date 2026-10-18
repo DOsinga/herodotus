@@ -21,6 +21,6 @@ point:
   latitude: 50.45
   longitude: 30.5167
 colors:
-  1918: "#51cd51"
+  1918: "#278676"
 note: "Skoropadsky's Hetmanate, April to December 1918."
 ---

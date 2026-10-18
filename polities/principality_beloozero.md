@@ -19,6 +19,8 @@ point:
   name: "Belozersk"
   latitude: 60.0333
   longitude: 37.7667
+colors:
+  1238: "#8f51cd"
 note: "1389 is the year Dmitry Donskoy left Beloozero to his son, after which Moscow's princes held it, as in the place history."
 transitions:
 - year: 1389

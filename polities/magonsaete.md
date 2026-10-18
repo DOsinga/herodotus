@@ -12,7 +12,7 @@ point:
   latitude: 52.093
   longitude: -2.819
 colors:
-  656: "#cdcd51"
+  656: "#cd5151"
 note: "656 conventionally dates Merewalh's western Hecani kingdom. Its rulers retained local government under Mercian overlordship. 750 estimates its absorption during the eighth century; the exact end is unknown. Kenchester represents the proposed Magnis centre."
 transitions:
 - year: 750

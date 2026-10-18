@@ -22,7 +22,7 @@ point:
   latitude: 41.9025
   longitude: 12.4525
 colors:
-  1929: "#278627"
+  1929: "#7acd51"
 transitions:
 - year: 1929
   kind: broke_away_from

@@ -19,7 +19,7 @@ point:
   latitude: 56.086
   longitude: -5.478
 colors:
-  500: "#cd6651"
+  500: "#517acd"
 note: "500 estimates the kingdom's emergence; the Fergus Mór foundation story is not treated as an exact date. Pictish overlordship after the 730s did not necessarily end the local kingdom. 843 follows the conventional incorporation into Alba, matching the existing Scotland record; the fate of the late eighth-century court and exact unification date remain debated."
 transitions:
 - year: 843

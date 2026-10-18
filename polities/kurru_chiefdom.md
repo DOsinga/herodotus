@@ -20,6 +20,8 @@ point:
   name: El-Kurru
   latitude: 18.41
   longitude: 31.77
+colors:
+  -1069: "#b2b234"
 note: "Links the article on the el-Kurru cemetery. Both dates are estimates: the record stands for the Dongola reach between the Egyptian withdrawal and the kingdom of Kush, and the earliest tombs are dated anywhere from about 1070 to 850 BCE."
 transitions:
 - year: -780

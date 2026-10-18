@@ -22,6 +22,6 @@ point:
   latitude: 33.7458
   longitude: 72.7875
 colors:
-  19: "#51cd7a"
+  19: "#66cd51"
 note: "Both dates are estimates. The kingdom lost Gandhara to the Kushans in the later first century and survived in Sistan and Arachosia until the Sasanian conquest."
 ---

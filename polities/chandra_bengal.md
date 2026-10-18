@@ -22,6 +22,6 @@ point:
   latitude: 23.542
   longitude: 90.53
 colors:
-  900: "#8f51cd"
+  900: "#517acd"
 note: "900 estimates Trailokyachandra's establishment of the southeastern Bengal polity. This is not an umbrella over the earlier Chandra kings of Arakan mentioned in the same article. Srichandra established its administrative centre at Bikrampur. 1050 estimates the end of Govindachandra's government after attacks from neighbouring powers; the earlier Chola raid alone does not end it."
 ---

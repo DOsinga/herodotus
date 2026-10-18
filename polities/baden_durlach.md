@@ -20,9 +20,7 @@ point:
   latitude: 48.999
   longitude: 8.47
 colors:
-  1535: "#a3cd51"
-  1622: "#a3cd51"
-  1647: "#cdcd51"
+  1535: "#51cd51"
 note: "The Protestant line, governed from Pforzheim, then Durlach, and from 1715 Karlsruhe. Charles Frederick reunited Baden when the Baden-Baden line died out in 1771."
 transitions:
 - year: 1771

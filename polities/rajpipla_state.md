@@ -18,6 +18,8 @@ point:
   name: "Rajpipla"
   latitude: 21.87
   longitude: 73.5
+colors:
+  1340: "#865727"
 note: "1340 is the traditional foundation date. Gujarat Sultanate and Mughal attacks and tribute are not treated as ending Gohil government; spells of outside occupation are not dated well enough to split the period. Ends with British protection in 1821."
 transitions:
 - year: 1821

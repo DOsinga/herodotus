@@ -19,6 +19,8 @@ point:
   name: "Khujand"
   latitude: 40.2794
   longitude: 69.6319
+colors:
+  -160: "#868627"
 note: "-160 follows the article's end of Hellenistic rule; 600 is the estimated start of the better documented Principality of Farghana. The kingdom's history under Kushan, Hephthalite and Turkic overlords is poorly known."
 transitions:
 - year: 600

@@ -22,7 +22,7 @@ point:
   latitude: -20.1644
   longitude: 57.5042
 colors:
-  1968: "#cdb851"
+  1968: "#cd51cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1968

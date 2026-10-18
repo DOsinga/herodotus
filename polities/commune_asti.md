@@ -19,6 +19,8 @@ point:
   name: Asti
   latitude: 44.9
   longitude: 8.2069
+colors:
+  1095: "#278637"
 note: "Angevin and Montferrat protection in the early fourteenth century is included. The record links the city's article."
 transitions:
 - year: 1342

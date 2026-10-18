@@ -18,6 +18,8 @@ point:
   name: Trieste
   latitude: 45.6503
   longitude: 13.7703
+colors:
+  1250: "#b27334"
 note: "Start set at the end of the imperial period; until 1295 the bishops governed alongside the commune and are included."
 transitions:
 - year: 1369

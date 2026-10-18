@@ -20,6 +20,8 @@ point:
   name: Ephesus
   latitude: 37.94
   longitude: 27.34
+colors:
+  -1050: "#b8cd51"
 note: "Links the city's article; the founding date of about 1050 BCE is the traditional estimate, and Croesus's capture is dated only to about 560 BCE."
 transitions:
 - year: -561

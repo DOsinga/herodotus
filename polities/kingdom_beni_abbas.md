@@ -20,7 +20,7 @@ point:
   latitude: 36.295
   longitude: 4.58
 colors:
-  1510: "#3449b2"
+  1510: "#51cdcd"
 note: "Wikipedia runs the state to 1872. This record ends it in 1838, when Ahmed Mokrani was named caïd and khalifa of the Medjana by the French in Constantine. From then on the family governed as French officials rather than on its own account."
 transitions:
 - year: 1838

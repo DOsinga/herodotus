@@ -20,6 +20,8 @@ point:
   name: Tuwana
   latitude: 37.75
   longitude: 34.45
+colors:
+  -1180: "#862786"
 note: "Links the article on Tabal, which covers the region. Both dates are estimates: the record runs from the Hittite collapse to the conventional start of the Tabal record; no ruler of Tuwana is known in these centuries, and the Hartapu inscriptions are dated anywhere from the late 13th to the 8th century BCE."
 transitions:
 - year: -901

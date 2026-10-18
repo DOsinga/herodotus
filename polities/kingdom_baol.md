@@ -18,6 +18,10 @@ point:
   name: "Lambaye"
   latitude: 14.8013
   longitude: -16.5339
+colors:
+  1549: "#34b25e"
+  1636: "#34b25e"
+  1661: "#cd7a51"
 note: "Baol often shared a ruler with Cayor, the damel-teigne, and the record keeps the two apart, since each kept its own government. Cayor's annexation of Baol under Maïsa Tend Wedj, which ended in 1756, is not dated in the article and is not shown as a gap. France held most of Baol by 1874 and all of it from 1894."
 transitions:
 - year: 1549

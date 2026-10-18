@@ -20,6 +20,8 @@ point:
   name: "Lhasa"
   latitude: 29.654
   longitude: 91.118
+colors:
+  843: "#34b234"
 note: "The record stands for the descendants of Yumtän and Ösung and the clan lords of Ü and Tsang during the Era of Fragmentation, whom the evidence does not separate into lasting states. The end is the submission to the Mongols negotiated by Sakya Pandita with Köten in 1246 and 1247."
 transitions:
 - year: 1246

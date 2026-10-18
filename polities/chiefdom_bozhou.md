@@ -19,6 +19,8 @@ point:
   name: "Zunyi"
   latitude: 27.722
   longitude: 107.031
+colors:
+  876: "#5166cd"
 note: "The Yang kept their own army and government under Song, Yuan and Ming titles, so the record runs to the Ming conquest of 1600."
 transitions:
 - year: 1600

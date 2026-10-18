@@ -28,7 +28,7 @@ point:
 colors:
   665: "#cd518f"
   875: "#cd518f"
-  900: "#862757"
+  900: "#6651cd"
 note: "665 is a traditional foundation estimate; the ruling house is securely documented only from Sharwin in the eighth century. The first government ended under Qabus in 1006. The Sari-based restoration from 1073 ended in Khwarezmian conquest in 1210; the Amol-based court returned in 1238 and ended in the 1349 takeover. Perim's old mountain seat is approximately located."
 transitions:
 - year: 1006

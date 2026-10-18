@@ -19,6 +19,8 @@ point:
   name: "Sonargaon"
   latitude: 23.6475
   longitude: 90.5978
+colors:
+  1338: "#a351cd"
 note: "No article covers the state itself; the link is to its ruling Mubarak Shahi dynasty. Coins suggest Fakhruddin may have ruled from 1333/34, but 1338 follows the usual dating after Bahram Khan's death."
 transitions:
 - year: 1352

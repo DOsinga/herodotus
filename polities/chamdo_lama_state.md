@@ -19,6 +19,8 @@ point:
   name: Chamdo
   latitude: 31.143
   longitude: 97.17
+colors:
+  1437: "#5151cd"
 note: "No article covers the lama state; the link is to the city, and the Kham article lists Chamdo among the region's polities. The start is the founding of Jampaling, built between 1436 and 1444; when the abbots began to govern the town is not recorded, and the Phagpa Lha incarnations began later. 1642 follows the Ganden Phodrang's takeover of Kham."
 transitions:
 - year: 1642

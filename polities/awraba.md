@@ -19,6 +19,8 @@ point:
   name: "Volubilis"
   latitude: 34.0711
   longitude: -5.5536
+colors:
+  740: "#4934b2"
 note: "Starts with the Berber Revolt that ended Umayyad rule in Morocco. Earlier Awraba history under Kusaila falls within the Kingdom of Altava's record."
 transitions:
 - year: 788

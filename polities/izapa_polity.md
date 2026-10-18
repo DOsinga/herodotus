@@ -22,7 +22,7 @@ point:
   longitude: -92.18
 colors:
   -700: "#cdb851"
-  788: "#cdb851"
-  813: "#a3cd51"
+  793: "#cdb851"
+  818: "#a3cd51"
 note: "700 BCE estimates the early regional political centre, rather than the first occupation. Its later centre shifted to Group F, which retained substantial development through the Early Postclassic. 1200 estimates final abandonment; continuity of the governing community across the long archaeological sequence is a working judgement."
 ---

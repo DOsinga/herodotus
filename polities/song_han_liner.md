@@ -19,7 +19,7 @@ point:
   latitude: 32.545
   longitude: 116.7982
 colors:
-  1355: "#cd5151"
+  1355: "#cd51a3"
 note: "The court sat at Bozhou in 1355, Kaifeng in 1358–1359 and Anfeng otherwise. Its northern provinces were held by loosely affiliated commanders; Zhu Yuanzhang's Jiangnan province is counted as his own state. After 1363 Han Lin'er lived under Zhu's protection until he drowned in 1367."
 transitions:
 - year: 1355

@@ -23,6 +23,8 @@ point:
   longitude: 64.429
 colors:
   500: "#7acd51"
+  850: "#7acd51"
+  875: "#51cdcd"
 note: "500 estimates the early local court before the securely recorded sixth–seventh-century royal sequence. The Bukhar Khudahs retained a reduced territory and native government after Qutaiba's conquest and the Arab garrison's establishment in the city. 890 estimates Ismail's final incorporation, conventionally placed in the 890s."
 transitions:
 - year: 890

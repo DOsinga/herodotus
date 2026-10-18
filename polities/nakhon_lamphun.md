@@ -18,6 +18,8 @@ point:
   name: Lamphun
   latitude: 18.5747
   longitude: 99.0087
+colors:
+  1814: "#cd5166"
 note: "No article covers the state, so this links the dynasty that ruled it with Chiang Mai and Lampang. 1814 follows Khamfan's installation as its first ruler; 1899 follows the treatment of Nakhon Chiang Mai."
 transitions:
 - year: 1899

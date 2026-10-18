@@ -18,6 +18,8 @@ point:
   name: Kota Bharu
   latitude: 6.1333
   longitude: 102.25
+colors:
+  1267: "#864727"
 note: >-
   Links the state article. 1267 is the start of the traditional king list, which is unverified; the
   first contemporary record is the Chinese mention of 1411. The petty chiefdoms after 1511 and

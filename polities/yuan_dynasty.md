@@ -21,7 +21,7 @@ point:
   latitude: 39.915
   longitude: 116.39
 colors:
-  1271: "#a351cd"
+  1271: "#a3cd51"
 transitions:
 - year: 1368
   kind: split_into

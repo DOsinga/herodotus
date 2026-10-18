@@ -18,6 +18,8 @@ point:
   name: Bern
   latitude: 46.948
   longitude: 7.4474
+colors:
+  1250: "#867627"
 note: "Starts with the end of royal government in 1250; Savoyard protection from 1255 to 1268 did not end the city's own government. Ends with its entry into the Confederacy in 1353."
 transitions:
 - year: 1353

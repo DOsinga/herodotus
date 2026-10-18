@@ -20,7 +20,7 @@ point:
   latitude: 58.9394
   longitude: 23.5408
 colors:
-  1228: "#34b249"
+  1228: "#278647"
 note: Ends where the existing Livonian Confederation record begins, although the bishopric
   lasted as a member until its last bishop sold it to Denmark in 1559–1560.
 transitions:

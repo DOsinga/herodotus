@@ -19,7 +19,7 @@ point:
   latitude: 37.1036
   longitude: 25.3766
 colors:
-  1207: "#472786"
+  1207: "#51cd8f"
 note: "1207 is the usual date for Sanudo's conquest. The duchy is ended in 1566, when the sultan replaced the Crispo duke with his own appointee, rather than at the formal annexation of 1579."
 transitions:
 - year: 1566

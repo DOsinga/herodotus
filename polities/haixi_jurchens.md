@@ -21,5 +21,7 @@ point:
   name: Songhua valley near Jilin
   latitude: 43.8381
   longitude: 126.5497
+colors:
+  1388: "#34b29d"
 note: "Treats the many Haixi guards and clans as one chiefdom. Starts in 1388, when the Ming first reached the Jurchens after Naghachu's surrender. Ends when Buyan founded Ula on the Songhua in 1561; Hada, Yehe and Hoifa, which grew from the same tribes, have no records."
 ---

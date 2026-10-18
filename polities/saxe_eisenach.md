@@ -22,7 +22,7 @@ point:
   latitude: 50.9744
   longitude: 10.3197
 colors:
-  1596: "#cda351"
+  1596: "#862737"
 note: "Three periods, each a separate grant to a branch of the Weimar Ernestines. On John Ernest's death in 1638 his lands were divided between Saxe-Weimar and Saxe-Altenburg."
 transitions:
 - year: 1596

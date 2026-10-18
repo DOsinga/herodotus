@@ -18,6 +18,8 @@ point:
   name: "Tus"
   latitude: 36.4792
   longitude: 59.5097
+colors:
+  1336: "#88b234"
 note: "No article covers the tribe's emirate; the record links the article on Togha Temür, whose commander Arghun Shah founded it. 1336 is an estimate from Togha Temür's rise; 1381 is the submission to Timur."
 transitions:
 - year: 1381

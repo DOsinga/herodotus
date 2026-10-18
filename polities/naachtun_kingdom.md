@@ -25,7 +25,7 @@ colors:
   150: "#349db2"
   509: "#349db2"
   534: "#cdb851"
-  788: "#cdb851"
-  813: "#b8cd51"
+  793: "#cdb851"
+  818: "#b8cd51"
 note: "150 estimates the early royal court from the Balam archaeological sequence. It continued through changing Tikal and Calakmul relationships into the Terminal Classic; these alliances are not automatically direct foreign administration. 1000 estimates the end of the Muuch phase, also dated about 950."
 ---

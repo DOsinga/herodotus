@@ -19,7 +19,7 @@ point:
   latitude: 37.63
   longitude: 22.72
 colors:
-  -750: "#277686"
+  -750: "#274786"
 note: "750 estimates the historical city state. Its Hellenistic tyrants governed the city themselves under Macedonian patronage. It joined the Achaean League in 229 BCE."
 transitions:
 - year: -229

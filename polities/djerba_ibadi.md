@@ -19,6 +19,8 @@ point:
   name: "Djerba"
   latitude: 33.8
   longitude: 10.8833
+colors:
+  1057: "#4934b2"
 note: "No article covers the island's government in these years, so the link goes to Djerba. Sources give 1134 or 1135 for the Norman conquest."
 transitions:
 - year: 1135

@@ -18,6 +18,8 @@ point:
   name: Chios
   latitude: 38.3725
   longitude: 26.1375
+colors:
+  1346: "#572786"
 note: "The Genoese company governed Chios itself, with its own podestà and council, whatever the state of the Republic of Genoa, so the island is given to the Maona rather than to Genoa."
 transitions:
 - year: 1566

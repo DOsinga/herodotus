@@ -19,6 +19,8 @@ point:
   name: Mantua
   latitude: 45.156
   longitude: 10.792
+colors:
+  1115: "#863727"
 note: "The Bonacolsi lordship of 1272–1328, which governed through the commune, is included rather than given a record of its own."
 transitions:
 - year: 1328

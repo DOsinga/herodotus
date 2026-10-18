@@ -12,7 +12,7 @@ point:
   latitude: 33.75
   longitude: 72.79
 colors:
-  -65: "#862747"
+  -65: "#862776"
 note: "Links the article on Hippostratus. Both dates are estimates from coins: his kingdom in the western Punjab, which Azes I conquered."
 transitions:
 - year: -65

@@ -19,6 +19,8 @@ point:
   name: Lakhnauti
   latitude: 24.871
   longitude: 88.141
+colors:
+  1287: "#51cdb8"
 note: "No English article covers the kingdom as a whole, so the link goes to its longest-reigning sultan. Firuz Shah may not have been of Balban's family, so the record is named after the capital rather than the dynasty."
 transitions:
 - year: 1287

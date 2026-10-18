@@ -22,6 +22,8 @@ point:
   longitude: 126.978
 colors:
   1392: "#864727"
+  1560: "#864727"
+  1585: "#51cda3"
 transitions:
 - year: 1897
   kind: succeeded_by

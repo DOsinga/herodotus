@@ -19,5 +19,7 @@ point:
   name: Pietroasele
   latitude: 45.1
   longitude: 26.567
+colors:
+  291: "#518fcd"
 note: "291 is the first mention of the name. The point is the site of the Gothic treasure of Pietroasele; no seat is known. Gothic rule over Transylvania is inferred from archaeology."
 ---

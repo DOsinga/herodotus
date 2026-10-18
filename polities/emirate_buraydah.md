@@ -19,6 +19,8 @@ point:
   name: Buraydah
   latitude: 26.3333
   longitude: 43.9667
+colors:
+  1863: "#278686"
 note: "Links the article on the Qassim region. 1863 estimates when Muhanna Aba al-Khayl took the emirate and stopped answering to Riyadh; the Aba al-Khayl briefly regained Buraydah in 1904 before it joined Ibn Saud's state."
 transitions:
 - year: 1890

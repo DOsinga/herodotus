@@ -22,9 +22,9 @@ point:
   latitude: 51.507
   longitude: -0.128
 colors:
-  1801: "#862747"
-  1891: "#862747"
-  1916: "#b23488"
+  1801: "#3488b2"
+  1876: "#3488b2"
+  1901: "#3449b2"
 note: "Includes British India from 1858, which was governed through a viceroy answerable to London."
 transitions:
 - year: 1922

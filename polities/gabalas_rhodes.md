@@ -18,6 +18,8 @@ point:
   name: Rhodes
   latitude: 36.4333
   longitude: 28.2167
+colors:
+  1204: "#278627"
 note: "Starts at the Fourth Crusade, though Rhodes was already under an independent ruler by 1203; Leo's death in the early 1240s is undated."
 transitions:
 - year: 1248

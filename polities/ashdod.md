@@ -15,8 +15,8 @@ point:
   longitude: 34.65
 colors:
   -1175: "#cd6651"
-  -757: "#cd6651"
-  -732: "#b2345e"
+  -750: "#cd6651"
+  -725: "#472786"
 note: "Links the article on the ancient city. 1175 BCE estimates the Philistine settlement; it was one of the five cities of the Philistines, each with its own ruler. Sargon II made it a province in 711 BCE; its own king Mitinti is attested again by 701 BCE. Nebuchadnezzar's campaigns ended it."
 transitions:
 - year: -711

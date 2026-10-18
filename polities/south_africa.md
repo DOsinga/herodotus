@@ -22,7 +22,7 @@ point:
   latitude: -25.7461
   longitude: 28.1881
 colors:
-  1910: "#cd5151"
+  1910: "#862727"
 note: "Starts with the Union in 1910: like the other dominions, its own responsible government ran its affairs, so Britain's control of foreign policy until the 1930s does not make it a protected state. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1910

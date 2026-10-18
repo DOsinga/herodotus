@@ -19,7 +19,7 @@ point:
   latitude: 35.2153
   longitude: 136.8435
 colors:
-  1555: "#51cdcd"
+  1467: "#49b234"
 note: "Before 1555 the record follows the Kiyosu house, which governed lower Owari for the Shiba, and the junior line of Nobuhide that came to dominate it; the Iwakura house of upper Owari is not counted. The seat was Kiyosu until 1563, Komaki until 1567 and Gifu afterwards. Links the article on the clan."
 transitions:
 - year: 1467

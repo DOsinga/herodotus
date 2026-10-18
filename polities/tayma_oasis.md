@@ -21,5 +21,7 @@ point:
   name: Tayma
   latitude: 27.6297
   longitude: 38.5439
+colors:
+  106: "#cd7a51"
 note: "Links the article on the oasis. The record covers the oasis's self-rule outside any state; its leaders changed over time, from Jewish families to Arab clans."
 ---

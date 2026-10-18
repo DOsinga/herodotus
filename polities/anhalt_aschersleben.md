@@ -19,6 +19,6 @@ point:
   latitude: 51.756
   longitude: 11.46
 colors:
-  1252: "#b234b2"
+  1252: "#8834b2"
 note: "The Bishop of Halberstadt took it in 1315; the prince-bishopric is not recorded."
 ---

@@ -20,5 +20,7 @@ point:
   name: Jiroft
   latitude: 28.6797
   longitude: 57.7447
+colors:
+  912: "#7acd51"
 note: "Links the article on the Ilyasids, which describes the tribes; the dates follow the years this record gives them Jiroft, though the tribes lived there before and after."
 ---

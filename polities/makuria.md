@@ -17,8 +17,6 @@ point:
   latitude: 18.223
   longitude: 30.744
 colors:
-  450: "#517acd"
-  945: "#517acd"
-  970: "#b851cd"
+  351: "#517acd"
 note: "The start follows the fall of Kush around 350; the kingdom itself is attested from the fifth or sixth century, and the earlier years stand for the post-Meroitic chiefs of the Dongola reach. Mamluk interventions installed several kings from 1276 but did not govern the kingdom directly. Ends when Old Dongola was abandoned in 1365; the rump kingdom of Dotawo, which lasted into the late 15th century, is not shown."
 ---

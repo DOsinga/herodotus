@@ -21,7 +21,7 @@ point:
   latitude: 53.907
   longitude: 13.031
 colors:
-  789: "#865727"
+  789: "#34b249"
 note: "The dates estimate separate tribal government before and after the Lutician federation. The point is representative rather than a fixed capital. 1060 estimates the Obotrite intervention in the 1057–1060 civil war, after which Circipania became a province of their realm rather than a separately governing member of the federation."
 transitions:
 - year: 983

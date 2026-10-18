@@ -19,7 +19,7 @@ point:
   latitude: -1.59
   longitude: 103.61
 colors:
-  1615: "#277686"
+  1500: "#277686"
 note: >-
   1500 estimates the break from Majapahit in the early sixteenth century, after which the same line
   governed Jambi; 1615 is the conventional date of the sultanate. After Jambi's attack on Dutch-held

@@ -20,9 +20,11 @@ point:
   latitude: 22.288
   longitude: 82.166
 colors:
-  1100: "#cdcd51"
-  1709: "#cdcd51"
-  1734: "#867627"
+  1100: "#a3cd51"
+  1175: "#a3cd51"
+  1200: "#cd5166"
+  1707: "#cd5166"
+  1732: "#34b2b2"
 note: "The start is an estimate for Jajalladeva I's de facto independence from Tripuri, and the record skips the earlier years as a vassal branch. The Raipur branch is not recorded separately. The Bhonsle conquest is dated 1741; the last Kalachuri held office under the Marathas until 1758."
 transitions:
 - year: 1741

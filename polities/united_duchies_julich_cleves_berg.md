@@ -20,7 +20,7 @@ point:
   latitude: 51.226
   longitude: 6.777
 colors:
-  1521: "#34b273"
+  1521: "#51b8cd"
 note: "After the War of the Jülich Succession, the Treaty of Xanten in 1614 gave Cleves and Mark to Brandenburg and Jülich and Berg to the Palatinate-Neuburg line, which has its own record as Jülich-Berg."
 transitions:
 - year: 1614

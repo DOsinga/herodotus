@@ -19,7 +19,7 @@ point:
   latitude: 34.555
   longitude: 69.207
 colors:
-  665: "#b2b234"
+  665: "#278627"
 note: "665 and 822 follow the conventional chronology of the Turk Shahi government and its overthrow by Kallar; older histories place the latter change around 850. Tributary relations did not replace the local kings. Kabul was the summer seat and Hund the winter seat."
 transitions:
 - year: 822

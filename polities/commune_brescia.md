@@ -19,6 +19,8 @@ point:
   name: Brescia
   latitude: 45.5417
   longitude: 10.2167
+colors:
+  1098: "#49b234"
 note: "Start estimated from the first consuls in the late eleventh century. Henry VII's hold after 1311 and John of Bohemia's lordship of 1330–1332 are not split out. The record links the city's article."
 transitions:
 - year: 1332

@@ -18,5 +18,7 @@ point:
   name: Marburg
   latitude: 50.81
   longitude: 8.7708
+colors:
+  1567: "#863727"
 note: "Ends with the division between Hesse-Kassel, which took Marburg, and Hesse-Darmstadt, which took Giessen, in 1604."
 ---

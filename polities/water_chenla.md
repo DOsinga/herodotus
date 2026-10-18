@@ -19,6 +19,8 @@ point:
   name: Vyadhapura (Ba Phnom)
   latitude: 11.23
   longitude: 105.39
+colors:
+  714: "#a3cd51"
 note: "Water Chenla is known from the Tang histories, not from inscriptions, and Vickery argued that the land and water division hides several small courts. 714 follows the end of the Chenla record after Queen Jayadevi's inscription of 713, and 802 is Jayavarman II's consolidation. Javanese overlordship in the late eighth century is not treated as Javanese government. The point follows Pelliot's identification of the capital with Vyadhapura; the Aninditapura court, which Coedès took for Water Chenla's, has its own record placed in the Angkor region. No article covers Water Chenla itself, so the link is to Chenla."
 transitions:
 - year: 802

@@ -19,9 +19,7 @@ point:
   latitude: -2.99
   longitude: 104.76
 colors:
-  1659: "#862737"
-  1786: "#862737"
-  1811: "#7334b2"
+  1547: "#862737"
 note: >-
   1547 estimates when Ki Gede ing Suro, a Demak noble, founded the court at Kuto Gawang after
   Trenggana's death; its rulers governed under Mataram's loose overlordship until Susuhunan

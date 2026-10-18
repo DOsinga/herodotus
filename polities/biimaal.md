@@ -19,5 +19,7 @@ point:
   name: "Merca"
   latitude: 1.7133
   longitude: 44.7656
+colors:
+  1700: "#b851cd"
 note: "1700 estimates when the Biimaal expelled the El Amir and took Merca, which the Merca article places some decades after 1650. The record ends with Zanzibar's garrison in Merca in 1871; the clan kept the hinterland and fought Italy from 1896 to 1926, which is not recorded."
 ---

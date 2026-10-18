@@ -20,7 +20,7 @@ point:
   latitude: 38.285
   longitude: 109.734
 colors:
-  617: "#518fcd"
+  617: "#34b249"
 note: "Guo's local kingship began with his 617 rebellion. Ends when he surrendered and accepted a Tang commandancy in 618; his later imperial offices and surname do not extend this royal polity to his death in 664."
 transitions:
 - year: 617

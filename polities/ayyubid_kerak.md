@@ -19,6 +19,8 @@ point:
   name: Kerak
   latitude: 31.1833
   longitude: 35.7
+colors:
+  1229: "#cd6651"
 note: "Links the article on its first emir. Starts when an-Nasir Dawud kept Kerak and Transjordan after losing Damascus in 1229; al-Mughith Umar held it from about 1250 until Baybars took it in 1263."
 transitions:
 - year: 1263

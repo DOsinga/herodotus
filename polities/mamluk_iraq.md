@@ -21,7 +21,7 @@ point:
   latitude: 33.3153
   longitude: 44.3661
 colors:
-  1704: "#49b234"
+  1704: "#b2b234"
 note: "Hasan Pasha and his son were not mamluks themselves, but the regime is conventionally dated from his appointment in 1704. The sultans confirmed each pasha but could rarely choose or remove him, so Istanbul did not govern until Ali Rıza Pasha removed Dawud Pasha in 1831. Mosul, under its own Jalili governors, is not included."
 transitions:
 - year: 1704

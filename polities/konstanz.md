@@ -18,6 +18,10 @@ point:
   name: Konstanz
   latitude: 47.6603
   longitude: 9.1758
+colors:
+  1250: "#865727"
+  1512: "#865727"
+  1537: "#b2345e"
 note: "Starts with the end of royal government in 1250. Ends in 1548, when Ferdinand of Austria took the city after the imperial ban."
 transitions:
 - year: 1548

@@ -14,7 +14,7 @@ point:
   latitude: 48.857
   longitude: 2.352
 colors:
-  1804: "#b23449"
+  1804: "#49b234"
 note: "The second period is Napoleon's Hundred Days (March–July 1815), when he governed France again."
 transitions:
 - year: 1814

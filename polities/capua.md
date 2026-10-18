@@ -25,7 +25,7 @@ point:
   latitude: 41.106
   longitude: 14.2128
 colors:
-  861: "#b8cd51"
+  861: "#b2349d"
 note: "861 is Pando's establishment of separate government from Salerno. The 899 union with Benevento does not automatically erase either separately governed court. This records actual local rule, with gaps for Roger II's conquests and the brief restorations of Robert II, not a continuous princely title to 1156."
 transitions:
 - year: 861

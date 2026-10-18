@@ -20,7 +20,7 @@ point:
   latitude: 52.5
   longitude: -6.5667
 colors:
-  450: "#5eb234"
+  450: "#b23473"
 note: "450 estimates the early historically attested Leinster kingdom, excluding the legendary ancient king list. After the Norman conquests the Mac Murchadha kings continued governing a much reduced native domain rather than all Leinster. Enniscorthy represents that later court region, not a fifth-century capital. The 1603 end follows the existing choice for loss of separate native government."
 transitions:
 - year: 1603

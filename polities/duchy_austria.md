@@ -20,7 +20,9 @@ point:
   latitude: 48.208
   longitude: 16.372
 colors:
-  1278: "#863727"
+  1278: "#cd6651"
+  1370: "#cd6651"
+  1395: "#34b234"
 note: "Starts when Rudolf of Habsburg defeated Ottokar II at the Marchfeld in 1278. After the Babenbergs died out in 1246, imperial governors held Austria and from 1251 Ottokar ruled it as part of Bohemia. From the 1379 Treaty of Neuberg this record follows the Albertine line in Austria proper; the Leopoldine lands have their own records."
 transitions:
 - year: 1453

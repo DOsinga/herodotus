@@ -22,7 +22,7 @@ point:
   latitude: 6.5
   longitude: 7.5
 colors:
-  1967: "#b25e34"
+  1967: "#5166cd"
 transitions:
 - year: 1967
   kind: broke_away_from

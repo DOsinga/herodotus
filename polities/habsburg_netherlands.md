@@ -20,7 +20,7 @@ point:
   latitude: 50.8467
   longitude: 4.3525
 colors:
-  1482: "#51cd8f"
+  1482: "#345eb2"
 note: "Ends in 1556, when Philip II inherited the Netherlands. From 1559 they were governed from Madrid through appointed governors, so they count as part of the Spanish Monarchy, and the northern provinces that broke away in 1581 as the Dutch Republic."
 transitions:
 - year: 1556

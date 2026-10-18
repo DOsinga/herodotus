@@ -19,6 +19,8 @@ point:
   name: Bikrampur
   latitude: 23.5505
   longitude: 90.4935
+colors:
+  1050: "#9d34b2"
 note: "Both dates are estimates. Jatavarman's rise is placed between 1050 and 1075 from his marriage to Karna's daughter and his war with the Kaivarta chief Divya; the end follows Vijayasena's conquest of Bikrampur, usually put around 1150."
 transitions:
 - year: 1150

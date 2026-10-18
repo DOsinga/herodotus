@@ -22,8 +22,6 @@ point:
   longitude: 129.2247
 colors:
   -57: "#cd51b8"
-  690: "#cd51b8"
-  715: "#6651cd"
 note: "57 BCE is the traditional, not securely established, founding date. The kingdom's growth from a chiefdom and conquest of neighbouring states did not create a second Silla polity. Its surviving royal government surrendered to Goryeo in 935."
 transitions:
 - year: 935

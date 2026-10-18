@@ -21,6 +21,8 @@ point:
   name: Verona
   latitude: 45.439
   longitude: 10.993
+colors:
+  1136: "#cd51b8"
 note: "The gap is Ezzelino da Romano's lordship of 1226–1259."
 transitions:
 - year: 1226

@@ -22,6 +22,8 @@ point:
   longitude: -76.1558
 colors:
   1450: "#88b234"
+  1613: "#88b234"
+  1638: "#b24934"
 note: "The founding date is uncertain, with proposals from 1142 to about 1600; 1450 is a common middle estimate. Ends with the Treaty of Fort Stanwix of 1784, after which the confederacy's council fire divided between New York and the Grand River in Canada."
 transitions:
 - year: 1784

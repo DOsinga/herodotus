@@ -22,8 +22,6 @@ point:
   longitude: 39.5333
 colors:
   1270: "#862747"
-  1857: "#862747"
-  1882: "#472786"
 note: "Gap for the Italian occupation of 1936–1941."
 transitions:
 - year: 1936

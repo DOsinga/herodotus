@@ -19,7 +19,7 @@ point:
   latitude: 34.6743
   longitude: 132.7096
 colors:
-  1554: "#b851cd"
+  1554: "#b29d34"
 note: "Begins with Motonari's break with Sue Harukata in 1554; before that the Mōri served the Ōuchi or the Amago. Ends with the border settlement of 1585, when Terumoto joined Hideyoshi's Shikoku campaign as a vassal. The seat moved to Hiroshima in 1591. Links the article on the clan."
 transitions:
 - year: 1554

@@ -20,6 +20,8 @@ point:
   name: Marchfeld
   latitude: 48.25
   longitude: 16.7
+colors:
+  454: "#3449b2"
 note: "A chiefdom, because the evidence shows a warrior people under kings but little of a government. The extent and the date of the Lombard victory, given between 493 and 511, are estimates. The Marchfeld stands for their land north of the Danube."
 transitions:
 - year: 508

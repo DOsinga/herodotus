@@ -18,6 +18,8 @@ point:
   name: Solothurn
   latitude: 47.2088
   longitude: 7.5323
+colors:
+  1250: "#276786"
 note: "Starts with the end of royal government in 1250. Ends with its admission to the Confederacy at the Diet of Stans in 1481."
 transitions:
 - year: 1481

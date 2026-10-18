@@ -19,7 +19,7 @@ point:
   latitude: 37.22
   longitude: -6.95
 colors:
-  1012: "#472786"
+  1012: "#277686"
 note: "1012 estimates its independence; Seville took it in 1051."
 transitions:
 - year: 1051

@@ -19,5 +19,7 @@ point:
   name: "Lower Dnieper steppe"
   latitude: 47.5
   longitude: 34.0
+colors:
+  895: "#b234b2"
 note: "Both dates are estimates: the crossing of the Volga around 895 and the defeat at Levounion in 1091. The point is approximate; the tribes had no capital."
 ---
