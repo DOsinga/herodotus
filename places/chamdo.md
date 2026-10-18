@@ -13,7 +13,8 @@ control:
   importance: 2
 - start: 843
   end: 1252
-  ungoverned: "Era of Fragmentation: no government of this area is recorded between the fall of the Tibetan Empire and the Mongol conquest; Kham was a patchwork of clans and chiefdoms."
+  polity: kham_lords
+  importance: 2
 - start: 1253
   end: 1270
   polity: mongol_empire
@@ -24,7 +25,8 @@ control:
   importance: 2
 - start: 1368
   end: 1436
-  ungoverned: "No ruler of Chamdo is recorded between the end of Yuan rule and the founding of Jampaling monastery in 1437."
+  polity: kham_lords
+  importance: 2
 - start: 1437
   end: 1641
   polity: chamdo_lama_state

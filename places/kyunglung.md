@@ -16,7 +16,8 @@ control:
   importance: 2
 - start: 843
   end: 929
-  ungoverned: "Era of Fragmentation: no government of this area is recorded between the fall of the Tibetan Empire and Kyide Nyimagon's arrival in western Tibet and the founding of Guge."
+  polity: ngari_lords
+  importance: 3
 - start: 930
   end: null
   follows: tsaparang

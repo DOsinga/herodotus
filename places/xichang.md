@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Xichang
 point:
   latitude: 27.8944
   longitude: 102.2644
-note: "Cheng-Han's hold on Yuexi from 317 is an estimate; it held the commandery by the 310s."
+note: "Cheng-Han's hold on Yuexi from 317 is an estimate; it held the commandery by the 310s. The Cuan from 479 to 536 is an estimate: Southern Qi gave Yuexi up to the local peoples, and the Cuan of Yunnan were the nearest power."
 control:
 - start: -111
   end: 8
@@ -53,7 +53,8 @@ control:
   importance: 2
 - start: 479
   end: 536
-  ungoverned: "Southern Qi gave up Yuexi commandery to the local peoples; Liang set up Xizhou here in 537."
+  polity: cuan
+  importance: 1
 - start: 537
   end: 552
   polity: liang_dynasty

@@ -13,7 +13,8 @@ control:
   importance: 2
 - start: 843
   end: 1246
-  ungoverned: "Era of Fragmentation: no government of this area is recorded between the fall of the Tibetan Empire and the Mongol conquest; the northern pastures had no recorded ruler."
+  polity: u_tsang_lords
+  importance: 2
 - start: 1247
   end: 1270
   polity: mongol_empire

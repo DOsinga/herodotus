@@ -17,14 +17,16 @@ control:
   importance: 2
 - start: 843
   end: 1007
-  ungoverned: "Era of Fragmentation: no government of this area is recorded between the fall of the Tibetan Empire and Tsongkha; Tibetan herders held the lake pastures without a recorded state."
+  polity: amdo_lords
+  importance: 2
 - start: 1008
   end: 1103
   polity: tsongkha
   importance: 2
 - start: 1104
   end: 1246
-  ungoverned: "After the Song annexed Tsongkha, the Song, Jin and Xia held Xining but not the pastures south of Qinghai Lake, where Tibetan herders had no recorded state."
+  polity: amdo_lords
+  importance: 2
 - start: 1247
   end: 1270
   polity: mongol_empire

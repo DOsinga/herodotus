@@ -113,7 +113,7 @@ control:
   importance: 2
 - start: 1447
   end: 1714
-  ungoverned: "After the Shazhou Mongols fled from Esen in 1446 the oasis was left to passing nomads; the Ming withdrew its last client tribes behind Jiayu Pass in the 1520s, and the old city lay in ruins until the Qing returned."
+  ungoverned: "The town lay in ruins from the flight of the Shazhou Mongols before Esen in 1446 until the Qing rebuilt it, with the oasis left to passing nomads; the Ming withdrew its last client tribes behind Jiayu Pass in the 1520s."
 - start: 1725
   end: 1911
   polity: qing_dynasty

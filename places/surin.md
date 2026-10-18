@@ -13,7 +13,7 @@ control:
   importance: 2
 - start: 1431
   end: 1762
-  ungoverned: "The Khorat Plateau was largely depopulated after Angkor's decline; Kuy settlers came back from 1717 and their chief moved to the old moated site in 1763."
+  ungoverned: "The moated town was abandoned when the Khorat Plateau was depopulated after Angkor's decline; Kuy settlers came back from 1717 and their chief moved to the old moated site in 1763."
 - start: 1763
   end: 1766
   polity: ayutthaya_kingdom

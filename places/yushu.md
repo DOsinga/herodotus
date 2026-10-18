@@ -17,7 +17,8 @@ control:
   importance: 2
 - start: 843
   end: 1174
-  ungoverned: "Era of Fragmentation: no government of this area is recorded between the fall of the Tibetan Empire and the founding of Nangchen in 1175."
+  polity: kham_lords
+  importance: 2
 - start: 1175
   end: 1252
   polity: kingdom_nangchen

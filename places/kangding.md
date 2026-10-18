@@ -13,7 +13,8 @@ control:
   importance: 2
 - start: 843
   end: 1252
-  ungoverned: "Era of Fragmentation: no government of this area is recorded between the fall of the Tibetan Empire and the Mongol conquest; the Chakla house appears only in the thirteenth century."
+  polity: kham_lords
+  importance: 2
 - start: 1253
   end: 1270
   polity: mongol_empire

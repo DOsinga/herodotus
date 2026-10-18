@@ -12,7 +12,8 @@ control:
   importance: 2
 - start: -46
   end: 534
-  ungoverned: "Han gave up Hainan in 46 BCE; the Li peoples had no state, and Zhuya commandery was governed from the mainland until Lady Xian brought the island back about 535."
+  polity: li_chiefs_hainan
+  importance: 2
 - start: 535
   end: 556
   polity: liang_dynasty

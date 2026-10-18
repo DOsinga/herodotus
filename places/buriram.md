@@ -13,7 +13,7 @@ control:
   importance: 2
 - start: 1431
   end: 1759
-  ungoverned: "The Khorat Plateau was largely depopulated after Angkor's decline; the town reappears as Mueang Pae late in the Ayutthaya period."
+  ungoverned: "Abandoned when the Khorat Plateau was largely depopulated after Angkor's decline; the town reappears as Mueang Pae late in the Ayutthaya period."
 - start: 1760
   end: 1766
   polity: ayutthaya_kingdom

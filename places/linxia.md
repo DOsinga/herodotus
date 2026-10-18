@@ -96,7 +96,8 @@ control:
   importance: 2
 - start: 882
   end: 1007
-  ungoverned: "After Guiyi lost its hold on the upper Yellow River around 881, Tibetan tribes without a recorded state held the area until Gusiluo's Tsongkha."
+  polity: amdo_lords
+  importance: 2
 - start: 1008
   end: 1071
   polity: tsongkha
