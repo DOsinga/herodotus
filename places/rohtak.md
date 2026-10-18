@@ -18,6 +18,26 @@ control:
   end: 499
   polity: gupta_empire
   importance: 2
+- start: 500
+  end: 646
+  polity: thanesar_kingdom
+  importance: 2
+- start: 647
+  end: 835
+  polity: kannauj_kingdom
+  importance: 2
+- start: 836
+  end: 949
+  polity: gurjara_pratihara_empire
+  importance: 2
+- start: 950
+  end: 1155
+  polity: tomara_delhi
+  importance: 2
+- start: 1156
+  end: 1191
+  polity: chahamana_shakambhari
+  importance: 2
 - start: 1192
   end: 1205
   polity: ghurid_sultanate

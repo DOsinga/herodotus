@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Pataliputra
 point:
   latitude: 25.61
   longitude: 85.14
-note: "Pataliputra is the ancient city under modern Patna, which Sher Shah refounded in 1541. Between the Palas and the Ghurids, and from 1495 to 1537 under the Bengal sultans and the Nuhani rulers of Bihar, it is left as a gap."
+note: "Pataliputra is the ancient city under modern Patna, which Sher Shah refounded in 1541. The Mitra kings of Kosambi held Magadha around the Kushan period, and the Kushan hold rests on the Rabatak inscription; both are estimates. After the Palas the Gahadavalas, whose inscriptions reach western Bihar, are given the city until the Ghurids, while Pala successors ruled around Gaya. The Lodi governors held Bihar from 1495; the Nuhani rulers and Sher Khan from 1526 to 1537 have no record."
 control:
 - start: -460
   end: -323
@@ -22,6 +22,18 @@ control:
 - start: -73
   end: -29
   polity: kanva_dynasty
+  importance: 3
+- start: -28
+  end: 99
+  polity: kingdom_kosambi
+  importance: 3
+- start: 100
+  end: 230
+  polity: kushan_empire
+  importance: 3
+- start: 231
+  end: 239
+  polity: kingdom_kosambi
   importance: 3
 - start: 240
   end: 489
@@ -47,6 +59,10 @@ control:
   end: 1160
   polity: pala_empire
   importance: 3
+- start: 1161
+  end: 1194
+  polity: gahadavala_dynasty
+  importance: 2
 - start: 1197
   end: 1205
   polity: ghurid_sultanate
@@ -60,7 +76,7 @@ control:
   polity: jaunpur_sultanate
   importance: 2
 - start: 1479
-  end: 1494
+  end: 1525
   polity: delhi_sultanate
   importance: 2
 - start: 1538

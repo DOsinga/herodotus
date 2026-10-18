@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Skardu
 point:
   latitude: 35.2903
   longitude: 75.6444
-note: "The Maqpon rajas of Baltistan governed Skardu without a record until Zorawar Singh's conquest of 1840. The Indian garrison held out until August 1948."
+note: "The Maqpon founding is dated by tradition to the twelfth century; 1150 is an estimate. The town itself is said to have been laid out as the Maqpon capital around 1500. The Indian garrison held out until August 1948."
 control:
 - start: 600
   end: 752
@@ -19,6 +19,13 @@ control:
   end: 842
   polity: tibetan_empire
   importance: 2
+- start: 843
+  end: 1149
+  ungoverned: Small Balti valley chiefdoms after Tibetan rule ended, none of them recorded, until the Maqpon kingdom.
+- start: 1150
+  end: 1839
+  polity: kingdom_skardu
+  importance: 3
 - start: 1840
   end: 1845
   polity: sikh_empire

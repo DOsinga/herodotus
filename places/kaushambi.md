@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kaushambi
 point:
   latitude: 25.34
   longitude: 81.39
-note: "The Vatsa kingdom and the later Magha kings of Kaushambi have no records. The city was in ruins by the seventh century."
+note: "The Mitra kings ruled Kosambi after the Shungas and the Magha kings after the Kushans; both are dated from coins and inscriptions. The city was in ruins by the seventh century."
 control:
 - start: -350
   end: -323
@@ -19,11 +19,19 @@ control:
   end: -74
   polity: shunga_empire
   importance: 2
+- start: -73
+  end: 99
+  polity: kingdom_kosambi
+  importance: 3
 - start: 100
   end: 230
   polity: kushan_empire
   importance: 2
-- start: 320
+- start: 231
+  end: 349
+  polity: kingdom_kosambi
+  importance: 3
+- start: 350
   end: 549
   polity: gupta_empire
   importance: 2

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Farah,_Afghanistan
 point:
   latitude: 32.3436
   longitude: 62.1194
+note: "After Sanjar's fall in 1153 Farah is given to the maliks of Sistan until the Ghurids took Herat in 1175; that division is an estimate. The Kartids of Herat held Farah from the Mongol period until Timur."
 control:
 - start: -545
   end: -331
@@ -74,15 +75,39 @@ control:
   end: 1152
   polity: seljuk_khorasan
   importance: 2
+- start: 1153
+  end: 1174
+  polity: nasrid_sistan
+  importance: 2
+- start: 1175
+  end: 1212
+  polity: ghurid_sultanate
+  importance: 2
+- start: 1213
+  end: 1220
+  polity: khwarazmian_empire
+  importance: 2
 - start: 1221
   end: 1259
   polity: mongol_empire
+  importance: 2
+- start: 1260
+  end: 1381
+  polity: kartid_state
   importance: 2
 - start: 1383
   end: 1447
   polity: timurid_empire
   importance: 2
-- start: 1537
+- start: 1448
+  end: 1506
+  polity: timurid_empire
+  importance: 2
+- start: 1507
+  end: 1509
+  polity: khanate_bukhara
+  importance: 2
+- start: 1510
   end: 1721
   polity: safavid_iran
   importance: 2

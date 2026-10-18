@@ -11,6 +11,9 @@ control:
   end: 1535
   polity: dimasa_kingdom
   importance: 3
+- start: 1536
+  end: 1902
+  ungoverned: "Abandoned after the Ahom sack of 1536 until the railway town grew in the 1900s."
 - start: 1903
   end: 1921
   polity: united_kingdom_gbi

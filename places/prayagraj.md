@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Prayagraj
 point:
   latitude: 25.4358
   longitude: 81.8464
-note: "Akbar founded Allahabad beside old Prayag in 1575. The emperor Shah Alam II held it from 1765 to 1772."
+note: "Akbar founded Allahabad beside old Prayag in 1575. The Kalachuri king Gangeyadeva died at Prayag in 1041. The emperor Shah Alam II held it from 1765 to 1772."
 control:
 - start: -491
   end: -323
@@ -18,6 +18,18 @@ control:
 - start: -185
   end: -74
   polity: shunga_empire
+  importance: 2
+- start: -73
+  end: 99
+  polity: kingdom_kosambi
+  importance: 2
+- start: 100
+  end: 230
+  polity: kushan_empire
+  importance: 2
+- start: 231
+  end: 319
+  polity: kingdom_kosambi
   importance: 2
 - start: 320
   end: 549
@@ -38,6 +50,10 @@ control:
 - start: 836
   end: 1018
   polity: gurjara_pratihara_empire
+  importance: 2
+- start: 1019
+  end: 1088
+  polity: kalachuri_tripuri
   importance: 2
 - start: 1089
   end: 1193

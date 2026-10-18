@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Sagala
 point:
   latitude: 32.4925
   longitude: 74.5311
-note: "Sagala is the ancient city under modern Sialkot. Mihirakula ruled from Sakala in the early sixth century. Between the Alchons and the Ghurids it has no record."
+note: "Sagala is the ancient city under modern Sialkot. Mihirakula ruled from Sakala in the early sixth century. The Kidarite span assumes the Taxila rulers who fled the Alchons to Sakala around 460 were Kidarites. The Takka dates are estimates, and Hindu Shahi and Ghaznavid rule follow Lahore's; the Hindu Shahis moved their court to Sialkot after losing Lahore. Muhammad of Ghor took the city in 1185."
 control:
 - start: -326
   end: -317
@@ -35,10 +35,26 @@ control:
   end: 374
   polity: kushan_empire
   importance: 2
+- start: 375
+  end: 459
+  polity: kidarite_kingdom
+  importance: 2
 - start: 460
   end: 569
   polity: alchon_kingdom
   importance: 3
+- start: 570
+  end: 964
+  polity: takka_kingdom
+  importance: 3
+- start: 965
+  end: 1025
+  polity: hindu_shahi_kingdom
+  importance: 2
+- start: 1026
+  end: 1185
+  polity: ghaznavid_empire
+  importance: 2
 - start: 1186
   end: 1205
   polity: ghurid_sultanate

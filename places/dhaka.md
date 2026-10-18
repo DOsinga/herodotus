@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Dhaka
 point:
   latitude: 23.7644
   longitude: 90.3889
-note: "The Bara-Bhuiyan chiefs held the Dhaka region from 1576 until the Mughals made it the capital of Bengal in 1610."
 control:
 - start: 1450
   end: 1538
@@ -18,6 +17,10 @@ control:
 - start: 1554
   end: 1575
   polity: bengal_sultanate
+  importance: 2
+- start: 1576
+  end: 1609
+  polity: bhati
   importance: 2
 - start: 1610
   end: 1716

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ujjain
 point:
   latitude: 23.17
   longitude: 75.79
-note: "Ujjain was the early Gurjara-Pratihara seat; Siyaka's Paramaras took Malwa around 950."
+note: "The Shungas and then the Satavahanas ruled Ujjain after the Mauryas; the changeover is an estimate. Kharagraha I's grant of 616 shows Ujjain in Maitraka hands; how long they held it before the Pratiharas is not known. Ujjain was the early Gurjara-Pratihara seat; Siyaka's Paramaras took Malwa around 950."
 control:
 - start: -700
   end: -401
@@ -19,6 +19,14 @@ control:
   end: -186
   polity: maurya_empire
   importance: 3
+- start: -185
+  end: -74
+  polity: shunga_empire
+  importance: 3
+- start: -73
+  end: 34
+  polity: satavahana_empire
+  importance: 3
 - start: 35
   end: 414
   polity: western_satraps
@@ -30,6 +38,10 @@ control:
 - start: 550
   end: 624
   polity: kalachuri_mahishmati
+  importance: 2
+- start: 625
+  end: 729
+  polity: maitraka_valabhi
   importance: 2
 - start: 730
   end: 949

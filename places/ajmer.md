@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ajmer
 point:
   latitude: 26.4499
   longitude: 74.6399
-note: "Ajayaraja founded Ajmer around 1113. Mewar held it in the first half of the fifteenth century and again under Rana Sanga; Marwar held it briefly in the eighteenth century."
+note: "Ajayaraja founded Ajmer around 1113. Mewar took Ajmer after the Tughluq collapse and held it until Mahmud Khalji of Malwa took it in 1455; Rana Raimal's governor held it again from 1506. Gujarat and Biram Dev of Merta held it briefly before Maldeo of Marwar in 1535."
 control:
 - start: 1113
   end: 1193
@@ -19,9 +19,21 @@ control:
   end: 1397
   polity: delhi_sultanate
   importance: 3
+- start: 1398
+  end: 1454
+  polity: kingdom_mewar
+  importance: 2
 - start: 1455
   end: 1504
   polity: malwa_sultanate
+  importance: 2
+- start: 1505
+  end: 1532
+  polity: kingdom_mewar
+  importance: 2
+- start: 1533
+  end: 1534
+  polity: gujarat_sultanate
   importance: 2
 - start: 1535
   end: 1558

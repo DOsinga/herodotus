@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mathura
 point:
   latitude: 27.4925
   longitude: 77.6736
-note: "Mahmud of Ghazni sacked Mathura in 1018; from then until the Ghurids it has no record."
+note: "Mahmud of Ghazni sacked Mathura in 1018. The Yadava kings of Bayana, who claimed to come from Mathura, are given the city until the Ghurids; a Mathura inscription of 1150 names their king Vijayapala, but the extent of their rule is an estimate."
 control:
 - start: -350
   end: -323
@@ -15,6 +15,14 @@ control:
   end: -186
   polity: maurya_empire
   importance: 2
+- start: -185
+  end: -151
+  polity: shunga_empire
+  importance: 2
+- start: -150
+  end: -61
+  polity: mitra_mathura
+  importance: 3
 - start: -60
   end: 89
   polity: northern_satraps
@@ -46,6 +54,10 @@ control:
 - start: 836
   end: 1018
   polity: gurjara_pratihara_empire
+  importance: 2
+- start: 1040
+  end: 1191
+  polity: bayana_kingdom
   importance: 2
 - start: 1192
   end: 1205

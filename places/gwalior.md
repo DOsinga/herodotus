@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Gwalior
 point:
   latitude: 26.2125
   longitude: 78.1775
-note: "The Kachchhapaghata rulers before the Ghurids have no record. The Scindias made Gwalior their capital in 1810."
+note: "Yashodharman's defeat of the Alchons and the following changes of hand are estimates. The Kachchhapaghatas held Gwalior as Chandela vassals from about 975 and on their own account from about 1035. Parihara chiefs held the fort from Aibak's death in 1210 until Iltutmish took it in 1232. The Scindias made Gwalior their capital in 1810."
 control:
 - start: 350
   end: 509
@@ -15,13 +15,45 @@ control:
   end: 530
   polity: alchon_kingdom
   importance: 2
+- start: 531
+  end: 545
+  polity: aulikara_dashapura
+  importance: 2
+- start: 546
+  end: 605
+  polity: maukhari_kannauj
+  importance: 2
+- start: 606
+  end: 646
+  polity: thanesar_kingdom
+  importance: 2
+- start: 647
+  end: 749
+  polity: kannauj_kingdom
+  importance: 2
+- start: 750
+  end: 835
+  polity: gurjara_pratihara_empire
+  importance: 2
 - start: 836
   end: 949
   polity: gurjara_pratihara_empire
   importance: 2
+- start: 950
+  end: 1034
+  polity: chandela_jejakabhukti
+  importance: 2
+- start: 1035
+  end: 1195
+  polity: kachchhapaghata_gwalior
+  importance: 3
 - start: 1196
   end: 1205
   polity: ghurid_sultanate
+  importance: 2
+- start: 1206
+  end: 1209
+  polity: delhi_sultanate
   importance: 2
 - start: 1232
   end: 1393

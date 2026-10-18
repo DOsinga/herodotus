@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Banbhore
 point:
   latitude: 24.7514
   longitude: 67.5213
-note: "Banbhore is usually identified with Debal, where the Arab conquest of Sindh began in 712. The Periplus places Parthian princes in the lower Indus in the first century, so the Indo-Parthian kingdom keeps the delta after losing Gandhara; the earlier Saka hold and both end dates are estimates. The port was abandoned in the thirteenth century; 1250 is an estimate."
+note: "Banbhore is usually identified with Debal, where the Arab conquest of Sindh began in 712. The Periplus places Parthian princes in the lower Indus in the first century, so the Indo-Parthian kingdom keeps the delta after losing Gandhara; the earlier Saka hold and both end dates are estimates. Sasanian rule of the delta from 227 to 488 rests on the claims of Shapur I and Shapur II to Sindh in their inscriptions; who governed the port in the later fifth century is unknown. The port was abandoned in the thirteenth century; 1250 is an estimate."
 control:
 - start: -80
   end: 18
@@ -14,6 +14,10 @@ control:
 - start: 19
   end: 226
   polity: indo_parthian_kingdom
+  importance: 2
+- start: 227
+  end: 488
+  polity: sasanian_empire
   importance: 2
 - start: 489
   end: 711

@@ -5,8 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Sonargaon
 point:
   latitude: 23.6475
   longitude: 90.5978
-note: "Fakhruddin Mubarak Shah ruled Sonargaon independently from 1338, and Isa Khan and the Bara-Bhuiyan chiefs held it from 1576 to 1611; neither has a record."
+note: "Dasharathadeva moved the Deva seat here from Bikrampur around 1280, an estimate. Fakhruddin Mubarak Shah ruled Sonargaon independently from 1338 without a record."
 control:
+- start: 1281
+  end: 1300
+  polity: deva_bengal
+  importance: 3
+- start: 1301
+  end: 1323
+  polity: lakhnauti_sultanate
+  importance: 2
 - start: 1324
   end: 1337
   polity: delhi_sultanate
@@ -22,6 +30,10 @@ control:
 - start: 1554
   end: 1575
   polity: bengal_sultanate
+  importance: 3
+- start: 1576
+  end: 1610
+  polity: bhati
   importance: 3
 - start: 1611
   end: 1716

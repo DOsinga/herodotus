@@ -14,6 +14,10 @@ control:
   end: 545
   polity: aulikara_dashapura
   importance: 3
+- start: 546
+  end: 1304
+  follows: ujjain
+  importance: 2
 - start: 1305
   end: 1400
   polity: delhi_sultanate

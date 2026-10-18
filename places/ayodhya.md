@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ayodhya
 point:
   latitude: 26.7992
   longitude: 82.2044
-note: "The point also stands for Faizabad beside it, the capital of Oudh from 1765 to 1775."
+note: "The Deva, Datta and Mitra kings of Kosala ruled from Saketa after the Shungas and around the Kushans. Between the Pratiharas and the Gahadavalas the town is given to the Kalachuris of Tripuri, an estimate from Gahadavala inscriptions that place their rise after Kalachuri decline. The point also stands for Faizabad beside it, the capital of Oudh from 1765 to 1775."
 control:
 - start: -700
   end: -492
@@ -23,10 +23,18 @@ control:
   end: -74
   polity: shunga_empire
   importance: 2
+- start: -73
+  end: 99
+  polity: kosala_saketa
+  importance: 3
 - start: 100
   end: 230
   polity: kushan_empire
   importance: 2
+- start: 231
+  end: 319
+  polity: kosala_saketa
+  importance: 3
 - start: 320
   end: 549
   polity: gupta_empire
@@ -46,6 +54,10 @@ control:
 - start: 836
   end: 1018
   polity: gurjara_pratihara_empire
+  importance: 2
+- start: 1019
+  end: 1088
+  polity: kalachuri_tripuri
   importance: 2
 - start: 1089
   end: 1193

@@ -15,6 +15,10 @@ control:
   end: -187
   polity: maurya_empire
   importance: 2
+- start: -186
+  end: 18
+  follows: kandahar
+  importance: 2
 - start: 19
   end: 225
   polity: indo_parthian_kingdom
@@ -23,6 +27,10 @@ control:
   end: 650
   polity: sasanian_empire
   importance: 2
+- start: 651
+  end: 679
+  follows: kandahar
+  importance: 2
 - start: 680
   end: 869
   polity: zunbil_kingdom
@@ -30,6 +38,10 @@ control:
 - start: 870
   end: 900
   polity: saffarid_emirate
+  importance: 2
+- start: 901
+  end: 976
+  follows: kandahar
   importance: 2
 - start: 977
   end: 1149
@@ -47,9 +59,17 @@ control:
   end: 1259
   polity: mongol_empire
   importance: 2
+- start: 1260
+  end: 1381
+  follows: kandahar
+  importance: 2
 - start: 1383
   end: 1478
   polity: timurid_empire
+  importance: 2
+- start: 1479
+  end: 1506
+  follows: kandahar
   importance: 2
 - start: 1520
   end: 1521

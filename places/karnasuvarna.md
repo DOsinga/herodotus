@@ -15,6 +15,9 @@ control:
   end: 650
   polity: kingdom_kamarupa
   importance: 2
+- start: 651
+  end: 749
+  ungoverned: "The Matsyanyaya, the century of disorder in Gauda between the collapse of Shashanka's kingdom and the election of Gopala, with no lasting government."
 - start: 750
   end: 1160
   polity: pala_empire

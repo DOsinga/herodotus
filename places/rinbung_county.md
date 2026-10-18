@@ -10,6 +10,9 @@ control:
   end: 842
   polity: tibetan_empire
   importance: 2
+- start: 843
+  end: 1246
+  ungoverned: "The Era of Fragmentation: no state governed central Tibet between the fall of the Tibetan Empire and the Mongol conquest."
 - start: 1247
   end: 1270
   polity: mongol_empire

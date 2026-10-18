@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Alexandria_in_the_Caucasus
 point:
   latitude: 34.97
   longitude: 69.29
-note: "Alexandria in the Caucasus and Kapisa, near modern Bagram, were the summer capital of the Kushans and the seat of the Nezak and early Turk Shahi kings."
+note: "Alexandria in the Caucasus and Kapisa, near modern Bagram, were the capital of Hermaeus, the summer capital of the Kushans and the seat of the Nezak and early Turk Shahi kings. The Yuezhi conquest of about 70 BCE, the Alchon takeover of about 385 and the Hindu Shahi return of about 900 are estimates."
 control:
 - start: -329
   end: -306
@@ -27,10 +27,22 @@ control:
   end: -71
   polity: indo_greek_paropamisadae
   importance: 3
+- start: -70
+  end: 29
+  polity: yuezhi
+  importance: 2
 - start: 30
   end: 375
   polity: kushan_empire
   importance: 3
+- start: 376
+  end: 384
+  polity: sasanian_empire
+  importance: 2
+- start: 385
+  end: 483
+  polity: alchon_kingdom
+  importance: 2
 - start: 484
   end: 664
   polity: nezak_kingdom
@@ -44,8 +56,12 @@ control:
   polity: hindu_shahi_kingdom
   importance: 2
 - start: 870
-  end: 879
+  end: 899
   polity: saffarid_emirate
+  importance: 2
+- start: 900
+  end: 976
+  polity: hindu_shahi_kingdom
   importance: 2
 - start: 977
   end: 1149

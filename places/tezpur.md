@@ -11,6 +11,10 @@ control:
   end: 1140
   polity: kingdom_kamarupa
   importance: 3
+- start: 1141
+  end: 1529
+  polity: baro_bhuyans_assam
+  importance: 2
 - start: 1530
   end: 1821
   polity: ahom_kingdom
