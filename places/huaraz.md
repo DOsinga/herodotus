@@ -11,6 +11,14 @@ control:
   end: 1000
   polity: chinchawas_polity
   importance: 2
+- start: 1001
+  end: 1099
+  polity: wari_empire
+  importance: 2
+- start: 1100
+  end: 1459
+  polity: kingdom_huaylas
+  importance: 2
 - start: 1460
   end: 1532
   polity: inca_empire

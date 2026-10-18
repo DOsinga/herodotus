@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Mafia_Island
 point:
   latitude: -7.85
   longitude: 39.7833
-note: "1200 estimates when Kilwa took the island."
+note: "1200 estimates when Kilwa took the island. Until 1855 it went with Kilwa, under its sultans and then under Oman."
 control:
 - start: 1200
   end: 1513
   polity: kilwa_sultanate
+  importance: 2
+- start: 1514
+  end: 1855
+  follows: kilwa_kisiwani
   importance: 2
 - start: 1856
   end: 1889

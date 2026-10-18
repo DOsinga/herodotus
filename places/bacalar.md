@@ -10,6 +10,9 @@ control:
   end: 1651
   polity: spanish_monarchy
   importance: 2
+- start: 1652
+  end: 1728
+  ungoverned: "Abandoned after pirate raids in the 1650s until Spain resettled it and built the fort of San Felipe in 1729."
 - start: 1729
   end: 1807
   polity: bourbon_spain

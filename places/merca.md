@@ -10,6 +10,10 @@ control:
   end: 1700
   polity: ajuran_sultanate
   importance: 2
+- start: 1701
+  end: 1870
+  polity: biimaal
+  importance: 2
 - start: 1871
   end: 1889
   polity: sultanate_zanzibar

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ayacucho
 point:
   latitude: -13.1631
   longitude: -74.2244
-note: "The spans before 1540 stand for Nawinpukyo on the hills above the city."
+note: "The spans before 1540 stand for Nawinpukyo on the hills above the city. Between Wari and the Inca the area belonged to the Chanka."
 control:
 - start: 200
   end: 599
@@ -15,7 +15,11 @@ control:
   end: 1100
   polity: wari_empire
   importance: 2
-- start: 1440
+- start: 1101
+  end: 1438
+  polity: chanka
+  importance: 2
+- start: 1439
   end: 1532
   polity: inca_empire
   importance: 2

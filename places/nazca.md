@@ -12,9 +12,12 @@ control:
   polity: la_tiza_polity
   importance: 2
 - start: 750
-  end: 1000
+  end: 1099
   polity: wari_empire
   importance: 2
+- start: 1100
+  end: 1475
+  ungoverned: "After Wari's collapse the Nasca valleys broke into farming villages with no known ruler until the Inca conquest."
 - start: 1476
   end: 1532
   polity: inca_empire

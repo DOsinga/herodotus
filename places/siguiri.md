@@ -6,6 +6,14 @@ point:
   latitude: 11.4167
   longitude: -9.1667
 control:
+- start: 1670
+  end: 1880
+  polity: kingdom_joma
+  importance: 3
+- start: 1881
+  end: 1887
+  polity: wassoulou_empire
+  importance: 2
 - start: 1888
   end: 1939
   polity: french_third_republic

@@ -5,10 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Fort-Dauphin_(Madagascar)
 point:
   latitude: -25.0325
   longitude: 46.9833
+note: "The Anosy kings held the bay before and after the French fort of 1643 to 1674."
 control:
+- start: 1613
+  end: 1642
+  polity: anosy_kingdom
+  importance: 2
 - start: 1643
   end: 1674
   polity: kingdom_france
+  importance: 2
+- start: 1675
+  end: 1824
+  polity: anosy_kingdom
   importance: 2
 - start: 1825
   end: 1896

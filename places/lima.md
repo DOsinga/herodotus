@@ -5,11 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Lima
 point:
   latitude: -12.06
   longitude: -77.037
-note: "The spans before 1535 stand for Maranga, now inside the city."
+note: "The spans before 1535 stand for Maranga, now inside the city, which later belonged to the Ichma Kingdom of the Rímac and Lurín valleys."
 control:
 - start: 100
   end: 750
   polity: maranga_polity
+  importance: 2
+- start: 751
+  end: 1000
+  polity: early_pachacamac_polity
+  importance: 1
+- start: 1001
+  end: 1469
+  polity: ichma_kingdom
   importance: 2
 - start: 1470
   end: 1532

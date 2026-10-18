@@ -10,6 +10,9 @@ control:
   end: 1700
   polity: ajuran_sultanate
   importance: 2
+- start: 1701
+  end: 1907
+  ungoverned: "No state held the upper Shabelle between the fall of the Ajuran and the Italian post of 1908; the Hawadle herders answered only to their clan elders."
 - start: 1908
   end: 1940
   polity: kingdom_italy

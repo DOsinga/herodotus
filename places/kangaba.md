@@ -10,6 +10,10 @@ control:
   end: 1670
   polity: mali_empire
   importance: 3
+- start: 1671
+  end: 1887
+  polity: kingdom_kangaba
+  importance: 3
 - start: 1888
   end: 1939
   polity: french_third_republic

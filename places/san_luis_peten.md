@@ -5,12 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/San_Luis,_Guatemala
 point:
   latitude: 16.1989
   longitude: -89.4403
-note: "Stands for the Curucuitz kingdom, whose centre lay north of the town."
+note: "Stands for the Curucuitz kingdom, whose centre lay north of the town. Spain founded the town in 1708 with Mopan converts."
 control:
 - start: 600
   end: 950
   polity: curucuitz_kingdom
   importance: 3
+- start: 951
+  end: 1499
+  ungoverned: "Abandoned in the Classic Maya collapse; the upper Mopan valley had no known ruler until the Mopan Maya of the contact period."
+- start: 1500
+  end: 1696
+  polity: mopan
+  importance: 2
 - start: 1708
   end: 1715
   polity: spanish_monarchy

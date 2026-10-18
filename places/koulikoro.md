@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Koulikoro
 point:
   latitude: 12.8611
   longitude: -7.5583
-note: "Stands in for the Sosso kingdom, whose capital is not securely located; traditions tie Soumaoro Kanté's last stand to Koulikoro."
+note: "Stands in for the Sosso kingdom, whose capital is not securely located; traditions tie Soumaoro Kanté's last stand to Koulikoro. After Mali it went to the Keita of Kangaba until the rise of Ségou."
 control:
 - start: 1200
   end: 1234
@@ -14,6 +14,18 @@ control:
 - start: 1235
   end: 1670
   polity: mali_empire
+  importance: 2
+- start: 1671
+  end: 1711
+  polity: kingdom_kangaba
+  importance: 1
+- start: 1712
+  end: 1860
+  polity: segou_empire
+  importance: 2
+- start: 1861
+  end: 1882
+  polity: toucouleur_empire
   importance: 2
 - start: 1883
   end: 1939

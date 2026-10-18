@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Harar
 point:
   latitude: 9.3111
   longitude: 42.1278
-note: "The Imamate of Aussa, which held Harar from 1577 to 1647, has no record; nor does Egypt from 1882 to 1885."
+note: "Egypt held Harar until 1885, but its record ends in 1882."
 control:
 - start: 1415
   end: 1577
   polity: adal_sultanate
   importance: 4
+- start: 1578
+  end: 1646
+  polity: imamate_aussa
+  importance: 3
 - start: 1647
   end: 1874
   polity: emirate_harar

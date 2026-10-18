@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Alasora
 point:
   latitude: -18.9667
   longitude: 47.5833
-note: "The first Merina capital before Antananarivo; point approximate."
+note: "The first Merina capital before Antananarivo; point approximate. After the court moved to Antananarivo around 1610 it stayed a village of Imerina."
 control:
 - start: 1540
   end: 1609
   polity: merina_kingdom
   importance: 3
+- start: 1610
+  end: 1896
+  polity: merina_kingdom
+  importance: 1
 - start: 1897
   end: 1939
   polity: french_third_republic

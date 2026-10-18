@@ -7,8 +7,12 @@ point:
   longitude: -16.2314
 control:
 - start: 1360
-  end: 1549
+  end: 1548
   polity: jolof_empire
+  importance: 2
+- start: 1549
+  end: 1893
+  polity: kingdom_baol
   importance: 2
 - start: 1894
   end: 1939

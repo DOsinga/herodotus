@@ -10,6 +10,14 @@ control:
   end: 1000
   polity: izamal_polity
   importance: 3
+- start: 1001
+  end: 1200
+  polity: chichen_itza_polity
+  importance: 2
+- start: 1201
+  end: 1440
+  polity: league_mayapan
+  importance: 2
 - start: 1441
   end: 1542
   polity: ah_kin_chel

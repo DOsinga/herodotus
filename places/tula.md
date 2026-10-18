@@ -11,6 +11,9 @@ control:
   end: 1122
   polity: toltec_empire
   importance: 4
+- start: 1123
+  end: 1429
+  ungoverned: "Burned and largely abandoned in the Toltec collapse; the small Otomi town that grew beside the ruins has no known ruler until the Triple Alliance."
 - start: 1430
   end: 1520
   polity: aztec_alliance

@@ -5,11 +5,14 @@ wikipedia: https://en.wikipedia.org/wiki/Soyo
 point:
   latitude: -6.1333
   longitude: 12.3667
-note: "The County of Soyo, which governed itself after about 1641, has no record."
 control:
 - start: 1390
   end: 1640
   polity: kingdom_kongo
+  importance: 3
+- start: 1641
+  end: 1879
+  polity: county_soyo
   importance: 3
 - start: 1880
   end: 1909

@@ -10,7 +10,19 @@ control:
   end: 650
   polity: teotihuacan_polity
   importance: 2
-- start: 1430
+- start: 674
+  end: 1122
+  polity: toltec_empire
+  importance: 1
+- start: 1123
+  end: 1417
+  polity: acolhuacan
+  importance: 1
+- start: 1418
+  end: 1427
+  polity: tepanec_empire
+  importance: 1
+- start: 1428
   end: 1520
   polity: aztec_alliance
   importance: 2

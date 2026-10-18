@@ -5,13 +5,13 @@ wikipedia: https://en.wikipedia.org/wiki/Zeerust
 point:
   latitude: -25.5333
   longitude: 26.0833
-note: "Until 1837 it stands for Mzilikazi's kraals in the western Transvaal: on the Magaliesberg from the 1820s and at Mosega, near Zeerust, from 1832. The town was founded in 1867."
+note: "Until 1837 it stands for Mzilikazi's kraals in the western Transvaal: on the Magaliesberg from the 1820s and at Mosega, near Zeerust, from 1832. From 1852 it stands for the Marico district of the South African Republic; the town was founded in 1867."
 control:
 - start: 1823
   end: 1837
   polity: ndebele_kingdom
   importance: 3
-- start: 1867
+- start: 1852
   end: 1876
   polity: south_african_republic
   importance: 2

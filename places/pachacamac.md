@@ -10,6 +10,10 @@ control:
   end: 1000
   polity: early_pachacamac_polity
   importance: 3
+- start: 1001
+  end: 1469
+  polity: ichma_kingdom
+  importance: 3
 - start: 1470
   end: 1532
   polity: inca_empire

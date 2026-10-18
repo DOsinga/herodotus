@@ -5,15 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Gao
 point:
   latitude: 16.2667
   longitude: -0.05
-note: "The Sunni kings of Gao, independent of Mali from about 1375 until Sonni Ali's empire, have no record. Tuareg took over after the Arma defeat of 1737."
+note: "The Sunni kings threw off Mali's rule in the first half of the fifteenth century. After the Arma defeat of 1737 the Tuareg took over, and the Iwellemmedan dominated the Gao reach of the river until the French arrived."
 control:
 - start: 700
   end: 1324
   polity: gao_kingdom
   importance: 3
 - start: 1325
-  end: 1374
+  end: 1429
   polity: mali_empire
+  importance: 3
+- start: 1430
+  end: 1463
+  polity: songhai_kingdom
   importance: 3
 - start: 1464
   end: 1590
@@ -26,6 +30,10 @@ control:
 - start: 1612
   end: 1737
   polity: pashalik_timbuktu
+  importance: 2
+- start: 1738
+  end: 1898
+  polity: iwellemmedan
   importance: 2
 - start: 1899
   end: 1939
