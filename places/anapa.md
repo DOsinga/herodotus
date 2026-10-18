@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Anapa
 point:
   latitude: 44.8944
   longitude: 37.3167
-note: "Spans before 240 are for Gorgippia, the Bosporan town on the site, which the Goths destroyed. The Genoese held Mapa from about 1300, so it follows Genoa, until an Ottoman fleet arrived in 1475; the Ottomans built the fortress of Anapa in 1781."
+note: "Spans before 240 are for Gorgippia, the Bosporan town on the site, which the Goths destroyed. The Zikh span stands for the Zikh chiefs who held the coast; no town is known on the site until the Genoese post of Mapa, held from about 1300, so it follows Genoa, until an Ottoman fleet arrived in 1475. The Ottomans built the fortress of Anapa in 1781."
 control:
 - start: -389
   end: -108
@@ -21,7 +21,8 @@ control:
   importance: 2
 - start: 241
   end: 1299
-  ungoverned: "Gorgippia was overrun in the third century, and no town is known on the site until the Genoese post of Mapa; the Zikh tribes of the coast had no known state."
+  polity: zichia
+  importance: 2
 - start: 1300
   end: 1474
   follows: genoa

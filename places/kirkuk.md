@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kirkuk
 point:
   latitude: 35.4667
   longitude: 44.3167
-note: "Ancient Arrapha, a Hurrian kingdom under Mitanni until Assyria took it. The Gutian span is an estimate for the dark years after Akkad. The ungoverned span stands for a period without any known ruler, not for an abandoned town."
+note: "Ancient Arrapha, a Hurrian kingdom under Mitanni until Assyria took it. The Gutian span is an estimate for the dark years after Akkad, and the kingdom's start after Shamshi-Adad's death is an estimate for its local rulers."
 control:
 - start: -2334
   end: -2155
@@ -28,11 +28,8 @@ control:
   polity: upper_mesopotamia
   importance: 2
 - start: -1776
-  end: -1551
-  ungoverned: "No ruler of Arrapha is known between Shamshi-Adad's death and the Hurrian kingdom of the Mitanni period."
-- start: -1550
   end: -1341
-  polity: mitanni
+  polity: arrapha_kingdom
   importance: 2
 - start: -1340
   end: -912

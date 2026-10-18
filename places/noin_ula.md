@@ -17,14 +17,16 @@ control:
   importance: 2
 - start: 92
   end: 155
-  ungoverned: "The Xianbei tribes held the Mongolian steppe without a common ruler between the Xiongnu collapse and Tanshihuai."
+  polity: xianbei_tribes
+  importance: 2
 - start: 156
   end: 234
   polity: xianbei_state
   importance: 2
 - start: 235
   end: 401
-  ungoverned: "The Xianbei tribes held the Mongolian steppe without a common ruler between Tanshihuai's confederation and the Rouran."
+  polity: xianbei_tribes
+  importance: 2
 - start: 402
   end: 551
   polity: rouran_khaganate
