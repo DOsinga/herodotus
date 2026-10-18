@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Osijek
 point:
   latitude: 45.5556
   longitude: 18.6944
-note: "Roman Mursa. The Pannonian Ostrogoths of 454–473 have no record."
+note: "Roman Mursa."
 control:
 - start: -9
   end: 394
@@ -18,6 +18,10 @@ control:
 - start: 441
   end: 453
   polity: hunnic_empire
+  importance: 2
+- start: 454
+  end: 473
+  polity: pannonian_ostrogoths
   importance: 2
 - start: 474
   end: 503
