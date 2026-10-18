@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Győr
 point:
   latitude: 47.6842
   longitude: 17.6344
-note: "Roman Arrabona. Held by the Ottomans from 1594 to 1598."
+note: "Roman Arrabona. Held by the Ottomans from 1594 to 1598. The Herulian span after the Ostrogoths left Pannonia in 473 is an estimate of whose reach the town lay in; the Lombards replaced the Heruli around 508."
 control:
 - start: 10
   end: 394
@@ -24,9 +24,10 @@ control:
   polity: pannonian_ostrogoths
   importance: 1
 - start: 474
-  end: 525
-  ungoverned: "After the Ostrogoths left Pannonia in 473, no state is known to have governed it until the Lombards arrived; Suebi, Sciri and Heruli fought over the province."
-- start: 526
+  end: 507
+  polity: heruli
+  importance: 1
+- start: 508
   end: 567
   polity: danubian_lombards
   importance: 1

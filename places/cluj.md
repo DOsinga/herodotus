@@ -5,16 +5,17 @@ wikipedia: https://en.wikipedia.org/wiki/Cluj-Napoca
 point:
   latitude: 46.7667
   longitude: 23.5833
-note: "Roman Napoca. Bulgarian rule in Transylvania after Krum's defeat of the Avars around 804 and the Hunnic span from about 400 are estimates. The Hungarian span stands for the gyula's realm, which Stephen I took in 1003. Northern Transylvania was Hungarian from the Second Vienna Award of 1940 until 1944."
+note: "Roman Napoca. The Gothic span after the Roman withdrawal, the Hunnic span from the Huns' arrival in 376 and Bulgarian rule in Transylvania after Krum's defeat of the Avars around 804 are estimates of whose reach the town lay in. The Hungarian span stands for the gyula's realm, which Stephen I took in 1003. Northern Transylvania was Hungarian from the Second Vienna Award of 1940 until 1944."
 control:
 - start: 106
   end: 274
   polity: roman_empire
   importance: 2
 - start: 275
-  end: 399
-  ungoverned: "Napoca shrank to a village after the Roman withdrawal of 271 to 275, and none of the Gothic, Gepid or Dacian groups in Transylvania is known to have governed it before the Huns."
-- start: 400
+  end: 375
+  polity: thervingi
+  importance: 1
+- start: 376
   end: 453
   polity: hunnic_empire
   importance: 1

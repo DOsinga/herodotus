@@ -5,8 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Devín
 point:
   latitude: 48.1747
   longitude: 16.9783
-note: "Stands in for Samo's realm, whose centre Wogastisburg has not been found; Devín is one of the sites proposed. The Avar span after Samo rests on the Avar-Slav cemeteries nearby and is an estimate. Germany annexed Devín in 1938."
+note: "Stands in for Samo's realm, whose centre Wogastisburg has not been found; Devín is one of the sites proposed. The Avar span after Samo rests on the Avar-Slav cemeteries nearby and is an estimate. Germany annexed Devín in 1938. The Herulian, Lombard and Avar spans before Samo are estimates for the land north of the Danube."
 control:
+- start: 454
+  end: 507
+  polity: heruli
+  importance: 1
+- start: 508
+  end: 567
+  polity: danubian_lombards
+  importance: 1
+- start: 568
+  end: 622
+  polity: avar_khaganate
+  importance: 1
 - start: 623
   end: 658
   polity: samos_realm

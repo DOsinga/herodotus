@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Opole
 point:
   latitude: 50.6667
   longitude: 17.9242
-note: "Stayed German after the 1921 plebiscite."
+note: "George of Brandenburg-Ansbach held the duchy from 1532 until Ferdinand I redeemed it in 1551; Queen Isabella of Hungary held it from 1552 to 1556 and the Polish Vasas from 1645 to 1666, both kept under the crown here. Stayed German after the 1921 plebiscite."
 control:
 - start: 1025
   end: 1137
@@ -16,18 +16,14 @@ control:
   polity: duchy_silesia
   importance: 2
 - start: 1173
-  end: 1326
+  end: 1532
   polity: duchy_opole
   importance: 2
-- start: 1327
-  end: 1468
-  polity: kingdom_bohemia
+- start: 1533
+  end: 1551
+  polity: principality_ansbach
   importance: 2
-- start: 1469
-  end: 1490
-  polity: kingdom_hungary
-  importance: 2
-- start: 1491
+- start: 1552
   end: 1619
   polity: kingdom_bohemia
   importance: 2

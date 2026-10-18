@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Linz
 point:
   latitude: 48.3058
   longitude: 14.2864
-note: "Roman Lentia. Upper Austria was pledged to Maximilian of Bavaria from 1620 to 1628, and his governor ruled it from Linz."
+note: "Roman Lentia. Upper Austria was pledged to Maximilian of Bavaria from 1620 to 1628, and his governor ruled it from Linz. After Odoacer's evacuation of 488 the town is given to the powers that claimed Noricum, the Ostrogoths and then the Franks; an estimate."
 control:
 - start: -15
   end: 394
@@ -16,12 +16,17 @@ control:
   polity: western_roman_empire
   importance: 2
 - start: 476
-  end: 487
+  end: 492
   polity: kingdom_odoacer
   importance: 2
-- start: 488
+- start: 493
+  end: 536
+  polity: ostrogothic_kingdom
+  importance: 2
+- start: 537
   end: 554
-  ungoverned: "Odoacer withdrew the Roman garrisons and much of the population of Noricum Ripense in 488, and no state governed the Danube valley here until the Bavarian duchy."
+  polity: austrasia
+  importance: 2
 - start: 555
   end: 787
   polity: duchy_bavaria
