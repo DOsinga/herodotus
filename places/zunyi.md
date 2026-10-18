@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Zunyi
 point:
   latitude: 27.722
   longitude: 107.031
-note: "The hereditary Yang chiefs of Bozhou governed it from 876 until the Ming conquest of 1600."
 control:
 - start: 639
   end: 689
@@ -19,6 +18,10 @@ control:
   end: 875
   polity: tang_dynasty
   importance: 2
+- start: 876
+  end: 1599
+  polity: chiefdom_bozhou
+  importance: 3
 - start: 1600
   end: 1643
   polity: ming_dynasty

@@ -32,10 +32,18 @@ control:
   polity: cao_wei
   importance: 3
 - start: 266
-  end: 316
+  end: 332
   polity: jin_dynasty_266
   importance: 3
-- start: 765
+- start: 333
+  end: 338
+  polity: cheng_han
+  importance: 3
+- start: 339
+  end: 747
+  polity: cuan
+  importance: 2
+- start: 748
   end: 901
   polity: nanzhao
   importance: 2

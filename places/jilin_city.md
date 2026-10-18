@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Jilin_City
 point:
   latitude: 43.8381
   longitude: 126.5497
-note: "The early Buyeo capital lay here."
+note: "The early Buyeo capital lay here. Ula city, the seat of the Ula state, lay 30 km to the north."
 control:
 - start: -200
   end: 493
@@ -14,6 +14,10 @@ control:
 - start: 494
   end: 667
   polity: goguryeo
+  importance: 2
+- start: 668
+  end: 676
+  polity: tang_dynasty
   importance: 2
 - start: 698
   end: 925
@@ -38,6 +42,22 @@ control:
 - start: 1271
   end: 1367
   polity: yuan_dynasty
+  importance: 2
+- start: 1368
+  end: 1387
+  polity: northern_yuan
+  importance: 2
+- start: 1388
+  end: 1560
+  polity: haixi_jurchens
+  importance: 2
+- start: 1561
+  end: 1612
+  polity: ula
+  importance: 2
+- start: 1613
+  end: 1615
+  polity: jianzhou_nurhaci
   importance: 2
 - start: 1616
   end: 1635

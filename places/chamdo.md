@@ -5,10 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Chamdo
 point:
   latitude: 31.143
   longitude: 97.17
+note: "Jampaling monastery, founded in 1437, ruled the town until Lhasa took over Kham in 1642."
 control:
 - start: 618
   end: 842
   polity: tibetan_empire
+  importance: 2
+- start: 843
+  end: 1252
+  polity: kham_lords
   importance: 2
 - start: 1253
   end: 1270
@@ -18,6 +23,14 @@ control:
   end: 1367
   polity: yuan_dynasty
   importance: 2
+- start: 1368
+  end: 1436
+  polity: kham_lords
+  importance: 2
+- start: 1437
+  end: 1641
+  polity: chamdo_lama_state
+  importance: 3
 - start: 1642
   end: 1704
   polity: ganden_phodrang

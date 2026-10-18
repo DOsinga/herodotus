@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Morioka
 point:
   latitude: 39.7021
   longitude: 141.1545
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "Morioka Castle was only built after 1590; before that the area was ruled from the Nanbu seat at Sannohe."
 control:
 - start: 803
   end: 1086
@@ -26,6 +26,10 @@ control:
 - start: 1336
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1467
+  end: 1589
+  polity: nanbu_clan
   importance: 2
 - start: 1590
   end: 1599

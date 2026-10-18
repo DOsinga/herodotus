@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Baoshan,_Yunnan
 point:
   latitude: 25.112
   longitude: 99.161
+note: "The Cuan from 339 to 737 is an estimate: Jin and the southern dynasties kept Yongchang commandery only on paper, and the Cuan were the leading power in Yunnan; how far their reach went west of the Mekong is not known."
 control:
 - start: 69
   end: 220
@@ -19,9 +20,17 @@ control:
   polity: cao_wei
   importance: 2
 - start: 266
-  end: 316
+  end: 332
   polity: jin_dynasty_266
   importance: 2
+- start: 333
+  end: 338
+  polity: cheng_han
+  importance: 2
+- start: 339
+  end: 737
+  polity: cuan
+  importance: 1
 - start: 738
   end: 901
   polity: nanzhao

@@ -15,6 +15,10 @@ control:
   end: 1277
   polity: tambralinga
   importance: 2
+- start: 1278
+  end: 1399
+  polity: nakhon_si_thammarat_kingdom
+  importance: 2
 - start: 1400
   end: null
   follows: surat_thani

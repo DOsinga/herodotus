@@ -23,6 +23,10 @@ control:
   end: 1526
   polity: majapahit
   importance: 2
+- start: 1527
+  end: 1613
+  polity: sengguruh
+  importance: 2
 - start: 1614
   end: 1748
   polity: mataram_sultanate

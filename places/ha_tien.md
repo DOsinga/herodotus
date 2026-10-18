@@ -5,11 +5,27 @@ wikipedia: https://en.wikipedia.org/wiki/Hà_Tiên
 point:
   latitude: 10.3858
   longitude: 104.4898
-note: "From 1707 to 1787 Hà Tiên was governed by the Mạc family of Mạc Cửu as a vassal of the Nguyễn lords, with a Siamese occupation in 1771–1773; that principality has no record."
+note: "From 1778 to 1787 the town passed between the Nguyễn, the Tây Sơn, Siam and Siamese-appointed Mạc rulers too often to date."
 control:
 - start: 1431
   end: 1706
   polity: kingdom_cambodia
+  importance: 2
+- start: 1707
+  end: 1770
+  polity: ha_tien_principality
+  importance: 3
+- start: 1771
+  end: 1772
+  polity: thonburi_kingdom
+  importance: 2
+- start: 1773
+  end: 1776
+  polity: ha_tien_principality
+  importance: 3
+- start: 1777
+  end: 1777
+  polity: tay_son_dynasty
   importance: 2
 - start: 1788
   end: 1801

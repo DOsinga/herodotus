@@ -5,11 +5,18 @@ wikipedia: https://en.wikipedia.org/wiki/Tuban
 point:
   latitude: -6.9
   longitude: 112.05
-note: "Tuban governed itself between Majapahit and Mataram; that period has no record."
 control:
 - start: 1293
   end: 1526
   polity: majapahit
+  importance: 3
+- start: 1527
+  end: 1545
+  polity: demak_sultanate
+  importance: 2
+- start: 1546
+  end: 1618
+  polity: tuban_duchy
   importance: 3
 - start: 1619
   end: 1742

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Yanji
 point:
   latitude: 42.9
   longitude: 129.5
-note: "Nanjing, the Eastern Xia capital from 1217, was the mountain fortress just outside the city. The Jurchen lands here under nominal Ming rule have no record."
+note: "Nanjing, the Eastern Xia capital from 1217, was the mountain fortress just outside the city. Nurhaci's conquest of the area is dated from the end of his Warka campaigns in 1611, an estimate."
 control:
 - start: 698
   end: 925
@@ -35,7 +35,23 @@ control:
   end: 1367
   polity: yuan_dynasty
   importance: 2
-- start: 1653
+- start: 1368
+  end: 1387
+  polity: northern_yuan
+  importance: 2
+- start: 1388
+  end: 1610
+  polity: wild_jurchens
+  importance: 2
+- start: 1611
+  end: 1615
+  polity: jianzhou_nurhaci
+  importance: 2
+- start: 1616
+  end: 1635
+  polity: later_jin
+  importance: 2
+- start: 1636
   end: 1911
   polity: qing_dynasty
   importance: 2

@@ -14,12 +14,12 @@ description: >-
   remains disputed.
 periods:
 - start: 180
-  end: 266
+  end: 299
 point:
   name: "Makimuku (proposed)"
   latitude: 33.53
   longitude: 135.84
 colors:
   180: "#34b29d"
-note: "Both dates are estimates from the Chinese sources. Its location is disputed between northern Kyushu and the Nara basin; the point is the Makimuku site in Nara, one proposed centre."
+note: "Both dates are estimates. The Chinese sources fall silent after 266; the end at 299 carries the Makimuku centre, which went on growing, up to the estimated start of the Yamato state about 300. Its location is disputed between northern Kyushu and the Nara basin; the point is the Makimuku site in Nara, one proposed centre."
 ---

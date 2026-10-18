@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kamakura
 point:
   latitude: 35.3192
   longitude: 139.5467
-note: "The Kantō kubō left Kamakura in 1455; the Uesugi held it until the Later Hōjō took it in 1512, and they have no record."
+note: "The Kantō kubō left Kamakura for Koga in 1455; the shogunate's forces and its Uesugi deputies held it afterwards."
 control:
 - start: 700
   end: 1184
@@ -20,9 +20,13 @@ control:
   polity: kenmu_government
   importance: 2
 - start: 1336
-  end: 1454
+  end: 1466
   polity: ashikaga_shogunate
   importance: 3
+- start: 1467
+  end: 1511
+  polity: ogigayatsu_uesugi
+  importance: 2
 - start: 1512
   end: 1589
   polity: later_hojo

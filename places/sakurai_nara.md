@@ -8,7 +8,7 @@ point:
 note: "The Makimuku site, one proposed centre of Yamatai, lies in the city; Asuka, the seat of the Yamato court, is next to it."
 control:
 - start: 180
-  end: 266
+  end: 299
   polity: yamatai
   importance: 2
 - start: 300

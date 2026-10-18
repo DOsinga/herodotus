@@ -5,11 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Kota_Bharu
 point:
   latitude: 6.1333
   longitude: 102.25
-note: "Kota Bharu became the Kelantan capital in 1844; earlier spans stand for the older royal seats on the same river, and for the Chi Tu court placed in the Kelantan valley."
+note: "Kota Bharu became the Kelantan capital in 1844; earlier spans stand for the older royal seats on the same river, and for the Chi Tu court placed in the Kelantan valley. The spans from 611 to 1266 assume the valley lay within Langkasuka's sphere."
 control:
 - start: 500
   end: 610
   polity: chi_tu_kingdom
+  importance: 3
+- start: 611
+  end: 1266
+  polity: langkasuka_kingdom
+  importance: 2
+- start: 1267
+  end: 1759
+  polity: kelantan_kingdom
   importance: 3
 - start: 1760
   end: 1908

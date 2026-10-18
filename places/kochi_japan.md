@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kōchi,_Kōchi
 point:
   latitude: 33.5589
   longitude: 133.5314
-note: "Okō Castle, the Chōsokabe seat, lies 10 km east. The Motoyama, Ichijō and others who held Tosa before 1560 have no record."
+note: "Okō Castle, the Chōsokabe seat, lies 10 km east, and Asakura Castle, the Motoyama seat, 5 km west. Until 1507 the Hosokawa, the shogunate's chief ministers, governed Tosa through deputies, and the town is given to the shogunate. The Motoyama date from their destruction of the Chōsokabe in 1508, though they only moved down to the plain around the 1530s."
 control:
 - start: 400
   end: 1184
@@ -20,10 +20,14 @@ control:
   polity: kenmu_government
   importance: 2
 - start: 1336
-  end: 1466
+  end: 1507
   polity: ashikaga_shogunate
   importance: 2
-- start: 1560
+- start: 1508
+  end: 1562
+  polity: motoyama_clan
+  importance: 3
+- start: 1563
   end: 1584
   polity: chosokabe_clan
   importance: 3

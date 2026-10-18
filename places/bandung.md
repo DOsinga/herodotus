@@ -5,11 +5,14 @@ wikipedia: https://en.wikipedia.org/wiki/Bandung
 point:
   latitude: -6.9219
   longitude: 107.6069
-note: "The Sumedang Larang principality between Sunda and Mataram has no record."
 control:
 - start: 932
   end: 1578
   polity: kingdom_sunda
+  importance: 2
+- start: 1579
+  end: 1619
+  polity: sumedang_larang
   importance: 2
 - start: 1620
   end: 1676

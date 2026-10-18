@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Chengde
 point:
   latitude: 40.953
   longitude: 117.963
+note: "Ming gave the lands beyond the Great Wall to the Uriankhai Three Guards in 1403; the Uriankhai and later the Kharchin Mongols held the area until the Later Jin took over."
 control:
 - start: 916
   end: 1122
@@ -21,6 +22,22 @@ control:
 - start: 1271
   end: 1367
   polity: yuan_dynasty
+  importance: 2
+- start: 1368
+  end: 1368
+  polity: northern_yuan
+  importance: 2
+- start: 1369
+  end: 1402
+  polity: ming_dynasty
+  importance: 2
+- start: 1403
+  end: 1634
+  polity: northern_yuan
+  importance: 2
+- start: 1635
+  end: 1635
+  polity: later_jin
   importance: 2
 - start: 1636
   end: 1702

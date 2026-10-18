@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Pejeng
 point:
   latitude: -8.52
   longitude: 115.29
-note: "From 1686 the area belonged to Gianyar and other Balinese kingdoms that have no records."
+note: "From 1686 to 1770 the area is given to Klungkung, whose branch at Sukawati held the neighbourhood from 1711; the smaller local lordships have no records."
 control:
 - start: 914
   end: 1283
@@ -26,6 +26,14 @@ control:
 - start: 1500
   end: 1685
   polity: gelgel_kingdom
+  importance: 2
+- start: 1686
+  end: 1770
+  polity: klungkung_kingdom
+  importance: 2
+- start: 1771
+  end: 1899
+  polity: gianyar_kingdom
   importance: 2
 - start: 1900
   end: 1941

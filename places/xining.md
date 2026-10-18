@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Xining
 point:
   latitude: 36.6224
   longitude: 101.7804
-note: "Qingtang, the capital of Tsongkha from 1032."
+note: "Qingtang, the capital of Tsongkha from 1032. Gusiluo held the Huangshui valley from his enthronement in 1008."
 control:
 - start: -61
   end: 8
@@ -82,6 +82,18 @@ control:
 - start: 763
   end: 842
   polity: tibetan_empire
+  importance: 2
+- start: 861
+  end: 881
+  polity: guiyi_circuit
+  importance: 2
+- start: 882
+  end: 1007
+  polity: amdo_lords
+  importance: 2
+- start: 1008
+  end: 1031
+  polity: tsongkha
   importance: 2
 - start: 1032
   end: 1103

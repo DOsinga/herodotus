@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Surabaya
 point:
   latitude: -7.2575
   longitude: 112.7521
-note: "Also stands for Kahuripan, whose capital is placed in the Brantas delta to the south. The duchy of Surabaya that held out against Mataram until 1625 has no record."
+note: "Also stands for Kahuripan, whose capital is placed in the Brantas delta to the south. Surabaya's lords held out against Demak until 1530."
 control:
 - start: 929
   end: 1016
@@ -35,10 +35,14 @@ control:
   end: 1526
   polity: majapahit
   importance: 3
-- start: 1527
-  end: 1567
+- start: 1530
+  end: 1545
   polity: demak_sultanate
   importance: 2
+- start: 1546
+  end: 1624
+  polity: surabaya_duchy
+  importance: 3
 - start: 1625
   end: 1742
   polity: mataram_sultanate

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Shenyang
 point:
   latitude: 41.8031
   longitude: 123.4278
+note: "Balhae's hold on Liaodong after the Tang lost it in the An Lushan rebellion is uncertain before King Seon (818–830); some historians place a Goguryeo successor state there until about 820."
 control:
 - start: -300
   end: -223
@@ -69,6 +70,10 @@ control:
 - start: 705
   end: 755
   polity: tang_dynasty
+  importance: 2
+- start: 756
+  end: 918
+  polity: balhae
   importance: 2
 - start: 919
   end: 1115

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kucha
 point:
   latitude: 41.727
   longitude: 82.936
+note: "After the last Tang garrisons fell around 790, the Uyghur Khaganate, which beat the Tibetans in 792, held the northern Tarim until its collapse in 840."
 control:
 - start: -200
   end: 647
@@ -30,6 +31,10 @@ control:
   end: 789
   polity: tang_dynasty
   importance: 3
+- start: 792
+  end: 840
+  polity: uyghur_khaganate
+  importance: 2
 - start: 843
   end: 1277
   polity: qocho_kingdom

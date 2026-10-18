@@ -90,6 +90,14 @@ control:
   end: 842
   polity: tibetan_empire
   importance: 2
+- start: 861
+  end: 881
+  polity: guiyi_circuit
+  importance: 2
+- start: 882
+  end: 1007
+  polity: amdo_lords
+  importance: 2
 - start: 1008
   end: 1071
   polity: tsongkha

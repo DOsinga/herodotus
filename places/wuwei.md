@@ -87,8 +87,20 @@ control:
   polity: tibetan_empire
   importance: 2
 - start: 861
-  end: 890
+  end: 881
   polity: guiyi_circuit
+  importance: 2
+- start: 906
+  end: 1014
+  polity: xiliangfu
+  importance: 3
+- start: 1015
+  end: 1015
+  polity: dingnan_circuit
+  importance: 2
+- start: 1016
+  end: 1031
+  polity: ganzhou_uyghur_kingdom
   importance: 2
 - start: 1032
   end: 1037

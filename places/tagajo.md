@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tagajō
 point:
   latitude: 38.2938
   longitude: 141.0043
-note: "Taga Castle, the seat of the government of Mutsu. From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
+note: "Taga Castle, the seat of the government of Mutsu. In the Sengoku period the Rusu held the area from Iwakiri Castle nearby; from the late fifteenth century their heads were sons of the Date, and the town is given to the Date."
 control:
 - start: 724
   end: 1086
@@ -26,6 +26,10 @@ control:
 - start: 1336
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1467
+  end: 1589
+  polity: date_clan
   importance: 2
 - start: 1590
   end: 1599

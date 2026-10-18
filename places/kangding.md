@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Kangding
 point:
   latitude: 29.9985
   longitude: 101.9569
-note: "Dartsedo, the gateway to Kham, ruled by the kings of Chakla under Ming and early Qing overlordship."
+note: "Dartsedo, the gateway to Kham and seat of the kings of Chakla. Lhasa held the town with a garrison from 1671 until the Qing stormed it in 1701; the Tibetan takeover may have come earlier, soon after the fall of the Ming."
 control:
 - start: 618
   end: 842
   polity: tibetan_empire
+  importance: 2
+- start: 843
+  end: 1252
+  polity: kham_lords
   importance: 2
 - start: 1253
   end: 1270
@@ -18,6 +22,14 @@ control:
 - start: 1271
   end: 1367
   polity: yuan_dynasty
+  importance: 2
+- start: 1368
+  end: 1670
+  polity: kingdom_chakla
+  importance: 3
+- start: 1671
+  end: 1700
+  polity: ganden_phodrang
   importance: 2
 - start: 1701
   end: 1911

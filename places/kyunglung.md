@@ -14,6 +14,10 @@ control:
   end: 842
   polity: tibetan_empire
   importance: 2
+- start: 843
+  end: 929
+  polity: ngari_lords
+  importance: 3
 - start: 930
   end: null
   follows: tsaparang

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Jepara
 point:
   latitude: -6.59
   longitude: 110.67
-note: "Queen Kalinyamat's Jepara of 1549 to 1579 and the Pajang period have no records."
+note: "Queen Kalinyamat's Jepara of 1549 to 1579 has no record, and the town's passage to Pajang and Mataram is undated. The spans from 1019 to 1292 assume the north coast stayed with the East Javanese kingdoms after Medang."
 control:
 - start: 550
   end: 731
@@ -14,6 +14,22 @@ control:
 - start: 732
   end: 1016
   polity: medang_kingdom
+  importance: 2
+- start: 1019
+  end: 1041
+  polity: kahuripan_kingdom
+  importance: 2
+- start: 1042
+  end: 1221
+  polity: kediri_kingdom
+  importance: 2
+- start: 1222
+  end: 1291
+  polity: singhasari
+  importance: 2
+- start: 1292
+  end: 1292
+  polity: kediri_kingdom
   importance: 2
 - start: 1293
   end: 1474

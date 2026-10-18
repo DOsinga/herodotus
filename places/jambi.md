@@ -19,7 +19,11 @@ control:
   end: 1346
   polity: melayu_kingdom
   importance: 3
-- start: 1615
+- start: 1347
+  end: 1499
+  polity: majapahit
+  importance: 2
+- start: 1500
   end: 1832
   polity: jambi_sultanate
   importance: 3

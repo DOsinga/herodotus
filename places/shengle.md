@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Shengle
 point:
   latitude: 40.39
   longitude: 111.82
-note: "The Tang Shanyu Protectorate sat here; the region was lost after the revolt of the northern garrisons in 524."
+note: "Tuoba Liwei moved here in 258. Northern Qi moved the seat of Shuozhou from Shengle to Mayi in 555, leaving the area to the Turks until Tang defeated them in 630. The Tang Shanyu Protectorate and the Zhenwu army sat here; Li Keyong's Hedong held Zhenwu until the Khitan took it in 916."
 control:
+- start: 258
+  end: 309
+  polity: tuoba_confederation
+  importance: 3
 - start: 310
   end: 375
   polity: dai_state
@@ -23,7 +27,27 @@ control:
   end: 523
   polity: northern_wei
   importance: 2
-- start: 664
+- start: 526
+  end: 533
+  polity: northern_wei
+  importance: 2
+- start: 534
+  end: 549
+  polity: eastern_wei
+  importance: 2
+- start: 550
+  end: 555
+  polity: northern_qi
+  importance: 2
+- start: 556
+  end: 602
+  polity: first_turkic_khaganate
+  importance: 2
+- start: 603
+  end: 629
+  polity: eastern_turkic_khaganate
+  importance: 2
+- start: 630
   end: 689
   polity: tang_dynasty
   importance: 2
@@ -32,8 +56,12 @@ control:
   polity: wu_zhou
   importance: 2
 - start: 705
-  end: 840
+  end: 895
   polity: tang_dynasty
+  importance: 2
+- start: 896
+  end: 915
+  polity: jin_hedong
   importance: 2
 - start: 916
   end: 1124

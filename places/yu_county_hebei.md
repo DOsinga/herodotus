@@ -36,8 +36,16 @@ control:
   polity: gengshi_han
   importance: 2
 - start: 25
-  end: 189
+  end: 219
   polity: han_dynasty
+  importance: 2
+- start: 220
+  end: 265
+  polity: cao_wei
+  importance: 2
+- start: 266
+  end: 312
+  polity: jin_dynasty_266
   importance: 2
 - start: 313
   end: 375

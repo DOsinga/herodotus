@@ -11,7 +11,7 @@ control:
   end: 668
   polity: tarumanagara
   importance: 3
-- start: 932
+- start: 669
   end: 1526
   polity: kingdom_sunda
   importance: 1

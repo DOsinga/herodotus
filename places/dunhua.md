@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Dunhua
 point:
   latitude: 43.3667
   longitude: 128.2333
-note: "Dongmo Mountain, the first Balhae capital, lies near the city."
+note: "Dongmo Mountain, the first Balhae capital, lies near the city. Nurhaci's conquest of the area is dated from the end of his Warka campaigns in 1611, an estimate."
 control:
 - start: 698
   end: 741
@@ -34,6 +34,22 @@ control:
 - start: 1271
   end: 1367
   polity: yuan_dynasty
+  importance: 2
+- start: 1368
+  end: 1387
+  polity: northern_yuan
+  importance: 2
+- start: 1388
+  end: 1610
+  polity: wild_jurchens
+  importance: 2
+- start: 1611
+  end: 1615
+  polity: jianzhou_nurhaci
+  importance: 2
+- start: 1616
+  end: 1635
+  polity: later_jin
   importance: 2
 - start: 1636
   end: 1911
