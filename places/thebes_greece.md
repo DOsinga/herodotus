@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Thebes,_Greece
 point:
   latitude: 38.3208
   longitude: 23.3178
-note: "The Navarrese Company's rule (1379–1387) is a gap."
+note: "A smaller settlement survived the destruction of the Mycenaean palace; the Early Iron Age spans go to the Boeotian chiefs. The Navarrese Company's rule (1379–1387) is a gap."
 control:
 - start: -1600
   end: -1201
@@ -13,7 +13,8 @@ control:
   importance: 3
 - start: -1200
   end: -701
-  ungoverned: "After the Mycenaean palace burned around 1200 BCE, Thebes shrank to a village whose rulers are unknown until the city-state emerged."
+  polity: boeotians
+  importance: 2
 - start: -700
   end: -336
   polity: thebes

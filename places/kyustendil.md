@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kyustendil
 point:
   latitude: 42.2833
   longitude: 22.6833
-note: "Roman Pautalia; medieval Velbazhd."
+note: "Roman Pautalia; medieval Velbazhd. Slavs overran the upper Strymon at the end of the sixth century; the town is given to Byzantium until Krum's conquest of 809 as an estimate, since nearby Serdica stayed Byzantine until then."
 control:
 - start: -29
   end: -28
@@ -21,7 +21,8 @@ control:
   importance: 1
 - start: 600
   end: 808
-  ungoverned: "Slav invaders overran Pautalia at the end of the sixth century, and no state is recorded in the upper Strymon until Krum's Bulgaria took the region in 809."
+  polity: byzantine_empire
+  importance: 1
 - start: 809
   end: 1017
   polity: first_bulgarian_empire
