@@ -21,7 +21,8 @@ control:
   importance: 2
 - start: 843
   end: 1149
-  ungoverned: Small Balti valley chiefdoms after Tibetan rule ended, none of them recorded, until the Maqpon kingdom.
+  polity: balti_chiefdom
+  importance: 2
 - start: 1150
   end: 1839
   polity: kingdom_skardu
