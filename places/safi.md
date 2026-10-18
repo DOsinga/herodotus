@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Safi,_Morocco
 point:
   latitude: 32.2833
   longitude: -9.2333
+note: "Local governors held Safi after the Marinid collapse; it came under Portuguese protection in 1488 and was garrisoned from 1508."
 control:
 - start: 1070
   end: 1146
@@ -18,7 +19,7 @@ control:
   end: 1464
   polity: marinid_sultanate
   importance: 1
-- start: 1508
+- start: 1488
   end: 1540
   polity: kingdom_portugal
   importance: 2

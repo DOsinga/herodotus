@@ -42,7 +42,15 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 2
-- start: 1524
+- start: 1250
+  end: 1497
+  polity: frisian_freedom
+  importance: 2
+- start: 1498
+  end: 1514
+  polity: electorate_saxony
+  importance: 2
+- start: 1515
   end: 1555
   polity: habsburg_netherlands
   importance: 2

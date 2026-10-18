@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Granada
 point:
   latitude: 37.1773
   longitude: -3.5986
-note: "Almoravid commanders held Granada until about 1154, after the Almoravid state itself had fallen. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "The Silingi and then the Hasding Vandals held Baetica from 411 until they crossed to Africa in 429; Roman rule then returned, interrupted by the Suebi from 441 to 456, until the Visigoths took over. Almoravid commanders held Granada until about 1154, after the Almoravid state itself had fallen. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -206
   end: -28
@@ -19,6 +19,18 @@ control:
   end: 410
   polity: western_roman_empire
   importance: 2
+- start: 429
+  end: 440
+  polity: western_roman_empire
+  importance: 1
+- start: 441
+  end: 455
+  polity: suebic_kingdom
+  importance: 1
+- start: 456
+  end: 470
+  polity: western_roman_empire
+  importance: 1
 - start: 471
   end: 510
   polity: visigothic_kingdom

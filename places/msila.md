@@ -5,12 +5,36 @@ wikipedia: https://en.wikipedia.org/wiki/M'Sila,_Algeria
 point:
   latitude: 35.7019
   longitude: 4.5472
-note: "The Kingdom of Hodna's seat is unknown; M'Sila stands for it."
+note: "The Kingdom of Hodna's seat is unknown; M'Sila stands for it. Until the Fatimids founded M'Sila as al-Muhammadiya in 927, the later spans are those of Byzantine Zabi Justiniana nearby."
 control:
 - start: 500
   end: 538
   polity: kingdom_hodna
   importance: 3
+- start: 539
+  end: 682
+  polity: byzantine_empire
+  importance: 1
+- start: 689
+  end: 744
+  polity: umayyad_caliphate
+  importance: 1
+- start: 745
+  end: 756
+  polity: fihrid_ifriqiya
+  importance: 1
+- start: 761
+  end: 799
+  polity: abbasid_caliphate
+  importance: 1
+- start: 800
+  end: 908
+  polity: aghlabid_emirate
+  importance: 1
+- start: 909
+  end: 926
+  polity: fatimid_caliphate
+  importance: 1
 - start: 927
   end: 971
   polity: fatimid_caliphate

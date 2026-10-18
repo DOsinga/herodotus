@@ -55,6 +55,10 @@ control:
   end: 1056
   polity: zirid_emirate
   importance: 1
+- start: 1057
+  end: 1134
+  polity: djerba_ibadi
+  importance: 1
 - start: 1135
   end: 1159
   polity: kingdom_sicily

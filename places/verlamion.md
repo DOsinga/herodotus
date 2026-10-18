@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Verlamion
 point:
   latitude: 51.755
   longitude: -0.336
-note: "The Roman spans stand for Verulamium, the later St Albans."
+note: "The Roman spans stand for Verulamium, the later St Albans, which stayed in British hands in the Chiltern enclave until the Saxon advance of 571. It then follows London, whose East Saxon, Mercian and West Saxon rulers held the Chilterns."
 control:
 - start: -50
   end: 42
@@ -35,6 +35,14 @@ control:
   end: 409
   polity: western_roman_empire
   importance: 2
+- start: 410
+  end: 570
+  polity: sub_roman_britain
+  importance: 1
+- start: 571
+  end: 926
+  follows: london
+  importance: 1
 - start: 927
   end: 1648
   polity: kingdom_england

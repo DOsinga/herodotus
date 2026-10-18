@@ -31,6 +31,9 @@ control:
   end: 740
   polity: umayyad_caliphate
   importance: 1
+- start: 741
+  end: 855
+  ungoverned: "Left in the emptied Duero frontier after the Berber garrisons abandoned the northwest in the revolt of 740, until Ordoño I of Asturias resettled it in 856."
 - start: 856
   end: 909
   polity: kingdom_asturias

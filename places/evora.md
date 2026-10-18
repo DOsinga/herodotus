@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Évora
 point:
   latitude: 38.5667
   longitude: -7.9
+note: "The Alans held Lusitania from 411 until the Visigoths destroyed them in 418; Roman rule then returned until the Suebi took Mérida in 439 and held the province until the Visigoths drove them back."
 control:
 - start: -138
   end: -28
@@ -18,6 +19,14 @@ control:
   end: 408
   polity: western_roman_empire
   importance: 2
+- start: 419
+  end: 438
+  polity: western_roman_empire
+  importance: 1
+- start: 439
+  end: 468
+  polity: suebic_kingdom
+  importance: 1
 - start: 469
   end: 510
   polity: visigothic_kingdom

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Albarracín
 point:
   latitude: 40.4083
   longitude: -1.4394
-note: "From 1170 to 1284 Albarracín was a lordship of the Azagra family that answered to neither Castile nor Aragon; it has no record."
+note: "From 1170 to 1284 Albarracín was a lordship of the Azagra family that answered to neither Castile nor Aragon."
 control:
 - start: 756
   end: 928
@@ -27,7 +27,11 @@ control:
   end: 1169
   polity: taifa_murcia
   importance: 1
-- start: 1285
+- start: 1170
+  end: 1283
+  polity: lordship_albarracin
+  importance: 2
+- start: 1284
   end: 1478
   polity: crown_aragon
   importance: 1

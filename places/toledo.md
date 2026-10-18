@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Toledo,_Spain
 point:
   latitude: 39.862
   longitude: -4.027
-note: "Toledo was in revolt against Córdoba for most of the years 852 to 932. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "Toledo rebelled against Córdoba in 852 and held out until the emir's siege of 873; the Banu Qasi later had some say there, and the city was unruly again from 920 until Abd al-Rahman III took it in 932. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -193
   end: -28
@@ -45,6 +45,10 @@ control:
   importance: 3
 - start: 756
   end: 851
+  polity: emirate_cordoba
+  importance: 3
+- start: 873
+  end: 919
   polity: emirate_cordoba
   importance: 3
 - start: 932

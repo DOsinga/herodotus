@@ -102,6 +102,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 2
+- start: 1250
+  end: 1542
+  polity: prince_bishopric_cambrai
+  importance: 2
 - start: 1543
   end: 1555
   polity: habsburg_netherlands

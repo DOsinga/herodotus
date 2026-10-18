@@ -102,6 +102,10 @@ control:
   end: 1128
   polity: county_provence
   importance: 2
+- start: 1129
+  end: 1250
+  polity: commune_avignon
+  importance: 3
 - start: 1251
   end: 1308
   polity: county_provence

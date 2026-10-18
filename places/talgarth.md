@@ -10,6 +10,10 @@ control:
   end: 650
   polity: brycheiniog_kingdom
   importance: 3
+- start: 651
+  end: 749
+  polity: dyfed
+  importance: 2
 - start: 750
   end: 1044
   polity: brycheiniog_kingdom

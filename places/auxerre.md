@@ -79,10 +79,14 @@ control:
   polity: west_francia
   importance: 2
 - start: 918
-  end: 1003
+  end: 1001
   polity: duchy_burgundy
   importance: 2
-- start: 1371
+- start: 1002
+  end: 1369
+  polity: county_auxerre
+  importance: 2
+- start: 1370
   end: 1434
   polity: kingdom_france
   importance: 2

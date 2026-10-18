@@ -5,12 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Ait_Ishaq
 point:
   latitude: 32.76
   longitude: -5.7233
-note: "The Dila'i capital was built here in 1638 and destroyed by Moulay Rashid in 1668. The Middle Atlas tribes governed themselves until the French took Khénifra in 1914."
+note: "The Dila'i capital was built here in 1638 and destroyed by Moulay Rashid in 1668. Moulay Ismail held the Middle Atlas with garrisons such as Khénifra until his death in 1727."
 control:
 - start: 1638
   end: 1667
   polity: dilai_zawiya
   importance: 3
+- start: 1668
+  end: 1727
+  polity: alaouite_sultanate
+  importance: 1
+- start: 1728
+  end: 1913
+  polity: zaian_confederation
+  importance: 1
 - start: 1914
   end: 1939
   polity: french_third_republic

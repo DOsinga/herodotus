@@ -16,8 +16,20 @@ control:
   polity: roman_empire
   importance: 2
 - start: 395
-  end: 408
+  end: 471
   polity: western_roman_empire
+  importance: 2
+- start: 472
+  end: 510
+  polity: visigothic_kingdom
+  importance: 2
+- start: 511
+  end: 525
+  polity: ostrogothic_kingdom
+  importance: 2
+- start: 526
+  end: 711
+  polity: visigothic_kingdom
   importance: 2
 - start: 718
   end: 746

@@ -106,6 +106,10 @@ control:
   end: 1130
   polity: county_provence
   importance: 2
+- start: 1131
+  end: 1250
+  polity: commune_arles
+  importance: 3
 - start: 1251
   end: 1480
   polity: county_provence

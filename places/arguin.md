@@ -35,6 +35,9 @@ control:
   end: 1727
   polity: kingdom_france
   importance: 1
+- start: 1728
+  end: 1902
+  ungoverned: "The fort was abandoned in 1728 and the island left to the local fishermen until the French colony of Mauritania."
 - start: 1903
   end: 1939
   polity: french_third_republic

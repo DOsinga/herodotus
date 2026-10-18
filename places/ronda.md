@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ronda
 point:
   latitude: 36.7372
   longitude: -5.1647
-note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "Between the Visigoths and the Muslim conquest Ronda follows Málaga. The Banu Ifran lord Abu Nur held Ronda for the Hammudids of Málaga from about 1015 until he made it a taifa of its own in 1039. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -206
   end: -28
@@ -18,6 +18,10 @@ control:
 - start: 395
   end: 410
   polity: western_roman_empire
+  importance: 1
+- start: 429
+  end: 712
+  follows: malaga
   importance: 1
 - start: 713
   end: 746
@@ -35,6 +39,14 @@ control:
   end: 1008
   polity: caliphate_cordoba
   importance: 1
+- start: 1016
+  end: 1026
+  polity: hammudid_caliphate
+  importance: 2
+- start: 1027
+  end: 1038
+  polity: taifa_malaga
+  importance: 2
 - start: 1039
   end: 1064
   polity: taifa_ronda

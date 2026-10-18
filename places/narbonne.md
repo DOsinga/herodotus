@@ -54,6 +54,10 @@ control:
   end: 877
   polity: west_francia
   importance: 2
+- start: 878
+  end: 1228
+  polity: viscounty_narbonne
+  importance: 2
 - start: 1229
   end: 1791
   polity: kingdom_france

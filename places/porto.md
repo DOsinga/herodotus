@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Porto
 point:
   latitude: 41.15
   longitude: -8.6108
+note: "Alfonso I of Asturias took Porto in 741, though Muslim raids continued until Vímara Peres secured it in 868; the Asturian span over the depopulated frontier is an estimate."
 control:
 - start: -136
   end: -28
@@ -30,6 +31,10 @@ control:
   end: 739
   polity: umayyad_caliphate
   importance: 2
+- start: 740
+  end: 867
+  polity: kingdom_asturias
+  importance: 1
 - start: 868
   end: 909
   polity: kingdom_asturias

@@ -30,6 +30,10 @@ control:
   end: 409
   polity: western_roman_empire
   importance: 2
+- start: 410
+  end: 518
+  polity: sub_roman_britain
+  importance: 1
 - start: 519
   end: 645
   polity: kingdom_wessex

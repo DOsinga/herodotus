@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Dinefwr_Castle
 point:
   latitude: 51.8768
   longitude: -4.0184
-note: "After 1197 the princes of Deheubarth were divided among rival heirs without a record until Edward I took the castle in 1277."
+note: "After 1197 the princes of Deheubarth were divided; Rhys Gryg's line held Dinefwr until Edward I took the castle in 1277."
 control:
 - start: 920
   end: 1018
@@ -19,9 +19,17 @@ control:
   end: 1093
   polity: deheubarth
   importance: 2
+- start: 1094
+  end: 1135
+  polity: kingdom_england
+  importance: 1
 - start: 1136
   end: 1197
   polity: deheubarth
+  importance: 2
+- start: 1198
+  end: 1276
+  polity: cantref_mawr
   importance: 2
 - start: 1277
   end: 1648

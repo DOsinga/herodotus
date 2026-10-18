@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Braga
 point:
   latitude: 41.55
   longitude: -8.426
+note: "Alfonso I of Asturias took Braga in 741, though Muslim raids continued until Alfonso III secured it in 868; the Asturian span over the depopulated frontier is an estimate."
 control:
 - start: -16
   end: 394
@@ -26,6 +27,10 @@ control:
   end: 739
   polity: umayyad_caliphate
   importance: 2
+- start: 740
+  end: 867
+  polity: kingdom_asturias
+  importance: 1
 - start: 868
   end: 909
   polity: kingdom_asturias

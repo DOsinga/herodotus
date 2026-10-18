@@ -19,7 +19,7 @@ control:
   polity: roman_empire
   importance: 2
 - start: 395
-  end: 424
+  end: 471
   polity: western_roman_empire
   importance: 2
 - start: 472

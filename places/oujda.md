@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Oujda
 point:
   latitude: 34.6867
   longitude: -1.9114
+note: "On the frontier between Fez and Tlemcen, Oujda usually went with the province of Tlemcen until the Alaouite Moulay Mohammed took it from the Ottomans in 1647."
 control:
 - start: 994
   end: 1068
@@ -21,6 +22,10 @@ control:
 - start: 1269
   end: 1464
   polity: marinid_sultanate
+  importance: 1
+- start: 1465
+  end: 1646
+  follows: tlemcen
   importance: 1
 - start: 1666
   end: 1906

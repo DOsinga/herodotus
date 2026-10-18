@@ -14,6 +14,14 @@ control:
   end: 1268
   polity: almohad_caliphate
   importance: 2
+- start: 1269
+  end: 1464
+  polity: marinid_sultanate
+  importance: 1
+- start: 1465
+  end: 1509
+  polity: jazula
+  importance: 2
 - start: 1510
   end: 1524
   polity: saadi_sultanate

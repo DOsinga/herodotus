@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Nijmegen
 point:
   latitude: 51.8475
   longitude: 5.8625
+note: "Between the Romans and Charlemagne's palace Nijmegen follows Cologne. Whether Roman authority still reached it after the garrison left around 406 is uncertain; the span to 449 is an estimate."
 control:
 - start: -12
   end: 259
@@ -22,6 +23,10 @@ control:
   end: 406
   polity: western_roman_empire
   importance: 3
+- start: 407
+  end: 750
+  follows: cologne
+  importance: 1
 - start: 751
   end: 842
   polity: carolingian_francia

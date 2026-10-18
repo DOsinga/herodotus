@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Málaga
 point:
   latitude: 36.7213
   longitude: -4.4214
-note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "The Silingi and then the Hasding Vandals held Baetica from 411 until they crossed to Africa in 429; Roman rule then returned, interrupted by the Suebi from 441 to 456, until the Visigoths took over. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -237
   end: -207
@@ -23,6 +23,18 @@ control:
   end: 410
   polity: western_roman_empire
   importance: 2
+- start: 429
+  end: 440
+  polity: western_roman_empire
+  importance: 1
+- start: 441
+  end: 455
+  polity: suebic_kingdom
+  importance: 1
+- start: 456
+  end: 470
+  polity: western_roman_empire
+  importance: 1
 - start: 471
   end: 510
   polity: visigothic_kingdom

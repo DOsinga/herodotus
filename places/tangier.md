@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tangier
 point:
   latitude: 35.7767
   longitude: -5.8039
-note: "From 1923 to 1956, apart from the Spanish occupation of 1940 to 1945, Tangier was an international zone without a record."
+note: "Tangier was an international zone from 1923 to 1956, apart from the Spanish occupation of 1940 to 1945."
 control:
 - start: -225
   end: -34
@@ -31,9 +31,32 @@ control:
   end: 428
   polity: western_roman_empire
   importance: 2
+- start: 435
+  end: 532
+  polity: vandal_kingdom
+  importance: 2
+- start: 533
+  end: 617
+  polity: byzantine_empire
+  importance: 2
+- start: 618
+  end: 707
+  polity: visigothic_kingdom
+  importance: 2
 - start: 708
   end: 739
   polity: umayyad_caliphate
+  importance: 2
+- start: 740
+  end: 787
+  ungoverned: "The Berber Revolt of 740 left the region around Tangier in chaos with no settled government until Idris I."
+- start: 788
+  end: 919
+  polity: idrisid_fez
+  importance: 2
+- start: 927
+  end: 950
+  polity: idrisid_rif
   importance: 2
 - start: 951
   end: 1008
@@ -83,9 +106,17 @@ control:
   end: 1911
   polity: alaouite_sultanate
   importance: 2
+- start: 1923
+  end: 1939
+  polity: tangier_international_zone
+  importance: 2
 - start: 1940
-  end: 1945
+  end: 1944
   polity: spain
+  importance: 2
+- start: 1945
+  end: 1955
+  polity: tangier_international_zone
   importance: 2
 - start: 1956
   end: null

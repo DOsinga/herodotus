@@ -14,6 +14,17 @@ control:
   end: 273
   polity: gallic_empire
   importance: 2
+- start: 274
+  end: 629
+  ungoverned: "The fort was abandoned when the Romans gave up the Rhine frontier around 275; little is known until Dagobert I's church in the seventh century."
+- start: 630
+  end: 632
+  polity: merovingian_francia_late
+  importance: 1
+- start: 633
+  end: 649
+  polity: austrasia
+  importance: 1
 - start: 650
   end: 689
   polity: frisian_kingdom_early

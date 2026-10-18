@@ -79,13 +79,25 @@ control:
   polity: carolingian_francia
   importance: 2
 - start: 843
-  end: 986
+  end: 899
   polity: west_francia
+  importance: 2
+- start: 900
+  end: 1050
+  polity: county_maine
+  importance: 3
+- start: 1051
+  end: 1062
+  polity: county_anjou
   importance: 2
 - start: 1063
   end: 1068
   polity: duchy_normandy
   importance: 2
+- start: 1069
+  end: 1109
+  polity: county_maine
+  importance: 3
 - start: 1110
   end: 1203
   polity: county_anjou

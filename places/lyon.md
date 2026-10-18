@@ -114,6 +114,10 @@ control:
   end: 1249
   polity: holy_roman_empire
   importance: 3
+- start: 1250
+  end: 1311
+  polity: archbishopric_lyon
+  importance: 3
 - start: 1312
   end: 1791
   polity: kingdom_france

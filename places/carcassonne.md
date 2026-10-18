@@ -50,6 +50,18 @@ control:
   end: 877
   polity: west_francia
   importance: 2
+- start: 878
+  end: 1068
+  polity: county_carcassonne
+  importance: 2
+- start: 1069
+  end: 1081
+  polity: county_barcelona
+  importance: 2
+- start: 1082
+  end: 1225
+  polity: county_carcassonne
+  importance: 2
 - start: 1226
   end: 1791
   polity: kingdom_france

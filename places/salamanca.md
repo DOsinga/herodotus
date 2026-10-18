@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Salamanca
 point:
   latitude: 40.965
   longitude: -5.6642
-note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "The Alans held Lusitania from 411 until the Visigoths destroyed them in 418; Roman rule then returned until the Suebi took Mérida in 439 and held the province until the Visigoths drove them back. Almanzor's raids of the 980s left the town nearly deserted again until Raymond of Burgundy resettled it in 1102. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -193
   end: -28
@@ -19,6 +19,14 @@ control:
   end: 410
   polity: western_roman_empire
   importance: 2
+- start: 419
+  end: 438
+  polity: western_roman_empire
+  importance: 1
+- start: 439
+  end: 468
+  polity: suebic_kingdom
+  importance: 1
 - start: 469
   end: 510
   polity: visigothic_kingdom
@@ -35,6 +43,13 @@ control:
   end: 740
   polity: umayyad_caliphate
   importance: 2
+- start: 741
+  end: 938
+  ungoverned: "Destroyed in the wars after 740 and left almost empty in the Duero frontier until Ramiro II of León resettled it after Simancas in 939."
+- start: 939
+  end: 1101
+  polity: kingdom_leon
+  importance: 1
 - start: 1102
   end: 1229
   polity: kingdom_leon

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Caesarea_in_Mauretania
 point:
   latitude: 36.6075
   longitude: 2.19
+note: "Byzantine Caesarea was the seat of the duke of Mauretania until the Arab conquest at the end of the seventh century; the medieval village of Cherchell is placed with the Rustamids and then follows Algiers. Andalusian refugees revived the town before the Ottomans took it in 1520."
 control:
 - start: -225
   end: -34
@@ -34,6 +35,30 @@ control:
   end: 533
   polity: vandal_kingdom
   importance: 2
+- start: 534
+  end: 697
+  polity: byzantine_empire
+  importance: 2
+- start: 698
+  end: 739
+  polity: umayyad_caliphate
+  importance: 1
+- start: 740
+  end: 776
+  polity: maghrawa
+  importance: 1
+- start: 777
+  end: 908
+  polity: rustamid_imamate
+  importance: 1
+- start: 909
+  end: 971
+  polity: fatimid_caliphate
+  importance: 1
+- start: 972
+  end: 1519
+  follows: algiers
+  importance: 1
 - start: 1520
   end: 1658
   polity: ottoman_empire

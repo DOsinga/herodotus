@@ -19,6 +19,14 @@ control:
   end: 1057
   polity: zirid_emirate
   importance: 2
+- start: 1058
+  end: 1098
+  polity: emirate_sfax
+  importance: 3
+- start: 1099
+  end: 1147
+  polity: zirid_emirate
+  importance: 2
 - start: 1148
   end: 1155
   polity: kingdom_sicily

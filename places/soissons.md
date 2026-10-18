@@ -79,8 +79,12 @@ control:
   polity: carolingian_francia
   importance: 2
 - start: 843
-  end: 986
+  end: 968
   polity: west_francia
+  importance: 2
+- start: 969
+  end: 1184
+  polity: county_soissons
   importance: 2
 - start: 1185
   end: 1791

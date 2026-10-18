@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Seville
 point:
   latitude: 37.3891
   longitude: -5.9845
-note: "French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
+note: "The Silingi and then the Hasding Vandals held Baetica from 411 until they crossed to Africa in 429; Roman rule then returned, interrupted by the Suebi from 441 to 456, until the Visigoths took over. French forces held the town during the Peninsular War; Joseph Bonaparte's government counts as the French Empire under the puppet-state rule."
 control:
 - start: -206
   end: -28
@@ -19,9 +19,17 @@ control:
   end: 410
   polity: western_roman_empire
   importance: 3
+- start: 429
+  end: 440
+  polity: western_roman_empire
+  importance: 3
 - start: 441
   end: 456
   polity: suebic_kingdom
+  importance: 3
+- start: 457
+  end: 470
+  polity: western_roman_empire
   importance: 3
 - start: 471
   end: 510

@@ -10,9 +10,17 @@ control:
   end: 1432
   polity: mali_empire
   importance: 2
+- start: 1433
+  end: 1479
+  polity: walata
+  importance: 2
 - start: 1480
   end: 1590
   polity: songhai_empire
+  importance: 2
+- start: 1591
+  end: 1911
+  polity: walata
   importance: 2
 - start: 1912
   end: 1939

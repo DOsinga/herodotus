@@ -52,8 +52,12 @@ control:
   polity: fatimid_caliphate
   importance: 2
 - start: 972
-  end: 1056
+  end: 1052
   polity: zirid_emirate
+  importance: 2
+- start: 1053
+  end: 1159
+  polity: banu_al_rand
   importance: 2
 - start: 1160
   end: 1228

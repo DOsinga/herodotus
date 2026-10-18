@@ -5,12 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Kuku,_Algeria
 point:
   latitude: 36.5994
   longitude: 4.3608
-note: "After the kingdom faded in the 1630s the Kabyle tribes governed themselves until the French conquest of 1857."
 control:
 - start: 1515
   end: 1638
   polity: kingdom_kuku
   importance: 3
+- start: 1639
+  end: 1856
+  polity: igawawen
+  importance: 2
 - start: 1857
   end: 1869
   polity: second_french_empire
