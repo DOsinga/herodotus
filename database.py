@@ -11,6 +11,7 @@ ROOT = Path(__file__).parent
 ID = re.compile(r"^[a-z][a-z0-9_]*$")
 COLOR = re.compile(r"^#[0-9a-f]{6}$")
 TYPES = {"chiefdom", "culture"}
+LONGEST_GAP = 25
 TRANSITION_KINDS = {"absorbed_into", "merged_into", "split_into", "succeeded_by", "broke_away_from"}
 
 
@@ -143,8 +144,11 @@ def validate_places(places, polities):
 
         previous_end = None
         for index, span in enumerate(place["control"]):
-            assert set(span) - {"polity", "follows"} == {"start", "end", "importance"}, place["id"]
-            assert span["importance"] in (1, 2, 3, 4), place["id"]
+            if "ungoverned" in span:
+                assert set(span) == {"start", "end", "ungoverned"} and span["ungoverned"], place["id"]
+            else:
+                assert set(span) - {"polity", "follows"} == {"start", "end", "importance"}, place["id"]
+                assert span["importance"] in (1, 2, 3, 4), place["id"]
             assert isinstance(span["start"], int), place["id"]
             assert previous_end is None or span["start"] > previous_end, place["id"]
             if span["end"] is None:
@@ -152,6 +156,8 @@ def validate_places(places, polities):
             else:
                 assert isinstance(span["end"], int) and span["start"] <= span["end"], place["id"]
             previous_end = span["end"]
+            if "ungoverned" in span:
+                continue
             if "follows" in span:
                 assert "polity" not in span, place["id"]
                 leader = places_by_id[span["follows"]]
@@ -169,21 +175,38 @@ def validate_places(places, polities):
         names.add(place["name"])
         links.add(place["wikipedia"])
 
+def resolved_spans(place, places_by_id):
+    for span in place["control"]:
+        if "follows" not in span:
+            yield span["start"], span["end"], span.get("polity"), span.get("importance")
+            continue
+        for lead in places_by_id[span["follows"]]["control"]:
+            start = max(span["start"], lead["start"])
+            ends = [end for end in (span["end"], lead["end"]) if end is not None]
+            end = min(ends) if ends else None
+            if end is None or start <= end:
+                yield start, end, lead.get("polity"), span["importance"]
+
+
 def resolved_control(places):
     by_id = {place["id"]: place for place in places}
-    rows = []
+    return [
+        (place["id"], start, end, polity, importance)
+        for place in places
+        for start, end, polity, importance in resolved_spans(place, by_id)
+        if polity
+    ]
+
+
+def place_gaps(places):
+    by_id = {place["id"]: place for place in places}
+    gaps = []
     for place in places:
-        for span in place["control"]:
-            if "polity" in span:
-                rows.append((place["id"], span["start"], span["end"], span["polity"], span["importance"]))
-                continue
-            for lead in by_id[span["follows"]]["control"]:
-                start = max(span["start"], lead["start"])
-                ends = [end for end in (span["end"], lead["end"]) if end is not None]
-                end = min(ends) if ends else None
-                if end is None or start <= end:
-                    rows.append((place["id"], start, end, lead["polity"], span["importance"]))
-    return rows
+        covered = sorted((start, end) for start, end, _, _ in resolved_spans(place, by_id))
+        for (_, end), (start, _) in zip(covered, covered[1:]):
+            if start - end - 1 > LONGEST_GAP:
+                gaps.append((place["id"], end + 1, start - 1))
+    return gaps
 
 
 PATH = ROOT / "herodotus.sqlite"

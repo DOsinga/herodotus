@@ -34,9 +34,25 @@ control:
   Both are unique.
 - `control` spans are inclusive, in order and do not overlap. The polity must
   be active for the whole span, and it cannot be an archaeological culture.
-  A gap means no polity we track governed the place, and it casts no
-  influence in those years. `end: null` is allowed on the last span when the
-  polity still exists.
+  `end: null` is allowed on the last span when the polity still exists.
+- Someone almost always governed a town. A gap between spans of more than 25
+  years fails the validator, so a town gets a span for every polity that
+  held it, and a governor without a record gets one: a commune, a count or a
+  chief who held the town for decades matters enough to add. Shorter gaps
+  are allowed for a sack, a civil war or a changeover nobody can date. Where
+  nobody governed the town for longer, because it lay abandoned or in a
+  long anarchy, say so with an ungoverned span, which casts no influence.
+  Not knowing who ruled is not a reason: tribes, clans and local lords get a
+  chiefdom record, and a town in a dark age goes to the power whose reach
+  it most plausibly lay in, with a note that says so.
+
+  ```yaml
+  - start: 1150
+    end: 1590
+    ungoverned: Abandoned after the Seljuk sack until Shah Abbas refounded it.
+  ```
+
+  `python gaps.py` lists the gaps that are too long.
 - Control follows the same who-governed test as the polity records in
   [AGENTS.md](AGENTS.md#who-was-in-control). A town in a vassal state belongs
   to the vassal while the vassal counts as active, not to its overlord.
@@ -52,9 +68,8 @@ control:
 - Control means governing the town, not holding a title over it. A national
   ruler without real authority there does not get the town: Delhi goes to
   the Marathas from 1771, not to the Mughal emperor they protected, and
-  Japanese towns between the Ōnin War and their submission to Hideyoshi are
-  gaps rather than Ashikaga or Oda–Toyotomi, because the daimyo who held them
-  have no records.
+  Japanese towns between the Ōnin War and their submission to Hideyoshi go
+  to the daimyo who held them rather than to Ashikaga or Oda–Toyotomi.
 - Changing a polity's periods can invalidate the places that refer to it.
   The validator reports them; fix them in the same change.
 - `importance` sets how far the place's influence reaches, from 1 to 4:
@@ -75,8 +90,7 @@ control:
     importance: 1
   ```
 
-  Thun then belongs to whoever holds Bern in each of those years, including
-  Bern's gaps. Use it for towns that went wherever their regional centre
+  Thun then belongs to whoever holds Bern in each of those years. Use it for towns that went wherever their regional centre
   went. The followed place's own spans must name polities.
 
 The map turns the places into territory with a flood fill over a land grid.
@@ -170,12 +184,11 @@ not start a new one.
 A new place gets its whole history, not just the span under the polity being
 researched. Walk through the polity records that governed the area, from the
 earliest to the present, and give the town to each one for the years it
-actually governed it, using the who-governed test. Leave a gap where no
-polity we have governed it, such as a free city without its own record, and
-start the first span no earlier than the town's founding. Use `follows` for a
-town that simply went with its regional centre. When the town's real
-governor has no polity record and governed for long enough to matter, add
-the polity, with the usual description and transitions, in the same batch.
+actually governed it, using the who-governed test, and start the first span
+no earlier than the town's founding. Use `follows` for a town that simply went
+with its regional centre. When the town's real governor has no polity record,
+such as a free city or a local dynasty, add the polity, with the usual
+description and transitions, in the same batch.
 
 A batch is done when every polity in it has places for all of its active
 years and the map on staging looks plausible for the region. List the
