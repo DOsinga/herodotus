@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ancona
 point:
   latitude: 43.6169
   longitude: 13.5167
-note: "The maritime Republic of Ancona (about 1000–1532) has no record."
+note: "The March of Ancona's imperial margraves are shown for 1000–1099, before the commune took over."
 control:
 - start: -268
   end: -28
@@ -39,6 +39,26 @@ control:
   end: 999
   polity: papal_states
   importance: 2
+- start: 1000
+  end: 1099
+  polity: holy_roman_empire
+  importance: 2
+- start: 1100
+  end: 1347
+  polity: republic_ancona
+  importance: 3
+- start: 1348
+  end: 1354
+  polity: lordship_rimini
+  importance: 2
+- start: 1355
+  end: 1382
+  polity: papal_states
+  importance: 2
+- start: 1383
+  end: 1531
+  polity: republic_ancona
+  importance: 3
 - start: 1532
   end: 1797
   polity: papal_states

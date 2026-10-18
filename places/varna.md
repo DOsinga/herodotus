@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Varna,_Bulgaria
 point:
   latitude: 43.2167
   longitude: 27.9167
-note: "Greek Odessos. The Despotate of Dobruja (1366–1388) has no record."
+note: "Greek Odessos."
 control:
 - start: -29
   end: -28
@@ -30,6 +30,10 @@ control:
 - start: 1201
   end: 1365
   polity: second_bulgarian_empire
+  importance: 2
+- start: 1366
+  end: 1388
+  polity: despotate_dobruja
   importance: 2
 - start: 1389
   end: 1877

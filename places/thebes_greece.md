@@ -5,12 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Thebes,_Greece
 point:
   latitude: 38.3208
   longitude: 23.3178
-note: "The Boeotian League after Macedonian rule (196–147 BCE) and the Navarrese Company's rule (1379–1387) are gaps."
+note: "The Navarrese Company's rule (1379–1387) is a gap."
 control:
 - start: -1600
   end: -1201
   polity: mycenaean_thebes
   importance: 3
+- start: -1200
+  end: -701
+  ungoverned: "After the Mycenaean palace burned around 1200 BCE, Thebes shrank to a village whose rulers are unknown until the city-state emerged."
 - start: -700
   end: -336
   polity: thebes
@@ -18,6 +21,10 @@ control:
 - start: -335
   end: -197
   polity: macedonia
+  importance: 2
+- start: -196
+  end: -147
+  polity: thebes
   importance: 2
 - start: -146
   end: -28

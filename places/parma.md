@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Parma
 point:
   latitude: 44.801
   longitude: 10.328
-note: "The commune and the lordships of 1098–1345 are not recorded, nor the Parmese republic of 1447–1449."
+note: "The Parmese republic of 1447–1449 is not recorded."
 control:
 - start: -183
   end: -28
@@ -54,6 +54,30 @@ control:
 - start: 962
   end: 1097
   polity: holy_roman_empire
+  importance: 2
+- start: 1098
+  end: 1325
+  polity: commune_parma
+  importance: 2
+- start: 1326
+  end: 1328
+  polity: papal_states
+  importance: 2
+- start: 1329
+  end: 1334
+  polity: commune_parma
+  importance: 2
+- start: 1335
+  end: 1340
+  polity: verona_scaliger
+  importance: 2
+- start: 1341
+  end: 1343
+  polity: commune_parma
+  importance: 2
+- start: 1344
+  end: 1345
+  polity: duchy_ferrara
   importance: 2
 - start: 1346
   end: 1394

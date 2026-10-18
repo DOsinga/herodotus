@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Vicenza
 point:
   latitude: 45.55
   longitude: 11.55
-note: "The commune and the Paduan rule of the thirteenth century are not recorded."
 control:
 - start: -175
   end: -28
@@ -54,6 +53,22 @@ control:
 - start: 962
   end: 1137
   polity: holy_roman_empire
+  importance: 2
+- start: 1138
+  end: 1235
+  polity: commune_vicenza
+  importance: 2
+- start: 1236
+  end: 1258
+  polity: lordship_ezzelino
+  importance: 2
+- start: 1259
+  end: 1265
+  polity: commune_vicenza
+  importance: 2
+- start: 1266
+  end: 1310
+  polity: commune_padua
   importance: 2
 - start: 1311
   end: 1386

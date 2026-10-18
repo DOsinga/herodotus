@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Padua
 point:
   latitude: 45.4015
   longitude: 11.8809
-note: "The commune and the Carrara lordship (1318–1405, apart from Scaliger and Visconti rule) are not recorded."
 control:
 - start: -175
   end: -28
@@ -55,14 +54,38 @@ control:
   end: 1137
   polity: holy_roman_empire
   importance: 2
+- start: 1138
+  end: 1236
+  polity: commune_padua
+  importance: 3
+- start: 1237
+  end: 1255
+  polity: lordship_ezzelino
+  importance: 3
+- start: 1256
+  end: 1317
+  polity: commune_padua
+  importance: 3
+- start: 1318
+  end: 1327
+  polity: lordship_padua
+  importance: 3
 - start: 1328
-  end: 1337
+  end: 1336
   polity: verona_scaliger
   importance: 2
+- start: 1337
+  end: 1387
+  polity: lordship_padua
+  importance: 3
 - start: 1388
   end: 1389
   polity: lordship_milan
   importance: 2
+- start: 1390
+  end: 1404
+  polity: lordship_padua
+  importance: 3
 - start: 1405
   end: 1796
   polity: republic_venice

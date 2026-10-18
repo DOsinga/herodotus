@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Calvi,_Haute-Corse
 point:
   latitude: 42.5686
   longitude: 8.7569
+note: "Calvi held out for Genoa during the French occupation of 1553–1559, when Genoa itself defended the island."
 control:
 - start: 1278
   end: 1311
@@ -27,18 +28,22 @@ control:
   polity: republic_genoa
   importance: 1
 - start: 1435
-  end: 1458
+  end: 1452
   polity: republic_genoa
   importance: 1
-- start: 1461
-  end: 1464
+- start: 1453
+  end: 1552
+  polity: bank_saint_george
+  importance: 1
+- start: 1553
+  end: 1558
   polity: republic_genoa
   importance: 1
-- start: 1478
-  end: 1488
-  polity: republic_genoa
+- start: 1559
+  end: 1561
+  polity: bank_saint_george
   importance: 1
-- start: 1528
+- start: 1562
   end: 1767
   polity: republic_genoa
   importance: 1

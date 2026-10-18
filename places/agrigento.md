@@ -51,6 +51,10 @@ control:
   end: 1052
   polity: emirate_sicily
   importance: 2
+- start: 1053
+  end: 1086
+  polity: taifa_agrigento
+  importance: 2
 - start: 1087
   end: 1129
   polity: county_sicily

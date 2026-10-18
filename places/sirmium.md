@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Sirmium
 point:
   latitude: 44.97
   longitude: 19.61
-note: "Roman Sirmium, one of the tetrarchic capitals; the modern town is Sremska Mitrovica."
+note: "Roman Sirmium, one of the tetrarchic capitals; the modern town is Sremska Mitrovica. The Frankish and Bulgarian contest of 803–826 is a gap."
 control:
 - start: -14
   end: 394
@@ -33,6 +33,10 @@ control:
   importance: 2
 - start: 582
   end: 795
+  polity: avar_khaganate
+  importance: 1
+- start: 796
+  end: 802
   polity: avar_khaganate
   importance: 1
 - start: 827

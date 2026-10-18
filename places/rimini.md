@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Rimini
 point:
   latitude: 44.0594
   longitude: 12.5683
-note: "The commune and the Malatesta lordship (1101–1499) are not recorded."
 control:
 - start: -268
   end: -28
@@ -43,6 +42,14 @@ control:
   end: 1100
   polity: holy_roman_empire
   importance: 2
+- start: 1101
+  end: 1294
+  polity: commune_rimini
+  importance: 2
+- start: 1295
+  end: 1499
+  polity: lordship_rimini
+  importance: 3
 - start: 1500
   end: 1502
   polity: papal_states

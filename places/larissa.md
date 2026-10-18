@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Larissa
 point:
   latitude: 39.6417
   longitude: 22.4167
-note: "The rulers of Thessaly between 1268 and 1332, including the Catalan Company, and the Serbian and Albanian lords of 1371–1392 have no records."
+note: "The Thessalian magnates of 1319–1332 and the Serbian and Albanian lords of 1371–1392 have no records."
 control:
 - start: -196
   end: -28
@@ -30,6 +30,10 @@ control:
 - start: 1230
   end: 1267
   polity: despotate_epirus
+  importance: 2
+- start: 1268
+  end: 1318
+  polity: principality_thessaly
   importance: 2
 - start: 1333
   end: 1347

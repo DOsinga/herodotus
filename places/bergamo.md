@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bergamo
 point:
   latitude: 45.695
   longitude: 9.67
-note: "The commune of 1098–1331 is not recorded; nor are the French and Spanish occupations of 1509–1516."
+note: "The dates of Pandolfo III Malatesta's lordship (1408–1419) are approximate. The French and Spanish occupations of 1509–1516 are not recorded."
 control:
 - start: -196
   end: -28
@@ -55,11 +55,23 @@ control:
   end: 1097
   polity: holy_roman_empire
   importance: 2
+- start: 1098
+  end: 1331
+  polity: commune_bergamo
+  importance: 2
 - start: 1332
   end: 1394
   polity: lordship_milan
   importance: 2
 - start: 1395
+  end: 1407
+  polity: duchy_milan
+  importance: 2
+- start: 1408
+  end: 1418
+  polity: lordship_rimini
+  importance: 2
+- start: 1419
   end: 1427
   polity: duchy_milan
   importance: 2

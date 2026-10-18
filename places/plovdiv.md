@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Plovdiv
 point:
   latitude: 42.15
   longitude: 24.75
-note: "Founded as Philippopolis by Philip II. Bulgarian holds of the ninth to eleventh centuries are not split out. Eastern Rumelia (1878–1885), under a governor appointed by the sultan, is shown as Ottoman rule."
+note: "Founded as Philippopolis by Philip II. Thracian rule after Lysimachus is simplified; Philip V of Macedon held the town briefly in 183 BCE. Bulgarian holds of the ninth to eleventh centuries are not split out. Eastern Rumelia (1878–1885), under a governor appointed by the sultan, is shown as Ottoman rule."
 control:
 - start: -342
   end: -324
@@ -15,6 +15,10 @@ control:
   end: -282
   polity: lysimachus_kingdom
   importance: 2
+- start: -281
+  end: -51
+  polity: odrysian_kingdom
+  importance: 1
 - start: -50
   end: 45
   polity: sapaean_kingdom

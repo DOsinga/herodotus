@@ -14,6 +14,14 @@ control:
   end: 774
   polity: lombard_kingdom
   importance: 3
+- start: 775
+  end: 842
+  polity: carolingian_francia
+  importance: 3
+- start: 843
+  end: 854
+  polity: middle_francia
+  importance: 3
 - start: 855
   end: 963
   polity: carolingian_italy

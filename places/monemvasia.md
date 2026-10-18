@@ -5,10 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Monemvasia
 point:
   latitude: 36.6878
   longitude: 23.0556
+note: "The local archons who held Monemvasia against the Franks until 1248 are shown under Nicaea."
 control:
 - start: 583
   end: 1204
   polity: byzantine_empire
+  importance: 1
+- start: 1205
+  end: 1247
+  polity: empire_nicaea
   importance: 1
 - start: 1248
   end: 1261

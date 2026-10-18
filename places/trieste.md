@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Trieste
 point:
   latitude: 45.6503
   longitude: 13.7703
-note: "The bishops' and commune's rule (1250–1381) and the Allied and Free Territory administration of 1945–1954 are gaps. British and American forces governed Trieste, from 1947 as the Free Territory's Zone A, until it passed to Italy in 1954."
+note: "The Allied and Free Territory administration of 1945–1954 is a gap. British and American forces governed Trieste, from 1947 as the Free Territory's Zone A, until it passed to Italy in 1954."
 control:
 - start: -178
   end: -28
@@ -46,6 +46,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 2
+- start: 1250
+  end: 1368
+  polity: commune_trieste
   importance: 2
 - start: 1369
   end: 1380

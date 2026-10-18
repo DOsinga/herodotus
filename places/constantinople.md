@@ -5,12 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Constantinople
 point:
   latitude: 41.0125
   longitude: 28.98
-note: "Byzantium governed itself as a city state for most of its history before Vespasian annexed it in 73; that city has no record."
 control:
+- start: -667
+  end: -513
+  polity: byzantium
+  importance: 3
 - start: -512
   end: -479
   polity: achaemenid_empire
   importance: 2
+- start: -478
+  end: 72
+  polity: byzantium
+  importance: 3
 - start: 73
   end: 329
   polity: roman_empire

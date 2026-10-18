@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kotor
 point:
   latitude: 42.43
   longitude: 18.77
-note: "The self-governing commune of 1391–1419 has no record. Russian and Montenegrin forces held the bay in 1806–1807."
+note: "Russian and Montenegrin forces held the bay in 1806–1807."
 control:
 - start: -168
   end: -28
@@ -54,6 +54,10 @@ control:
 - start: 1385
   end: 1390
   polity: kingdom_bosnia
+  importance: 2
+- start: 1391
+  end: 1419
+  polity: commune_kotor
   importance: 2
 - start: 1420
   end: 1796

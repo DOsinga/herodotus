@@ -31,6 +31,10 @@ control:
   end: 899
   polity: byzantine_empire
   importance: 2
+- start: 900
+  end: 999
+  polity: archontate_sardinia
+  importance: 2
 - start: 1000
   end: 1287
   polity: judicate_gallura

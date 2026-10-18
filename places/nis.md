@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Niš
 point:
   latitude: 43.3208
   longitude: 21.8958
-note: "Roman Naissus, birthplace of Constantine. The Slav settlement of the seventh to ninth centuries and the years between Bulgarian and Serbian rule in the thirteenth century are gaps."
+note: "Roman Naissus, birthplace of Constantine. Bulgarian rule between Ivan Asen II's death and the Serbian conquest is uncertain."
 control:
 - start: -75
   end: -28
@@ -27,7 +27,10 @@ control:
   end: 614
   polity: byzantine_empire
   importance: 2
-- start: 850
+- start: 615
+  end: 804
+  ungoverned: "Avars and Slavs destroyed Naissus in the early seventh century, and Slav settlers without any recorded state lived among the ruins until Krum took the town in 805."
+- start: 805
   end: 1017
   polity: first_bulgarian_empire
   importance: 2
@@ -45,6 +48,10 @@ control:
   importance: 2
 - start: 1202
   end: 1242
+  polity: second_bulgarian_empire
+  importance: 2
+- start: 1243
+  end: 1281
   polity: second_bulgarian_empire
   importance: 2
 - start: 1282

@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Verona
 point:
   latitude: 45.439
   longitude: 10.993
-note: "The commune of 1136–1261 and the Carrara lordship of 1404 are not recorded."
 control:
 - start: -89
   end: -28
@@ -55,6 +54,18 @@ control:
   end: 1135
   polity: holy_roman_empire
   importance: 3
+- start: 1136
+  end: 1225
+  polity: commune_verona
+  importance: 3
+- start: 1226
+  end: 1258
+  polity: lordship_ezzelino
+  importance: 4
+- start: 1259
+  end: 1261
+  polity: commune_verona
+  importance: 3
 - start: 1262
   end: 1386
   polity: verona_scaliger
@@ -66,6 +77,10 @@ control:
 - start: 1395
   end: 1403
   polity: duchy_milan
+  importance: 2
+- start: 1404
+  end: 1404
+  polity: lordship_padua
   importance: 2
 - start: 1405
   end: 1796

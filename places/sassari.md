@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Sassari
 point:
   latitude: 40.725
   longitude: 8.5586
-note: "The self-governing commune of Sassari under Pisan and Genoese protection (1259–1322) has no record."
 control:
 - start: -238
   end: -28
@@ -27,9 +26,17 @@ control:
   end: 899
   polity: byzantine_empire
   importance: 2
+- start: 900
+  end: 999
+  polity: archontate_sardinia
+  importance: 2
 - start: 1000
   end: 1258
   polity: judicate_logudoro
+  importance: 3
+- start: 1259
+  end: 1322
+  polity: republic_sassari
   importance: 3
 - start: 1323
   end: 1368

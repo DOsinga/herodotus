@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Chiusi
 point:
   latitude: 43.0167
   longitude: 11.95
-note: "The commune before Siena took it in 1231 is not recorded."
+note: "Its bishops held the town under Orvieto's sway until Siena took it in 1231."
 control:
 - start: -750
   end: -296
@@ -59,6 +59,10 @@ control:
   end: 1097
   polity: holy_roman_empire
   importance: 2
+- start: 1098
+  end: 1230
+  follows: orvieto
+  importance: 1
 - start: 1231
   end: null
   follows: siena

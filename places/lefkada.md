@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Lefkada_(city)
 point:
   latitude: 38.8339
   longitude: 20.7086
-note: "The Tocco counts held Leucas from 1362 and kept the title of despot of Epirus until the Ottoman conquest of 1479. The Orsini counts palatine before them and the Septinsular Republic (1800–1807) have no records."
+note: "Walter VI of Brienne's rule of 1331–1343 is a gap, and the lordship of the Venetian Graziano Giorgio that followed is shown as Venetian. The Tocco counts made Leucas their seat and were despots of Epirus from 1411. The Septinsular Republic (1800–1807) has no record."
 control:
 - start: -167
   end: -28
@@ -31,7 +31,19 @@ control:
   end: 1294
   polity: despotate_epirus
   importance: 1
-- start: 1362
+- start: 1295
+  end: 1330
+  polity: county_palatine_cephalonia
+  importance: 1
+- start: 1343
+  end: 1359
+  polity: republic_venice
+  importance: 1
+- start: 1360
+  end: 1410
+  polity: county_palatine_cephalonia
+  importance: 2
+- start: 1411
   end: 1478
   polity: despotate_epirus
   importance: 2

@@ -19,6 +19,9 @@ control:
   end: 599
   polity: byzantine_empire
   importance: 1
+- start: 600
+  end: 808
+  ungoverned: "Slav invaders overran Pautalia at the end of the sixth century, and no state is recorded in the upper Strymon until Krum's Bulgaria took the region in 809."
 - start: 809
   end: 1017
   polity: first_bulgarian_empire

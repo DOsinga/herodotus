@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Mantua
 point:
   latitude: 45.156
   longitude: 10.792
-note: "The commune and the Bonacolsi lordship (1115–1327) are not recorded."
 control:
 - start: -89
   end: -28
@@ -54,6 +53,10 @@ control:
 - start: 962
   end: 1114
   polity: holy_roman_empire
+  importance: 2
+- start: 1115
+  end: 1327
+  polity: commune_mantua
   importance: 2
 - start: 1328
   end: 1707

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Korçë
 point:
   latitude: 40.6167
   longitude: 20.7667
-note: "The spans before the town grew in the fifteenth century stand for the district of Devol. The French-protected Republic of Korçë (1916–1920) is shown as French rule."
+note: "The spans before the town grew in the fifteenth century stand for the district of Devoll. The French-protected Republic of Korçë (1916–1920) is shown as French rule."
 control:
 - start: 850
   end: 1017
@@ -42,6 +42,10 @@ control:
 - start: 1346
   end: 1370
   polity: serbian_empire
+  importance: 1
+- start: 1371
+  end: 1416
+  polity: principality_muzaka
   importance: 1
 - start: 1440
   end: 1911

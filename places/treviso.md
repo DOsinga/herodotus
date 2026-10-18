@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Treviso
 point:
   latitude: 45.6658
   longitude: 12.2456
-note: "The commune, the da Camino lordship and the Carrara rule of 1384–1388 are not recorded."
 control:
 - start: -175
   end: -28
@@ -55,6 +54,26 @@ control:
   end: 1137
   polity: holy_roman_empire
   importance: 2
+- start: 1138
+  end: 1238
+  polity: commune_treviso
+  importance: 2
+- start: 1239
+  end: 1258
+  polity: lordship_ezzelino
+  importance: 2
+- start: 1259
+  end: 1282
+  polity: commune_treviso
+  importance: 2
+- start: 1283
+  end: 1311
+  polity: caminesi_lordship
+  importance: 2
+- start: 1312
+  end: 1328
+  polity: commune_treviso
+  importance: 2
 - start: 1329
   end: 1338
   polity: verona_scaliger
@@ -66,6 +85,10 @@ control:
 - start: 1381
   end: 1383
   polity: leopoldine_austria
+  importance: 2
+- start: 1384
+  end: 1388
+  polity: lordship_padua
   importance: 2
 - start: 1389
   end: 1796

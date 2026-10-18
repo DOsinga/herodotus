@@ -70,6 +70,10 @@ control:
   end: 854
   polity: middle_francia
   importance: 2
+- start: 855
+  end: 887
+  polity: carolingian_italy
+  importance: 2
 - start: 888
   end: 932
   polity: upper_burgundy

@@ -14,7 +14,7 @@ description: >-
 name: "Kingdom of the Lombards"
 wikipedia: https://en.wikipedia.org/wiki/Kingdom_of_the_Lombards
 periods:
-- start: 568
+- start: 526
   end: 574
 - start: 584
   end: 774
@@ -24,7 +24,7 @@ point:
   longitude: 9.1582
 colors:
   568: "#862776"
-note: "568 follows the Lombard establishment in Italy; Pavia became the royal capital in 572. The 574–584 gap is the conventional kingless Rule of the Dukes, when some thirty-five dukes governed their cities separately, which are not recorded individually; Authari restored the royal government. The Frankish conquest ended it in 774. Benevento and Spoleto's separate governments did not end with it."
+note: "Before 568 the kingdom lay in Pannonia, which the Lombards took over around 526 as the Ostrogoths withdrew; 526 is an estimate, and their earlier years north of the Danube are not included. 568 is the Lombard establishment in Italy; Pavia became the royal capital in 572. The 574–584 gap is the conventional kingless Rule of the Dukes, when some thirty-five dukes governed their cities separately, which are not recorded individually; Authari restored the royal government. The Frankish conquest ended it in 774. Benevento and Spoleto's separate governments did not end with it."
 transitions:
 - year: 774
   kind: absorbed_into

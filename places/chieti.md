@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Chieti
 point:
   latitude: 42.35
   longitude: 14.1667
-note: "The Norman counts who held the Abruzzo coast before Roger II's conquest of 1140 have no record."
 control:
 - start: -305
   end: -28
@@ -39,6 +38,10 @@ control:
   end: 1075
   polity: spoleto
   importance: 2
+- start: 1076
+  end: 1139
+  polity: county_loritello
+  importance: 3
 - start: 1140
   end: 1281
   polity: kingdom_sicily

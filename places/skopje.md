@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Skopje
 point:
   latitude: 41.9981
   longitude: 21.4254
-note: "Roman Scupi. The Slav settlement of the seventh to ninth centuries and the Bulgarian and Epirote holds of the thirteenth century are not split out."
+note: "Roman Scupi. The Bulgarian and Epirote holds of the thirteenth century are not split out."
 control:
 - start: -29
   end: -28
@@ -19,7 +19,10 @@ control:
   end: 599
   polity: byzantine_empire
   importance: 2
-- start: 850
+- start: 600
+  end: 836
+  ungoverned: "Slavs sacked Scupi around 595, and the site lay largely deserted until Bulgaria took the upper Vardar in the 830s."
+- start: 837
   end: 1003
   polity: first_bulgarian_empire
   importance: 2

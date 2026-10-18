@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Lamia_(city)
 point:
   latitude: 38.9
   longitude: 22.4333
-note: "Medieval Zetounion, on the Greek frontier from 1832 to 1881. The Thessalian rulers of 1268–1318 have no record."
+note: "Medieval Zetounion, on the Greek frontier from 1832 to 1881."
 control:
 - start: -191
   end: -28
@@ -30,6 +30,10 @@ control:
 - start: 1246
   end: 1267
   polity: despotate_epirus
+  importance: 1
+- start: 1268
+  end: 1318
+  polity: principality_thessaly
   importance: 1
 - start: 1319
   end: 1378

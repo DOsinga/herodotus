@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Osijek
 point:
   latitude: 45.5556
   longitude: 18.6944
-note: "Roman Mursa. The Ostrogothic, Gepid and Lombard years in Pannonia (454–567) are a gap."
+note: "Roman Mursa. The Pannonian Ostrogoths of 454–473 have no record."
 control:
 - start: -9
   end: 394
@@ -18,6 +18,18 @@ control:
 - start: 441
   end: 453
   polity: hunnic_empire
+  importance: 2
+- start: 474
+  end: 503
+  polity: gepid_kingdom
+  importance: 2
+- start: 504
+  end: 535
+  polity: ostrogothic_kingdom
+  importance: 2
+- start: 536
+  end: 567
+  polity: gepid_kingdom
   importance: 2
 - start: 568
   end: 795

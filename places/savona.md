@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Savona
 point:
   latitude: 44.3081
   longitude: 8.4811
-note: "The commune of Savona, often at war with Genoa and under French or Milanese protection, is not recorded before Genoa took it for good in 1528."
 control:
 - start: -180
   end: -28
@@ -50,6 +49,10 @@ control:
 - start: 962
   end: 1098
   polity: holy_roman_empire
+  importance: 2
+- start: 1099
+  end: 1527
+  polity: commune_savona
   importance: 2
 - start: 1528
   end: null

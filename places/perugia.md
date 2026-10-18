@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Perugia
 point:
   latitude: 43.1122
   longitude: 12.3889
-note: "The commune and the Baglioni lordship (1101–1539) are not recorded; the papacy only governed the city directly after the Salt War of 1540."
+note: "The papacy only governed the city directly after the Salt War of 1540."
 control:
 - start: -295
   end: -28
@@ -35,6 +35,26 @@ control:
   end: 1100
   polity: papal_states
   importance: 2
+- start: 1101
+  end: 1399
+  polity: commune_perugia
+  importance: 3
+- start: 1400
+  end: 1402
+  polity: duchy_milan
+  importance: 2
+- start: 1403
+  end: 1407
+  polity: papal_states
+  importance: 2
+- start: 1408
+  end: 1413
+  polity: kingdom_naples
+  importance: 2
+- start: 1414
+  end: 1539
+  polity: commune_perugia
+  importance: 3
 - start: 1540
   end: 1797
   polity: papal_states

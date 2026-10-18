@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mostar
 point:
   latitude: 43.3436
   longitude: 17.8075
-note: "The town grew up around its bridge in the fifteenth century; earlier spans stand for the land of Hum. The Kosača dukes of Saint Sava (1435–1467) have no record."
+note: "The town grew up around its bridge in the fifteenth century; earlier spans stand for the land of Hum."
 control:
 - start: 1168
   end: 1216
@@ -23,6 +23,10 @@ control:
   end: 1434
   polity: kingdom_bosnia
   importance: 1
+- start: 1435
+  end: 1467
+  polity: duchy_saint_sava
+  importance: 2
 - start: 1468
   end: 1877
   polity: ottoman_empire

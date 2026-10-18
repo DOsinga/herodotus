@@ -6,15 +6,19 @@ point:
   latitude: 42.306
   longitude: 9.151
 control:
-- start: 1461
-  end: 1464
-  polity: republic_genoa
+- start: 1453
+  end: 1552
+  polity: bank_saint_george
   importance: 2
-- start: 1478
-  end: 1488
-  polity: republic_genoa
+- start: 1553
+  end: 1558
+  polity: kingdom_france
   importance: 2
-- start: 1528
+- start: 1559
+  end: 1561
+  polity: bank_saint_george
+  importance: 2
+- start: 1562
   end: 1754
   polity: republic_genoa
   importance: 2

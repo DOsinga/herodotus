@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bitola
 point:
   latitude: 41.0319
   longitude: 21.3347
-note: "Before the medieval town the spans stand for Roman Heraclea Lyncestis nearby. Ottoman Manastir was the seat of the governor of Rumelia from 1836."
+note: "Before the medieval town the spans stand for Roman Heraclea Lyncestis nearby, where Slav settlers lived among the ruins. Ottoman Manastir was the seat of the governor of Rumelia from 1836."
 control:
 - start: -168
   end: -28
@@ -18,6 +18,10 @@ control:
 - start: 395
   end: 599
   polity: byzantine_empire
+  importance: 1
+- start: 600
+  end: 849
+  polity: berziti
   importance: 1
 - start: 850
   end: 1017

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Pula
 point:
   latitude: 44.8703
   longitude: 13.8456
-note: "The commune and the Castropola lords (1250–1330) and the Allied administration of 1945–1947 are gaps."
+note: "The Castropola lords, who governed Pula under the patriarchs of Aquileia as margraves of Istria, are shown under the Patria del Friuli. The Allied administration of 1945–1947 is a gap."
 control:
 - start: -177
   end: -28
@@ -50,6 +50,10 @@ control:
 - start: 962
   end: 1249
   polity: holy_roman_empire
+  importance: 1
+- start: 1250
+  end: 1330
+  polity: patria_friuli
   importance: 1
 - start: 1331
   end: 1796

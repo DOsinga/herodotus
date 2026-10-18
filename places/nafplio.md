@@ -15,6 +15,10 @@ control:
   end: 1310
   polity: duchy_athens
   importance: 1
+- start: 1311
+  end: 1387
+  polity: lordship_argos_nauplia
+  importance: 2
 - start: 1388
   end: 1539
   polity: republic_venice

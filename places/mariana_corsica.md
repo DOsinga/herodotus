@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mariana,_Corsica
 point:
   latitude: 42.5392
   longitude: 9.4958
+note: "Between 888 and 1091 the margraves of Tuscany held Corsica loosely for the Italian kings and emperors, amid Saracen raids and local lords."
 control:
 - start: -93
   end: -28
@@ -41,6 +42,14 @@ control:
 - start: 855
   end: 887
   polity: carolingian_italy
+  importance: 2
+- start: 888
+  end: 961
+  polity: carolingian_italy
+  importance: 2
+- start: 962
+  end: 1091
+  polity: holy_roman_empire
   importance: 2
 - start: 1092
   end: 1283

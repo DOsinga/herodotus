@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Taranto
 point:
   latitude: 40.4711
   longitude: 17.2431
-note: "The Arab occupation of 840–880 is a gap."
+note: "The Saracens who held the town from 840 to 880 came from Aghlabid Sicily and are shown under the Aghlabid emirate."
 control:
 - start: -706
   end: -273
@@ -38,6 +38,10 @@ control:
 - start: 680
   end: 839
   polity: benevento
+  importance: 2
+- start: 840
+  end: 879
+  polity: aghlabid_emirate
   importance: 2
 - start: 880
   end: 1062

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Szeged
 point:
   latitude: 46.255
   longitude: 20.145
-note: "Stands in for the plain between the Danube and the Tisza, where the Huns, the Gepids and the Avars had their centres; Attila's court and the khagans' Ring have not been located. Avar rule there survived Charlemagne's campaigns until the 820s."
+note: "Stands in for the plain between the Danube and the Tisza, where the Huns, the Gepids and the Avars had their centres; Attila's court and the khagans' Ring have not been located. Avar rule there survived Charlemagne's campaigns until the 820s, and Bulgaria held the plain until the Magyars arrived."
 control:
 - start: 400
   end: 454
@@ -19,7 +19,11 @@ control:
   end: 822
   polity: avar_khaganate
   importance: 2
-- start: 900
+- start: 823
+  end: 894
+  polity: first_bulgarian_empire
+  importance: 1
+- start: 895
   end: 999
   polity: magyar_principality
   importance: 1

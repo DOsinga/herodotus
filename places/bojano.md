@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Bojano
 point:
   latitude: 41.4833
   longitude: 14.4667
-note: "The Norman counts of Molise (about 1051–1139) have no record."
 control:
 - start: -500
   end: -291
@@ -47,6 +46,10 @@ control:
   end: 1050
   polity: benevento
   importance: 1
+- start: 1053
+  end: 1139
+  polity: county_molise
+  importance: 2
 - start: 1140
   end: 1281
   polity: kingdom_sicily
