@@ -23,6 +23,10 @@ point:
   name: Treviso
   latitude: 45.6658
   longitude: 12.2456
+colors:
+  1138: "#b23473"
+  1304: "#b23473"
+  1329: "#862727"
 note: "Start estimated from the first consuls. The gaps are the lordships of Alberico da Romano (1239–1259) and the da Camino (1283–1312). The imperial vicars of 1318–1329 are included."
 transitions:
 - year: 1239

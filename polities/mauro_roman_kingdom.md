@@ -22,8 +22,6 @@ point:
   longitude: -1.028
 colors:
   429: "#cd7a51"
-  509: "#cd7a51"
-  534: "#cd51cd"
 note: "429 estimates the emergence of independent Romano-Berber government as Roman authority receded; Masuna's kingship is attested by the inscription of 508. Ends with the Byzantine defeat of Garmul around 578, rather than a generic survival of Romano-Berber communities. The reduced Altava state has its own record."
 transitions:
 - year: 578

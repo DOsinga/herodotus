@@ -18,6 +18,8 @@ point:
   name: "Bourges"
   latitude: 47.0794
   longitude: 2.3958
+colors:
+  926: "#672786"
 note: "No English article covers the viscounty, so the link goes to the city. The viscounts' independence from the crown is dated only to the eleventh century; the record follows the creation of the viscounty in 926."
 transitions:
 - year: 1101

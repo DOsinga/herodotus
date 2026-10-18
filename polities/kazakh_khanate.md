@@ -22,7 +22,7 @@ point:
   latitude: 44.1567
   longitude: 66.9617
 colors:
-  1465: "#678627"
+  1465: "#578627"
 note: "After Tauke Khan's death about 1718 the three jüzes went their own ways under separate khans, recorded separately. Kenesary Kasymov revived the khanate in 1841 until his defeat and death in 1847."
 transitions:
 - year: 1718

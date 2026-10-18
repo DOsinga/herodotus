@@ -20,7 +20,7 @@ point:
   latitude: 38.1157
   longitude: 13.3615
 colors:
-  1071: "#864727"
+  1071: "#345eb2"
 note: "The start marks Norman government in part of Sicily, not the completion of the island's conquest in 1091. The county became part of the Kingdom of Sicily in 1130."
 transitions:
 - year: 1130

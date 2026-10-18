@@ -14,7 +14,7 @@ point:
   latitude: 55.676
   longitude: 12.568
 colors:
-  1814: "#866727"
+  1814: "#88b234"
 note: "Links the country article. Changes of regime after independence are not split into separate records. Gap from August 1943, when the Danish government resigned and the Germans governed directly."
 transitions:
 - year: 1943

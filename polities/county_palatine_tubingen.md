@@ -18,6 +18,8 @@ point:
   name: Tübingen
   latitude: 48.52
   longitude: 9.0556
+colors:
+  1250: "#cd518f"
 note: "Starts with the end of royal government in 1250 and ends with the sale of Tübingen in 1342. The branch lines at Horb, Herrenberg, Böblingen and Asperg are not split out."
 transitions:
 - year: 1342

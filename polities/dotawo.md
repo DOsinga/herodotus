@@ -18,5 +18,7 @@ point:
   name: Gebel Adda
   latitude: 22.2939
   longitude: 31.6139
+colors:
+  1366: "#868627"
 note: "Counted from the Makurian court's abandonment of Dongola in 1365; the last dated document is from 1484, and the record runs on by estimate to the Ottoman conquest of Lower Nubia around 1560, since no other power is known there; the Dongola reach is given to it for the same years. Whether Dotawo was Makuria itself under its Nubian name is debated, and one recent view has it lasting into the 1500s or later."
 ---

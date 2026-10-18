@@ -19,7 +19,7 @@ point:
   latitude: 35.2503
   longitude: 139.1536
 colors:
-  1493: "#66cd51"
+  1493: "#278686"
 note: "Covers the house as a Sengoku power, from Sōun's seizure of Izu in 1493 to the fall of Odawara in 1590; the seat was Nirayama in Izu until Odawara was taken, traditionally in 1495. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1493

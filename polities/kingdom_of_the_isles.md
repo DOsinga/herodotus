@@ -19,7 +19,7 @@ point:
   latitude: 54.236
   longitude: -4.548
 colors:
-  1079: "#51cdcd"
+  1079: "#6651cd"
 note: "Starts with Godred Crovan's dynasty in 1079; earlier kings of the Isles are not recorded. From 1156 Somerled's descendants governed the southern Hebrides separately and are their own record; this record then covers Man and the northern Hebrides."
 transitions:
 - year: 1266

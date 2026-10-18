@@ -24,7 +24,7 @@ point:
   longitude: -91.734
 colors:
   -400: "#274786"
-  788: "#274786"
-  813: "#276786"
+  793: "#274786"
+  818: "#276786"
 note: "400 BCE estimates the Maya royal polity supported by early inscriptions and elite tombs. 1000 estimates the end of its substantial governing centre after the Late Classic revival. Earlier Olmec-style occupation is not treated as the same state, and sculpture styles alone do not prove foreign rule."
 ---

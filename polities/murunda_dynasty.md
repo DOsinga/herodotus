@@ -19,5 +19,7 @@ point:
   name: "Sisupalgarh"
   latitude: 20.2266
   longitude: 85.8531
+colors:
+  100: "#8834b2"
 note: "Both dates are estimates for the second and third centuries CE; the article gives no firmer limits. Sisupalgarh, where Dhamadamadhara's coin was found, stands in for the unknown capital."
 ---

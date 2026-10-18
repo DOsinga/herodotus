@@ -19,6 +19,8 @@ point:
   name: "Katembe"
   latitude: -26.005
   longitude: 32.5597
+colors:
+  1550: "#276786"
 note: "1550 estimates the rule of Tembe, the first recorded ruler, in the sixteenth century. From 1746 the kingdom divided between branches either side of the Maputo River, and the eastern Maputo or Mabudu branch became the stronger; both are kept in this record. Ends with Britain's annexation of Tongaland in 1895; the part north of the 1875 border fell to Portugal."
 transitions:
 - year: 1895

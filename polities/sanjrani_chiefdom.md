@@ -19,6 +19,8 @@ point:
   name: Chakhansur
   latitude: 31.1667
   longitude: 62.0667
+colors:
+  1823: "#862757"
 note: "1823 estimates the start from the end of Durrani authority; Wikipedia only says the Sanjranis took Chakhansur in the early nineteenth century. Treated as a chiefdom because the article describes a tribal confederacy with the Narui. The 1882 end follows the article, which dates the extension of Afghan rule after the 1872 award to Abdur Rahman's campaign."
 transitions:
 - year: 1882

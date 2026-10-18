@@ -21,7 +21,7 @@ point:
   latitude: 41.192
   longitude: 47.171
 colors:
-  787: "#b8cd51"
+  787: "#a3cd51"
 note: "787 follows the separate principality, before Grigol Hamam's royal title in 893. Its late royal chronology is disputed: the article gives conflicting dates for John Senekerim. 1010 follows Bagrat III's annexation of the eastern realms; the later combined Kakheti-Hereti government is not an unchanged Heretian kingdom."
 transitions:
 - year: 1010

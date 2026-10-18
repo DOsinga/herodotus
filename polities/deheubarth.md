@@ -26,9 +26,9 @@ point:
   latitude: 51.877
   longitude: -4.018
 colors:
-  920: "#b234b2"
-  1111: "#b234b2"
-  1136: "#865727"
+  920: "#572786"
+  1006: "#572786"
+  1031: "#3449b2"
 note: "920 follows Hywel's union of Dyfed and Seisyllwg. The gaps represent takeover by Gwynedd in 1018, Gruffudd ap Llywelyn's united Welsh government from 1055, and Norman control after Rhys ap Tewdwr's 1093 death. The native government recovered in 1136. Rhys ap Gruffudd's death in 1197 ended the united principality; separate local lordships followed, not a united kingdom to 1283."
 transitions:
 - year: 1018

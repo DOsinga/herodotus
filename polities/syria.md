@@ -14,7 +14,7 @@ point:
   latitude: 33.5131
   longitude: 36.3094
 colors:
-  1946: "#cda351"
+  1946: "#a351cd"
 note: "Gap for the United Arab Republic with Egypt. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1946

@@ -19,6 +19,8 @@ point:
   name: "Fanjahira"
   latitude: -24.98
   longitude: 46.93
+colors:
+  1613: "#51cd7a"
 note: "1613 follows the first recorded king, met by the Portuguese at Manafiafy; the Zafiraminia were established earlier. The point is approximate, since the capital Fanjahira is not located."
 transitions:
 - year: 1825

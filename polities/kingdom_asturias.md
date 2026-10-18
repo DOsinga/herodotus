@@ -21,7 +21,7 @@ point:
   latitude: 43.3625
   longitude: -5.8431
 colors:
-  718: "#478627"
+  718: "#278627"
 note: "718 is the traditional approximate beginning under Pelayo. León and Galicia became separate kingdoms in the 910 division, while Fruela II still governed Asturias. The remaining Asturian government joined León in 924; the transfer is not backdated to the earlier partition."
 transitions:
 - year: 924

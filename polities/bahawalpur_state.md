@@ -20,7 +20,7 @@ point:
   latitude: 29.3956
   longitude: 71.6836
 colors:
-  1748: "#b8cd51"
+  1748: "#51cd8f"
 note: "The end is the treaty of October 1838, which made the state subordinate to the British; Wikipedia dates its princely status from the treaty of 1833."
 transitions:
 - year: 1838

@@ -20,5 +20,7 @@ point:
   name: "Chandravalli"
   latitude: 14.2089
   longitude: 76.3861
+colors:
+  -185: "#66cd51"
 note: "The rulers are not named for these years; the record stands for the local chiefs who must have held the valley between the end of the Maurya span and the Satavahana span used for Chitradurga, and both dates simply follow those spans. The Maharathi chiefs of Chandravalli are known from later coins."
 ---

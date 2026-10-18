@@ -19,6 +19,8 @@ point:
   name: Nizwa
   latitude: 22.933
   longitude: 57.533
+colors:
+  1913: "#cd517a"
 note: "Ends when the sultan's forces took Nizwa in December 1955; resistance went on in the Jebel Akhdar War until 1959. The linked article covers all the Omani imamates."
 transitions:
 - year: 1955

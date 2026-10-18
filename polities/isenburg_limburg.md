@@ -18,6 +18,8 @@ point:
   name: Limburg an der Lahn
   latitude: 50.3833
   longitude: 8.0667
+colors:
+  1250: "#51cda3"
 note: "Starts with the end of royal government in 1250, eight years before the Limburg line formally split from the Isenburgs. Ends with its extinction in 1406; Trier held the whole town from 1420."
 transitions:
 - year: 1406

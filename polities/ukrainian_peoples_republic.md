@@ -24,7 +24,7 @@ point:
   latitude: 50.45
   longitude: 30.5233
 colors:
-  1917: "#278686"
+  1917: "#51a3cd"
 note: "The Hetmanate's Ukrainian State replaced it from April to December 1918; the Directorate restored the republic in December 1918, shown from 1919 because a polity's periods cannot share a year. Ends when its army and government withdrew in November 1920."
 transitions:
 - year: 1917

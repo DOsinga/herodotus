@@ -20,6 +20,8 @@ point:
   name: Vlorë
   latitude: 40.4667
   longitude: 19.4833
+colors:
+  1355: "#5151cd"
 note: "The gap is Balša II's rule of 1372–1385, shown under Zeta."
 transitions:
 - year: 1355

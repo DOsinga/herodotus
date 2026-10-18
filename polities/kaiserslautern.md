@@ -18,6 +18,8 @@ point:
   name: Kaiserslautern
   latitude: 49.4447
   longitude: 7.7689
+colors:
+  1250: "#34b25e"
 note: "Starts with the end of royal government in 1250; the town received its charter as an imperial city in 1276. Ends with the pledge to the Palatinate, dated 1357 here and 1375 in some sources."
 transitions:
 - year: 1357

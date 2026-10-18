@@ -18,6 +18,8 @@ point:
   name: Denpasar
   latitude: -8.6717
   longitude: 115.2339
+colors:
+  1686: "#cd51cd"
 note: >-
   Links the regency article, as no article covers the kingdom on its own. 1686 estimates its
   independence from the breakup of Gelgel, when the old court moved to Klungkung; its exact

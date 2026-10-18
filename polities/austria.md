@@ -23,7 +23,7 @@ point:
   latitude: 48.2083
   longitude: 16.3725
 colors:
-  1918: "#cd7a51"
+  1918: "#66cd51"
 note: "Gap for the Anschluss. The restored government governed from 1945 under Allied occupation until 1955. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1938

@@ -18,6 +18,10 @@ point:
   name: Speyer
   latitude: 49.3194
   longitude: 8.4311
+colors:
+  1250: "#34b273"
+  1543: "#34b273"
+  1568: "#34b249"
 note: "Starts with the end of royal government in 1250; the bishop renounced his rights over the city in 1294. Ends with the French occupation of 1794."
 transitions:
 - year: 1794

@@ -19,7 +19,7 @@ point:
   latitude: 41.7167
   longitude: 44.7833
 colors:
-  1008: "#865727"
+  1008: "#472786"
 note: "Ends in 1478, when Kartli carried on the eastern royal government. The kingdom's formal division into Kartli, Kakheti and Imereti is usually dated to 1490, but Kakheti and Imereti already governed separately and have their own records."
 transitions:
 - year: 1478

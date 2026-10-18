@@ -18,6 +18,8 @@ point:
   name: Sonargaon
   latitude: 23.6475
   longitude: 90.5978
+colors:
+  1576: "#862767"
 note: "Covers Isa Khan's and Musa Khan's own government. The other Baro-Bhuiyan chiefs, such as Kedar Ray of Bikrampur and Pratapaditya of Jessore, were allies rather than subjects and have no records. The link goes to Isa Khan because no article covers his state."
 transitions:
 - year: 1611

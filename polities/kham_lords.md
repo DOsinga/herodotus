@@ -21,6 +21,8 @@ point:
   name: "Chamdo"
   latitude: 31.143
   longitude: 97.17
+colors:
+  843: "#b29d34"
 note: "The record stands for the chieftains, clan houses and monastic lords of Kham during the Era of Fragmentation and again after the Yuan, whom the evidence does not separate into lasting states. Nangchen and Chakla, once they appear, have their own records. The point is Chamdo, the later main town of the region. The end in 1252 is the Mongol conquest of Kham; the second period ends with the founding of the Chamdo lama state in 1437."
 transitions:
 - year: 1252

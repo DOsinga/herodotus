@@ -20,9 +20,7 @@ point:
   latitude: 50.735
   longitude: 7.102
 colors:
-  1250: "#863727"
-  1325: "#863727"
-  1350: "#862737"
+  1250: "#b2b234"
 note: "The archbishops lost the city of Cologne after the Battle of Worringen in 1288 and governed from Bonn. France took the lands west of the Rhine in 1794; the electors kept governing the Duchy of Westphalia and Recklinghausen east of the Rhine until the 1803 secularisation gave most of what was left to Hesse-Darmstadt."
 transitions:
 - year: 1803

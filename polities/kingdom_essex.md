@@ -21,7 +21,7 @@ point:
   latitude: 51.89
   longitude: 0.902
 colors:
-  527: "#274786"
+  527: "#b851cd"
 note: "527 is the traditional foundation date. The native dynasty retained kingship, charters and coinage under Kentish and Mercian overlordship; that is not treated as direct annexation in 709. Ends with Sigered's surrender to Egbert in 825. Colchester represents a central royal town; London was lost earlier."
 transitions:
 - year: 825

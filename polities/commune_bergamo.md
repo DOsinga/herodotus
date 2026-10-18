@@ -19,6 +19,8 @@ point:
   name: Bergamo
   latitude: 45.695
   longitude: 9.67
+colors:
+  1098: "#cd7a51"
 note: "1098 is the first mention of consuls. The faction lords and imperial vicars of the early fourteenth century, and John of Bohemia's lordship of 1331–1332, are not split out. Links the history of Bergamo."
 transitions:
 - year: 1332

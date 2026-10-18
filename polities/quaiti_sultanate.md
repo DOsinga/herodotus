@@ -18,6 +18,8 @@ point:
   name: Mukalla
   latitude: 14.5333
   longitude: 49.1333
+colors:
+  1858: "#278686"
 note: "Starts with the capture of Shibam in 1858; Mukalla, later the capital, was taken in stages between 1873 and 1881. Ends with the British protectorate treaty of 1888."
 transitions:
 - year: 1888

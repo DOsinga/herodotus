@@ -12,7 +12,7 @@ point:
   latitude: 11.86
   longitude: -15.5833
 colors:
-  1973: "#5eb234"
+  1973: "#66cd51"
 note: "Starts with the 1973 declaration; the PAIGC already governed liberated areas, and Portugal recognised independence in 1974. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1973

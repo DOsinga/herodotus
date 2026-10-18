@@ -20,6 +20,8 @@ point:
   name: "Banavasi"
   latitude: 14.535
   longitude: 75.01
+colors:
+  225: "#863727"
 note: "The record covers the years of independent rule after the Satavahanas, dated here from Pulumavi IV's death around 225; earlier the Chutus were Satavahana feudatories. The article dates the end both to 250–275 and, from inscriptions, to the Kadamba conquest of Banavasi around 345; the record follows the inscriptions."
 transitions:
 - year: 345

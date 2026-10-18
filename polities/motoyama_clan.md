@@ -18,6 +18,8 @@ point:
   name: "Asakura Castle"
   latitude: 33.549
   longitude: 133.474
+colors:
+  1508: "#864727"
 note: "Begins with the destruction of the Chōsokabe in 1508, after which the Motoyama were the leading house of central Tosa, and ends with the loss of Asakura in 1563; the remnant held out in the mountains until about 1568 and is not counted. When they moved their seat from Motoyama to Asakura is uncertain, around the 1530s. No English article covers the clan, so the record links the article on Tosa Province."
 transitions:
 - year: 1563

@@ -20,6 +20,8 @@ point:
   name: Tezpur
   latitude: 26.6283
   longitude: 92.7997
+colors:
+  1141: "#867627"
 note: "Both dates are estimates. The chiefs emerged from the fragments of Kamarupa, and the end follows the Ahom occupation of the north bank under Suhungmung. The record stands for the chiefs together because their separate domains are not known well enough to map; the point is set in Sonitpur, where they held land."
 transitions:
 - year: 1530

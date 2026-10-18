@@ -20,6 +20,8 @@ point:
   name: "San Luis"
   latitude: 16.1989
   longitude: -89.4403
+colors:
+  1200: "#51cda3"
 note: "1200 estimates the Postclassic resettlement of the upper Mopan valley after the Classic collapse; the Mopan appear in Spanish sources from the missionary visits of 1596, and their political makeup is obscure. Ends with the Spanish conquest of Petén in 1697. Links the conquest's article because no article covers the Mopan polity."
 transitions:
 - year: 1697

@@ -20,6 +20,8 @@ point:
   name: "Amiens"
   latitude: 49.892
   longitude: 2.299
+colors:
+  945: "#862737"
 note: "The start follows Walter I's accession in 945. The years of the Boves lords and of the Vermandois takeover are approximate."
 transitions:
 - year: 1077

@@ -19,6 +19,8 @@ point:
   name: "Nur"
   latitude: 36.575
   longitude: 52.012
+colors:
+  1453: "#cd5166"
 note: "The Kojur branch has no record. 1597 follows the place history; the article dates the Safavid conquest of the Baduspanid lands to 1598."
 transitions:
 - year: 1597

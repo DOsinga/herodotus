@@ -18,5 +18,7 @@ point:
   name: "Mogadishu"
   latitude: 2.0392
   longitude: 45.3419
+colors:
+  1700: "#518fcd"
 note: "1700 follows the end of the Ajuran record and the article's statement that the Hiraab held the coast towards Hobyo by 1700. The record ends when Zanzibar garrisoned Mogadishu in 1871; the imams kept a role among the Hiraab clans of the interior until Italian rule, which is not recorded."
 ---

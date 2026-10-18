@@ -18,6 +18,8 @@ point:
   name: "Kawagoe Castle"
   latitude: 35.9225
   longitude: 139.4917
+colors:
+  1467: "#cd518f"
 note: "Covers the branch as a Sengoku power, from the Ōnin War to the death of Uesugi Tomosada at Kawagoe in 1546. Its seat was Kasuya in Sagami before it moved to Kawagoe, and Matsuyama in Musashi after Kawagoe fell in 1537. The Yamanouchi Uesugi, a separate government, are not covered. Links the article on the whole Uesugi family."
 transitions:
 - year: 1467

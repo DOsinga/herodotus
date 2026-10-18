@@ -19,6 +19,8 @@ point:
   name: Nakhon Si Thammarat
   latitude: 8.43
   longitude: 99.96
+colors:
+  1278: "#34b249"
 note: "1278 follows the end of the Tambralinga record. 1400 is an estimate for Ayutthaya's takeover: no source records when Ligor became its tributary, and Tomé Pires lists it as one only in the early sixteenth century, so a later end is arguable. Sukhothai's overlordship around 1283 to 1298 is not treated as outside government."
 transitions:
 - year: 1400

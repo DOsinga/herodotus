@@ -19,6 +19,10 @@ point:
   name: "Geneva"
   latitude: 46.2044
   longitude: 6.1432
+colors:
+  1250: "#862737"
+  1343: "#862737"
+  1368: "#b23449"
 note: "Before 1250 Geneva counts with the German kingdom. Savoy's influence did not end the bishops' government. Ends with the Reformation and the Republic of 1534."
 transitions:
 - year: 1534

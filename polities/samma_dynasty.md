@@ -19,7 +19,7 @@ point:
   latitude: 24.7461
   longitude: 67.9244
 colors:
-  1351: "#34b249"
+  1351: "#34b288"
 note: >-
   Links the dynasty article; the dynasty name is the conventional name for the state. Ends with the
   Arghun conquest of Thatta in 1520; Jam Feroz kept a share of the country for a few years before he

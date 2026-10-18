@@ -21,7 +21,7 @@ point:
   latitude: 50.781
   longitude: 5.464
 colors:
-  460: "#51cd8f"
+  460: "#cd6651"
 note: "460–510 estimates Chararic's separate kingship before Clovis killed him and absorbed his realm. The dates and identification with Tongeren are disputed; Gregory establishes a distinct ruler, not a precise territory or capital. Links his biography."
 transitions:
 - year: 510

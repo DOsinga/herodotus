@@ -19,7 +19,7 @@ point:
   latitude: 45.1715
   longitude: 5.7224
 colors:
-  1250: "#5151cd"
+  1250: "#7a51cd"
 note: "Starts in 1250 following the simplification for the Holy Roman Empire; the counts of Albon governed much of the region earlier. Ends with Humbert II's sale to the future Charles V of France in 1349."
 transitions:
 - year: 1349

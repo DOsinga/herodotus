@@ -21,7 +21,9 @@ point:
   latitude: 41.812
   longitude: 45.141
 colors:
-  787: "#275786"
+  787: "#672786"
+  960: "#672786"
+  985: "#5151cd"
 note: "787 follows Grigol's separate principality. Tributary settlements with the caliphate did not remove its own chorepiscopal rulers. Bagrat III's conquest in 1010 interrupted local government; the restored Kakheti-Hereti kingdom after 1014 has its own record."
 transitions:
 - year: 1010

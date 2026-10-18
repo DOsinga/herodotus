@@ -19,6 +19,8 @@ point:
   name: "Neiafu"
   latitude: -18.65
   longitude: -173.983
+colors:
+  1799: "#51cdcd"
 note: "1799 follows the murder of the Tuʻi Kanokupolu Tukuʻaho, which began the civil wars; the Fīnau line held Vavaʻu throughout and Haʻapai until about 1808. Ends in 1833, when Fīnau ʻUlukālala III left Vavaʻu to Tāufaʻāhau."
 transitions:
 - year: 1833

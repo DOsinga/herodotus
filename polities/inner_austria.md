@@ -19,7 +19,7 @@ point:
   latitude: 47.0707
   longitude: 15.4395
 colors:
-  1406: "#672786"
+  1406: "#345eb2"
 note: "Ernest the Iron's line from the 1406 division; it joined Austria when Frederick III inherited it in 1457."
 transitions:
 - year: 1457

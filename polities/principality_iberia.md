@@ -12,7 +12,7 @@ point:
   latitude: 41.126
   longitude: 42.064
 colors:
-  588: "#768627"
+  588: "#478627"
 note: "Guaram's local government began around 588 after the Persian provincial period. After the Arabs took Tbilisi in the 730s, the princes continued to govern a reduced territory from Uplistsikhe. When the old line died out around 786, Ashot Bagrationi took over its lands in Klarjeti and rebuilt Artanuji, which the record counts as a continuation; Byzantium recognised him as presiding prince in 813. Artanuji is the later seat, not the early capital."
 transitions:
 - year: 588

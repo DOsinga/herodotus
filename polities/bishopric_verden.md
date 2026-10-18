@@ -18,6 +18,10 @@ point:
   name: Verden
   latitude: 52.9233
   longitude: 9.235
+colors:
+  1250: "#34b25e"
+  1457: "#34b25e"
+  1482: "#51cd7a"
 note: "Starts with the end of royal government in 1250. Ends in 1648."
 transitions:
 - year: 1648

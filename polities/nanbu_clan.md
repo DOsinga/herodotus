@@ -19,6 +19,8 @@ point:
   name: "Sannohe Castle"
   latitude: 40.381
   longitude: 141.262
+colors:
+  1467: "#277686"
 note: "Covers the house as a Sengoku power, from the Ōnin War to its submission at Odawara in 1590. The seat was Sannohe; Morioka was only built after 1590. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1467

@@ -20,7 +20,7 @@ point:
   latitude: 29.8603
   longitude: 121.6245
 colors:
-  1356: "#868627"
+  1356: "#678627"
 note: "Begins when Fang held his three prefectures permanently, by 1356; his earlier piracy from 1348 is not counted. Qingyuan is modern Ningbo. The Yuan titles he accepted did not give the court control of his ports."
 transitions:
 - year: 1356

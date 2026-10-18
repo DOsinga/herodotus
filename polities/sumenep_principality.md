@@ -18,6 +18,8 @@ point:
   name: Sumenep
   latitude: -7.0013
   longitude: 113.8697
+colors:
+  1527: "#273786"
 note: >-
   Links the regency article, as no article covers the principality. 1527 follows the end of
   Majapahit; its sixteenth-century rulers are poorly documented. 1624 follows Sultan Agung's

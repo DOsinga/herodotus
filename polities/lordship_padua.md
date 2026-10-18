@@ -23,6 +23,8 @@ point:
   name: Padua
   latitude: 45.4015
   longitude: 11.8809
+colors:
+  1318: "#66cd51"
 note: "The gaps are the Scaliger rule of 1328–1337 and Visconti rule of 1388–1390. The Habsburg protection of 1320–1328 is included."
 transitions:
 - year: 1328

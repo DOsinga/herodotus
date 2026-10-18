@@ -18,6 +18,8 @@ point:
   name: Lahij
   latitude: 13.0583
   longitude: 44.8814
+colors:
+  1728: "#275786"
 note: "Ends when Britain took Aden in 1839 and Lahej came into the Aden protectorate system, although Sultan Muhsin attacked Aden several times between 1839 and 1846."
 transitions:
 - year: 1839

@@ -20,7 +20,7 @@ point:
   latitude: 22.009
   longitude: 100.797
 colors:
-  1180: "#b24934"
+  1180: "#b2345e"
 note: "The founding date of 1180 is traditional. The kingdom is kept active throughout because its own dynasty governed it while paying tribute to China, Lan Na and Burma, which confirmed or installed kings from that dynasty; the Qing took direct control only of districts east of the Mekong in 1729. Ends with the arrival of the People's Liberation Army in 1950."
 transitions:
 - year: 1950

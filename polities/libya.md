@@ -22,7 +22,7 @@ point:
   latitude: 32.888
   longitude: 13.188
 colors:
-  1951: "#b24934"
+  1951: "#863727"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1951

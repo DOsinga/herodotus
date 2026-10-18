@@ -21,7 +21,9 @@ point:
   latitude: 47.0931
   longitude: 5.4906
 colors:
-  1250: "#cdcd51"
+  1250: "#b851cd"
+  1325: "#b851cd"
+  1350: "#7a51cd"
 note: "Starts in 1250 following the simplification for the Holy Roman Empire; Otto-William's county of 982 counts as part of the Kingdom of Burgundy and then the Empire. Gap for the French royal administration from the Treaty of Vincennes in 1295 until Philip IV's death. The counts from 1330 were also dukes of Burgundy or counts of Flanders, but the county kept its own administration."
 transitions:
 - year: 1295

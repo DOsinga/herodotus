@@ -19,6 +19,8 @@ point:
   name: "Chlef"
   latitude: 36.1653
   longitude: 1.3317
+colors:
+  740: "#278657"
 note: "That the Maghrawa held the coast around Cherchell between the Berber Revolt and the Rustamids is an estimate based on their territory in the Chelif region. Their later emirate at Fez has its own record."
 transitions:
 - year: 777

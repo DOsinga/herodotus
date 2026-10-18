@@ -19,7 +19,7 @@ point:
   latitude: 51.79
   longitude: 6.14
 colors:
-  1250: "#88b234"
+  1250: "#273786"
 note: "A county until 1417; joined with the County of Mark from 1368."
 transitions:
 - year: 1521

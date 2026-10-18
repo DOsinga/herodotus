@@ -27,9 +27,7 @@ point:
   latitude: 44.647
   longitude: 10.926
 colors:
-  1598: "#862747"
-  1769: "#862747"
-  1794: "#51cd51"
+  1598: "#8f51cd"
 note: "Gaps for the French occupation of 1702–1707, the Austrian occupation of 1742–1749, and Napoleonic rule from 1796 until the Habsburg-Este restoration of 1814. Joined to Sardinia after its duke fled in 1859."
 transitions:
 - year: 1702

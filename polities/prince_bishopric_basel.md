@@ -21,15 +21,13 @@ point:
   latitude: 47.4153
   longitude: 7.0756
 colors:
-  1250: "#b2b234"
-  1372: "#b2b234"
-  1397: "#cdb851"
-  1480: "#cdb851"
-  1505: "#cd517a"
-  1642: "#cd517a"
-  1667: "#7acd51"
-  1746: "#7acd51"
-  1771: "#274786"
+  1250: "#b23434"
+  1328: "#b23434"
+  1353: "#378627"
+  1480: "#378627"
+  1505: "#34b29d"
+  1774: "#34b29d"
+  1799: "#cd8f51"
 note: "Starts in 1250 under the Holy Roman Empire rule in AGENTS.md. The city of Basel left the bishop's rule in the 1380s and joined the Confederacy in 1501. France took Porrentruy and the north in 1792, the southern districts in 1797; the bishop kept Schliengen until it went to Baden in 1803."
 transitions:
 - year: 1803

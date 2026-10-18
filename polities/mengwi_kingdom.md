@@ -18,6 +18,8 @@ point:
   name: Mengwi
   latitude: -8.5417
   longitude: 115.1725
+colors:
+  1723: "#862737"
 note: >-
   1723 follows the article's founding date, which is an estimate. The brief subordination to Badung
   after 1829 did not end its own government. Mengwi's lands were divided between Badung and Tabanan

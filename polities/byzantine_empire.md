@@ -24,13 +24,13 @@ point:
   latitude: 41.0125
   longitude: 28.98
 colors:
-  395: "#cd7a51"
-  1093: "#cd7a51"
-  1118: "#3488b2"
-  1236: "#3488b2"
-  1261: "#b8cd51"
-  1338: "#b8cd51"
-  1363: "#a351cd"
+  395: "#345eb2"
+  996: "#345eb2"
+  1021: "#5166cd"
+  1096: "#5166cd"
+  1121: "#b29d34"
+  1236: "#b29d34"
+  1261: "#34b234"
 note: "Starts with the 395 division of the Roman Empire; Constantinople was founded as the capital in 330, when the Roman Empire record still covers it."
 transitions:
 - year: 1204

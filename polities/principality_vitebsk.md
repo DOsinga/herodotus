@@ -20,6 +20,8 @@ point:
   name: Vitebsk
   latitude: 55.1917
   longitude: 30.2056
+colors:
+  1101: "#b8cd51"
 note: "The Lithuanian inheritance of 1320 ends its separate government here, although Vitebsk kept a measure of autonomy under its own princes until 1393."
 transitions:
 - year: 1129

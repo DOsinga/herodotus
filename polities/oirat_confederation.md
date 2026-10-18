@@ -18,6 +18,8 @@ point:
   name: "Western Mongolia"
   latitude: 48.0
   longitude: 91.6
+colors:
+  1400: "#cd518f"
 note: "Both dates are estimates: about 1400 for the Oirats' break with the Northern Yuan, and 1634 for the founding of the Dzungar Khanate. The point is approximate."
 transitions:
 - year: 1634

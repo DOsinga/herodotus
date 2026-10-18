@@ -19,7 +19,7 @@ point:
   latitude: 37.8706
   longitude: 112.5489
 colors:
-  896: "#3473b2"
+  896: "#b2b234"
 note: "896 follows recognition of Li Keyong's autonomous principality by the weakened Tang court. The beginning is also placed in 883 at his military governorship or 907 at Tang's fall. Loyalty to the Tang name did not make his government part of Later Liang."
 transitions:
 - year: 896

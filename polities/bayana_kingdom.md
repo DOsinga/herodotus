@@ -18,6 +18,8 @@ point:
   name: "Bayana"
   latitude: 26.91
   longitude: 77.29
+colors:
+  1040: "#51cda3"
 note: "The founding date of 1040 is traditional. No article covers the Bayana kingdom; the link is to Karauli State, whose rulers descend from it."
 transitions:
 - year: 1196

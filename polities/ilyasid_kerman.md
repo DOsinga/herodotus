@@ -18,6 +18,8 @@ point:
   name: "Bardasir (Kerman)"
   latitude: 30.2833
   longitude: 57.0833
+colors:
+  932: "#518fcd"
 transitions:
 - year: 968
   kind: absorbed_into

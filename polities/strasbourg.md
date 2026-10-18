@@ -20,11 +20,7 @@ point:
   latitude: 48.583
   longitude: 7.746
 colors:
-  1262: "#275786"
-  1438: "#275786"
-  1463: "#277686"
-  1598: "#277686"
-  1623: "#34b273"
+  1262: "#278657"
 note: "Self-governing after the burghers defeated their bishop at Hausbergen in 1262. Louis XIV annexed it in 1681. Links the history of Strasbourg."
 transitions:
 - year: 1681

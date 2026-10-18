@@ -20,6 +20,8 @@ point:
   name: "Huamachuco"
   latitude: -7.812
   longitude: -78.0487
+colors:
+  1000: "#cd5166"
 note: "1000 follows the start of the Tuscan phase after Marcahuamachuco's decline; 1460 approximates the Inca conquest under Tupac Inca Yupanqui. Links the town's article, which describes the lordship. Its reach into Conchucos, where Cabana lies, rests on the shared cult of Catequil."
 transitions:
 - year: 1460

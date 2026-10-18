@@ -18,6 +18,8 @@ point:
   name: "Marseille"
   latitude: 43.2964
   longitude: 5.37
+colors:
+  1214: "#b851cd"
 note: "No article covers the commune, so the link goes to the history of Marseille. The start follows the end of the counts' span in the place history."
 transitions:
 - year: 1252

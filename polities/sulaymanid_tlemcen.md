@@ -19,6 +19,8 @@ point:
   name: "Tlemcen"
   latitude: 34.8828
   longitude: -1.3167
+colors:
+  829: "#3473b2"
 note: "No article covers the principality, so the link goes to the Idrisids. The start follows the division after Idris II's death in 828; Tlemcen's history in the ninth century is thinly recorded."
 transitions:
 - year: 931

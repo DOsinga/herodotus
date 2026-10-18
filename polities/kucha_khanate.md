@@ -19,7 +19,7 @@ point:
   latitude: 41.727
   longitude: 82.936
 colors:
-  1864: "#472786"
+  1864: "#5e34b2"
 note: "No article covers the khanate; this links the article on the Dungan revolt, which describes Rashidin's rule. The extent of his hold on Aksu and Karasahr is estimated."
 transitions:
 - year: 1864

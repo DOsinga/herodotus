@@ -21,7 +21,7 @@ point:
   latitude: 50.938
   longitude: 6.96
 colors:
-  450: "#278657"
+  450: "#8fcd51"
 note: "450 estimates the distinct Ripuarian royal government before Sigebert, who later allied with Clovis. Ends conventionally in 509 after the murders of Sigebert and Chlodoric and Clovis's takeover. The chronology is disputed; links Sigebert's biography because no separate English article covers the state."
 transitions:
 - year: 509

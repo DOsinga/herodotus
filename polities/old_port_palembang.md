@@ -18,6 +18,8 @@ point:
   name: Palembang
   latitude: -2.99
   longitude: 104.76
+colors:
+  1407: "#b234b2"
 note: >-
   1407 follows Zheng He's victory over Chen Zuyi and the appointment of Shi Jinqing; the earlier
   Chinese rule under Liang Daoming and Chen Zuyi is not included. The end around 1440 is the

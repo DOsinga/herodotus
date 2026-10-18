@@ -21,7 +21,9 @@ point:
   latitude: 50.087
   longitude: 14.421
 colors:
-  870: "#768627"
+  870: "#b8cd51"
+  1032: "#b8cd51"
+  1057: "#472786"
 note: "Start estimated (about 870). Bohemia lay inside the Holy Roman Empire, but its own dukes governed it."
 transitions:
 - year: 1198

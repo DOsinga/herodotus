@@ -18,6 +18,8 @@ point:
   name: Freiburg im Breisgau
   latitude: 47.999
   longitude: 7.8421
+colors:
+  1250: "#372786"
 note: "Starts with the end of royal government in 1250. Ends with the city's purchase of its freedom from the count and its submission to Austria in 1368."
 transitions:
 - year: 1368

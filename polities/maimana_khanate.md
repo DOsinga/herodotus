@@ -18,6 +18,8 @@ point:
   name: "Maymana"
   latitude: 35.9333
   longitude: 64.75
+colors:
+  1747: "#51cd8f"
 transitions:
 - year: 1892
   kind: absorbed_into

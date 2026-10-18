@@ -21,7 +21,7 @@ point:
   latitude: 32.28
   longitude: 35.19
 colors:
-  -930: "#b27334"
+  -930: "#88b234"
 note: "Starts with the conventional division after Solomon; the united monarchy is not recorded, as its extent is disputed. Sargon II deported its people."
 transitions:
 - year: -720

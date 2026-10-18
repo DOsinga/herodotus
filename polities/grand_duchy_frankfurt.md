@@ -21,6 +21,6 @@ point:
   latitude: 49.967
   longitude: 9.15
 colors:
-  1803: "#5151cd"
+  1803: "#6651cd"
 note: "Karl von Dalberg's state, made in 1803 from what was left of the Electorate of Mainz (Aschaffenburg) and Regensburg, enlarged with Frankfurt in 1806 and named a grand duchy in 1810. Dalberg governed it himself as a Napoleonic ally until he gave it up in 1813."
 ---

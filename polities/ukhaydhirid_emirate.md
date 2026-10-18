@@ -19,5 +19,7 @@ point:
   name: Hajr
   latitude: 24.638
   longitude: 46.715
+colors:
+  867: "#51cdcd"
 note: "The end is an estimate: the dynasty is attested until at least the mid-eleventh century, when Nasir-i Khusraw found it still ruling; the Banu Kilab later took over al-Yamama."
 ---

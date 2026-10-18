@@ -18,6 +18,8 @@ point:
   name: Minden
   latitude: 52.2883
   longitude: 8.9167
+colors:
+  1250: "#478627"
 note: "Starts with the end of royal government in 1250. Ends in 1648."
 transitions:
 - year: 1648

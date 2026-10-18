@@ -19,6 +19,10 @@ point:
   name: "Lykhny"
   latitude: 43.15
   longitude: 40.6167
+colors:
+  1463: "#cda351"
+  1750: "#cda351"
+  1775: "#866727"
 note: "The record ends with the Russian protectorate of 1810; the princes kept their domestic government until 1864."
 transitions:
 - year: 1810

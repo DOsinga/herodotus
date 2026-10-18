@@ -18,6 +18,8 @@ point:
   name: "Alula"
   latitude: 11.9667
   longitude: 50.75
+colors:
+  1420: "#49b234"
 note: "1420 follows Charles Guillain's date for its origin; oral traditions place it in the late fifteenth or early sixteenth century, and others in the eighteenth. Ends with the Italian protectorate treaty of 1889; Italy took direct control after the campaign of 1925 to 1927."
 transitions:
 - year: 1889

@@ -18,6 +18,8 @@ point:
   name: Wiesbaden
   latitude: 50.0825
   longitude: 8.24
+colors:
+  1250: "#345eb2"
 note: "Follows the Walramian line after the division of 1255; the Ottonian line of Siegen and Dillenburg has no record. Wiesbaden stands for the Walramian seats, which included Idstein and Weilburg."
 transitions:
 - year: 1344

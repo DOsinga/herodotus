@@ -19,6 +19,8 @@ point:
   name: "Khorramshahr"
   latitude: 30.4394
   longitude: 48.1817
+colors:
+  1897: "#865727"
 note: "1897 is Khaz'al's accession, from which the place history counts the town as his. His father Jabir and brother Mizal already ruled with wide autonomy under Qajar sovereignty."
 transitions:
 - year: 1925

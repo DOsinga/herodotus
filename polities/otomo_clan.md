@@ -19,7 +19,7 @@ point:
   latitude: 33.2401
   longitude: 131.6114
 colors:
-  1467: "#51cd8f"
+  1467: "#b8cd51"
 note: "Covers the house as a Sengoku power from the Ōnin War to Sōrin's submission to Hideyoshi in 1586. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1467

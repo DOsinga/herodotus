@@ -19,6 +19,8 @@ point:
   name: "Lankaran"
   latitude: 38.7536
   longitude: 48.8511
+colors:
+  1747: "#862737"
 note: "1747 follows the place history and the khanate's emergence after Nader Shah's death; the article stresses that the sources are thin. 1813 is the Treaty of Gulistan, after which the khan kept only his domestic government."
 transitions:
 - year: 1813

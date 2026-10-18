@@ -19,6 +19,10 @@ point:
   name: "Weixian (Qujing)"
   latitude: 25.491
   longitude: 103.796
+colors:
+  339: "#678627"
+  530: "#678627"
+  555: "#863727"
 note: "Links the Cuanman article. The record follows Western Cuan, the family's own domain; the Eastern Cuan (Wuman) chiefs governed separately and are not recorded. The Sui campaigns of 597 and 602 and the Tang jimi prefectures did not replace the Cuan as governors. The end follows the Nanzhao conquest of 748."
 transitions:
 - year: 748

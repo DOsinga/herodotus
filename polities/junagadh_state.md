@@ -18,6 +18,8 @@ point:
   name: "Junagadh"
   latitude: 21.522
   longitude: 70.457
+colors:
+  1730: "#34b29d"
 note: "1730 follows Wikipedia's date for Sher Khan Babi's declaration of independence; other accounts place the break with the Mughal governor later, up to about 1748. Maratha tribute did not end its government; British protection in 1807 did."
 transitions:
 - year: 1807

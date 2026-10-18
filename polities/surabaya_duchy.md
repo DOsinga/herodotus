@@ -18,6 +18,8 @@ point:
   name: Surabaya
   latitude: -7.2575
   longitude: 112.7521
+colors:
+  1546: "#578627"
 note: >-
   1546 follows the death of Sultan Trenggana of Demak, as in the article. Its control of inland
   towns such as Trowulan is an estimate; several eastern principalities were allies rather than

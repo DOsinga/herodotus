@@ -12,6 +12,6 @@ point:
   latitude: 47.4925
   longitude: 19.0514
 colors:
-  1918: "#5e34b2"
+  1918: "#cd51cd"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

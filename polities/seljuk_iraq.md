@@ -21,7 +21,7 @@ point:
   latitude: 34.799
   longitude: 48.515
 colors:
-  1118: "#9d34b2"
+  1118: "#b28834"
 note: "This western sultanate governed Iraq and western Iran from Hamadan. Acknowledging Sanjar's seniority did not make it his provincial government. Tekish defeated the last sultan, Tughril III, in 1194."
 transitions:
 - year: 1194

@@ -19,6 +19,8 @@ point:
   name: "Nagaur"
   latitude: 27.2
   longitude: 73.73
+colors:
+  1405: "#865727"
 note: "The start follows the Nagaur article's date of 1405 to 1407. Rana Kumbha's occupation in the 1450s was short and is not shown as a gap. No article covers the principality; the link is to the history of Nagaur."
 transitions:
 - year: 1535

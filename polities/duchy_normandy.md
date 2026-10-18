@@ -19,7 +19,7 @@ point:
   latitude: 49.4428
   longitude: 1.0886
 colors:
-  911: "#cd51a3"
+  911: "#867627"
 note: "Starts with the grant to Rollo at Saint-Clair-sur-Epte in 911. The dukes were also kings of England for most of 1066 to 1204, but Normandy kept its own administration, so the personal union does not end it. Ends with Philip II's conquest of 1204."
 transitions:
 - year: 1204

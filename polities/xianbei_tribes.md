@@ -22,5 +22,7 @@ point:
   name: "Mongolian steppe"
   latitude: 47.5
   longitude: 103.0
+colors:
+  92: "#34b29d"
 note: "Both periods are estimates. The unions of Tanshihuai and Kebineng, from 156 to 234, are the separate Xianbei state."
 ---

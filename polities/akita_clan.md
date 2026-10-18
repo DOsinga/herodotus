@@ -18,6 +18,8 @@ point:
   name: "Minato Castle"
   latitude: 39.757
   longitude: 140.069
+colors:
+  1467: "#51b8cd"
 note: "Covers the Minato house at Akita and, from about 1570, the united house of Andō Chikasue; the Hiyama house at Noshiro before that is not counted separately. Ends with the submission to Hideyoshi in 1590."
 transitions:
 - year: 1467

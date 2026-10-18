@@ -23,7 +23,7 @@ point:
   latitude: 52.662
   longitude: -3.248
 colors:
-  450: "#b29d34"
+  450: "#51cd51"
 note: "450 estimates the post-Roman kingdom's emergence. Rhodri's family absorbed its government between Cyngen's death in 855 and 886, recorded here at the latest conventional endpoint. Bleddyn ap Cynfyn ruled Gwynedd and Powys together; after his death in 1075 Powys passed to his sons, who shared it and lost much of it to the Normans around 1090 before recovering it. Maredudd ruled it alone by about 1124. Madog's death and the 1160 division end the united kingdom. Mathrafal represents its later royal seat, not a fifth-century capital."
 transitions:
 - year: 886

@@ -19,5 +19,7 @@ point:
   name: "Nashik"
   latitude: 19.9975
   longitude: 73.7898
+colors:
+  249: "#372786"
 note: "249 is the epoch of the era linked to Ishvarasena; Wikipedia gives the kingdom as lasting to roughly 270 or 370, and 370 follows the longer Puranic count. The capital is unknown; Nashik, the site of Ishvarasena's inscription, stands in for it."
 ---

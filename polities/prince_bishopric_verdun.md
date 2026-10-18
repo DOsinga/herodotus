@@ -19,6 +19,8 @@ point:
   name: "Verdun"
   latitude: 49.162
   longitude: 5.3876
+colors:
+  1250: "#862757"
 note: "Before 1250 Verdun counts with the German kingdom. The free city and the bishops' lands are recorded together. Ends with the French occupation of 1552."
 transitions:
 - year: 1552

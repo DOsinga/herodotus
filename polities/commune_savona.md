@@ -19,6 +19,8 @@ point:
   name: Savona
   latitude: 44.3081
   longitude: 8.4811
+colors:
+  1099: "#cd517a"
 note: "Start estimated from the first consuls. French and Milanese protection, when Savona went with Genoa's overlords, is not split out. The record links the city's article."
 transitions:
 - year: 1528

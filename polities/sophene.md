@@ -21,7 +21,7 @@ point:
   latitude: 38.6
   longitude: 39.5
 colors:
-  -260: "#b2345e"
+  -260: "#b23434"
 note: "260 BCE estimates the kingdom; Tigranes the Great took it in 95 BCE. The capital's location is approximate."
 transitions:
 - year: -95

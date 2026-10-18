@@ -19,6 +19,8 @@ point:
   name: Adana
   latitude: 37.0
   longitude: 35.3213
+colors:
+  -1180: "#517acd"
 note: "Called Que by the Assyrians. The start is an estimate for its emergence after the Hittite collapse; Sargon II deposed Awarikus and made it a province in 709 BCE."
 transitions:
 - year: -709

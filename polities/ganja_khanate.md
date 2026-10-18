@@ -20,7 +20,7 @@ point:
   latitude: 40.6828
   longitude: 46.3606
 colors:
-  1747: "#51cd66"
+  1747: "#276786"
 note: "Tribute to Georgia or Karabakh and nominal Zand and Qajar overlordship did not end the khans' own government. Tsitsianov's storming of Ganja in January 1804 ends it."
 transitions:
 - year: 1804

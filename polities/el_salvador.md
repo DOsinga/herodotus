@@ -20,7 +20,7 @@ point:
   latitude: 13.699
   longitude: -89.191
 colors:
-  1841: "#862786"
+  1841: "#862737"
 note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1841

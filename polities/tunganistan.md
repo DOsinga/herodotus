@@ -20,7 +20,7 @@ point:
   latitude: 37.1167
   longitude: 79.9167
 colors:
-  1934: "#278686"
+  1934: "#7acd51"
 note: "Ma Hushan's division stayed nominally part of the National Revolutionary Army, but neither Nanjing nor the provincial government at Ürümqi governed his territory."
 transitions:
 - year: 1934

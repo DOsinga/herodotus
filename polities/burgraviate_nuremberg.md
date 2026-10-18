@@ -18,6 +18,8 @@ point:
   name: Cadolzburg
   latitude: 49.4575
   longitude: 10.8556
+colors:
+  1250: "#274786"
 note: "Starts with the end of royal government in 1250. Ends with the partition of 1398."
 transitions:
 - year: 1398

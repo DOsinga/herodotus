@@ -22,7 +22,7 @@ point:
   latitude: 14.6928
   longitude: -17.4467
 colors:
-  1960: "#cd5166"
+  1960: "#cd6651"
 transitions:
 - year: 1960
   kind: split_into

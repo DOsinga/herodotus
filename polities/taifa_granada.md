@@ -12,7 +12,7 @@ point:
   latitude: 37.1773
   longitude: -3.5986
 colors:
-  1013: "#862767"
+  1013: "#5eb234"
 note: "This is the Zirid taifa, not the later Nasrid Emirate of Granada. Its shared dynasty with the Zirids of Ifriqiya did not make the two governments one state."
 transitions:
 - year: 1013

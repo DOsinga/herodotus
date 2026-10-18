@@ -19,6 +19,8 @@ point:
   name: "Volubilis"
   latitude: 34.0711
   longitude: -5.5536
+colors:
+  285: "#7acd51"
 note: "That the Baquates held Volubilis after Rome withdrew is an inference from their earlier treaties there; both dates are estimates. Their earlier history as Roman clients is not recorded here. The end follows the start of the Mauro-Roman Kingdom."
 transitions:
 - year: 429

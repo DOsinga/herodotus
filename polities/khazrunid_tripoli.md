@@ -19,7 +19,7 @@ point:
   latitude: 32.888
   longitude: 13.188
 colors:
-  1001: "#862776"
+  1001: "#862767"
 note: "The Zirids retook Tripoli for some years after Fulful's death in 1009, until they ceded it in 1022; this is not shown as a gap. Little is known about the rulers after al-Muntasir."
 transitions:
 - year: 1001

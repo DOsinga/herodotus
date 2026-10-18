@@ -21,7 +21,9 @@ point:
   latitude: 51.962
   longitude: 7.626
 colors:
-  1250: "#278657"
+  1250: "#cd8f51"
+  1682: "#cd8f51"
+  1707: "#cd6651"
 note: "Prussian troops occupied it in 1802, ahead of the secularisation of 1803."
 transitions:
 - year: 1802

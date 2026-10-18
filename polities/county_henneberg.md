@@ -18,6 +18,8 @@ point:
   name: Schleusingen
   latitude: 50.5103
   longitude: 10.7522
+colors:
+  1250: "#862727"
 note: "Links the article on the family, which covers the county. Follows the Schleusingen line; the Aschach and Römhild lines are not split out. Ends in 1583, when the Wettins began their joint administration of Henneberg."
 transitions:
 - year: 1583

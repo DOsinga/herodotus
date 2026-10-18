@@ -18,6 +18,8 @@ point:
   name: "Sonepur"
   latitude: 20.83
   longitude: 83.92
+colors:
+  1650: "#278637"
 note: "1650 is the founding date the article gives. The 1800 end assumes Sonepur fell with Sambalpur to the Bhonsles. Overlordship by Sambalpur did not end its own government."
 transitions:
 - year: 1800

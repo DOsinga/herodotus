@@ -25,7 +25,9 @@ point:
   latitude: 40.375
   longitude: 47.126
 colors:
-  -100: "#273786"
+  -100: "#863727"
+  206: "#863727"
+  231: "#8fcd51"
 note: "100 BCE estimates the Hellenistic unified kingdom. Its Arsacid kings governed as Sasanian vassals, fighting in Sasanian wars, until Peroz abolished the monarchy in 462; the gaps represent Sasanian provincial government. Vachagan restored native royal institutions around 485–510. 630 estimates the Mihranid princes' separate court after the Sasanian collapse, rather than the preceding Khazar occupation. Direct Arab provincial government ended it in 705. The later princes of mountainous remnants are not an umbrella over the former kingdom."
 transitions:
 - year: 462

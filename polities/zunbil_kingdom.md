@@ -23,7 +23,7 @@ point:
   latitude: 33.55
   longitude: 68.42
 colors:
-  680: "#672786"
+  680: "#862786"
 note: "680 estimates the separate Zabulistan government formed alongside the Turk Shahis. 870 follows the Saffarid conquest; the preceding campaigns and tribute did not by themselves replace the native government."
 transitions:
 - year: 870

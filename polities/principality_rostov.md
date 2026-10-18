@@ -19,6 +19,8 @@ point:
   name: "Rostov"
   latitude: 57.1833
   longitude: 39.4167
+colors:
+  1207: "#51cd7a"
 note: "Links the town's article; the principality has no article of its own."
 transitions:
 - year: 1474

@@ -18,6 +18,10 @@ point:
   name: "Cambrai"
   latitude: 50.176
   longitude: 3.235
+colors:
+  1250: "#278637"
+  1325: "#278637"
+  1350: "#866727"
 note: "Before 1250 Cambrai counts with the German kingdom. Ends with Charles V's citadel of 1543; the bishops kept their title until the French Revolution."
 transitions:
 - year: 1543

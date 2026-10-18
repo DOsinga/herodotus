@@ -20,6 +20,8 @@ point:
   name: "Beledweyne"
   latitude: 4.7358
   longitude: 45.2036
+colors:
+  1700: "#472786"
 note: "1700 follows the end of the Ajuran record, after the Shabelle clans drove the Ajuran out; 1908 is the Italian post at Beledweyne. The clan's government is known mainly from its later customary institutions."
 transitions:
 - year: 1908

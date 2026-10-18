@@ -12,7 +12,7 @@ point:
   latitude: 6.4972
   longitude: 2.605
 colors:
-  1960: "#51cd7a"
+  1960: "#51b8cd"
 note: "Independent as Dahomey. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

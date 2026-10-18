@@ -19,7 +19,7 @@ point:
   latitude: 31.6289
   longitude: 65.7372
 colors:
-  1996: "#572786"
+  1996: "#866727"
 note: "Only Pakistan, Saudi Arabia and the United Arab Emirates recognised it. Mullah Omar ruled from Kandahar, the point. The Afghanistan record continues the Islamic State of Afghanistan in the north."
 transitions:
 - year: 1996

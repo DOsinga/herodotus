@@ -18,6 +18,8 @@ point:
   name: "Tétouan"
   latitude: 35.5667
   longitude: -5.3667
+colors:
+  1484: "#6651cd"
 note: "No article covers the Mandari state, so the link goes to the city. Both dates are approximate: the refoundation is dated to the 1480s, and the end follows the Saadi conquest of the north after taking Fez in 1554."
 transitions:
 - year: 1554

@@ -21,7 +21,7 @@ point:
   latitude: 37.3891
   longitude: -5.9845
 colors:
-  1023: "#3449b2"
+  1023: "#868627"
 note: "Abu al-Qasim established the local government in 1023, before the formal abolition of the caliphate. Payments to Christian rulers did not end its own government."
 transitions:
 - year: 1023

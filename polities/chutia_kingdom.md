@@ -20,7 +20,7 @@ point:
   latitude: 27.83
   longitude: 95.67
 colors:
-  1350: "#a3cd51"
+  1350: "#51cda3"
 note: "The kingdom may be older, but evidence of it before the second half of the fourteenth century is slight, so the start is an estimate. The Ahom conquest is dated 1523 or 1524."
 transitions:
 - year: 1524

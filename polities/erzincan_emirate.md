@@ -19,6 +19,8 @@ point:
   name: Erzincan
   latitude: 39.7464
   longitude: 39.4914
+colors:
+  1379: "#864727"
 note: "Links the article on its emir Mutahharten; ends with the Qara Qoyunlu capture in 1410 and leaves out a later return of his grandson, 1420 to 1425."
 transitions:
 - year: 1410

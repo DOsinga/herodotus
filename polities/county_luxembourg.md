@@ -21,7 +21,9 @@ point:
   latitude: 49.611
   longitude: 6.13
 colors:
-  1250: "#472786"
+  1250: "#51cd7a"
+  1346: "#51cd7a"
+  1371: "#cd518f"
 note: "A duchy from 1354. Its counts became emperors and kings of Bohemia from 1308 and often left it to relatives or creditors. Philip the Good of Burgundy took it in 1443."
 transitions:
 - year: 1443

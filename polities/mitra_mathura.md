@@ -18,6 +18,8 @@ point:
   name: "Mathura"
   latitude: 27.4925
   longitude: 77.6736
+colors:
+  -150: "#cd518f"
 note: "Both dates are estimates from coins found at Sonkh; some scholars place the dynasty later, between 100 and 20 BCE."
 transitions:
 - year: -60

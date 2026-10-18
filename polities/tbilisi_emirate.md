@@ -24,7 +24,9 @@ point:
   latitude: 41.715
   longitude: 44.827
 colors:
-  833: "#b23434"
+  833: "#276786"
+  908: "#276786"
+  933: "#378627"
 note: "833 follows Ishaq's effective break from the caliphate, not the province's establishment under an appointed emir in 736. Abbasid intervention in 853 is a gap before the autonomous Jaffarid government conventionally dated from 880. Local councils continued after the last native emirs, but Alp Arslan's appointed administration in 1068–1080 is excluded. Georgia conquered the city in 1122."
 transitions:
 - year: 853

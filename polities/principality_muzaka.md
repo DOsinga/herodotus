@@ -19,6 +19,8 @@ point:
   name: Berat
   latitude: 40.7022
   longitude: 19.9583
+colors:
+  1371: "#cda351"
 note: "The Muzaka's earlier lordship under Byzantine and Serbian overlords is not included. Teodor III Muzaka's revolt and the family's return to Berat in the League of Lezhë (1444–1450) are not shown."
 transitions:
 - year: 1417

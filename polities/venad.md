@@ -21,7 +21,7 @@ point:
   latitude: 8.893
   longitude: 76.614
 colors:
-  1102: "#5166cd"
+  1102: "#349db2"
 note: "Start estimated: Venad became independent with the end of Chera rule in the 12th century."
 transitions:
 - year: 1729

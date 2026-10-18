@@ -18,6 +18,8 @@ point:
   longitude: 75.99
 colors:
   -200: "#cd518f"
+  633: "#cd518f"
+  658: "#7a51cd"
 note: "200 BCE is the conventional estimate for the oasis kingdom. Its native royal government is retained through Chinese and Turkic overlordship rather than ended at every tributary submission. 790 follows the Tibetan conquest as the endpoint of the old kingdom; later settlements and Karakhanid administration are not an uninterrupted Shule royal court."
 transitions:
 - year: 790

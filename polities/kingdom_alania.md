@@ -12,7 +12,7 @@ point:
   latitude: 43.56
   longitude: 41.28
 colors:
-  875: "#51cdcd"
+  875: "#51cd8f"
 note: "875 estimates the late-ninth-century emergence of the kingdom, not every earlier Alan tribe. The capital's location is disputed; the point uses the North Caucasian Arkhyz identification as a representative royal region. Mongol destruction of Maghas in 1239–1240 ended its central government."
 transitions:
 - year: 1240

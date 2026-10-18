@@ -21,7 +21,7 @@ point:
   latitude: 33.8981
   longitude: 35.5058
 colors:
-  1943: "#372786"
+  1943: "#278647"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1943

@@ -18,6 +18,8 @@ point:
   name: Gianyar
   latitude: -8.5394
   longitude: 115.3253
+colors:
+  1771: "#768627"
 note: >-
   Links the regency article, as no article covers the kingdom on its own. 1771 follows the founding
   of the Gianyar palace. Klungkung's hold on Gianyar in the 1880s is not split out. In 1900 the

@@ -22,7 +22,7 @@ point:
   latitude: 36.345
   longitude: 43.157
 colors:
-  935: "#862757"
+  935: "#cd51cd"
 note: "935 marks Nasir al-Dawla's defeat of the caliph's forces and establishment of a lasting tributary government, not every earlier Hamdanid appointment as governor. Buyid conquest in 978 interrupted it; the brothers' short restoration in 989–990 ended with the Uqaylid takeover. The article covers the ruler who established this emirate."
 transitions:
 - year: 978

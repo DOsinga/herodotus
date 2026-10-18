@@ -21,7 +21,9 @@ point:
   latitude: 36.733
   longitude: 3.087
 colors:
-  1659: "#378627"
+  1659: "#278637"
+  1805: "#278637"
+  1830: "#7acd51"
 note: "Starts in 1659, when the Ottoman-appointed pashas lost power to locally chosen aghas and, from 1671, deys. Before that Algiers was governed for the Ottomans."
 transitions:
 - year: 1659

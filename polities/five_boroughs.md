@@ -18,6 +18,8 @@ point:
   name: "Lincoln"
   latitude: 53.23
   longitude: -0.54
+colors:
+  878: "#578627"
 note: "The boroughs had no capital; Lincoln is a representative town. Dates for each borough's fall vary, and the end follows Lincoln's."
 transitions:
 - year: 918

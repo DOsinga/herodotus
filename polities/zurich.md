@@ -18,6 +18,8 @@ point:
   name: Zurich
   latitude: 47.3769
   longitude: 8.5417
+colors:
+  1250: "#3473b2"
 note: "Starts with the end of royal government in 1250; the city had imperial immediacy from 1218. Ends with its entry into the Confederacy in 1351."
 transitions:
 - year: 1351

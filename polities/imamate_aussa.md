@@ -18,6 +18,8 @@ point:
   name: "Aussa"
   latitude: 11.5667
   longitude: 41.4333
+colors:
+  1577: "#51cdcd"
 note: "The article dates the end to 1734; the article on the Sultanate of Aussa puts the Mudaito destruction of the imamate in 1672 and Kedafu's seizure of power in 1734. The point is at Asaita, the later capital of the oasis."
 transitions:
 - year: 1734

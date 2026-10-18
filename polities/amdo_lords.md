@@ -21,6 +21,8 @@ point:
   name: "Qinghai Lake"
   latitude: 36.89
   longitude: 100.18
+colors:
+  843: "#7334b2"
 note: "The record stands for the Tibetan tribes and chiefs of Amdo during the Era of Fragmentation and after the fall of Tsongkha, whom the evidence does not separate into lasting states. The point is a marker for the lake pastures. The second period begins with the Song annexation of Tsongkha in 1104 and ends with the Mongol conquest."
 transitions:
 - year: 1246

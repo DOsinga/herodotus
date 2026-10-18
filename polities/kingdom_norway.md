@@ -23,7 +23,7 @@ point:
   latitude: 59.913
   longitude: 10.739
 colors:
-  1814: "#345eb2"
+  1814: "#862747"
 note: "In union with Sweden until 1905 but with its own government. Links the country article. Changes of regime after independence are not split into separate records. Gap for the German occupation, when the occupier governed and the government was in exile."
 transitions:
 - year: 1940

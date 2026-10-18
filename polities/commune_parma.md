@@ -22,6 +22,8 @@ point:
   name: Parma
   latitude: 44.801
   longitude: 10.328
+colors:
+  1098: "#b2349d"
 note: "Start estimated from the first consuls. The gaps are the papal legate's rule of 1326–1329 and the Scaliger lordship of 1335–1341. John of Bohemia's lordship of 1331–1333 and the lordships of Giberto da Correggio and the Rossi are included. The record links the city's article."
 transitions:
 - year: 1326

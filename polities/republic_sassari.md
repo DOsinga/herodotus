@@ -19,6 +19,8 @@ point:
   name: Sassari
   latitude: 40.725
   longitude: 8.5586
+colors:
+  1259: "#862737"
 note: "Some historians date the republic from 1272, after the death of King Enzo, who claimed the city; the years from 1259 are included."
 transitions:
 - year: 1323

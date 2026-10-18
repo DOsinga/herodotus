@@ -18,6 +18,8 @@ point:
   name: Worms
   latitude: 49.6319
   longitude: 8.3653
+colors:
+  1250: "#b24934"
 note: "Starts with the end of royal government in 1250. Ends with the French occupation of 1794."
 transitions:
 - year: 1794

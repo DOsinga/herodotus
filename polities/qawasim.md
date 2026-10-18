@@ -19,6 +19,10 @@ point:
   name: Ras al-Khaimah
   latitude: 25.7667
   longitude: 55.95
+colors:
+  1720: "#b851cd"
+  1795: "#b851cd"
+  1820: "#517acd"
 note: "Links the article on the Al Qasimi dynasty. The start estimates the rise of Rahma bin Matar in the 1720s after the decline of the Ya'ariba imams. Ends with the Exclusive Agreement of 1892, which handed foreign relations to Britain; the 1820 treaty did not. Sharjah and Ras al-Khaimah, separate from 1869, are kept as one record."
 transitions:
 - year: 1892

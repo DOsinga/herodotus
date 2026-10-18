@@ -12,7 +12,7 @@ point:
   latitude: 44.242
   longitude: 15.183
 colors:
-  800: "#b2345e"
+  800: "#578627"
 note: "800 estimates the emergence of the documented ducal government; earlier settlement does not establish an exact state foundation. Borna is securely attested in 810. Nin was one of several ducal seats. Tomislav's royal designation in 925 is the changeover to the existing kingdom, not proof of a precisely dated coronation."
 transitions:
 - year: 925

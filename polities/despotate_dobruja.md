@@ -18,6 +18,8 @@ point:
   name: Kaliakra
   latitude: 43.3611
   longitude: 28.4656
+colors:
+  1346: "#5166cd"
 note: "1346 estimates Balik's breakaway, which some date to 1356. Wallachian and Ottoman claims to Dobruja after 1388 are shown through the places."
 transitions:
 - year: 1346

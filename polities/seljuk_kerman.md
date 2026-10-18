@@ -20,7 +20,7 @@ point:
   latitude: 30.2833
   longitude: 57.0833
 colors:
-  1041: "#b2b234"
+  1041: "#868627"
 note: "The branch governed Kerman separately from 1041. Malik Dinar's Oghuz forces displaced its government in 1187. Historical Bardasir here means the city of Kerman, not modern Bardsir."
 transitions:
 - year: 1187

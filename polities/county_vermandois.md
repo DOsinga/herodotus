@@ -18,6 +18,8 @@ point:
   name: "Saint-Quentin"
   latitude: 49.8486
   longitude: 3.2864
+colors:
+  896: "#278627"
 note: "896 is the conventional start of Herbert I's rule. After 1191 the king held Péronne and Countess Eleanor kept Saint-Quentin for life; the end is her death in 1213."
 transitions:
 - year: 1213

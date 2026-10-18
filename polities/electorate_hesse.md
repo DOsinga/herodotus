@@ -21,7 +21,7 @@ point:
   latitude: 51.316
   longitude: 9.498
 colors:
-  1813: "#5eb234"
+  1813: "#51cd8f"
 note: "Hesse-Kassel restored after the Kingdom of Westphalia broke up. Annexed by Prussia in 1866."
 transitions:
 - year: 1866

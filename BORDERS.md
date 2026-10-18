@@ -51,8 +51,6 @@ control:
     end: 1590
     ungoverned: Abandoned after the Seljuk sack until Shah Abbas refounded it.
   ```
-
-  `python gaps.py` lists the gaps that are too long.
 - Control follows the same who-governed test as the polity records in
   [AGENTS.md](AGENTS.md#who-was-in-control). A town in a vassal state belongs
   to the vassal while the vassal counts as active, not to its overlord.

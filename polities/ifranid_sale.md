@@ -19,6 +19,6 @@ point:
   latitude: 34.0331
   longitude: -6.7985
 colors:
-  1029: "#478627"
+  1029: "#862737"
 note: "No article covers the emirate, so the link goes to the tribe. The start is Tamim's conquest of Tamesna around 1029. The end is an estimate: the Banu Ifran article dates the fall of the Ifranid emirate to 1058, and the Almoravids took the coast in the following years."
 ---

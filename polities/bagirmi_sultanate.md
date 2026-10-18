@@ -22,6 +22,8 @@ point:
   longitude: 16.167
 colors:
   1522: "#278667"
+  1872: "#278667"
+  1897: "#274786"
 transitions:
 - year: 1897
   kind: absorbed_into

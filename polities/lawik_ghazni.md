@@ -18,6 +18,8 @@ point:
   name: Ghazni
   latitude: 33.55
   longitude: 68.42
+colors:
+  901: "#272786"
 note: "Links the dynasty article. The Lawiks governed Ghazni earlier under Zunbil and Saffarid overlords; this record starts about 900, when Saffarid power in the east ended, and both dates are estimates. Ends with Alp-Tegin's capture of Ghazni in 962. Abu Bakr Lawik's brief return around 965 and the Gardez branch, which held out until about 977, are not split out."
 transitions:
 - year: 962

@@ -19,7 +19,9 @@ point:
   latitude: 53.3725
   longitude: 10.5597
 colors:
-  1296: "#345eb2"
+  1296: "#b8cd51"
+  1624: "#b8cd51"
+  1649: "#51cda3"
 note: "The later duchy under Hanover and Denmark, which revived the name from 1814 to 1876, is not part of this record."
 transitions:
 - year: 1296

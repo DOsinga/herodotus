@@ -19,7 +19,7 @@ point:
   latitude: 43.8225
   longitude: 87.6125
 colors:
-  1864: "#cd7a51"
+  1864: "#cd8f51"
 note: "No article covers the state; this links the article on the Dungan revolt. Han militias under Xu Xuegong held out in parts of the region throughout these years."
 transitions:
 - year: 1864

@@ -18,6 +18,8 @@ point:
   name: "Arles"
   latitude: 43.6766
   longitude: 4.6278
+colors:
+  1131: "#34b288"
 note: "No article covers the commune, so the link goes to the city. Raymond Berengar IV's attempts to take the city from 1239 are not treated as ending the commune."
 transitions:
 - year: 1251

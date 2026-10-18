@@ -21,9 +21,7 @@ point:
   latitude: 44.752
   longitude: 33.86
 colors:
-  1441: "#cd517a"
-  1730: "#cd517a"
-  1755: "#a351cd"
+  1441: "#cdb851"
 transitions:
 - year: 1441
   kind: broke_away_from

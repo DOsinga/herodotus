@@ -19,5 +19,7 @@ point:
   name: Tell Tayinat
   latitude: 36.2481
   longitude: 36.3739
+colors:
+  -1100: "#cd5151"
 note: "Both dates are estimates: the kingdom is known from inscriptions of Taita from the 11th century BCE, including one in the Aleppo citadel, and it later broke up into Pattin, Bit Agusi and Hamath."
 ---

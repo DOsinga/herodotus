@@ -20,7 +20,7 @@ point:
   latitude: 47.5615
   longitude: -52.7126
 colors:
-  1907: "#275786"
+  1907: "#274786"
 note: "Starts with dominion status in 1907, following the rule for the other dominions. Ends in 1934, when the Commission of Government appointed from London replaced the elected government until Newfoundland joined Canada in 1949."
 transitions:
 - year: 1934

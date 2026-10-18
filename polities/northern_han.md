@@ -21,7 +21,7 @@ point:
   latitude: 37.8706
   longitude: 112.5489
 colors:
-  951: "#cd517a"
+  951: "#866727"
 note: "The Shanxi remnant of the Han regime kept its own court and government despite Liao protection and tribute. It ended with Song conquest in 979, not the replacement of Later Han at Kaifeng in 951."
 transitions:
 - year: 979

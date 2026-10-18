@@ -21,6 +21,6 @@ point:
   latitude: 37.9842
   longitude: 23.7281
 colors:
-  1973: "#278637"
+  1973: "#278676"
 note: "The Third Hellenic Republic, from the junta's abolition of the monarchy in 1973. Links the country article. Changes of regime are not split into separate records."
 ---

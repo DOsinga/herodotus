@@ -21,7 +21,7 @@ point:
   latitude: 40.417
   longitude: -3.703
 colors:
-  1716: "#51a3cd"
+  1716: "#865727"
 note: "Wikipedia has no separate article on the Bourbon state, so the link is to the period article. Starts with the Nueva Planta decrees that ended the composite Spanish Monarchy, and ends in 1808, when the patriot governments took over from the Bourbons while Joseph Bonaparte held Madrid."
 transitions:
 - year: 1808

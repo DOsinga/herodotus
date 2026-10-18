@@ -19,5 +19,7 @@ point:
   name: Hajr
   latitude: 24.638
   longitude: 46.715
+colors:
+  1051: "#862767"
 note: "A regional record, because the sources do not separate the local chiefs; the Uyunids, Usfurids and Jabrids at times claimed overlordship."
 ---

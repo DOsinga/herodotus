@@ -19,6 +19,8 @@ point:
   name: "Shaki"
   latitude: 41.192
   longitude: 47.171
+colors:
+  1335: "#b25e34"
 note: "Links the town's article, which covers the principality. 1335 marks the end of Ilkhanid rule. The ruling family changed in the fifteenth century without ending the principality."
 transitions:
 - year: 1551

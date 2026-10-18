@@ -20,7 +20,7 @@ point:
   latitude: 34.267
   longitude: 108.9
 colors:
-  557: "#478627"
+  557: "#cdcd51"
 note: "The Yuwen government replaced Western Wei in 557 and conquered Northern Qi in 577. Yang Jian's accession as Sui emperor in 581 ends the state."
 transitions:
 - year: 581

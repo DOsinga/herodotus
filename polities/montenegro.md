@@ -22,6 +22,6 @@ point:
   latitude: 42.4414
   longitude: 19.2628
 colors:
-  2006: "#b851cd"
+  2006: "#51cd51"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

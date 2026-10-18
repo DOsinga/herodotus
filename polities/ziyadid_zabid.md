@@ -21,6 +21,6 @@ point:
   latitude: 14.195
   longitude: 43.315
 colors:
-  819: "#b8cd51"
+  819: "#a3cd51"
 note: "819 follows the establishment of Zabid and a locally sustained hereditary government, despite its original caliphal commission. Real power later passed to the dynasty's local military households; the nominal Ziyadid ruler's survival did not by itself extend the state after the 1018 overthrow."
 ---

@@ -18,6 +18,8 @@ point:
   name: Turov
   latitude: 52.07
   longitude: 27.74
+colors:
+  1158: "#8f51cd"
 note: "The Pinsk line is not split out. 1320 estimates the passage to Lithuania, when Gediminas's son Narimantas already held Pinsk."
 transitions:
 - year: 1320

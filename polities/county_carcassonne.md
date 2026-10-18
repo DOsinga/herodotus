@@ -20,6 +20,8 @@ point:
   name: "Carcassonne"
   latitude: 43.2133
   longitude: 2.3508
+colors:
+  878: "#278637"
 note: "The counts and the later Trencavel viscounts are recorded together, and so are the Montforts, who held the viscounty from 1209 to 1224. The start follows Acfred I's accession in 877 and the end of the West Frankish span."
 transitions:
 - year: 1069

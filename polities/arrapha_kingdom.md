@@ -19,6 +19,8 @@ point:
   name: "Arrapha (Kirkuk)"
   latitude: 35.4667
   longitude: 44.3167
+colors:
+  -1776: "#678627"
 note: "Links the article on the city. The kingdom is attested from the Nuzi archives of the fifteenth and fourteenth centuries BCE; its start after Shamshi-Adad's death is an estimate for the local Hurrian rulers of the intervening dark age."
 transitions:
 - year: -1340

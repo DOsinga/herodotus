@@ -20,6 +20,8 @@ point:
   name: "Puli (Puding)"
   latitude: 26.30
   longitude: 105.74
+colors:
+  317: "#34b273"
 note: "Links the Mu'ege article, which covers the Yi kingdoms of Guizhou; there is no article on Luodian. The start is an estimate: Yi genealogies place the Bole in Anshun from about the third century, and 317 is when Jin rule over the area lapsed. Chinese sources first mention its chief in 836 and later put its seat at Puli, in present Puding. The end follows the submission of its chief to the Yuan."
 transitions:
 - year: 1279

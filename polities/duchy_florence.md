@@ -12,7 +12,7 @@ point:
   latitude: 43.7714
   longitude: 11.2542
 colors:
-  1532: "#472786"
+  1532: "#51b8cd"
 transitions:
 - year: 1569
   kind: succeeded_by

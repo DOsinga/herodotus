@@ -21,8 +21,10 @@ point:
   longitude: 5.9178
 colors:
   1003: "#51cd7a"
-  1323: "#51cd7a"
-  1348: "#278657"
+  1205: "#51cd7a"
+  1230: "#672786"
+  1327: "#672786"
+  1352: "#3473b2"
 note: "1003 follows the conventional beginning of Humbert I's rule as count; it is not a precise date for the formation of the later county. Chambéry is a later seat of government, not the capital throughout this period."
 transitions:
 - year: 1416

@@ -21,7 +21,7 @@ point:
   latitude: -4.2667
   longitude: 15.2667
 colors:
-  1940: "#865727"
+  1940: "#cda351"
 note: "De Gaulle's government governed French Equatorial Africa, Cameroon and other colonies from 1940, with Brazzaville as its African capital, and Algiers from 1943."
 transitions:
 - year: 1940

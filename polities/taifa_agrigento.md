@@ -19,6 +19,8 @@ point:
   name: Agrigento
   latitude: 37.3125
   longitude: 13.575
+colors:
+  1053: "#862737"
 note: "Links the article on Muslim Sicily. The rulers between Ibn al-Hawwas's death around 1065 and Hammud's appearance around 1068 are not known."
 transitions:
 - year: 1087

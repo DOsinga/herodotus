@@ -19,6 +19,8 @@ point:
   name: "Taroudant"
   latitude: 30.471
   longitude: -8.8806
+colors:
+  1465: "#cd6651"
 note: "No article covers the confederation, so the link goes to the Saadi Sultanate, which names the Jazula as its first base. Stands for the Sous tribes between the Marinid collapse and the Saadi rising."
 transitions:
 - year: 1510

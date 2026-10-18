@@ -21,7 +21,7 @@ point:
   latitude: 54.7065
   longitude: 20.511
 colors:
-  1525: "#867627"
+  1525: "#472786"
 transitions:
 - year: 1701
   kind: succeeded_by

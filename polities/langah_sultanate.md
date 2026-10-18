@@ -19,7 +19,7 @@ point:
   latitude: 30.197
   longitude: 71.469
 colors:
-  1445: "#cdcd51"
+  1445: "#5166cd"
 note: >-
   1445 follows the article for the end of Delhi rule in Multan. Ends with the Arghun capture of
   Multan in 1528; the article's 1530 end is the Mughal takeover from the Arghuns.

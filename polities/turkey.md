@@ -12,7 +12,7 @@ point:
   latitude: 39.9289
   longitude: 32.8547
 colors:
-  1920: "#8f51cd"
+  1920: "#cd6651"
 note: "Starts with the Ankara government of 1920, which governed Anatolia while the Ottoman government held Istanbul. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1920

@@ -12,6 +12,6 @@ point:
   latitude: 17.98
   longitude: 102.63
 colors:
-  1975: "#cd8f51"
+  1975: "#8fcd51"
 note: "The Lao People's Democratic Republic. Links the country article. Changes of regime are not split into separate records."
 ---

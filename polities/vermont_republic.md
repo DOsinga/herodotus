@@ -20,7 +20,7 @@ point:
   latitude: 43.4936
   longitude: -72.4219
 colors:
-  1777: "#cd5151"
+  1777: "#678627"
 note: "The assembly had no fixed seat; the point is Windsor, where the constitution was adopted in 1777."
 transitions:
 - year: 1777

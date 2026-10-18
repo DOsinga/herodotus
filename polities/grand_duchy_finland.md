@@ -22,7 +22,7 @@ point:
   latitude: 60.171
   longitude: 24.938
 colors:
-  1809: "#5e34b2"
+  1809: "#7a51cd"
 note: "The Russian emperor was grand duke, but Finland kept its own Senate and laws."
 transitions:
 - year: 1917

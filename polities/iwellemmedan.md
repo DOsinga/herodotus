@@ -20,6 +20,8 @@ point:
   name: "Ménaka"
   latitude: 15.9167
   longitude: 2.4
+colors:
+  1647: "#51cda3"
 note: "1647 follows the start date of Charles Grémont's history of the confederation. From the eighteenth century it divided into the western Kel Ataram, around Ménaka and Gao, and the eastern Kel Dinnik; this record follows the Kel Ataram and leaves the Kel Dinnik without a record. Ends with the confederation's formal submission to France in 1903."
 transitions:
 - year: 1903

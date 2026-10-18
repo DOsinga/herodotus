@@ -18,6 +18,8 @@ point:
   name: "Kolda"
   latitude: 12.88
   longitude: -14.95
+colors:
+  1867: "#864727"
 note: "The point is at Kolda, near Alfa Molo's capital Ndorna, which has no coordinates. Ends in 1903, when Musa Molo fled to the British side and France annexed the kingdom; Britain and France had divided it into spheres in 1900."
 transitions:
 - year: 1903

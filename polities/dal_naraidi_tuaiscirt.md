@@ -20,6 +20,6 @@ point:
   latitude: 55.038
   longitude: -6.473
 colors:
-  650: "#862737"
+  650: "#678627"
 note: "650 estimates the northern dynasty's establishment after the conquest of Eilne in the middle seventh century. Its last named king is recorded in 883; the end is a last-attestation estimate, not a documented conquest. Links the Dal nAraidi article, which describes this separately governing branch."
 ---

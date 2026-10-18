@@ -20,6 +20,8 @@ point:
   name: Singaraja
   latitude: -8.1167
   longitude: 115.0833
+colors:
+  1660: "#572786"
 note: >-
   Links the regency article, as no article covers the kingdom on its own. 1660 estimates when Panji
   Sakti governed north Bali on his own as Gelgel declined after 1651. The gap from 1732 to 1752 is

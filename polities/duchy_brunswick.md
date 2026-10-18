@@ -21,7 +21,7 @@ point:
   latitude: 52.267
   longitude: 10.517
 colors:
-  1813: "#a351cd"
+  1813: "#cd5151"
 note: "Duke Frederick William returned in December 1813. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1867

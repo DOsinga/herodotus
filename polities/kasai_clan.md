@@ -19,6 +19,8 @@ point:
   name: "Teraike Castle"
   latitude: 38.698
   longitude: 141.274
+colors:
+  1467: "#5e34b2"
 note: "Covers the house as a Sengoku power, from the Ōnin War to the confiscation of 1590. The family's records were lost in the Kasai–Ōsaki uprising that followed, so little is known of its rulers between the founder and Harunobu. The linked article is a stub."
 transitions:
 - year: 1467

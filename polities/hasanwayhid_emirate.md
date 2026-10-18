@@ -19,6 +19,8 @@ point:
   name: "Kermanshah"
   latitude: 34.3369
   longitude: 47.0911
+colors:
+  959: "#862776"
 note: "Both dates follow the article. The family's main fortress was Sarmaj, east of Kermanshah; Kermanshah stands for its lands."
 transitions:
 - year: 1015

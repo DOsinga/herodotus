@@ -22,9 +22,11 @@ point:
   latitude: 47.8
   longitude: 13.045
 colors:
-  1250: "#272786"
-  1769: "#272786"
-  1794: "#275786"
+  1250: "#678627"
+  1547: "#678627"
+  1572: "#34b2b2"
+  1678: "#34b2b2"
+  1703: "#578627"
 note: "Secularised in 1803 and given to the former Grand Duke of Tuscany as the Electorate of Salzburg, which Austria annexed in 1805."
 transitions:
 - year: 1805

@@ -21,7 +21,7 @@ point:
   latitude: 38.2014
   longitude: 37.1883
 colors:
-  1337: "#51cd51"
+  1337: "#cd6651"
 note: "Mamluk and Ottoman overlordship did not end the beys' government. Ali Bey, whom Selim I installed in 1515, still governed with his own forces until Süleyman had him executed and annexed the beylik in 1522."
 transitions:
 - year: 1522

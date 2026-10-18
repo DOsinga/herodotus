@@ -18,6 +18,8 @@ point:
   name: Asti
   latitude: 44.9
   longitude: 8.2069
+colors:
+  1387: "#34b25e"
 note: "Links the city's article. Brief Visconti, Montferrat and Sforza holds during the fifteenth century are not split out."
 transitions:
 - year: 1498

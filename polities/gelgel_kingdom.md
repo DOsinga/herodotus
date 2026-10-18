@@ -19,7 +19,7 @@ point:
   latitude: -8.5642
   longitude: 115.4119
 colors:
-  1500: "#862727"
+  1500: "#862737"
 note: >-
   Links the village article, which covers the old kingdom; no separate article exists. 1500 estimates
   when the Majapahit-descended court governed Bali on its own as Majapahit declined; its predecessor

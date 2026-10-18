@@ -23,9 +23,7 @@ point:
   latitude: 7.2906
   longitude: 80.6336
 colors:
-  1469: "#862767"
-  1555: "#862767"
-  1580: "#273786"
+  1469: "#b23488"
 note: "Rajasinha I of Sitawaka conquered Kandy in 1582; Vimaladharmasuriya I restored its independence in 1591."
 transitions:
 - year: 1582

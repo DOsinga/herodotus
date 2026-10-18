@@ -18,6 +18,8 @@ point:
   name: "Astarabad"
   latitude: 36.84
   longitude: 54.44
+colors:
+  1336: "#278657"
 note: "Links the article on Togha Temür; no article covers his khanate. 1336 marks his acceptance as Ilkhan in Khorasan."
 transitions:
 - year: 1353

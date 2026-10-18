@@ -19,6 +19,8 @@ point:
   name: Ula city
   latitude: 44.07
   longitude: 126.47
+colors:
+  1561: "#73b234"
 note: "No article covers the state; this links the article on its ruling Ula Nara clan. The founding year 1561 follows the clan history."
 transitions:
 - year: 1613

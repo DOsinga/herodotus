@@ -18,6 +18,8 @@ point:
   name: "Albarracín"
   latitude: 40.4083
   longitude: -1.4394
+colors:
+  1170: "#278657"
 note: "The start follows the end of Murcia's span around 1170; Pedro Ruiz de Azagra consolidated his independence by 1172."
 transitions:
 - year: 1284

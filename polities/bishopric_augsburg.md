@@ -18,6 +18,10 @@ point:
   name: Dillingen an der Donau
   latitude: 48.5811
   longitude: 10.4953
+colors:
+  1250: "#8f51cd"
+  1680: "#8f51cd"
+  1705: "#51cdcd"
 note: "Starts with the end of royal government in 1250. Ends with secularisation in 1803."
 transitions:
 - year: 1803

@@ -19,7 +19,7 @@ point:
   latitude: 48.805
   longitude: 17.09
 colors:
-  833: "#762786"
+  833: "#275786"
 note: "833 follows Mojmír's consolidation of Moravia and Nitra. The collapse occurred between 902 and 907; 907 is the conventional estimate. Mikulčice is a royal centre, not a securely identified sole capital."
 transitions:
 - year: 907

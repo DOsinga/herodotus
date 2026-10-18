@@ -23,7 +23,7 @@ point:
   latitude: 45.1847
   longitude: 9.1582
 colors:
-  568: "#862776"
+  568: "#768627"
 note: "568 follows the Lombard establishment in Italy; Pavia became the royal capital in 572. The 574–584 gap is the conventional kingless Rule of the Dukes, when some thirty-five dukes governed their cities separately, which are not recorded individually; Authari restored the royal government. The Frankish conquest ended it in 774. Benevento and Spoleto's separate governments did not end with it."
 transitions:
 - year: 774

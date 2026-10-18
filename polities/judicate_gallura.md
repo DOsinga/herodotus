@@ -19,7 +19,7 @@ point:
   latitude: 40.9167
   longitude: 9.5
 colors:
-  1000: "#378627"
+  1000: "#278657"
 note: "1000 is an estimate; the judicates grew out of Byzantine Sardinia during the tenth century, and the rulers of Gallura are securely known from the late eleventh."
 transitions:
 - year: 1288

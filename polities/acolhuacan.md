@@ -18,6 +18,8 @@ point:
   name: "Texcoco"
   latitude: 19.5294
   longitude: -98.8967
+colors:
+  1123: "#cd51a3"
 note: "1123 follows the end of the Toltec record; the traditions behind the Tulancingo article date Xolotl's Chichimec rule from about 1120, while the Acolhua article puts their arrival around 1200. Ixtlilxochitl's chronicle joins Xolotl's Chichimecs and the Acolhua kings into one line, and the record follows it. The first capital was Coatlinchan; Texcoco took over in the fourteenth century."
 transitions:
 - year: 1418

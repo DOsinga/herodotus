@@ -19,6 +19,8 @@ point:
   name: "Nakhchivan"
   latitude: 39.2161
   longitude: 45.4106
+colors:
+  1747: "#51cd51"
 transitions:
 - year: 1828
   kind: absorbed_into

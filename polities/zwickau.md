@@ -18,6 +18,8 @@ point:
   name: Zwickau
   latitude: 50.7167
   longitude: 12.5
+colors:
+  1290: "#88b234"
 note: "A free imperial city from 1290, when Rudolf of Habsburg recovered the Pleissenland, until the grant of 1323 to the Wettins."
 transitions:
 - year: 1323

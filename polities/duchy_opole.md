@@ -18,6 +18,10 @@ point:
   name: Opole
   latitude: 50.6667
   longitude: 17.9242
+colors:
+  1173: "#278657"
+  1295: "#278657"
+  1320: "#345eb2"
 note: "Combines the early duchies of Opole and Racibórz and follows the Opole line after the division of 1281. Bohemian overlordship from 1327 did not end the dukes' government. Ends with the extinction of the line in 1532, when George of Brandenburg-Ansbach took the duchy under an inheritance treaty."
 transitions:
 - year: 1532

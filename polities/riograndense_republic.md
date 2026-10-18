@@ -20,7 +20,7 @@ point:
   latitude: -31.4473
   longitude: -53.1042
 colors:
-  1836: "#4934b2"
+  1836: "#6651cd"
 note: "The point is Piratini, the first capital (1836–1839); the government later sat at Caçapava and Alegrete."
 transitions:
 - year: 1836

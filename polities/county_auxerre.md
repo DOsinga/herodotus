@@ -18,6 +18,10 @@ point:
   name: "Auxerre"
   latitude: 47.7986
   longitude: 3.5672
+colors:
+  1002: "#cd5166"
+  1253: "#cd5166"
+  1278: "#cd518f"
 note: "The start follows Landry's takeover around 1002. After the 1435 Treaty of Arras Burgundy held the county again until 1477."
 transitions:
 - year: 1370

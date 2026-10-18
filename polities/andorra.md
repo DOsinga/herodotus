@@ -20,6 +20,6 @@ point:
   latitude: 42.5
   longitude: 1.5
 colors:
-  1278: "#7a51cd"
+  1278: "#66cd51"
 note: "Start is the 1278 paréage between the bishop of Urgell and the count of Foix. Links the country article. Changes of regime are not split into separate records."
 ---

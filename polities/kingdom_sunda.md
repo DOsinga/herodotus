@@ -12,7 +12,7 @@ point:
   latitude: -6.597
   longitude: 106.806
 colors:
-  932: "#51cda3"
+  669: "#51cd66"
 note: "669 is the traditional date of Tarumanagara's division into Sunda and Galuh, from disputed later chronicles, matching the Galuh record; the first secure attestation of a king of Sunda is the Kebon Kopi II inscription of 932. Pakuan was one of several seats, with the court also based at Kawali. This records the western royal government, not a separate entity for each capital. Banten's capture of Pakuan ended it in 1579."
 transitions:
 - year: 1579

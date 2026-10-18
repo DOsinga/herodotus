@@ -18,6 +18,8 @@ point:
   name: "Leeuwarden"
   latitude: 53.2
   longitude: 5.7833
+colors:
+  1250: "#cdb851"
 note: "Before 1250 Friesland counts with the German kingdom. East Frisia and the Groningen Ommelanden are not included; East Frisia has its own record from 1464. Ends with Albert of Saxony's appointment in 1498."
 transitions:
 - year: 1498

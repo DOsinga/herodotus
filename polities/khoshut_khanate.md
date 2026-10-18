@@ -21,7 +21,7 @@ point:
   latitude: 36.9
   longitude: 100.2
 colors:
-  1642: "#5166cd"
+  1642: "#51cda3"
 note: "Its base was Kokonor (Qinghai). It governed central Tibet directly only from 1705 to 1717; before that the Dalai Lama's government ruled there."
 transitions:
 - year: 1717

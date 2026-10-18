@@ -18,6 +18,8 @@ point:
   name: "Merv"
   latitude: 37.6628
   longitude: 62.1925
+colors:
+  1747: "#5166cd"
 transitions:
 - year: 1788
   kind: absorbed_into

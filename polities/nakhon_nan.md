@@ -18,6 +18,8 @@ point:
   name: Nan
   latitude: 18.7833
   longitude: 100.7833
+colors:
+  1788: "#672786"
 note: "No article covers the tributary state, so this links the province, whose history section dates the Siamese takeover to 1788 and the town's full resettlement to 1801. The end follows Nakhon Chiang Mai's: Nan was placed in a monthon in 1899, although its line of rulers kept their title until 1931."
 transitions:
 - year: 1899

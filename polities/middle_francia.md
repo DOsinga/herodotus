@@ -20,7 +20,7 @@ point:
   latitude: 50.7753
   longitude: 6.0839
 colors:
-  843: "#518fcd"
+  843: "#5151cd"
 note: "Lothair's government was one of the three separate realms established at Verdun, not an emperor's control over the other two. The court was itinerant. Its division among his sons at Prüm in 855 ended this unified kingdom; the Italian, Lotharingian and Lower Burgundian governments are recorded separately."
 transitions:
 - year: 855

@@ -21,7 +21,7 @@ point:
   latitude: 33.7458
   longitude: 72.7875
 colors:
-  -90: "#7334b2"
+  -90: "#274786"
 note: "Links the Indo-Scythians article. Both dates are estimates: the kingdom of Maues and Azes in Gandhara, until the Indo-Parthian conquest. The Northern Satraps of Mathura and the Western Satraps are separate records."
 transitions:
 - year: 19

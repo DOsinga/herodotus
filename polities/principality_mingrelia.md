@@ -20,7 +20,7 @@ point:
   latitude: 42.5083
   longitude: 41.8667
 colors:
-  1557: "#51cd51"
+  1557: "#273786"
 note: "1557 follows the conventional date of Mingrelia's separation from Imereti. Ends with the treaty of 1803 that made it a Russian protectorate; the Dadiani kept their own administration until 1867."
 transitions:
 - year: 1557

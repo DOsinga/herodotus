@@ -20,7 +20,7 @@ point:
   latitude: 44.418
   longitude: 12.203
 colors:
-  493: "#278686"
+  493: "#866727"
 note: "493 follows Theodoric's overthrow of Odoacer in Italy. Ravenna represents the main capital before 540; the later royal court operated at Pavia. Ends with Teia's defeat at Mons Lactarius, not the fall of Ravenna or Totila's death."
 transitions:
 - year: 553

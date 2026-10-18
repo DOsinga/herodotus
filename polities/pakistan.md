@@ -21,7 +21,7 @@ point:
   latitude: 24.86
   longitude: 67.01
 colors:
-  1947: "#8f51cd"
+  1947: "#7a51cd"
 note: "Karachi was the capital until 1959. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1947

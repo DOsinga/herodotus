@@ -20,6 +20,8 @@ point:
   name: Byzantium
   latitude: 41.0125
   longitude: 28.98
+colors:
+  -667: "#cd5166"
 note: "The founding date is traditional; 667 and 657 BCE are both given. Athenian and Spartan control during the Peloponnesian War, and later hegemonies, are not split out."
 transitions:
 - year: -512

@@ -20,9 +20,9 @@ point:
   latitude: 34.153
   longitude: 77.577
 colors:
-  930: "#866727"
-  1605: "#866727"
-  1630: "#51cd66"
+  930: "#51cdcd"
+  1005: "#51cdcd"
+  1030: "#278686"
 note: "Start estimated (about 930)."
 transitions:
 - year: 1842

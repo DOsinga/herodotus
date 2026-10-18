@@ -18,7 +18,7 @@ point:
   latitude: 43.53
   longitude: 16.48
 colors:
-  461: "#862776"
+  461: "#cd517a"
 note: "Links Marcellinus' article. 461 follows his break with the western court; Nepos' years as western emperor in Italy, 474–475, are not split out. Odoacer took Dalmatia about 481; 480 follows Nepos' death."
 transitions:
 - year: 461

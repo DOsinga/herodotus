@@ -19,6 +19,8 @@ point:
   name: Jerusalem
   latitude: 31.78
   longitude: 35.23
+colors:
+  -1000: "#b27334"
 note: "Follows the traditional chronology, whose historicity is debated: 1000 BCE is David's capture of Jerusalem, 930 the division after Solomon. Saul's earlier kingdom is not included."
 transitions:
 - year: -930

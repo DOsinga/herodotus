@@ -20,7 +20,7 @@ point:
   latitude: 31.55
   longitude: 74.344
 colors:
-  1799: "#7a51cd"
+  1799: "#518fcd"
 transitions:
 - year: 1849
   kind: absorbed_into

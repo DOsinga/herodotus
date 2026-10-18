@@ -24,7 +24,7 @@ point:
 colors:
   -282: "#862757"
   -200: "#862757"
-  -175: "#cd51cd"
+  -175: "#b25e34"
 note: "Attalus III left the kingdom to Rome."
 transitions:
 - year: -282

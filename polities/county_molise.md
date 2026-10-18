@@ -19,6 +19,8 @@ point:
   name: Bojano
   latitude: 41.4833
   longitude: 14.4667
+colors:
+  1053: "#278657"
 note: "1053 estimates Rodulf de Moulins's arrival at Bojano. The linked article mainly covers the later province of the Kingdom of Sicily."
 transitions:
 - year: 1140

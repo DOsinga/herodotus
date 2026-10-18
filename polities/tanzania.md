@@ -21,6 +21,6 @@ point:
   latitude: -6.1731
   longitude: 35.7419
 colors:
-  1964: "#278627"
+  1964: "#762786"
 note: "Dar es Salaam was the capital until 1996. Links the country article. Changes of regime are not split into separate records."
 ---

@@ -23,7 +23,7 @@ point:
   latitude: 29.3697
   longitude: 47.9783
 colors:
-  1961: "#b851cd"
+  1961: "#cd51cd"
 note: "Before independence it was a British-protected state, which does not count as governing itself. Gap for the Iraqi occupation of 1990–1991. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1961

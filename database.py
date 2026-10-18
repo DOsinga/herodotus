@@ -42,6 +42,8 @@ def load_polities():
 def load_places(polities):
     places = load_records("places")
     validate_places(places, polities)
+    gaps = place_gaps(places)
+    assert not gaps, f"gaps of more than {LONGEST_GAP} years: {gaps}"
     return places
 
 

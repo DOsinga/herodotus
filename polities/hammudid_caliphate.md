@@ -19,7 +19,7 @@ point:
   latitude: 37.8882
   longitude: -4.7794
 colors:
-  1016: "#cd5166"
+  1016: "#862757"
 note: "No article covers the state, so the link goes to the dynasty. Córdoba was the seat until 1023, after which the family ruled from Málaga. Yahya's short return to Córdoba in 1025 and 1026 is not shown on the city."
 transitions:
 - year: 1026

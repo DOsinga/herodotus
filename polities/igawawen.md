@@ -19,6 +19,8 @@ point:
   name: "Kuku"
   latitude: 36.5994
   longitude: 4.3608
+colors:
+  1639: "#cd51a3"
 note: "Stands for the Kabyle tribes of the Djurdjura after the Kingdom of Kuku, whose separate tribes are not recorded. The start follows the end of the kingdom's record."
 transitions:
 - year: 1857

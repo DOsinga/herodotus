@@ -18,6 +18,8 @@ point:
   name: Macan Putih
   latitude: -8.17
   longitude: 114.33
+colors:
+  1527: "#34b288"
 note: >-
   1527 follows the fall of Majapahit, which this database counts until then; Blambangan may have
   governed itself from the late fifteenth century. Mataram's campaign of 1639 and the Balinese

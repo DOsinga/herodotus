@@ -20,6 +20,6 @@ point:
   latitude: 37.56
   longitude: 126.99
 colors:
-  1948: "#862727"
+  1948: "#866727"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

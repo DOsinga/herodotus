@@ -20,6 +20,8 @@ point:
   name: "Astarabad"
   latitude: 36.84
   longitude: 54.44
+colors:
+  1356: "#272786"
 note: "Links the article on Amir Vali. 1366 and 1374 for his loss and recovery of Astarabad are estimates."
 transitions:
 - year: 1366

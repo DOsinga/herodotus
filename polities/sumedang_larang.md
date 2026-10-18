@@ -18,6 +18,8 @@ point:
   name: Sumedang
   latitude: -6.8577
   longitude: 107.9164
+colors:
+  1579: "#cd518f"
 note: >-
   Traditional foundation dates in the eighth century rest on late chronicles. 1579 follows the fall
   of Pakuan, when Sumedang took over the Sunda regalia and governed the eastern Parahyangan on its

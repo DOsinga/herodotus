@@ -18,6 +18,8 @@ point:
   name: "Fort Jesus"
   latitude: -4.0628
   longitude: 39.6797
+colors:
+  1746: "#b2345e"
 note: "1746 follows the Mazrui governor's refusal to recognise the new Busaidi rulers of Oman; the timeline of Mombasa puts the Mazrui in power from 1734. Britain's short protectorate of 1824 to 1826 is not recorded. Ends with Said bin Sultan's capture of Fort Jesus in 1837."
 transitions:
 - year: 1746

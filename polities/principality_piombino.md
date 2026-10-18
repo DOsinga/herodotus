@@ -26,6 +26,8 @@ point:
   name: Piombino
   latitude: 42.9167
   longitude: 10.5333
+colors:
+  1399: "#5eb234"
 note: "The gaps are Cesare Borgia's conquest (1501–1503), Medici rule (1548–1557), Spanish occupation (1628–1634) and French occupation (1646–1650). The French invaded in 1799 and annexed Piombino in 1801; the Principality of Lucca and Piombino followed in 1805."
 transitions:
 - year: 1501

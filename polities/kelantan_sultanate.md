@@ -19,7 +19,7 @@ point:
   latitude: 6.1333
   longitude: 102.25
 colors:
-  1760: "#51cd7a"
+  1760: "#862786"
 note: >-
   Links the state article, as no article covers the sultanate on its own. 1760 follows Long Yunus's
   unification of the territory. Tribute to Siam and the Siamese-appointed adviser of 1903 did not end

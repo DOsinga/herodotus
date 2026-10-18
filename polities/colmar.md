@@ -18,6 +18,8 @@ point:
   name: Colmar
   latitude: 48.0817
   longitude: 7.3556
+colors:
+  1250: "#5e34b2"
 note: "Starts with the end of royal government in 1250; the city was imperial from 1226. Ends with the French seizure of 1673."
 transitions:
 - year: 1673

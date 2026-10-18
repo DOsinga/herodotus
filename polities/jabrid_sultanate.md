@@ -20,6 +20,6 @@ point:
   latitude: 25.383
   longitude: 49.583
 colors:
-  1417: "#864727"
+  1417: "#866727"
 note: "Both dates are estimates: Jabrid rule in al-Hasa is dated from the early fifteenth century, and its end follows the loss of Bahrain in 1521 and of al-Hasa a few years later."
 ---

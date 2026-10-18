@@ -18,6 +18,8 @@ point:
   name: "Murom"
   latitude: 55.5667
   longitude: 42.0333
+colors:
+  1132: "#278637"
 note: "1132 follows the end of Kievan Rus' in the place history; Murom and Ryazan became a separate principality in 1127."
 transitions:
 - year: 1392

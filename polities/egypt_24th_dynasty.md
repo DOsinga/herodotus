@@ -17,7 +17,7 @@ point:
   latitude: 30.96
   longitude: 30.77
 colors:
-  -732: "#862757"
+  -732: "#768627"
 note: "Tefnakht's and Bakenranef's kingdom at Sais, which submitted to Piye but kept governing. A Kushite king, traditionally Shabaka, killed Bakenranef; the linked article notes that the attribution is disputed."
 transitions:
 - year: -732

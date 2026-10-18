@@ -23,7 +23,7 @@ point:
   latitude: 37.64
   longitude: -7.66
 colors:
-  1033: "#8f51cd"
+  1033: "#862737"
 note: "Three periods: Ibn Tayfur's kingdom, taken by Seville in 1044, and Ibn Qasi's government of 1144–1145 and 1146–1151, interrupted by the ruler of Badajoz and ended by the Almohads."
 transitions:
 - year: 1044

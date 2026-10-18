@@ -20,6 +20,8 @@ point:
   name: Abha
   latitude: 18.2169
   longitude: 42.5053
+colors:
+  1823: "#278686"
 note: "Links the article on the Asir region. 1823 is an estimate for the rise of Sa'id ibn Musallat; the first period ends with the Ottoman capture of Abha in 1871-1872, and the second covers Hasan ibn Ayedh's rule after the Ottoman withdrawal."
 transitions:
 - year: 1871

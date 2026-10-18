@@ -19,6 +19,8 @@ point:
   name: "Kapan"
   latitude: 39.2011
   longitude: 46.415
+colors:
+  987: "#b851cd"
 transitions:
 - year: 1170
   kind: absorbed_into

@@ -19,7 +19,7 @@ point:
   latitude: 36.34
   longitude: 43.13
 colors:
-  1127: "#b8cd51"
+  1127: "#b2345e"
 note: "Zengi took Mosul in 1127 and Aleppo in 1128. His death in 1146 divided the government between his sons; the later branches are separate records."
 transitions:
 - year: 1127

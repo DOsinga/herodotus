@@ -22,7 +22,7 @@ point:
   latitude: 2.0392
   longitude: 45.3419
 colors:
-  2006: "#cd6651"
+  2006: "#cd7a51"
 note: "The de facto government of Mogadishu and most of southern and central Somalia from mid-2006 until the Ethiopian invasion at the end of that year."
 transitions:
 - year: 2006

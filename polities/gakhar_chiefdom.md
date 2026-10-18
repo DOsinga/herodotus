@@ -20,6 +20,10 @@ point:
   name: Pharwala Fort
   latitude: 33.61
   longitude: 73.28
+colors:
+  1206: "#cd5166"
+  1335: "#cd5166"
+  1360: "#866727"
 note: "Links the article on the clan, as no article covers its chiefdom. Starts with the end of Ghurid rule after Muhammad of Ghor was killed on the Jhelum in 1206; the Gakhar chiefs held the plateau before and after that, but the Ghaznavid and Ghurid years are given to those states. Jasrat Khokhar's dominance from about 1405 to 1442 is kept inside this record rather than given its own, as the sources often confuse the two clans and Firishta calls Jasrat a Gakhar. Delhi's hold under the Khaljis and Tughluqs and the Mongol raids are not treated as government. The point at Pharwala is approximate."
 transitions:
 - year: 1526

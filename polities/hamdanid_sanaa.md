@@ -18,6 +18,8 @@ point:
   name: Sanaa
   latitude: 15.348
   longitude: 44.206
+colors:
+  1099: "#51cd51"
 note: "Starts with Hatim ibn al-Ghashim's seizure of Sanaa after the death of the Sulayhid regent in 1098; Ali ibn Hatim kept up resistance from mountain forts after 1174."
 transitions:
 - year: 1174

@@ -19,6 +19,8 @@ point:
   name: Dartsedo
   latitude: 29.9985
   longitude: 101.9569
+colors:
+  1368: "#678627"
 note: "The house existed by the late thirteenth century, but the Yuan years are shown under Yuan, which ran Kham through local lords. 1368 is the end of Yuan rule; the article's own start is the Ming title of 1407. 1671 is the Tibetan occupation that followed the rebellion of 1666; the Battle of Dartsedo article says Tibetan officials and a garrison already held the town soon after the fall of the Ming, so the end may be earlier. The kings' rule as Qing native chiefs after 1701 is not shown."
 transitions:
 - year: 1671

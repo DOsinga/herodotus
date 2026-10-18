@@ -19,7 +19,7 @@ point:
   latitude: 47.1
   longitude: 51.9
 colors:
-  1718: "#678627"
+  1718: "#578627"
 note: "Shares the Jüz article. 1718 estimates the end of a common khanate after Tauke's death. Abulkhair's oath to Russia in 1731 did not end the khans' own government; Russia's abolition of the khan's office in 1824 did. The point is representative."
 transitions:
 - year: 1824

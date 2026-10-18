@@ -19,9 +19,11 @@ point:
   latitude: 53.633
   longitude: 11.417
 colors:
-  1167: "#472786"
-  1281: "#472786"
-  1306: "#578627"
+  1167: "#cd5166"
+  1303: "#cd5166"
+  1328: "#672786"
+  1489: "#672786"
+  1514: "#272786"
 note: "Starts in 1167, when Henry the Lion restored the Obotrite prince Pribislav as his vassal; Pribislav's descendants governed it, as dukes from 1348. The Werle, Rostock and Stargard branches governed separately and have their own records; the short-lived Parchim share of 1229–1256 is not recorded. Divided into Schwerin and Güstrow in 1621."
 transitions:
 - year: 1621

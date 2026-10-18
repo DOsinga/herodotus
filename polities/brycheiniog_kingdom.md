@@ -22,9 +22,7 @@ point:
   latitude: 51.995
   longitude: -3.233
 colors:
-  450: "#51cd7a"
-  725: "#51cd7a"
-  750: "#51cdb8"
+  450: "#278647"
 note: "450 is a traditional estimate associated with Brychan. The gap records the joint Dyfed-Brycheiniog governing court after Cloten's seventh-century union; 750 estimates the return of a separate government under Awst's line. 1045 estimates the lasting division into three cantrefs. The early genealogy and dates are uncertain."
 transitions:
 - year: 650

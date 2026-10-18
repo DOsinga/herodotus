@@ -19,5 +19,7 @@ point:
   name: "Mainamati"
   latitude: 23.43
   longitude: 91.13
+colors:
+  1051: "#518fcd"
 note: "Both dates are estimates: the start follows the end of the Chandra kingdom (about 1050), and the end is set where Damodaradeva's Deva kingdom held the Comilla region (accession 1231). Its control of Chittagong is inferred from its position and from Ranavankamalla's title Harikaladeva, Harikela being the old name of the Chittagong region; no inscription places it there. The point is approximate."
 ---

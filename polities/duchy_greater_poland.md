@@ -22,9 +22,9 @@ point:
   latitude: 52.408
   longitude: 16.934
 colors:
-  1138: "#cd51cd"
-  1250: "#cd51cd"
-  1275: "#b8cd51"
+  1138: "#51cda3"
+  1270: "#51cda3"
+  1295: "#51b8cd"
 note: "Mieszko III's share of the 1138 testament. Przemysł II was crowned king of Poland here in 1295 but murdered the next year. Gap for Wenceslaus II of Bohemia's rule of 1300–1305; Henry of Głogów and his sons then held it until Władysław the Elbow-high took it in 1314."
 transitions:
 - year: 1300
