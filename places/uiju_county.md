@@ -5,17 +5,33 @@ wikipedia: https://en.wikipedia.org/wiki/Uiju_County
 point:
   latitude: 40.1969
   longitude: 124.5319
-note: "The Liao fortress of Baozhou until Goryeo took it in 1117."
+note: "The Tang Andong protectorate is assumed to have held the lower Yalu until Balhae took it in 713, an estimate. Liao destroyed Jeongan in 986, fortified the Yalu in 991 and built Baozhou here in 1014; Goryeo took it in 1117."
 control:
 - start: 313
   end: 667
   polity: goguryeo
   importance: 2
 - start: 668
-  end: 676
+  end: 689
   polity: tang_dynasty
   importance: 2
-- start: 1014
+- start: 690
+  end: 704
+  polity: wu_zhou
+  importance: 2
+- start: 705
+  end: 712
+  polity: tang_dynasty
+  importance: 2
+- start: 713
+  end: 925
+  polity: balhae
+  importance: 2
+- start: 938
+  end: 985
+  polity: jeongan
+  importance: 2
+- start: 986
   end: 1116
   polity: liao_dynasty
   importance: 2

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Lanzhou
 point:
   latitude: 36.0606
   longitude: 103.8268
+note: "Lanzhou under Tsongkha from 1008 to 1031 is an estimate: the Tibetan tribes around the city recognised Gusiluo until the Tanguts took it."
 control:
 - start: -121
   end: 8
@@ -90,6 +91,17 @@ control:
   end: 842
   polity: tibetan_empire
   importance: 2
+- start: 861
+  end: 881
+  polity: guiyi_circuit
+  importance: 2
+- start: 882
+  end: 1007
+  ungoverned: "After Guiyi lost its hold on the upper Yellow River around 881, Tibetan tribes without a recorded state held the area until Gusiluo's Tsongkha."
+- start: 1008
+  end: 1031
+  polity: tsongkha
+  importance: 1
 - start: 1032
   end: 1037
   polity: dingnan_circuit

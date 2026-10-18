@@ -19,9 +19,16 @@ control:
   polity: cao_wei
   importance: 2
 - start: 266
-  end: 316
+  end: 332
   polity: jin_dynasty_266
   importance: 2
+- start: 333
+  end: 338
+  polity: cheng_han
+  importance: 2
+- start: 339
+  end: 737
+  ungoverned: "Jin and the southern dynasties kept Yongchang commandery only on paper; Pu and other peoples without a state held the area until Nanzhao."
 - start: 738
   end: 901
   polity: nanzhao

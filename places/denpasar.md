@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Denpasar
 point:
   latitude: -8.6717
   longitude: 115.2339
-note: "The kingdom of Badung, which governed the area from the late seventeenth century to 1906, has no record."
 control:
 - start: 1343
   end: 1499
@@ -15,6 +14,10 @@ control:
   end: 1685
   polity: gelgel_kingdom
   importance: 2
+- start: 1686
+  end: 1905
+  polity: badung_kingdom
+  importance: 3
 - start: 1906
   end: 1941
   polity: kingdom_netherlands

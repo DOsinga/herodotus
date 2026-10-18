@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Akitakata
 point:
   latitude: 34.6631
   longitude: 132.7064
-note: "Yoshida-Kōriyama Castle, the Mōri seat until 1591, lies in the city. Before 1554 the Mōri held it as vassals of the Ōuchi or the Amago, who did not govern it directly."
+note: "Yoshida-Kōriyama Castle, the Mōri seat until 1591, lies in the city. Before 1554 the Mōri held it as vassals of the Ōuchi, and the town is given to them; the Mōri sided with the Amago for a few years in the 1520s."
 control:
 - start: 700
   end: 1184
@@ -22,6 +22,10 @@ control:
 - start: 1336
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1467
+  end: 1553
+  polity: ouchi_clan
   importance: 2
 - start: 1554
   end: 1584

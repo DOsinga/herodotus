@@ -15,6 +15,10 @@ control:
   end: 713
   polity: chenla_kingdom
   importance: 2
+- start: 714
+  end: 801
+  polity: water_chenla
+  importance: 2
 - start: 802
   end: 1430
   polity: khmer_empire

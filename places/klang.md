@@ -10,6 +10,10 @@ control:
   end: 1510
   polity: malacca_sultanate
   importance: 2
+- start: 1528
+  end: 1765
+  polity: johor_sultanate
+  importance: 2
 - start: 1766
   end: 1873
   polity: selangor_sultanate

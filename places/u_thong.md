@@ -10,7 +10,7 @@ control:
   end: 1000
   polity: u_thong_polity
   importance: 3
-- start: 1351
+- start: 1001
   end: null
   follows: suphan_buri
   importance: 1

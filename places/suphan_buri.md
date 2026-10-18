@@ -6,6 +6,10 @@ point:
   latitude: 14.4744
   longitude: 100.1222
 control:
+- start: 913
+  end: 1350
+  polity: suphannabhum
+  importance: 3
 - start: 1351
   end: 1766
   polity: ayutthaya_kingdom

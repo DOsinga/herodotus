@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Medan
 point:
   latitude: 3.5894
   longitude: 98.6739
-note: "The Deli sultanate, which governed the area between Acehnese and Dutch rule, has no record."
+note: "Labuhan Deli, the Deli capital until the late nineteenth century, lies 15 km to the north."
 control:
 - start: 1612
   end: 1668
   polity: aceh_sultanate
+  importance: 2
+- start: 1669
+  end: 1861
+  polity: deli_sultanate
   importance: 2
 - start: 1862
   end: 1941

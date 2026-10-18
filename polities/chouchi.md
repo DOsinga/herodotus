@@ -23,7 +23,7 @@ point:
   longitude: 105.45
 colors:
   296: "#b23434"
-note: "The Di state of the Yang family. Former Qin conquered it in 371 and it was restored in 385. Liu Song took it in 442; the later Yang states of Wudu and Yinping are not recorded. The point is approximate."
+note: "The Di state of the Yang family. Former Qin conquered it in 371 and it was restored in 385. Liu Song took it in 442; the Yang state of Wudu that followed in 443 has its own record, and Yinping is not recorded. The point is approximate."
 transitions:
 - year: 371
   kind: absorbed_into

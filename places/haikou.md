@@ -5,12 +5,14 @@ wikipedia: https://en.wikipedia.org/wiki/Haikou
 point:
   latitude: 20.0186
   longitude: 110.3488
-note: "Han abandoned Hainan in 46 BCE; Lady Xian brought it back under the southern dynasties about 535."
 control:
 - start: -110
   end: -47
   polity: han_dynasty
   importance: 2
+- start: -46
+  end: 534
+  ungoverned: "Han gave up Hainan in 46 BCE; the Li peoples had no state, and Zhuya commandery was governed from the mainland until Lady Xian brought the island back about 535."
 - start: 535
   end: 556
   polity: liang_dynasty

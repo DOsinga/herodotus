@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Matsuyama
 point:
   latitude: 33.8333
   longitude: 132.7667
-note: "From the Ōnin War until the area submitted to the Oda–Toyotomi regime it was held by Sengoku daimyo, who have no records."
 control:
 - start: 400
   end: 1184
@@ -23,6 +22,10 @@ control:
   end: 1466
   polity: ashikaga_shogunate
   importance: 2
+- start: 1467
+  end: 1584
+  polity: kono_clan
+  importance: 3
 - start: 1585
   end: 1599
   polity: oda_toyotomi_regime

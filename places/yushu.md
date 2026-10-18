@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Yushu
 point:
   latitude: 33.004
   longitude: 97.007
-note: "The Sumpa lived in the upper Yangtze grasslands; their centre is not known and Yushu stands in for it."
+note: "The Sumpa lived in the upper Yangtze grasslands; their centre is not known and Yushu stands in for it. Yushu also stands in for Nangchen, whose kings sat at Nangqên to the south."
 control:
 - start: 300
   end: 749
@@ -15,6 +15,13 @@ control:
   end: 842
   polity: tibetan_empire
   importance: 2
+- start: 843
+  end: 1174
+  ungoverned: "Era of Fragmentation: no government of this area is recorded between the fall of the Tibetan Empire and the founding of Nangchen in 1175."
+- start: 1175
+  end: 1252
+  polity: kingdom_nangchen
+  importance: 2
 - start: 1253
   end: 1270
   polity: mongol_empire
@@ -22,6 +29,10 @@ control:
 - start: 1271
   end: 1367
   polity: yuan_dynasty
+  importance: 2
+- start: 1368
+  end: 1641
+  polity: kingdom_nangchen
   importance: 2
 - start: 1642
   end: 1716

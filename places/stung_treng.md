@@ -5,12 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Stung_Treng
 point:
   latitude: 13.5259
   longitude: 105.9683
-note: "Stung Treng belonged to the Lao lands until the French moved it to Cambodia in 1904."
+note: "Stung Treng belonged to the Lao lands until the French moved it to Cambodia in 1904. 1431 for the change from Angkor to Lan Xang is an estimate."
 control:
 - start: 802
   end: 1430
   polity: khmer_empire
   importance: 2
+- start: 1431
+  end: 1706
+  polity: lan_xang
+  importance: 1
+- start: 1707
+  end: 1712
+  polity: kingdom_vientiane
+  importance: 1
 - start: 1713
   end: 1903
   polity: kingdom_champasak

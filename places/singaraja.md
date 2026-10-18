@@ -5,12 +5,23 @@ wikipedia: https://en.wikipedia.org/wiki/Singaraja
 point:
   latitude: -8.1167
   longitude: 115.0833
-note: "The kingdom of Buleleng, which governed the area before the Dutch conquest of 1849, has no record."
 control:
 - start: 1500
-  end: 1685
+  end: 1659
   polity: gelgel_kingdom
   importance: 2
+- start: 1660
+  end: 1731
+  polity: buleleng_kingdom
+  importance: 3
+- start: 1732
+  end: 1751
+  polity: mengwi_kingdom
+  importance: 2
+- start: 1752
+  end: 1848
+  polity: buleleng_kingdom
+  importance: 3
 - start: 1849
   end: 1941
   polity: kingdom_netherlands

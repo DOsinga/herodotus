@@ -12,7 +12,7 @@ description: >-
   attack on Dutch-held Palembang gave the Dutch a pretext to force the sultan to accept their
   authority.
 periods:
-- start: 1615
+- start: 1500
   end: 1833
 point:
   name: Jambi
@@ -21,10 +21,14 @@ point:
 colors:
   1615: "#277686"
 note: >-
-  1615 is the conventional founding date of the sultanate. After Jambi's attack on Dutch-held
+  1500 estimates the break from Majapahit in the early sixteenth century, after which the same line
+  governed Jambi; 1615 is the conventional date of the sultanate. After Jambi's attack on Dutch-held
   Palembang in 1833 the sultan had to accept Dutch authority, which counts as absorption; resistance
   continued under Sultan Taha until his death in 1904.
 transitions:
+- year: 1500
+  kind: broke_away_from
+  from: [majapahit]
 - year: 1833
   kind: absorbed_into
   into: [kingdom_netherlands]

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Wudu,_Longnan
 point:
   latitude: 33.3702
   longitude: 104.9604
-note: "Mount Chouchi, the Yang family's stronghold, lies 55 km to the east. The later Yang state of Wudu, 443–506, has no record."
+note: "Mount Chouchi, the Yang family's stronghold, lies 55 km to the east."
 control:
 - start: -111
   end: 8
@@ -55,6 +55,10 @@ control:
   end: 442
   polity: liu_song
   importance: 2
+- start: 443
+  end: 505
+  polity: wudu_yang
+  importance: 3
 - start: 506
   end: 534
   polity: northern_wei

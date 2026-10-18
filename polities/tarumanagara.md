@@ -13,5 +13,9 @@ point:
   longitude: 107.0
 colors:
   358: "#7a51cd"
-note: "Both dates are estimates; the kingdom is known from Purnawarman's fifth-century inscriptions. 669 is the traditional date of its division into Sunda and Galuh, which rests on later chronicles; Galuh's record starts then, and Sunda's starts with its first secure attestation in 932, so no transition is recorded."
+note: "Both dates are estimates; the kingdom is known from Purnawarman's fifth-century inscriptions. 669 is the traditional date of its division into Sunda and Galuh, which rests on later chronicles; the Sunda and Galuh records start then."
+transitions:
+- year: 669
+  kind: split_into
+  into: [kingdom_sunda, kingdom_galuh]
 ---

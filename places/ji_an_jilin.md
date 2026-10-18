@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ji'an,_Jilin
 point:
   latitude: 41.1253
   longitude: 126.194
-note: "Gungnae, the Goguryeo capital from 3 to 427. The seat of Jeongan is uncertain; it is placed in this Yalu region."
+note: "Gungnae, the Goguryeo capital from 3 to 427. The Tang Andong protectorate is assumed to have held the Yalu until Balhae took it in 713, an estimate. The seat of Jeongan is uncertain; it is placed in this Yalu region. The Jianzhou Jurchens settled the Hun and Yalu valleys from the 1420s; their span here from 1403 is an estimate."
 control:
 - start: -37
   end: 2
@@ -20,7 +20,15 @@ control:
   polity: goguryeo
   importance: 2
 - start: 668
-  end: 676
+  end: 689
+  polity: tang_dynasty
+  importance: 2
+- start: 690
+  end: 704
+  polity: wu_zhou
+  importance: 2
+- start: 705
+  end: 712
   polity: tang_dynasty
   importance: 2
 - start: 713
@@ -50,6 +58,18 @@ control:
 - start: 1271
   end: 1367
   polity: yuan_dynasty
+  importance: 2
+- start: 1368
+  end: 1387
+  polity: northern_yuan
+  importance: 2
+- start: 1403
+  end: 1586
+  polity: jianzhou_jurchens
+  importance: 2
+- start: 1587
+  end: 1615
+  polity: jianzhou_nurhaci
   importance: 2
 - start: 1616
   end: 1635

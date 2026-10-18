@@ -7,6 +7,14 @@ point:
   longitude: 139.7542
 note: "Edo Castle was built by Ōta Dōkan in 1457; the Later Hōjō took it from the Uesugi in 1524."
 control:
+- start: 1457
+  end: 1466
+  polity: ashikaga_shogunate
+  importance: 2
+- start: 1467
+  end: 1523
+  polity: ogigayatsu_uesugi
+  importance: 3
 - start: 1524
   end: 1589
   polity: later_hojo

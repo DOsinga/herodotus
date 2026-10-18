@@ -39,6 +39,18 @@ control:
   end: 316
   polity: jin_dynasty_266
   importance: 2
+- start: 317
+  end: 1278
+  polity: luodian
+  importance: 2
+- start: 1279
+  end: 1367
+  polity: yuan_dynasty
+  importance: 2
+- start: 1368
+  end: 1381
+  polity: northern_yuan
+  importance: 2
 - start: 1382
   end: 1643
   polity: ming_dynasty

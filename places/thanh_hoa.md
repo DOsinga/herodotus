@@ -78,6 +78,10 @@ control:
   end: 938
   polity: jinghai_native
   importance: 2
+- start: 939
+  end: 964
+  polity: ngo_dynasty
+  importance: 2
 - start: 968
   end: 979
   polity: dinh_dynasty

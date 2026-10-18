@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Trowulan
 point:
   latitude: -7.5597
   longitude: 112.3804
+note: "Surabaya's hold on the Brantas valley from 1546 is an estimate."
 control:
 - start: 929
   end: 1016
@@ -27,8 +28,12 @@ control:
   polity: majapahit
   importance: 4
 - start: 1527
-  end: 1567
+  end: 1545
   polity: demak_sultanate
+  importance: 1
+- start: 1546
+  end: 1624
+  polity: surabaya_duchy
   importance: 1
 - start: 1625
   end: 1748

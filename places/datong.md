@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Datong
 point:
   latitude: 40.097
   longitude: 113.367
+note: "Xianbei and then Tuoba tribes held the Pingcheng plain after the Han frontier counties lapsed; the dates of their control before 310 are estimates."
 control:
 - start: -300
   end: -229
@@ -34,7 +35,15 @@ control:
   end: 189
   polity: han_dynasty
   importance: 2
-- start: 313
+- start: 190
+  end: 234
+  polity: xianbei_state
+  importance: 2
+- start: 248
+  end: 309
+  polity: tuoba_confederation
+  importance: 2
+- start: 310
   end: 375
   polity: dai_state
   importance: 2

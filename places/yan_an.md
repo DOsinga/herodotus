@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Yan'an
 point:
   latitude: 36.65
   longitude: 109.494
+note: "Han moved the Shang commandery seat south in 140 and gave up the region in the 180s; Southern Xiongnu and Qiang groups held it, and giving it to the Southern Xiongnu is an estimate."
 control:
 - start: -400
   end: -329
@@ -33,6 +34,10 @@ control:
 - start: 25
   end: 139
   polity: han_dynasty
+  importance: 2
+- start: 140
+  end: 216
+  polity: southern_xiongnu
   importance: 2
 - start: 220
   end: 265

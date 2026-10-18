@@ -43,6 +43,9 @@ control:
   end: 676
   polity: tang_dynasty
   importance: 3
+- start: 677
+  end: 734
+  ungoverned: "Left in ruins after the Tang withdrawal; Silla's frontier reached the Taedong only in 735."
 - start: 735
   end: 900
   polity: silla

@@ -10,6 +10,10 @@ control:
   end: 602
   polity: van_xuan
   importance: 3
+- start: 603
+  end: 904
+  follows: hanoi
+  importance: 1
 - start: 905
   end: 930
   polity: jinghai_native
@@ -18,4 +22,8 @@ control:
   end: 939
   polity: jinghai_native
   importance: 3
+- start: 940
+  end: null
+  follows: hanoi
+  importance: 1
 ---

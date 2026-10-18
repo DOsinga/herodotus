@@ -12,7 +12,7 @@ description: >-
   returning Dutch. After their victory in 1821 the Dutch dissolved the sultanate in 1823, and its last
   ruler was exiled to the Moluccas in 1825.
 periods:
-- start: 1659
+- start: 1547
   end: 1823
 point:
   name: Palembang
@@ -23,9 +23,10 @@ colors:
   1786: "#862737"
   1811: "#7334b2"
 note: >-
-  1659 follows Susuhunan Abdurrahman's proclamation after the break with Mataram. The British
-  occupation of 1812 to 1816 installed a rival sultan but did not replace the sultanate's own
-  government. The Dutch dissolved it in 1823.
+  1547 estimates when Ki Gede ing Suro, a Demak noble, founded the court at Kuto Gawang after
+  Trenggana's death; its rulers governed under Mataram's loose overlordship until Susuhunan
+  Abdurrahman's proclamation of 1659. The British occupation of 1812 to 1816 installed a rival sultan
+  but did not replace the sultanate's own government. The Dutch dissolved it in 1823.
 transitions:
 - year: 1823
   kind: absorbed_into

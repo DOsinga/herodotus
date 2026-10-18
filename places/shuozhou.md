@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Shuozhou
 point:
   latitude: 39.3317
   longitude: 112.4329
+note: "Mayi was one of the five counties north of the mountains that Jin handed to Tuoba Yilu in 310."
 control:
 - start: -300
   end: -229
@@ -31,10 +32,18 @@ control:
   polity: gengshi_han
   importance: 2
 - start: 25
-  end: 189
+  end: 219
   polity: han_dynasty
   importance: 2
-- start: 313
+- start: 220
+  end: 265
+  polity: cao_wei
+  importance: 2
+- start: 266
+  end: 309
+  polity: jin_dynasty_266
+  importance: 2
+- start: 310
   end: 375
   polity: dai_state
   importance: 2

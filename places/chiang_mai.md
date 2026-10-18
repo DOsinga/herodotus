@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Chiang_Mai
 point:
   latitude: 18.7883
   longitude: 98.9853
-note: "Lan Na governed itself again from 1727 to 1763 between Burmese occupations; that period has no record."
 control:
 - start: 1296
   end: 1557
@@ -14,6 +13,10 @@ control:
 - start: 1558
   end: 1726
   polity: toungoo_dynasty
+  importance: 3
+- start: 1727
+  end: 1762
+  polity: lan_na
   importance: 3
 - start: 1763
   end: 1774

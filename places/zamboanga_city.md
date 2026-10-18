@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Zamboanga_City
 point:
   latitude: 6.9042
   longitude: 122.0761
-note: "Spain abandoned the fort from 1662 to 1718."
+note: "Spain abandoned the fort from 1662 to 1718; those years go to Sulu, the area's earlier overlord."
 control:
 - start: 1635
   end: 1662
   polity: spanish_monarchy
   importance: 2
+- start: 1663
+  end: 1717
+  polity: sulu_sultanate
+  importance: 1
 - start: 1718
   end: 1807
   polity: bourbon_spain

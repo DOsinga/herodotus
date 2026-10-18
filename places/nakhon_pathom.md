@@ -10,6 +10,10 @@ control:
   end: 1000
   polity: nakhon_pathom_polity
   importance: 3
+- start: 1001
+  end: 1350
+  polity: suphannabhum
+  importance: 2
 - start: 1351
   end: 1766
   polity: ayutthaya_kingdom

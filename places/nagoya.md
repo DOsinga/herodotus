@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Nagoya
 point:
   latitude: 35.1833
   longitude: 136.9
-note: "Kiyosu, the Oda seat from 1555, lies 7 km northwest. The divided Oda and Shiba before 1555 have no record."
+note: "Kiyosu, the Oda seat, lies 7 km northwest. The Imagawa built the first castle at Nagoya in the 1520s; Oda Nobuhide took it in 1532. When the Imagawa built it is uncertain, between 1521 and 1528."
 control:
 - start: 400
   end: 1184
@@ -22,6 +22,18 @@ control:
 - start: 1336
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1467
+  end: 1524
+  polity: oda_clan
+  importance: 2
+- start: 1525
+  end: 1531
+  polity: imagawa_clan
+  importance: 2
+- start: 1532
+  end: 1554
+  polity: oda_clan
   importance: 2
 - start: 1555
   end: 1572

@@ -10,6 +10,10 @@ control:
   end: 1526
   polity: majapahit
   importance: 2
+- start: 1527
+  end: 1623
+  polity: sumenep_principality
+  importance: 3
 - start: 1624
   end: 1704
   polity: mataram_sultanate

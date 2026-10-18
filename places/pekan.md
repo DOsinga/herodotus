@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Pekan,_Pahang
 point:
   latitude: 3.5
   longitude: 103.4167
-note: "From 1824 to 1888 Pahang was governed by its bendaharas, later sultans, as a state that has no record."
 control:
 - start: 1454
   end: 1469
@@ -19,6 +18,10 @@ control:
   end: 1823
   polity: johor_sultanate
   importance: 2
+- start: 1824
+  end: 1887
+  polity: pahang_kingdom
+  importance: 3
 - start: 1888
   end: 1921
   polity: united_kingdom_gbi

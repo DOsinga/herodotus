@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kumamoto
 point:
   latitude: 32.8031
   longitude: 130.7078
-note: "The Kikuchi held it until the Ōtomo drove them out in 1550, and the Ryūzōji from 1579 until the Shimazu took it in 1584; neither has a record."
+note: "The Ryūzōji held it from 1579 until the Shimazu took it in 1584; they have no record."
 control:
 - start: 530
   end: 1184
@@ -30,6 +30,10 @@ control:
 - start: 1372
   end: 1466
   polity: ashikaga_shogunate
+  importance: 2
+- start: 1467
+  end: 1549
+  polity: kikuchi_clan
   importance: 2
 - start: 1550
   end: 1578

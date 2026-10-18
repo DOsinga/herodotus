@@ -5,11 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Haeju
 point:
   latitude: 38.0333
   longitude: 125.7167
+note: "Silla held the land south of the Taedong after the Tang withdrawal in 676 as a thinly settled frontier; the Tang recognised it in 735."
 control:
 - start: 475
   end: 667
   polity: goguryeo
   importance: 2
+- start: 668
+  end: 675
+  polity: tang_dynasty
+  importance: 2
+- start: 676
+  end: 734
+  polity: silla
+  importance: 1
 - start: 735
   end: 900
   polity: silla

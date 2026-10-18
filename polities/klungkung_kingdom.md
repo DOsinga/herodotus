@@ -22,7 +22,7 @@ colors:
   1686: "#275786"
 note: >-
   Links the regency article, as no article covers the kingdom on its own. The other Balinese kingdoms,
-  such as Badung, Buleleng, Gianyar and Karangasem, governed themselves and have no records;
+  such as Badung, Buleleng, Gianyar and Karangasem, governed themselves;
   Klungkung's precedence over them was ceremonial. The 1908 puputan ended its government.
 transitions:
 - year: 1908

@@ -14,6 +14,13 @@ control:
   end: 1387
   polity: ming_dynasty
   importance: 2
+- start: 1388
+  end: 1596
+  ungoverned: "The Ming evacuated Penghu in 1388 under the maritime ban; only fishermen and pirates used the islands until a permanent garrison came in 1597."
+- start: 1597
+  end: 1621
+  polity: ming_dynasty
+  importance: 2
 - start: 1622
   end: 1623
   polity: dutch_republic

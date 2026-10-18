@@ -5,12 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Banyuwangi_(town)
 point:
   latitude: -8.2186
   longitude: 114.3669
-note: "The Hindu kingdom of Blambangan, which governed the area between Majapahit and the Dutch conquest of 1767, has no record."
 control:
 - start: 1293
   end: 1526
   polity: majapahit
   importance: 2
+- start: 1527
+  end: 1664
+  polity: blambangan_kingdom
+  importance: 2
+- start: 1665
+  end: 1766
+  polity: blambangan_kingdom
+  importance: 3
 - start: 1767
   end: 1794
   polity: dutch_republic
