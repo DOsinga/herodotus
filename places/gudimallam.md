@@ -14,6 +14,14 @@ control:
   end: 1278
   polity: chola_empire
   importance: 2
+- start: 1279
+  end: 1321
+  polity: pandya_kingdom
+  importance: 2
+- start: 1322
+  end: 1335
+  polity: sambuvarayar
+  importance: 1
 - start: 1336
   end: null
   follows: chandragiri

@@ -12,7 +12,7 @@ description: >-
 name: Golconda Sultanate
 wikipedia: https://en.wikipedia.org/wiki/Golconda_Sultanate
 periods:
-- start: 1518
+- start: 1501
   end: 1687
 point:
   name: Golconda
@@ -22,6 +22,7 @@ colors:
   1518: "#66cd51"
   1622: "#66cd51"
   1647: "#862786"
+note: "Sultan Quli governed Telangana from Golconda as a Bahmani governor from about 1501 while the sultans at Bidar had lost control; the record starts there rather than at his formal independence in 1518."
 transitions:
 - year: 1687
   kind: absorbed_into

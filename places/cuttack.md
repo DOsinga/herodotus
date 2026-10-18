@@ -18,6 +18,10 @@ control:
   end: 1540
   polity: gajapati_empire
   importance: 3
+- start: 1541
+  end: 1567
+  polity: bhoi_kingdom
+  importance: 3
 - start: 1568
   end: 1575
   polity: bengal_sultanate

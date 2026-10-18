@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Bengaluru
 point:
   latitude: 12.9789
   longitude: 77.5917
-note: "Kempe Gowda founded Bangalore in 1537; his family held it until Bijapur took it in 1638, without a record."
+note: "Kempe Gowda founded Bangalore in 1537 as a Vijayanagara officer; his family governed it on its own from 1565 until Bijapur took it in 1638."
 control:
 - start: 1537
   end: 1564
   polity: vijayanagara_empire
   importance: 2
+- start: 1565
+  end: 1637
+  polity: yelahanka_nadaprabhus
+  importance: 3
 - start: 1638
   end: 1686
   polity: bijapur_sultanate

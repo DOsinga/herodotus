@@ -19,6 +19,18 @@ control:
   end: 509
   polity: vakataka_vatsagulma
   importance: 2
+- start: 510
+  end: 549
+  polity: vishnukundina_kingdom
+  importance: 2
+- start: 550
+  end: 624
+  polity: kalachuri_mahishmati
+  importance: 2
+- start: 625
+  end: 752
+  polity: badami_chalukya_kingdom
+  importance: 2
 - start: 753
   end: 972
   polity: rashtrakuta_empire
@@ -34,6 +46,22 @@ control:
 - start: 1313
   end: 1346
   polity: delhi_sultanate
+  importance: 2
+- start: 1347
+  end: 1579
+  polity: gond_chanda
+  importance: 2
+- start: 1580
+  end: 1668
+  polity: gond_deogarh
+  importance: 2
+- start: 1669
+  end: 1685
+  polity: mughal_empire
+  importance: 2
+- start: 1686
+  end: 1742
+  polity: gond_deogarh
   importance: 2
 - start: 1743
   end: null

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Pyay
 point:
   latitude: 18.8246
   longitude: 95.2222
-note: "Stands for Sri Ksetra, whose walled site lies 8 km to the southeast. The Prome kingdom of 1482 to 1542 has no record."
+note: "Stands for Sri Ksetra, whose walled site lies 8 km to the southeast."
 control:
 - start: 400
   end: 1049
@@ -27,6 +27,10 @@ control:
   end: 1481
   polity: ava_kingdom
   importance: 2
+- start: 1482
+  end: 1541
+  polity: prome_kingdom
+  importance: 3
 - start: 1542
   end: 1751
   polity: toungoo_dynasty

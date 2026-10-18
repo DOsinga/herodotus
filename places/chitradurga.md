@@ -5,11 +5,30 @@ wikipedia: https://en.wikipedia.org/wiki/Chitradurga
 point:
   latitude: 14.23
   longitude: 76.4
-note: "Ashoka's edicts at Brahmagiri nearby mark the southern edge of the Maurya Empire. Nolambavadi, whose seat Henjeru lay to the east, is represented here. From the 1560s to 1588 the Nayakas governed it as Vijayanagara's officers."
+note: "Ashoka's edicts at Brahmagiri nearby mark the southern edge of the Maurya Empire. Chandravalli, beside Chitradurga, has Satavahana and Chutu coins and Mayurasharma's Kadamba inscription. Nolambavadi, whose seat Henjeru lay to the east, is represented here. From the 1560s to 1588 the Nayakas governed it as Vijayanagara's officers."
 control:
 - start: -260
   end: -186
   polity: maurya_empire
+  importance: 2
+- start: -185
+  end: -121
+  ungoverned: "No government is known in the area between the Maurya withdrawal and the Satavahana advance into Karnataka."
+- start: -120
+  end: 224
+  polity: satavahana_empire
+  importance: 2
+- start: 225
+  end: 344
+  polity: chutu_dynasty
+  importance: 2
+- start: 345
+  end: 529
+  polity: kadamba_banavasi
+  importance: 2
+- start: 543
+  end: 734
+  polity: badami_chalukya_kingdom
   importance: 2
 - start: 735
   end: 967

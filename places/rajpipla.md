@@ -5,11 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Rajpipla
 point:
   latitude: 21.87
   longitude: 73.5
-note: "The Gohil rajas of Rajpipla governed from the fourteenth century until British protection in 1821 without a record."
+note: "Rajpipla is placed at Nandod, identified with the Gurjara capital Nandipuri."
 control:
 - start: 580
   end: 738
   polity: gurjara_lata
+  importance: 2
+- start: 753
+  end: 1339
+  follows: bharuch
+  importance: 2
+- start: 1340
+  end: 1820
+  polity: rajpipla_state
   importance: 2
 - start: 1821
   end: 1857

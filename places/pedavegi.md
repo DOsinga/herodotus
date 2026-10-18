@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Pedavegi
 point:
   latitude: 16.816
   longitude: 81.118
-note: "Pedavegi is the site of Vengi; the Vishnukundina seat at Denduluru lies close by. The Velanati Chodas of the twelfth century and the Musunuri Nayaks have no records."
+note: "Pedavegi is the site of Vengi; the Vishnukundina seat at Denduluru lies close by. The Reddis of Kondavidu held the land between the Krishna and the Godavari after the Delhi Sultanate. Golconda raided the delta under Sultan Quli but annexed it only in 1571."
 control:
 - start: 300
   end: 439
@@ -31,13 +31,21 @@ control:
   end: 1117
   polity: chola_empire
   importance: 2
-- start: 1163
+- start: 1118
+  end: 1206
+  polity: velanati_chodas
+  importance: 2
+- start: 1207
   end: 1322
   polity: kakatiya_kingdom
   importance: 2
 - start: 1323
   end: 1335
   polity: delhi_sultanate
+  importance: 2
+- start: 1336
+  end: 1394
+  polity: reddi_kingdom
   importance: 2
 - start: 1395
   end: 1447
@@ -46,6 +54,10 @@ control:
 - start: 1448
   end: 1540
   polity: gajapati_empire
+  importance: 2
+- start: 1541
+  end: 1567
+  polity: bhoi_kingdom
   importance: 2
 - start: 1571
   end: 1686

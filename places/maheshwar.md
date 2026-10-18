@@ -11,6 +11,18 @@ control:
   end: 624
   polity: kalachuri_mahishmati
   importance: 3
+- start: 625
+  end: 729
+  polity: badami_chalukya_kingdom
+  importance: 2
+- start: 730
+  end: 799
+  polity: gurjara_pratihara_empire
+  importance: 2
+- start: 800
+  end: 1304
+  polity: paramara_malwa
+  importance: 2
 - start: 1305
   end: 1400
   polity: delhi_sultanate

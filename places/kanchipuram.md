@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Kanchipuram
 point:
   latitude: 12.8342
   longitude: 79.7036
-note: "The Sambuvaraya chiefs held Kanchipuram between the Pandyas and Vijayanagara without a record."
 control:
 - start: 275
   end: 896
@@ -16,8 +15,12 @@ control:
   polity: chola_empire
   importance: 2
 - start: 1279
-  end: 1322
+  end: 1321
   polity: pandya_kingdom
+  importance: 2
+- start: 1322
+  end: 1360
+  polity: sambuvarayar
   importance: 2
 - start: 1361
   end: 1645

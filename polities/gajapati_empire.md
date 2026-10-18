@@ -23,4 +23,8 @@ point:
   longitude: 85.7881
 colors:
   1434: "#278667"
+transitions:
+- year: 1541
+  kind: succeeded_by
+  into: [bhoi_kingdom]
 ---

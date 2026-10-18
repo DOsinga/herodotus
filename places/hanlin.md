@@ -10,6 +10,9 @@ control:
   end: 832
   polity: halin_kingdom
   importance: 3
+- start: 833
+  end: 1049
+  ungoverned: "Halin declined after the Nanzhao raids of 832 and 835; occupation ends about 870, and no state is known to have held the Mu valley before Pagan's expansion."
 - start: 1050
   end: 1296
   polity: pagan_kingdom

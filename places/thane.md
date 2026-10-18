@@ -15,10 +15,10 @@ control:
   polity: seuna_kingdom
   importance: 2
 - start: 1313
-  end: 1346
+  end: 1406
   polity: delhi_sultanate
   importance: 2
-- start: 1430
+- start: 1407
   end: 1533
   polity: gujarat_sultanate
   importance: 2

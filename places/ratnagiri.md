@@ -15,6 +15,18 @@ control:
   end: 1188
   polity: western_chalukya_empire
   importance: 2
+- start: 1189
+  end: 1211
+  polity: shilahara_kolhapur
+  importance: 2
+- start: 1212
+  end: 1312
+  polity: seuna_kingdom
+  importance: 2
+- start: 1313
+  end: 1346
+  polity: delhi_sultanate
+  importance: 2
 - start: 1347
   end: 1489
   polity: bahmani_sultanate

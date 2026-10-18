@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Goa_Velha
 point:
   latitude: 15.444
   longitude: 73.881
-note: "The Kadamba port and capital of Gopakapattana. Who held it between the end of the Kadambas and the Vijayanagara conquest of 1378 is not clear."
+note: "The Kadamba port and capital of Gopakapattana. The Bahmanis held it from about 1350 until the Vijayanagara conquest, dated here to 1378."
 control:
 - start: 960
   end: 1053
@@ -19,6 +19,10 @@ control:
   end: 1344
   polity: kadamba_goa
   importance: 2
+- start: 1350
+  end: 1377
+  polity: bahmani_sultanate
+  importance: 1
 - start: 1378
   end: 1468
   polity: vijayanagara_empire

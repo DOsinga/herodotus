@@ -15,6 +15,14 @@ control:
   end: 1322
   polity: pandya_kingdom
   importance: 2
+- start: 1323
+  end: 1334
+  polity: delhi_sultanate
+  importance: 2
+- start: 1335
+  end: 1370
+  polity: madurai_sultanate
+  importance: 2
 - start: 1371
   end: 1564
   polity: vijayanagara_empire

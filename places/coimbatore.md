@@ -10,6 +10,18 @@ control:
   end: 1278
   polity: chola_empire
   importance: 2
+- start: 1279
+  end: 1322
+  polity: pandya_kingdom
+  importance: 2
+- start: 1323
+  end: 1334
+  polity: delhi_sultanate
+  importance: 2
+- start: 1335
+  end: 1377
+  polity: madurai_sultanate
+  importance: 2
 - start: 1378
   end: 1564
   polity: vijayanagara_empire

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Golconda
 point:
   latitude: 17.3833
   longitude: 78.4011
-note: "The Musunuri Nayaks held Golconda until they ceded it to the Bahmanis in 1364. Sultan Quli governed it as a Bahmani province until he took power in his own name in 1518."
+note: "Sultan Quli governed from Golconda as a Bahmani governor from about 1501 and took power in his own name in 1518; the town is given to his sultanate from 1501."
 control:
 - start: 1163
   end: 1322
@@ -15,11 +15,15 @@ control:
   end: 1335
   polity: delhi_sultanate
   importance: 2
+- start: 1336
+  end: 1363
+  polity: musunuri_nayakas
+  importance: 2
 - start: 1364
   end: 1489
   polity: bahmani_sultanate
   importance: 2
-- start: 1518
+- start: 1501
   end: 1590
   polity: golconda_sultanate
   importance: 4

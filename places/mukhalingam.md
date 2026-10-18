@@ -16,6 +16,10 @@ control:
   polity: gajapati_empire
   importance: 2
 - start: 1541
+  end: 1567
+  polity: bhoi_kingdom
+  importance: 2
+- start: 1568
   end: null
   follows: srikakulam
   importance: 1

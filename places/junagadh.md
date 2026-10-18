@@ -5,12 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Junagadh
 point:
   latitude: 21.522
   longitude: 70.457
-note: "Girnar, beside Junagadh, carries the inscriptions of Ashoka, Rudradaman and Skandagupta. The Babi nawabs of Junagadh governed from 1748 until British protection in 1807 without a record."
+note: "Girnar, beside Junagadh, carries the inscriptions of Ashoka, Rudradaman and Skandagupta. The Uparkot fort lay abandoned from about the sixth century until the Chudasamas reoccupied it."
 control:
 - start: -322
   end: -186
   polity: maurya_empire
   importance: 2
+- start: -185
+  end: 34
+  ungoverned: "No government is known in Saurashtra between the Maurya decline and the Western Satraps; Greek rule there, if any, was brief."
 - start: 35
   end: 414
   polity: western_satraps
@@ -23,6 +26,10 @@ control:
   end: 776
   polity: maitraka_valabhi
   importance: 2
+- start: 777
+  end: 874
+  polity: saindhava_kingdom
+  importance: 2
 - start: 875
   end: 1471
   polity: chudasama_saurashtra
@@ -32,9 +39,13 @@ control:
   polity: gujarat_sultanate
   importance: 3
 - start: 1573
-  end: 1747
+  end: 1729
   polity: mughal_empire
   importance: 2
+- start: 1730
+  end: 1806
+  polity: junagadh_state
+  importance: 3
 - start: 1807
   end: 1857
   polity: company_rule_india

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tissamaharama
 point:
   latitude: 6.28
   longitude: 81.28
+note: "Between Kotte and the British the inland Ruhuna is given to Kandy; this is an estimate."
 control:
 - start: -437
   end: 1016
@@ -29,6 +30,10 @@ control:
 - start: 1412
   end: 1596
   polity: kingdom_kotte
+  importance: 1
+- start: 1597
+  end: 1814
+  polity: kingdom_kandy
   importance: 1
 - start: 1815
   end: 1921
