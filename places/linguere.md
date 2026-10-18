@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Linguère
 point:
   latitude: 15.3944
   longitude: -15.1167
-note: "Stands for the Jolof heartland around the old capitals; the later Kingdom of Jolof has no record."
+note: "Stands for the Jolof heartland around the old capitals."
 control:
 - start: 1360
-  end: 1549
+  end: 1548
   polity: jolof_empire
+  importance: 3
+- start: 1549
+  end: 1889
+  polity: kingdom_jolof
   importance: 3
 - start: 1890
   end: 1939

@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Texcoco_de_Mora
 point:
   latitude: 19.52
   longitude: -98.88
-note: "Texcoco was one of the three cities of the Aztec alliance. Before the Tepanec conquest of 1418 the Acolhua kingdom has no record."
+note: "Texcoco was one of the three cities of the Aztec alliance. Before the Tepanec conquest of 1418 it was the capital of Acolhuacan, which moved here from Coatlinchan in the fourteenth century; 1300 is an estimate."
 control:
+- start: 1300
+  end: 1417
+  polity: acolhuacan
+  importance: 3
 - start: 1418
   end: 1427
   polity: tepanec_empire

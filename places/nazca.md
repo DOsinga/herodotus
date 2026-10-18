@@ -5,16 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Nazca
 point:
   latitude: -14.8289
   longitude: -74.9436
-note: "The spans before 1000 stand for La Tiza, east of the town."
+note: "The spans before 1000 stand for La Tiza, east of the town. Between Wari and the Inca the Nasca valleys are given to the Chincha Kingdom, the strongest power of the south coast; this is an estimate, since their own lords are not recorded."
 control:
 - start: 400
   end: 749
   polity: la_tiza_polity
   importance: 2
 - start: 750
-  end: 1000
+  end: 1099
   polity: wari_empire
   importance: 2
+- start: 1100
+  end: 1475
+  polity: chincha_kingdom
+  importance: 1
 - start: 1476
   end: 1532
   polity: inca_empire

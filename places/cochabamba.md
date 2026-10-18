@@ -5,12 +5,13 @@ wikipedia: https://en.wikipedia.org/wiki/Cochabamba
 point:
   latitude: -17.3883
   longitude: -66.1597
+note: "The valley was held in Spanish encomienda from 1539; the town was founded in 1571."
 control:
 - start: 1450
   end: 1532
   polity: inca_empire
   importance: 2
-- start: 1571
+- start: 1539
   end: 1715
   polity: spanish_monarchy
   importance: 2

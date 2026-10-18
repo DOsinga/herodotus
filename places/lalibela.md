@@ -5,17 +5,13 @@ wikipedia: https://en.wikipedia.org/wiki/Lalibela
 point:
   latitude: 12.0317
   longitude: 39.0411
-note: "Stands for the Zagwe capital Roha and nearby Adefa. The lords who governed Lasta during the Era of the Princes, from 1769 to 1854, have no record."
+note: "Stands for the Zagwe capital Roha and nearby Adefa. During the Era of the Princes, from 1769 to 1855, Lasta was held by its own lords; they are kept within the Ethiopian Empire, whose record runs through the era."
 control:
 - start: 1137
   end: 1269
   polity: zagwe_kingdom
   importance: 4
 - start: 1270
-  end: 1768
-  polity: ethiopian_empire
-  importance: 2
-- start: 1855
   end: 1935
   polity: ethiopian_empire
   importance: 2

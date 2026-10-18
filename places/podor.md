@@ -5,15 +5,19 @@ wikipedia: https://en.wikipedia.org/wiki/Podor
 point:
   latitude: 16.6167
   longitude: -15.0333
-note: "Stands for the Takrur heartland on the middle Senegal, whose early capital is not located. The Denianke kingdom of about 1490 to 1776 has no record."
+note: "Stands for the Takrur heartland on the middle Senegal, whose early capital is not located."
 control:
 - start: 500
   end: 1455
   polity: takrur_kingdom
   importance: 3
 - start: 1456
-  end: 1489
+  end: 1511
   polity: jolof_empire
+  importance: 2
+- start: 1512
+  end: 1775
+  polity: great_fulo
   importance: 2
 - start: 1776
   end: 1853

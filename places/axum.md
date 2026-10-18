@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Axum
 point:
   latitude: 14.1208
   longitude: 38.7278
-note: "Between Aksum's collapse and the Zagwe the town has no governing record. The lords who governed Tigray during the Era of the Princes, from 1769 to 1854, have no record."
+note: "During the Era of the Princes, from 1769 to 1855, Tigray was held by its own lords, such as Ras Mikael Sehul and Ras Wolde Selassie; they are kept within the Ethiopian Empire, whose record runs through the era."
 control:
 - start: 50
   end: 960
   polity: aksumite_kingdom
   importance: 4
+- start: 961
+  end: 1136
+  polity: kingdom_gudit
+  importance: 2
 - start: 1137
   end: 1269
   polity: zagwe_kingdom
@@ -24,10 +28,6 @@ control:
   polity: adal_sultanate
   importance: 3
 - start: 1542
-  end: 1768
-  polity: ethiopian_empire
-  importance: 3
-- start: 1855
   end: 1935
   polity: ethiopian_empire
   importance: 3

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Scarborough,_Trinidad_and_Tobago
 point:
   latitude: 11.1833
   longitude: -60.7375
-note: "Simplifies Tobago's many changes of hands. The Courland span stands for the colony on Great Courland Bay; the island was neutral and largely abandoned from 1678 to 1762."
+note: "Simplifies Tobago's many changes of hands. The Courland span stands for the colony on Great Courland Bay."
 control:
 - start: 1654
   end: 1658
@@ -15,6 +15,9 @@ control:
   end: 1677
   polity: dutch_republic
   importance: 2
+- start: 1678
+  end: 1762
+  ungoverned: "Left largely empty after the French destroyed the Dutch colony in 1677, and declared neutral in 1748, until Britain took it in 1763."
 - start: 1763
   end: 1780
   polity: kingdom_great_britain

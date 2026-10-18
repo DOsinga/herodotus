@@ -10,6 +10,9 @@ control:
   end: 1541
   polity: spanish_monarchy
   importance: 2
+- start: 1542
+  end: 1579
+  ungoverned: "Abandoned in 1541 under attack from the Querandí until Juan de Garay refounded it in 1580."
 - start: 1580
   end: 1715
   polity: spanish_monarchy

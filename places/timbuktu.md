@@ -5,11 +5,14 @@ wikipedia: https://en.wikipedia.org/wiki/Timbuktu
 point:
   latitude: 16.7758
   longitude: -3.0094
-note: "Tuareg held the town from 1433 to 1468 and again after 1864; neither has a record."
 control:
 - start: 1325
   end: 1432
   polity: mali_empire
+  importance: 3
+- start: 1433
+  end: 1467
+  polity: maghsharen
   importance: 3
 - start: 1468
   end: 1590
@@ -31,6 +34,9 @@ control:
   end: 1863
   polity: toucouleur_empire
   importance: 3
+- start: 1864
+  end: 1893
+  ungoverned: "After the Toucouleur were driven out, Tuareg, Kunta and Soninke competed for the town and none held it until the French arrived in 1894."
 - start: 1894
   end: 1939
   polity: french_third_republic

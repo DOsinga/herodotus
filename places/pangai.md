@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Pangai
 point:
   latitude: -19.8033
   longitude: -174.3489
-note: "Haʻapai and Vavaʻu had their own chiefs during the Tongan civil wars, until Tāufaʻāhau united Tonga in 1845."
 control:
 - start: 1200
   end: 1534
@@ -19,6 +18,14 @@ control:
   end: 1798
   polity: tui_kanokupolu
   importance: 2
+- start: 1799
+  end: 1807
+  polity: tui_vavau
+  importance: 2
+- start: 1808
+  end: 1844
+  polity: tui_haapai
+  importance: 3
 - start: 1845
   end: 1899
   polity: tonga

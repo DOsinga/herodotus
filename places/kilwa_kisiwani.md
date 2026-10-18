@@ -16,10 +16,10 @@ control:
   polity: kingdom_portugal
   importance: 2
 - start: 1512
-  end: 1513
+  end: 1783
   polity: kilwa_sultanate
   importance: 3
-- start: 1785
+- start: 1784
   end: 1855
   polity: omani_empire
   importance: 2

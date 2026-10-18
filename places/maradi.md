@@ -5,12 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Maradi,_Niger
 point:
   latitude: 13.4833
   longitude: 7.1
-note: "The Katsina rulers who held out at Maradi after 1807 have no record."
 control:
 - start: 1348
   end: 1806
   polity: katsina_kingdom
   importance: 2
+- start: 1807
+  end: 1898
+  polity: kingdom_maradi
+  importance: 3
 - start: 1899
   end: 1939
   polity: french_third_republic

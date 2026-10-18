@@ -5,12 +5,16 @@ wikipedia: https://en.wikipedia.org/wiki/Cabana,_Peru
 point:
   latitude: -8.3956
   longitude: -78.0164
-note: "The spans before 1000 stand for Pashash, on the hill above the town."
+note: "The spans before 1000 stand for Pashash, on the hill above the town. Its place in the Lordship of Huamachuco rests on the oracle Catequil, shared by the Conchucos and the Huamachuco."
 control:
 - start: 300
   end: 1000
   polity: pashash_polity
   importance: 2
+- start: 1001
+  end: 1459
+  polity: lordship_huamachuco
+  importance: 1
 - start: 1460
   end: 1532
   polity: inca_empire

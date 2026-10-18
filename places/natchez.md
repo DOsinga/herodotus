@@ -5,9 +5,10 @@ wikipedia: https://en.wikipedia.org/wiki/Natchez,_Mississippi
 point:
   latitude: 31.5544
   longitude: -91.3875
+note: "The French rebuilt Fort Rosalie after the Natchez revolt of 1729 and held it until 1763."
 control:
 - start: 1716
-  end: 1729
+  end: 1762
   polity: kingdom_france
   importance: 1
 - start: 1763

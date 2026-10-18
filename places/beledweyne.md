@@ -10,6 +10,10 @@ control:
   end: 1700
   polity: ajuran_sultanate
   importance: 2
+- start: 1701
+  end: 1907
+  polity: hawadle
+  importance: 2
 - start: 1908
   end: 1940
   polity: kingdom_italy

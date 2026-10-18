@@ -10,6 +10,10 @@ control:
   end: 1867
   polity: kaabu
   importance: 2
+- start: 1868
+  end: 1899
+  polity: fuladu
+  importance: 2
 - start: 1900
   end: 1909
   polity: kingdom_portugal

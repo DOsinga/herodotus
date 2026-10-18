@@ -5,8 +5,17 @@ wikipedia: https://en.wikipedia.org/wiki/Addis_Ababa
 point:
   latitude: 9.0358
   longitude: 38.7525
+note: "Before 1886 it stands for Finfinne, the Tulama country around the hot springs where Menelik founded the city."
 control:
-- start: 1886
+- start: 1598
+  end: 1880
+  polity: tulama_oromo
+  importance: 2
+- start: 1881
+  end: 1888
+  polity: kingdom_shewa
+  importance: 3
+- start: 1889
   end: 1935
   polity: ethiopian_empire
   importance: 4

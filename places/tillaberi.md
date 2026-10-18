@@ -10,6 +10,10 @@ control:
   end: 1590
   polity: songhai_empire
   importance: 2
+- start: 1591
+  end: 1898
+  polity: dendi_kingdom
+  importance: 1
 - start: 1899
   end: 1939
   polity: french_third_republic

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Debre_Birhan
 point:
   latitude: 9.6833
   longitude: 39.5333
-note: "Shewa lay outside the empire's control from the Oromo migrations of the sixteenth century until Tewodros took it in 1856; the Shewan kingdom of those years has no record."
+note: "Asfa Wossen of Shewa built a palace here in the late eighteenth century, and Sahle Selassie rebuilt the town after an Oromo raid. Menelik made it his capital under the treaty of 1878."
 control:
 - start: 1456
   end: 1528
@@ -15,7 +15,27 @@ control:
   end: 1542
   polity: adal_sultanate
   importance: 2
-- start: 1856
+- start: 1543
+  end: 1597
+  polity: ethiopian_empire
+  importance: 2
+- start: 1598
+  end: 1681
+  polity: tulama_oromo
+  importance: 1
+- start: 1682
+  end: 1854
+  polity: kingdom_shewa
+  importance: 2
+- start: 1855
+  end: 1864
+  polity: ethiopian_empire
+  importance: 2
+- start: 1865
+  end: 1888
+  polity: kingdom_shewa
+  importance: 3
+- start: 1889
   end: 1935
   polity: ethiopian_empire
   importance: 2

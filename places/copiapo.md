@@ -5,12 +5,17 @@ wikipedia: https://en.wikipedia.org/wiki/Copiapó
 point:
   latitude: -27.3664
   longitude: -70.3331
+note: "The valley was in Spanish hands from Valdivia's march of 1540; the town was founded in 1744."
 control:
 - start: 1475
   end: 1533
   polity: inca_empire
   importance: 2
-- start: 1744
+- start: 1540
+  end: 1715
+  polity: spanish_monarchy
+  importance: 2
+- start: 1716
   end: 1807
   polity: bourbon_spain
   importance: 2

@@ -11,6 +11,17 @@ control:
   end: 1670
   polity: mali_empire
   importance: 4
+- start: 1671
+  end: 1719
+  ungoverned: "Sacked by Bamana and Fula war bands and left in ruins until the mansas of Joma rebuilt it around 1720."
+- start: 1720
+  end: 1880
+  polity: kingdom_joma
+  importance: 2
+- start: 1881
+  end: 1890
+  polity: wassoulou_empire
+  importance: 1
 - start: 1891
   end: 1939
   polity: french_third_republic

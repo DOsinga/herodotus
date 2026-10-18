@@ -22,4 +22,8 @@ point:
   longitude: -15.238
 colors:
   1360: "#768627"
+transitions:
+- year: 1549
+  kind: succeeded_by
+  into: [kingdom_jolof]
 ---

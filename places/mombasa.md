@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Mombasa
 point:
   latitude: -4.05
   longitude: 39.6667
-note: "The Mazrui governors, who ruled Mombasa on their own account from 1746 to 1837, have no record."
 control:
 - start: 1300
   end: 1592
@@ -30,6 +29,10 @@ control:
 - start: 1729
   end: 1745
   polity: omani_empire
+  importance: 3
+- start: 1746
+  end: 1836
+  polity: mazrui_mombasa
   importance: 3
 - start: 1837
   end: 1855

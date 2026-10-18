@@ -25,6 +25,9 @@ colors:
   1647: "#51cdcd"
 note: "Gap for the Egyptian occupation of 1875 to 1885."
 transitions:
+- year: 1647
+  kind: broke_away_from
+  from: [imamate_aussa]
 - year: 1875
   kind: absorbed_into
   into: [egypt_muhammad_ali]
