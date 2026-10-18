@@ -21,7 +21,7 @@ point:
   longitude: 4.3608
 colors:
   1515: "#b25e34"
-note: "The start is given as about 1515. Sources end the kingdom in 1632 or 1638; the later date is used. After it ended the Kabyle tribes governed themselves until the French conquest of 1857, which no record covers."
+note: "The start is given as about 1515. Sources end the kingdom in 1632 or 1638; the later date is used. After it ended the Igawawen tribes of the Djurdjura governed themselves until the French conquest of 1857."
 transitions:
 - year: 1638
   kind: absorbed_into

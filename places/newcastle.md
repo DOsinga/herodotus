@@ -33,7 +33,8 @@ control:
   importance: 2
 - start: 410
   end: 546
-  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and Bernicia."
+  polity: sub_roman_britain
+  importance: 1
 - start: 547
   end: 603
   polity: bernicia

@@ -17,7 +17,8 @@ control:
   importance: 1
 - start: 1728
   end: 1913
-  ungoverned: "After Moulay Ismail's death the Middle Atlas tribes governed themselves outside the sultan's control until the French took Khénifra in 1914."
+  polity: zaian_confederation
+  importance: 1
 - start: 1914
   end: 1939
   polity: french_third_republic

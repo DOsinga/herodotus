@@ -32,7 +32,8 @@ control:
   importance: 2
 - start: 410
   end: 518
-  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and the West Saxon kingdom."
+  polity: sub_roman_britain
+  importance: 1
 - start: 519
   end: 645
   polity: kingdom_wessex

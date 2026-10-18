@@ -32,7 +32,8 @@ control:
   importance: 2
 - start: 410
   end: 454
-  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and the Kentish kingdom."
+  polity: sub_roman_britain
+  importance: 1
 - start: 455
   end: 685
   polity: kingdom_kent

@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Braga
 point:
   latitude: 41.55
   longitude: -8.426
+note: "Alfonso I of Asturias took Braga in 741, though Muslim raids continued until Alfonso III secured it in 868; the Asturian span over the depopulated frontier is an estimate."
 control:
 - start: -16
   end: 394
@@ -28,7 +29,8 @@ control:
   importance: 2
 - start: 740
   end: 867
-  ungoverned: "Left in the emptied Duero frontier after the Berber garrisons abandoned the northwest in the revolt of 740, until Alfonso III of Asturias resettled it in 868."
+  polity: kingdom_asturias
+  importance: 1
 - start: 868
   end: 909
   polity: kingdom_asturias

@@ -45,7 +45,8 @@ control:
   importance: 1
 - start: 740
   end: 776
-  ungoverned: "Arab rule west of Ifriqiya collapsed in the Berber Revolt of 740, and no state held the coast until the Rustamids."
+  polity: maghrawa
+  importance: 1
 - start: 777
   end: 908
   polity: rustamid_imamate

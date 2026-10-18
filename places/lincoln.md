@@ -33,7 +33,8 @@ control:
   importance: 2
 - start: 410
   end: 499
-  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and the kingdom of Lindsey."
+  polity: sub_roman_britain
+  importance: 1
 - start: 500
   end: 679
   polity: kingdom_lindsey

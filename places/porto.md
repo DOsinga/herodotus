@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Porto
 point:
   latitude: 41.15
   longitude: -8.6108
+note: "Alfonso I of Asturias took Porto in 741, though Muslim raids continued until Vímara Peres secured it in 868; the Asturian span over the depopulated frontier is an estimate."
 control:
 - start: -136
   end: -28
@@ -32,7 +33,8 @@ control:
   importance: 2
 - start: 740
   end: 867
-  ungoverned: "Left in the emptied Duero frontier after the Berber garrisons abandoned the northwest in the revolt of 740, until Vímara Peres took and resettled it for Asturias in 868."
+  polity: kingdom_asturias
+  importance: 1
 - start: 868
   end: 909
   polity: kingdom_asturias

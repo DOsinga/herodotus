@@ -33,7 +33,8 @@ control:
   importance: 3
 - start: 410
   end: 526
-  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and the East Saxon kingdom."
+  polity: sub_roman_britain
+  importance: 1
 - start: 527
   end: 824
   polity: kingdom_essex

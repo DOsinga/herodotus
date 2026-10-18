@@ -32,7 +32,8 @@ control:
   importance: 3
 - start: 410
   end: 449
-  ungoverned: "Sub-Roman: no government is recorded here between the end of Roman rule in 410 and Deira."
+  polity: sub_roman_britain
+  importance: 1
 - start: 450
   end: 603
   polity: deira
