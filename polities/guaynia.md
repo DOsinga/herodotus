@@ -13,13 +13,13 @@ description: >-
   in the gold fields. His brother and successor, also called Agüeybaná, led a rising in 1511 that
   the Spanish crushed, ending the independence of the island's chiefdoms.
 periods:
-- start: 1200
+- start: 1000
   end: 1511
 point:
   name: "Guayanilla"
   latitude: 18.019
   longitude: -66.79
-note: "1200 is an estimate, matching the Taíno chiefdoms of Hispaniola. Links the article on its ruler because no article covers the chiefdom. Ends with the defeat of the Taíno rising of 1511."
+note: "1000 continues from the Tibes chiefdom, whose centre was abandoned then; the chiefdoms of southern Puerto Rico before the contact period are not separately known, so this is an estimate. Links the article on its ruler because no article covers the chiefdom. Ends with the defeat of the Taíno rising of 1511."
 transitions:
 - year: 1511
   kind: absorbed_into

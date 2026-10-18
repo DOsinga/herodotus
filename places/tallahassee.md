@@ -12,8 +12,12 @@ control:
   polity: spanish_monarchy
   importance: 2
 - start: 1705
-  end: 1820
-  ungoverned: "Moore's raids of 1704 destroyed the Apalachee missions; the Creek and Seminole towns that later grew here had no state over them until Florida passed to the United States."
+  end: 1749
+  ungoverned: "Emptied by Moore's raids of 1704, which destroyed the Apalachee missions, until Creek settlers moved in."
+- start: 1750
+  end: 1817
+  polity: seminole
+  importance: 2
 - start: 1821
   end: 1860
   polity: united_states

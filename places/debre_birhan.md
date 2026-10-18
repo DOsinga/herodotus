@@ -21,7 +21,8 @@ control:
   importance: 2
 - start: 1598
   end: 1681
-  ungoverned: "Oromo migrants overran Shewa and the village lay in ruins, with no state governing it, until the princes of Shewa."
+  polity: tulama_oromo
+  importance: 1
 - start: 1682
   end: 1854
   polity: kingdom_shewa

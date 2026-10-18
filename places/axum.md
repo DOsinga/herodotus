@@ -13,7 +13,8 @@ control:
   importance: 4
 - start: 961
   end: 1136
-  ungoverned: "After Gudit's sack the old capital, which the Aksumite court had already left, has no known ruler until the Zagwe."
+  polity: kingdom_gudit
+  importance: 2
 - start: 1137
   end: 1269
   polity: zagwe_kingdom

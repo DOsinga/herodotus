@@ -12,9 +12,9 @@ control:
   polity: ixcol_kingdom
   importance: 3
 - start: 951
-  end: 1499
-  ungoverned: "Abandoned in the Classic Maya collapse; the upper Mopan valley had no known ruler until the Mopan Maya of the contact period."
-- start: 1500
+  end: 1199
+  ungoverned: "Abandoned in the Classic Maya collapse, as were the other centres of the upper Mopan valley."
+- start: 1200
   end: 1838
   follows: san_luis_peten
   importance: 2

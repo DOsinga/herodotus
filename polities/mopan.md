@@ -14,13 +14,13 @@ description: >-
   subjugation, and war and disease drove the survivors into Spanish reducciones in southeastern
   Petén.
 periods:
-- start: 1500
+- start: 1200
   end: 1697
 point:
   name: "San Luis"
   latitude: 16.1989
   longitude: -89.4403
-note: "1500 is an estimate; the Mopan appear in Spanish sources from the missionary visits of 1596, and their political makeup is obscure. Ends with the Spanish conquest of Petén in 1697. Links the conquest's article because no article covers the Mopan polity."
+note: "1200 estimates the Postclassic resettlement of the upper Mopan valley after the Classic collapse; the Mopan appear in Spanish sources from the missionary visits of 1596, and their political makeup is obscure. Ends with the Spanish conquest of Petén in 1697. Links the conquest's article because no article covers the Mopan polity."
 transitions:
 - year: 1697
   kind: absorbed_into

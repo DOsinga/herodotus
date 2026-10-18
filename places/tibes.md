@@ -12,9 +12,6 @@ control:
   polity: tibes_polity
   importance: 2
 - start: 1001
-  end: 1199
-  ungoverned: "Tibes was abandoned around 1000; no centre is known near the site until the Taíno chiefdom of Guaynía."
-- start: 1200
   end: 1510
   polity: guaynia
   importance: 2
