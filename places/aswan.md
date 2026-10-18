@@ -18,6 +18,10 @@ control:
   end: -2161
   polity: egypt_memphite_8th
   importance: 2
+- start: -2160
+  end: -2135
+  polity: egypt_herakleopolis
+  importance: 2
 - start: -2134
   end: -2041
   polity: egypt_theban_11th

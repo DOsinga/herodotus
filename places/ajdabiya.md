@@ -10,6 +10,9 @@ control:
   end: 1050
   polity: fatimid_caliphate
   importance: 2
+- start: 1051
+  end: 1834
+  ungoverned: "Sacked by the Banu Hilal and Banu Sulaym around 1051 and left in ruins until the Ottoman period."
 - start: 1835
   end: 1910
   polity: ottoman_empire

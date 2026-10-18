@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Mukalla
 point:
   latitude: 14.5333
   longitude: 49.1333
-note: "The Qu'aiti sultans, who took Mukalla in 1866 and governed it under British protection from 1888, have no record before the protectorate."
+note: "The Qu'aiti sultans took Mukalla in 1866 and governed it under British protection from 1888."
 control:
+- start: 1866
+  end: 1887
+  polity: quaiti_sultanate
+  importance: 2
 - start: 1888
   end: 1921
   polity: united_kingdom_gbi

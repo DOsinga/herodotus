@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Sanaa
 point:
   latitude: 15.348
   longitude: 44.206
-note: "The Zaydi imams, who often held Sanaa from the tenth century on, and the Hamdanid sultans who ruled it from 1099 to 1174, have no record."
+note: "Ali ibn Hatim of the Hamdanids held Sanaa again for long stretches after the Ayyubid conquest of 1174, until 1197."
 control:
 - start: -100
   end: 274
@@ -47,6 +47,10 @@ control:
   end: 996
   polity: yufirid_emirate
   importance: 3
+- start: 997
+  end: 1046
+  polity: zaydi_imamate
+  importance: 3
 - start: 1047
   end: 1066
   polity: sulayhid_state
@@ -55,7 +59,11 @@ control:
   end: 1098
   polity: sulayhid_state
   importance: 2
-- start: 1189
+- start: 1099
+  end: 1173
+  polity: hamdanid_sanaa
+  importance: 4
+- start: 1174
   end: 1228
   polity: ayyubid_egypt
   importance: 2
@@ -63,10 +71,18 @@ control:
   end: 1453
   polity: rasulid_sultanate
   importance: 2
+- start: 1454
+  end: 1503
+  polity: zaydi_imamate
+  importance: 3
 - start: 1504
   end: 1516
   polity: tahirid_yemen
   importance: 2
+- start: 1517
+  end: 1546
+  polity: zaydi_imamate
+  importance: 3
 - start: 1547
   end: 1596
   polity: ottoman_empire

@@ -5,11 +5,39 @@ wikipedia: https://en.wikipedia.org/wiki/Al-Karak
 point:
   latitude: 31.1833
   longitude: 35.7
-note: "Kerak was the seat of the Crusader lordship of Oultrejordain. The Ayyubid emirs of Kerak, who ruled from 1229 until Baybars took it in 1263, have no record."
+note: "Kerak was the seat of the Crusader lordship of Oultrejordain, founded with Montreal in 1115."
 control:
 - start: -1000
   end: -582
   polity: moab
+  importance: 2
+- start: -581
+  end: -540
+  polity: neo_babylonian_empire
+  importance: 2
+- start: -539
+  end: -333
+  polity: achaemenid_empire
+  importance: 2
+- start: -332
+  end: -320
+  polity: macedonia
+  importance: 2
+- start: -319
+  end: -316
+  polity: ptolemaic_kingdom
+  importance: 2
+- start: -315
+  end: -302
+  polity: antigonid_asia
+  importance: 2
+- start: -301
+  end: -201
+  polity: ptolemaic_kingdom
+  importance: 2
+- start: -200
+  end: -169
+  polity: seleucid_empire
   importance: 2
 - start: -168
   end: 105
@@ -59,6 +87,18 @@ control:
   end: 1072
   polity: fatimid_caliphate
   importance: 2
+- start: 1073
+  end: 1094
+  polity: seljuk_empire
+  importance: 2
+- start: 1104
+  end: 1114
+  polity: burid_emirate
+  importance: 2
+- start: 1115
+  end: 1141
+  polity: kingdom_jerusalem
+  importance: 2
 - start: 1142
   end: 1187
   polity: kingdom_jerusalem
@@ -67,6 +107,10 @@ control:
   end: 1228
   polity: ayyubid_egypt
   importance: 2
+- start: 1229
+  end: 1262
+  polity: ayyubid_kerak
+  importance: 3
 - start: 1263
   end: 1515
   polity: mamluk_sultanate

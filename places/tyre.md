@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tyre,_Lebanon
 point:
   latitude: 33.27
   longitude: 35.2
-note: "Tyre governed itself as a free city from 126 BCE until Pompey; that city has no record. The Crusaders held Tyre throughout Saladin's conquests."
+note: "The Crusaders held Tyre throughout Saladin's conquests. The qadis of the Banu Abi Aqil governed Tyre on their own from the 1060s until 1086."
 control:
 - start: -1200
   end: -333
@@ -31,6 +31,10 @@ control:
   end: -127
   polity: seleucid_empire
   importance: 2
+- start: -126
+  end: -65
+  polity: tyre
+  importance: 3
 - start: -64
   end: -28
   polity: roman_republic
@@ -78,6 +82,18 @@ control:
 - start: 970
   end: 1072
   polity: fatimid_caliphate
+  importance: 2
+- start: 1086
+  end: 1088
+  polity: seljuk_empire
+  importance: 2
+- start: 1089
+  end: 1121
+  polity: fatimid_caliphate
+  importance: 2
+- start: 1122
+  end: 1123
+  polity: burid_emirate
   importance: 2
 - start: 1124
   end: 1290

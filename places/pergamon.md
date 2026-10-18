@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Pergamon
 point:
   latitude: 39.1325
   longitude: 27.1842
-note: "The later spans stand for Bergama, the town on the site."
+note: "The Gongylid family held Pergamon and nearby towns as a Persian fief in the fifth century. The later spans stand for Bergama, the town on the site."
 control:
 - start: -560
   end: -547
@@ -16,10 +16,6 @@ control:
   polity: achaemenid_empire
   importance: 2
 - start: -493
-  end: -479
-  polity: achaemenid_empire
-  importance: 2
-- start: -386
   end: -335
   polity: achaemenid_empire
   importance: 2

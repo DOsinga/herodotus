@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Hormuz,_Iran
 point:
   latitude: 27.095
   longitude: 56.452
-note: "The island became the kingdom's seat about 1300. Portuguese protection from 1515 is not split out of the kingdom's record. Muscat leased Hormuz with Bandar Abbas from 1793 to 1868."
+note: "The island became the kingdom's seat about 1300. Portuguese protection from 1515 is not split out of the kingdom's record. Under the Zands the island was held by the Bani Ma'in sheikhs of Qeshm, who acknowledged Karim Khan. Muscat leased Hormuz with Bandar Abbas from 1793 to 1868."
 control:
 - start: 1300
   end: 1621
@@ -18,6 +18,10 @@ control:
 - start: 1736
   end: 1750
   polity: afsharid_iran
+  importance: 2
+- start: 1751
+  end: 1792
+  polity: zand_iran
   importance: 2
 - start: 1793
   end: 1855

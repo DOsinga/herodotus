@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Baalbek
 point:
   latitude: 34.0063
   longitude: 36.2073
-note: "The Ituraean princes of Chalcis, who held Baalbek before the Romans, have no record."
 control:
 - start: -332
   end: -320
@@ -26,6 +25,10 @@ control:
 - start: -200
   end: -86
   polity: seleucid_empire
+  importance: 2
+- start: -85
+  end: -65
+  polity: ituraea
   importance: 2
 - start: -64
   end: -28

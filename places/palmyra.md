@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Palmyra
 point:
   latitude: 34.5514
   longitude: 38.2681
-note: "Palmyra governed itself as an oasis city before Roman rule; that city has no record. Odaenathus ruled from 260 as a Roman client before Zenobia's breakaway."
+note: "Palmyra governed itself as an oasis city before Roman rule; that city has no record. Odaenathus ruled from 260 as a Roman client before Zenobia's breakaway. In the Middle Ages the oasis went with Damascus and, under the Ayyubids, with Homs."
 control:
 - start: 17
   end: 269
@@ -51,6 +51,14 @@ control:
   end: 934
   polity: abbasid_caliphate
   importance: 2
+- start: 935
+  end: 1178
+  follows: damascus
+  importance: 1
+- start: 1179
+  end: 1259
+  follows: homs
+  importance: 1
 - start: 1260
   end: 1515
   polity: mamluk_sultanate

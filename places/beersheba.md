@@ -5,12 +5,56 @@ wikipedia: https://en.wikipedia.org/wiki/Beersheba
 point:
   latitude: 31.2522
   longitude: 34.7867
-note: "Beersheba was deserted from the early Islamic period until the Ottomans founded a new town in 1900."
+note: "Between the fall of Judah and the Romans the spans follow Idumea, the Edomite south of Judea."
 control:
 - start: -930
   end: -588
   polity: kingdom_judah
   importance: 2
+- start: -587
+  end: -553
+  polity: edom
+  importance: 1
+- start: -552
+  end: -540
+  polity: neo_babylonian_empire
+  importance: 1
+- start: -539
+  end: -333
+  polity: achaemenid_empire
+  importance: 1
+- start: -332
+  end: -320
+  polity: macedonia
+  importance: 1
+- start: -319
+  end: -316
+  polity: ptolemaic_kingdom
+  importance: 1
+- start: -315
+  end: -302
+  polity: antigonid_asia
+  importance: 1
+- start: -301
+  end: -201
+  polity: ptolemaic_kingdom
+  importance: 1
+- start: -200
+  end: -113
+  polity: seleucid_empire
+  importance: 1
+- start: -112
+  end: -38
+  polity: hasmonean_kingdom
+  importance: 1
+- start: -37
+  end: -5
+  polity: herodian_kingdom
+  importance: 1
+- start: -4
+  end: 5
+  polity: ethnarchy_archelaus
+  importance: 1
 - start: 6
   end: 394
   polity: roman_empire
@@ -35,6 +79,9 @@ control:
   end: 749
   polity: umayyad_caliphate
   importance: 2
+- start: 750
+  end: 1899
+  ungoverned: "Deserted from the early Islamic period until the Ottomans founded a new town in 1900."
 - start: 1900
   end: 1916
   polity: ottoman_empire

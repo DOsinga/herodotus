@@ -5,11 +5,31 @@ wikipedia: https://en.wikipedia.org/wiki/Jaffa
 point:
   latitude: 32.0522
   longitude: 34.7531
-note: "Joppa was an Egyptian garrison town under the New Kingdom; the Persian king later granted it to Sidon. Tel Aviv was founded beside Jaffa in 1909, and the spans from 1948 stand for the joined city."
+note: "Joppa was an Egyptian garrison town under the New Kingdom. Sennacherib took it from Sidqa of Ashkelon in 701 BCE; the earlier span assumes it was Ashkelon's from the Philistine settlement. The Persian king later granted it to Sidon. Tel Aviv was founded beside Jaffa in 1909, and the spans from 1948 stand for the joined city."
 control:
 - start: -1457
   end: -1150
   polity: egypt_new_kingdom
+  importance: 2
+- start: -1149
+  end: -702
+  polity: ashkelon
+  importance: 2
+- start: -701
+  end: -610
+  polity: neo_assyrian_empire
+  importance: 2
+- start: -609
+  end: -605
+  polity: egypt_saite
+  importance: 2
+- start: -604
+  end: -540
+  polity: neo_babylonian_empire
+  importance: 2
+- start: -539
+  end: -501
+  polity: achaemenid_empire
   importance: 2
 - start: -500
   end: -346

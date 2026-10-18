@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Harran
 point:
   latitude: 36.8708
   longitude: 39.025
-note: "The last Assyrian king held out at Harran after the fall of Nineveh. Marwan II made it the Umayyad capital. The Mongols destroyed it in 1271."
+note: "The last Assyrian king held out at Harran after the fall of Nineveh. Marwan II made it the Umayyad capital. The Mongols destroyed it in 1271. Between the Middle Assyrian retreat and the Neo-Assyrian reconquest the spans are an estimate: Assyria still claimed the Balikh, and Bit Adini was the nearest Aramean kingdom."
 control:
 - start: -1550
   end: -1341
@@ -16,8 +16,12 @@ control:
   polity: hittite_empire
   importance: 2
 - start: -1260
-  end: -1056
+  end: -1001
   polity: middle_assyrian_empire
+  importance: 2
+- start: -1000
+  end: -901
+  polity: bit_adini
   importance: 2
 - start: -900
   end: -613
@@ -74,6 +78,22 @@ control:
 - start: 750
   end: 934
   polity: abbasid_caliphate
+  importance: 2
+- start: 935
+  end: 943
+  polity: hamdanid_mosul
+  importance: 2
+- start: 944
+  end: 989
+  polity: hamdanid_aleppo
+  importance: 2
+- start: 990
+  end: 1081
+  polity: numayrid_emirate
+  importance: 3
+- start: 1082
+  end: 1085
+  polity: uqaylid_mosul
   importance: 2
 - start: 1086
   end: 1101

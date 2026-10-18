@@ -15,6 +15,22 @@ control:
   end: -540
   polity: neo_babylonian_empire
   importance: 2
+- start: -539
+  end: -331
+  polity: achaemenid_empire
+  importance: 2
+- start: -330
+  end: -66
+  polity: lihyan
+  importance: 2
+- start: -65
+  end: 105
+  polity: nabataean_kingdom
+  importance: 2
+- start: 106
+  end: 629
+  polity: tayma_oasis
+  importance: 2
 - start: 630
   end: 631
   polity: medinan_state
@@ -30,6 +46,10 @@ control:
 - start: 750
   end: 934
   polity: abbasid_caliphate
+  importance: 2
+- start: 935
+  end: 1835
+  polity: tayma_oasis
   importance: 2
 - start: 1836
   end: 1920

@@ -5,17 +5,25 @@ wikipedia: https://en.wikipedia.org/wiki/Adana
 point:
   latitude: 37
   longitude: 35.3213
-note: "Adaniya was a city of Kizzuwatna, which has no record, before the Hittites absorbed it. The Iron Age kingdom of Que and the Persian-era kings of Cilicia have no records either."
+note: "Adaniya was a city of Kizzuwatna, which has no record, before the Hittites absorbed it."
 control:
 - start: -1400
   end: -1181
   polity: hittite_empire
   importance: 2
-- start: -738
+- start: -1180
+  end: -710
+  polity: hiyawa
+  importance: 3
+- start: -709
   end: -610
   polity: neo_assyrian_empire
   importance: 2
-- start: -545
+- start: -609
+  end: -401
+  polity: cilicia_kingdom
+  importance: 2
+- start: -400
   end: -334
   polity: achaemenid_empire
   importance: 2

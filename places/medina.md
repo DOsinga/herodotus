@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Medina
 point:
   latitude: 24.468
   longitude: 39.611
-note: "The Husaynid emirs of Medina, who governed it under Egyptian overlords from the tenth century to the Ottoman conquest, have no record. The Ottoman garrison held Medina until January 1919."
+note: "The Ottoman garrison held Medina until January 1919."
 control:
 - start: 622
   end: 631
@@ -35,6 +35,10 @@ control:
   end: 934
   polity: abbasid_caliphate
   importance: 2
+- start: 940
+  end: 1516
+  polity: sharifate_medina
+  importance: 3
 - start: 1517
   end: 1804
   polity: ottoman_empire

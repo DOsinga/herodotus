@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Limassol
 point:
   latitude: 34.6747
   longitude: 33.0442
-note: "The earlier spans stand for Amathus nearby. The city kingdoms of Cyprus before the Ptolemies, the Arab-Byzantine condominium from 688 to 965 and Isaac Komnenos's breakaway rule from 1184 to 1191 have no record."
+note: "The earlier spans stand for Amathus nearby. The city kingdoms of Cyprus before the Ptolemies and Isaac Komnenos's breakaway rule from 1184 to 1191 have no record."
 control:
 - start: -294
   end: -59
@@ -22,6 +22,10 @@ control:
 - start: 395
   end: 687
   polity: byzantine_empire
+  importance: 2
+- start: 688
+  end: 964
+  polity: cyprus_condominium
   importance: 2
 - start: 965
   end: 1183

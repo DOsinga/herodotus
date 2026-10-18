@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Nizwa
 point:
   latitude: 22.933
   longitude: 57.533
-note: "The Imamate of Oman, which governed the interior from Nizwa under the Treaty of Seeb from 1913 until 1955, has no record."
 control:
 - start: 696
   end: 748
@@ -24,9 +23,21 @@ control:
   polity: early_oman_imamate
   importance: 4
 - start: 894
-  end: 930
+  end: 896
   polity: abbasid_caliphate
   importance: 2
+- start: 897
+  end: 945
+  polity: third_imamate_oman
+  importance: 4
+- start: 967
+  end: 1015
+  polity: buyid_fars
+  importance: 2
+- start: 1016
+  end: 1153
+  polity: fourth_imamate_oman
+  importance: 4
 - start: 1154
   end: 1623
   polity: nabhani_oman
@@ -39,6 +50,10 @@ control:
   end: 1912
   polity: muscat_oman
   importance: 2
+- start: 1913
+  end: 1954
+  polity: imamate_oman
+  importance: 4
 - start: 1955
   end: 1969
   polity: muscat_oman

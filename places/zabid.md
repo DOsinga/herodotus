@@ -5,12 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Zabid
 point:
   latitude: 14.195
   longitude: 43.315
-note: "Founded by the Ziyadids in 819. The Najahid and Mahdid rulers who held Zabid between the Ziyadids and the Ayyubids have no record."
+note: "Founded by the Ziyadids in 819."
 control:
 - start: 819
   end: 1018
   polity: ziyadid_zabid
   importance: 4
+- start: 1022
+  end: 1158
+  polity: najahid_zabid
+  importance: 3
+- start: 1159
+  end: 1173
+  polity: mahdid_state
+  importance: 3
 - start: 1174
   end: 1228
   polity: ayyubid_egypt

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Edessa
 point:
   latitude: 37.1583
   longitude: 38.7917
-note: "The Numayrid emirs who held Edessa before the Byzantine conquest of 1031, and the Armenian lord Thoros who held it before Baldwin, have no record. Zengi took the city in 1144; the County of Edessa carried on at Turbessel until 1150."
+note: "The Armenian lord Thoros, who held Edessa before Baldwin, has no record. Zengi took the city in 1144; the County of Edessa carried on at Turbessel until 1150. In the fourteenth century a Mamluk garrison held the citadel of a nearly deserted town."
 control:
 - start: -303
   end: -133
@@ -52,8 +52,12 @@ control:
   polity: abbasid_caliphate
   importance: 2
 - start: 944
-  end: 977
+  end: 989
   polity: hamdanid_aleppo
+  importance: 2
+- start: 990
+  end: 1030
+  polity: numayrid_emirate
   importance: 2
 - start: 1031
   end: 1086
@@ -82,6 +86,10 @@ control:
 - start: 1260
   end: 1335
   polity: ilkhanate
+  importance: 2
+- start: 1336
+  end: 1399
+  polity: mamluk_sultanate
   importance: 2
 - start: 1400
   end: 1500

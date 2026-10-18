@@ -75,7 +75,11 @@ control:
   end: 1072
   polity: fatimid_caliphate
   importance: 2
-- start: 1109
+- start: 1073
+  end: 1101
+  polity: ammarid_tripoli
+  importance: 2
+- start: 1102
   end: 1187
   polity: county_tripoli
   importance: 2

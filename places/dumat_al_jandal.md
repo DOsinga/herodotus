@@ -23,6 +23,10 @@ control:
   end: 934
   polity: abbasid_caliphate
   importance: 2
+- start: 935
+  end: 1837
+  polity: al_jawf
+  importance: 2
 - start: 1838
   end: 1908
   polity: emirate_jabal_shammar

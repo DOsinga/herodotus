@@ -11,11 +11,19 @@ control:
   end: -1181
   polity: hittite_empire
   importance: 2
-- start: -738
+- start: -1180
+  end: -710
+  polity: hiyawa
+  importance: 2
+- start: -709
   end: -610
   polity: neo_assyrian_empire
   importance: 2
-- start: -545
+- start: -609
+  end: -401
+  polity: cilicia_kingdom
+  importance: 3
+- start: -400
   end: -334
   polity: achaemenid_empire
   importance: 2

@@ -11,6 +11,10 @@ control:
   end: 1137
   polity: sulayhid_state
   importance: 2
+- start: 1153
+  end: 1173
+  polity: zurayid_state
+  importance: 2
 - start: 1174
   end: 1228
   polity: ayyubid_egypt

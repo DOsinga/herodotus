@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Rhodes_(city)
 point:
   latitude: 36.4333
   longitude: 28.2167
-note: "The Gabalas lords of 1204–1249 have no record."
 control:
 - start: -408
   end: -165
@@ -23,6 +22,10 @@ control:
   end: 1203
   polity: byzantine_empire
   importance: 2
+- start: 1204
+  end: 1248
+  polity: gabalas_rhodes
+  importance: 3
 - start: 1250
   end: 1260
   polity: empire_nicaea

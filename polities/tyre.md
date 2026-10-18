@@ -10,21 +10,26 @@ description: >-
   maritime connections carried goods and cultural practices far beyond the Levant. Assyrian,
   Babylonian, and Persian supremacy imposed tribute and naval obligations without consistently
   removing local government. The island's position made it difficult to capture. Alexander the
-  Great built a causeway during his siege in 332 BCE, conquered the city, and ended its
-  independent royal government.
+  Great built a causeway during his siege in 332 BCE and ended its royal government. Tyre was
+  a free city again from 126 BCE until Pompey.
 wikipedia: https://en.wikipedia.org/wiki/Tyre,_Lebanon
 periods:
 - start: -1200
   end: -332
+- start: -126
+  end: -64
 point:
   name: "Tyre"
   latitude: 33.27
   longitude: 35.2
 colors:
   -1200: "#51cdb8"
-note: "Links the article on the city. 1200 BCE estimates the independent city kingdom. Under Assyrian, Babylonian and Persian overlords it paid tribute and sent its ships to their wars, but its own kings governed and could refuse a campaign, so like Crimea under the Ottomans it stays active. The judges who replaced its kings from 564 to 556 BCE were Tyrian. Alexander's siege ended it."
+note: "Links the article on the city. 1200 BCE estimates the independent city kingdom. Under Assyrian, Babylonian and Persian overlords it paid tribute and sent its ships to their wars, but its own kings governed and could refuse a campaign, so like Crimea under the Ottomans it stays active. The judges who replaced its kings from 564 to 556 BCE were Tyrian. Alexander's siege ended it. The free city of 126 to 64 BCE, with its own era and coinage, ended when Pompey organised Syria."
 transitions:
 - year: -332
   kind: absorbed_into
   into: [macedonia]
+- year: -64
+  kind: absorbed_into
+  into: [roman_republic]
 ---

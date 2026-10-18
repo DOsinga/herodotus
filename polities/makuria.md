@@ -1,7 +1,7 @@
 ---
 id: makuria
 description: >-
-  Makuria was a Nubian kingdom along the Nile in present Sudan, emerging around the fifth century with its capital at
+  Makuria was a Nubian kingdom along the Nile in present Sudan, growing out of the post-Meroitic chiefdoms of the Dongola reach after Kush fell, with its capital at
   Old Dongola. Its monarchy adopted Christianity in the sixth century and eventually incorporated neighbouring Nobatia. Churches, wall paintings and documents
   reveal a literate society connected with Egypt and the wider Christian world. Makurian forces repelled Arab invasions, and the Baqt
   agreement of 652 regulated peace and exchanges with Egypt for centuries. Farming along the river supported settlements and royal administration.
@@ -10,7 +10,7 @@ description: >-
 name: Makuria
 wikipedia: https://en.wikipedia.org/wiki/Makuria
 periods:
-- start: 450
+- start: 351
   end: 1365
 point:
   name: Old Dongola
@@ -20,5 +20,5 @@ colors:
   450: "#517acd"
   945: "#517acd"
   970: "#b851cd"
-note: "Start estimated (5th century). Mamluk interventions installed several kings from 1276 but did not govern the kingdom directly. Ends when Old Dongola was abandoned in 1365; the rump kingdom of Dotawo, which lasted into the late 15th century, is not shown."
+note: "The start follows the fall of Kush around 350; the kingdom itself is attested from the fifth or sixth century, and the earlier years stand for the post-Meroitic chiefs of the Dongola reach. Mamluk interventions installed several kings from 1276 but did not govern the kingdom directly. Ends when Old Dongola was abandoned in 1365; the rump kingdom of Dotawo, which lasted into the late 15th century, is not shown."
 ---

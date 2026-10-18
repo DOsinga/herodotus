@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Aden
 point:
   latitude: 12.8
   longitude: 45.0333
-note: "The Zurayids, who ruled Aden on their own from 1138 to 1174, and the sultans of Lahej, who held it from 1728 until the British took it in 1839, have no record. The Southern Transitional Council has controlled Aden since 2019."
+note: "The Southern Transitional Council has controlled Aden since 2019."
 control:
 - start: 275
   end: 524
@@ -43,10 +43,18 @@ control:
   end: 1018
   polity: ziyadid_zabid
   importance: 2
+- start: 1019
+  end: 1082
+  polity: manid_aden
+  importance: 3
 - start: 1083
   end: 1137
   polity: sulayhid_state
   importance: 2
+- start: 1138
+  end: 1173
+  polity: zurayid_state
+  importance: 3
 - start: 1174
   end: 1228
   polity: ayyubid_egypt
@@ -66,6 +74,10 @@ control:
 - start: 1645
   end: 1727
   polity: qasimid_state
+  importance: 2
+- start: 1728
+  end: 1838
+  polity: sultanate_lahej
   importance: 2
 - start: 1839
   end: 1921

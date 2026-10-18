@@ -15,6 +15,14 @@ control:
   end: 1261
   polity: sultanate_rum
   importance: 2
+- start: 1262
+  end: 1299
+  polity: ilkhanate
+  importance: 2
+- start: 1300
+  end: 1320
+  polity: hamid_beylik
+  importance: 2
 - start: 1321
   end: 1389
   polity: teke_beylik

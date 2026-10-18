@@ -11,6 +11,34 @@ control:
   end: -610
   polity: neo_assyrian_empire
   importance: 2
+- start: -605
+  end: -540
+  polity: neo_babylonian_empire
+  importance: 2
+- start: -539
+  end: -333
+  polity: achaemenid_empire
+  importance: 2
+- start: -332
+  end: -321
+  polity: macedonia
+  importance: 2
+- start: -315
+  end: -302
+  polity: antigonid_asia
+  importance: 2
+- start: -301
+  end: -164
+  polity: seleucid_empire
+  importance: 2
+- start: -163
+  end: 17
+  polity: commagene
+  importance: 2
+- start: 18
+  end: 37
+  polity: roman_empire
+  importance: 2
 - start: 38
   end: 72
   polity: commagene

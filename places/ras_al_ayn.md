@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ras_al-Ayn
 point:
   latitude: 36.8503
   longitude: 40.0706
-note: "The Bronze Age spans stand for Washukanni, the Mitanni capital, probably at Tell Fekheriye beside the town. Turkish forces have held the town since 2019."
+note: "The Bronze Age spans stand for Washukanni, the Mitanni capital, probably at Tell Fekheriye beside the town, and the Iron Age ones for Guzana at Tell Halaf nearby. Turkish forces have held the town since 2019."
 control:
 - start: -1550
   end: -1341
@@ -19,9 +19,29 @@ control:
   end: -1056
   polity: middle_assyrian_empire
   importance: 2
+- start: -1050
+  end: -895
+  polity: bit_bahiani
+  importance: 3
 - start: -894
   end: -610
   polity: neo_assyrian_empire
+  importance: 2
+- start: -609
+  end: -540
+  polity: neo_babylonian_empire
+  importance: 2
+- start: -539
+  end: -331
+  polity: achaemenid_empire
+  importance: 2
+- start: -311
+  end: -133
+  polity: seleucid_empire
+  importance: 2
+- start: -132
+  end: 164
+  polity: osroene
   importance: 2
 - start: 165
   end: 394
@@ -58,6 +78,10 @@ control:
 - start: 1118
   end: 1259
   polity: artuqid_mardin
+  importance: 2
+- start: 1260
+  end: 1515
+  follows: mardin
   importance: 2
 - start: 1516
   end: 1917

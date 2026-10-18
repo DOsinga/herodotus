@@ -11,6 +11,10 @@ control:
   end: 350
   polity: kingdom_kush
   importance: 2
+- start: 351
+  end: 399
+  polity: nobatia
+  importance: 2
 - start: 400
   end: 650
   polity: nobatia
@@ -18,6 +22,10 @@ control:
 - start: 651
   end: 1365
   polity: makuria
+  importance: 2
+- start: 1366
+  end: 1559
+  polity: dotawo
   importance: 2
 - start: 1560
   end: 1820

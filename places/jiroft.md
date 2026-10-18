@@ -26,6 +26,10 @@ control:
   end: 911
   polity: saffarid_emirate
   importance: 2
+- start: 912
+  end: 967
+  polity: kufichis
+  importance: 2
 - start: 968
   end: 1040
   polity: buyid_fars

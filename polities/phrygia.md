@@ -8,18 +8,22 @@ description: >-
   buildings, burial mounds, inscriptions, and finely made wooden objects reveal a court and
   distinctive material culture. Phrygians spoke an Indo-European language and worshipped the mother
   goddess later known as Cybele. Stories of Midas's golden touch belong to legend rather than
-  political history. Cimmerian attacks brought the independent kingdom to an end around 675 BCE,
-  though Phrygian language and culture continued under later Anatolian empires.
+  political history. Cimmerian raids weakened the kingdom in the seventh century, and Lydian
+  expansion to the Halys ended it around 590 BCE, though Phrygian language and culture lived on.
 name: "Phrygia"
 wikipedia: https://en.wikipedia.org/wiki/Phrygia
 periods:
 - start: -1200
-  end: -675
+  end: -591
 point:
   name: "Gordion"
   latitude: 39.65
   longitude: 31.99
 colors:
   -1200: "#864727"
-note: "The kingdom is known from the 8th century BCE, under Midas; the Cimmerian invasion ended it."
+note: "The kingdom is known from the 8th century BCE, under Midas. Radiocarbon dates moved the burning of Gordion once blamed on the Cimmerians to about 800 BCE, and the citadel was rebuilt and kept its kings after the Cimmerian raids; 591 BCE estimates the Lydian advance to the Halys, settled by the treaty of 585."
+transitions:
+- year: -591
+  kind: absorbed_into
+  into: [lydia]
 ---

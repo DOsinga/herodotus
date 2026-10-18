@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Rustaq
 point:
   latitude: 23.3908
   longitude: 57.4244
-note: "The Imamate of Oman, which governed the interior under the Treaty of Seeb from 1913 to 1955, has no record."
 control:
 - start: 1154
   end: 1623
@@ -22,6 +21,10 @@ control:
 - start: 1856
   end: 1912
   polity: muscat_oman
+  importance: 2
+- start: 1913
+  end: 1955
+  polity: imamate_oman
   importance: 2
 - start: 1956
   end: 1969

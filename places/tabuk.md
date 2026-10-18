@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tabuk,_Saudi_Arabia
 point:
   latitude: 28.3972
   longitude: 36.5789
+note: "Between the Abbasids and the Ottomans the spans are an estimate: Tabuk was a station on the Syrian pilgrim road, which the rulers of Egypt and Syria policed, though Bedouin held the country around it."
 control:
 - start: 630
   end: 631
@@ -21,6 +22,22 @@ control:
 - start: 750
   end: 934
   polity: abbasid_caliphate
+  importance: 1
+- start: 935
+  end: 969
+  polity: ikhshidid_emirate
+  importance: 1
+- start: 970
+  end: 1170
+  polity: fatimid_caliphate
+  importance: 1
+- start: 1171
+  end: 1249
+  polity: ayyubid_egypt
+  importance: 1
+- start: 1250
+  end: 1516
+  polity: mamluk_sultanate
   importance: 1
 - start: 1517
   end: 1917

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Jerash
 point:
   latitude: 32.2806
   longitude: 35.8972
-note: "Gerasa declined after the earthquake of 749 and was resettled by Circassians in 1878."
+note: "Gerasa declined after the earthquake of 749 into a village that went with Damascus, and was resettled by Circassians in 1878."
 control:
 - start: -332
   end: -320
@@ -75,6 +75,13 @@ control:
   end: 969
   polity: ikhshidid_emirate
   importance: 1
+- start: 970
+  end: 1515
+  follows: damascus
+  importance: 1
+- start: 1516
+  end: 1877
+  ungoverned: "Deserted under the Ottomans until Circassian settlers came in 1878."
 - start: 1878
   end: 1917
   polity: ottoman_empire

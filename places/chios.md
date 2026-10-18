@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Chios_(town)
 point:
   latitude: 38.3725
   longitude: 26.1375
-note: "The Zaccaria lordship (1304–1329) has no record. The Genoese Maona company governed Chios from 1346 to 1566; it is shown under Genoa in the years the republic governed itself."
+note: "The Zaccaria lordship (1304–1329) has no record."
 control:
 - start: -133
   end: -28
@@ -36,32 +36,8 @@ control:
   polity: byzantine_empire
   importance: 1
 - start: 1346
-  end: 1353
-  polity: republic_genoa
-  importance: 2
-- start: 1356
-  end: 1396
-  polity: republic_genoa
-  importance: 2
-- start: 1409
-  end: 1421
-  polity: republic_genoa
-  importance: 2
-- start: 1435
-  end: 1458
-  polity: republic_genoa
-  importance: 2
-- start: 1461
-  end: 1464
-  polity: republic_genoa
-  importance: 2
-- start: 1478
-  end: 1488
-  polity: republic_genoa
-  importance: 2
-- start: 1528
   end: 1565
-  polity: republic_genoa
+  polity: maona_chios
   importance: 2
 - start: 1566
   end: 1911

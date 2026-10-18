@@ -5,8 +5,12 @@ wikipedia: https://en.wikipedia.org/wiki/Jerusalem
 point:
   latitude: 31.78
   longitude: 35.23
-note: "The Bronze Age city kingdom and the united monarchy before 930 BCE have no record. East Jerusalem was held by Jordan from 1948 to 1967."
+note: "The Bronze Age city kingdom has no record. East Jerusalem was held by Jordan from 1948 to 1967."
 control:
+- start: -1000
+  end: -931
+  polity: united_monarchy
+  importance: 4
 - start: -930
   end: -587
   polity: kingdom_judah

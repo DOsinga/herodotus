@@ -23,6 +23,10 @@ control:
   end: 1261
   polity: sultanate_rum
   importance: 3
+- start: 1262
+  end: 1292
+  polity: ilkhanate
+  importance: 2
 - start: 1293
   end: 1470
   polity: karamanids

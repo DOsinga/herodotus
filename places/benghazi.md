@@ -51,6 +51,10 @@ control:
   end: 1050
   polity: fatimid_caliphate
   importance: 2
+- start: 1051
+  end: 1639
+  polity: barqa_bedouin
+  importance: 2
 - start: 1640
   end: 1710
   polity: ottoman_empire

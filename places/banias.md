@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Banias
 point:
   latitude: 33.25
   longitude: 35.69
-note: "The Ituraean princes who held Paneas before Herod have no record."
 control:
 - start: -332
   end: -320
@@ -26,6 +25,10 @@ control:
 - start: -200
   end: -86
   polity: seleucid_empire
+  importance: 2
+- start: -85
+  end: -21
+  polity: ituraea
   importance: 2
 - start: -20
   end: -5

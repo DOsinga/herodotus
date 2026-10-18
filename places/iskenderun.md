@@ -51,6 +51,18 @@ control:
   end: 877
   polity: abbasid_caliphate
   importance: 2
+- start: 878
+  end: 904
+  polity: tulunid_emirate
+  importance: 2
+- start: 905
+  end: 943
+  polity: abbasid_caliphate
+  importance: 2
+- start: 944
+  end: 968
+  polity: hamdanid_aleppo
+  importance: 2
 - start: 969
   end: 1083
   polity: byzantine_empire

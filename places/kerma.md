@@ -14,6 +14,10 @@ control:
   end: -1070
   polity: egypt_new_kingdom
   importance: 2
+- start: -1069
+  end: -781
+  polity: kurru_chiefdom
+  importance: 2
 - start: -780
   end: 350
   polity: kingdom_kush

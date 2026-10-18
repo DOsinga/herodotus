@@ -79,10 +79,14 @@ control:
   polity: ikhshidid_emirate
   importance: 2
 - start: 970
-  end: 1072
+  end: 1064
   polity: fatimid_caliphate
   importance: 2
-- start: 1109
+- start: 1065
+  end: 1103
+  polity: ammarid_tripoli
+  importance: 2
+- start: 1104
   end: 1187
   polity: county_tripoli
   importance: 2

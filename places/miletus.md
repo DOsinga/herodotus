@@ -5,11 +5,23 @@ wikipedia: https://en.wikipedia.org/wiki/Miletus
 point:
   latitude: 37.5303
   longitude: 27.2783
-note: "The Greek city before the Persian conquest, during the Delian League and as a free city has no record. The later spans stand for the village of Balat on the site."
+note: "The Persians sacked Miletus in 494 BCE; it was resettled after Mycale. The later spans stand for the village of Balat on the site."
 control:
+- start: -1050
+  end: -547
+  polity: miletus_city
+  importance: 3
 - start: -546
   end: -500
   polity: achaemenid_empire
+  importance: 3
+- start: -499
+  end: -494
+  polity: miletus_city
+  importance: 3
+- start: -479
+  end: -387
+  polity: miletus_city
   importance: 3
 - start: -386
   end: -335

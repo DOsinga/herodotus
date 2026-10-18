@@ -19,6 +19,10 @@ control:
   end: 252
   polity: kingdom_armenia
   importance: 2
+- start: 253
+  end: 297
+  polity: sasanian_empire
+  importance: 2
 - start: 298
   end: 394
   polity: roman_empire

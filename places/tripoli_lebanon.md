@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Tripoli,_Lebanon
 point:
   latitude: 34.4367
   longitude: 35.8497
-note: "The Banu Ammar, who ruled Tripoli as an independent emirate from about 1070 until the Crusader conquest of 1109, have no record."
 control:
 - start: -332
   end: -320
@@ -76,9 +75,13 @@ control:
   polity: ikhshidid_emirate
   importance: 2
 - start: 970
-  end: 1069
+  end: 1064
   polity: fatimid_caliphate
   importance: 2
+- start: 1065
+  end: 1108
+  polity: ammarid_tripoli
+  importance: 3
 - start: 1109
   end: 1288
   polity: county_tripoli

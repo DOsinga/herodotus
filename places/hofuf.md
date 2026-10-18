@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Hofuf
 point:
   latitude: 25.3833
   longitude: 49.5833
-note: "The spans stand for the oasis of al-Hasa, whose earlier capitals at al-Ahsa and al-Mubarraz lie beside Hofuf. The Usfurids, who ruled from 1253 until the Jabrids, have no record; nor have the Muntafiq between the Jabrids and the Ottomans. The Banu Khalid governed again for Egypt from 1818 to 1830."
+note: "The spans stand for the oasis of al-Hasa, whose earlier capitals at al-Ahsa and al-Mubarraz lie beside Hofuf. The Muntafiq chiefs of Basra held al-Hasa between the Jabrids and the Ottoman garrison of 1552, so those years follow Basra. The Banu Khalid governed again for Egypt from 1818 to 1830."
 control:
 - start: 629
   end: 631
@@ -39,9 +39,21 @@ control:
   end: 1238
   polity: uyunid_emirate
   importance: 4
+- start: 1253
+  end: 1329
+  polity: usfurid_emirate
+  importance: 3
+- start: 1330
+  end: 1416
+  polity: jarwanid_emirate
+  importance: 2
 - start: 1417
   end: 1523
   polity: jabrid_sultanate
+  importance: 2
+- start: 1534
+  end: 1549
+  follows: basra
   importance: 2
 - start: 1550
   end: 1669

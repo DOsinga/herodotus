@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Konya
 point:
   latitude: 37.8744
   longitude: 32.4931
-note: "Iconium was in the kingdom of Galatia under Amyntas before it became Roman. The Karamanids held Konya from about 1314."
+note: "Rome gave Lycaonia to Cappadocia about 129 BCE, and Pompey attached Iconium to the province of Cilicia; it was in the kingdom of Galatia under Amyntas before it became a Roman province. The Karamanids held Konya from about 1314."
 control:
 - start: -546
   end: -335
@@ -26,6 +26,22 @@ control:
 - start: -189
   end: -134
   polity: pergamon
+  importance: 2
+- start: -129
+  end: -90
+  polity: cappadocia
+  importance: 2
+- start: -89
+  end: -85
+  polity: kingdom_pontus
+  importance: 2
+- start: -84
+  end: -65
+  polity: cappadocia
+  importance: 2
+- start: -64
+  end: -37
+  polity: roman_republic
   importance: 2
 - start: -36
   end: -26

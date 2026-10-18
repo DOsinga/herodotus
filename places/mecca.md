@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Mecca
 point:
   latitude: 21.423
   longitude: 39.826
-note: "The Ikhshidid and Fatimid rulers of Egypt were acknowledged in Mecca before the sharifs took power in 967; that period has no governing record."
+note: "The Ikhshidids of Egypt held the Hejaz from 935 until the sharifs took power in 967."
 control:
 - start: 450
   end: 629
@@ -35,6 +35,10 @@ control:
   end: 934
   polity: abbasid_caliphate
   importance: 3
+- start: 935
+  end: 966
+  polity: ikhshidid_emirate
+  importance: 2
 - start: 967
   end: 1915
   polity: sharifate_mecca

@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Napata
 point:
   latitude: 18.53
   longitude: 31.84
-note: "The later spans stand for Karima and Merowe, beside the site at Jebel Barkal."
+note: "The later spans stand for Karima and Merowe, beside the site at Jebel Barkal. Between Makuria and the Funj the town is given to Dotawo as an estimate."
 control:
 - start: -1450
   end: -1070
   polity: egypt_new_kingdom
+  importance: 2
+- start: -1069
+  end: -781
+  polity: kurru_chiefdom
   importance: 2
 - start: -780
   end: -591
@@ -19,9 +23,13 @@ control:
   end: 350
   polity: kingdom_kush
   importance: 2
-- start: 450
+- start: 351
   end: 1365
   polity: makuria
+  importance: 1
+- start: 1366
+  end: 1503
+  polity: dotawo
   importance: 1
 - start: 1504
   end: 1820

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ephesus
 point:
   latitude: 37.94
   longitude: 27.34
-note: "Apasa, the Arzawan capital, is thought to be Ephesus. The Greek city between the Bronze Age and the Lydian conquest has no record, nor have the years of the Ionian revolt and the Delian League. The later spans stand for Ayasoluk, now Selçuk."
+note: "Apasa, the Arzawan capital, is thought to be Ephesus. The span between the Hittite collapse and the Ionian settlement is an estimate, giving the site to its Maeonian neighbours at Sardis. The later spans stand for Ayasoluk, now Selçuk."
 control:
 - start: -1650
   end: -1321
@@ -15,6 +15,14 @@ control:
   end: -1185
   polity: hittite_empire
   importance: 2
+- start: -1184
+  end: -1051
+  polity: lydia
+  importance: 2
+- start: -1050
+  end: -561
+  polity: ephesus_city
+  importance: 3
 - start: -560
   end: -547
   polity: lydia
@@ -26,6 +34,10 @@ control:
 - start: -493
   end: -479
   polity: achaemenid_empire
+  importance: 3
+- start: -478
+  end: -387
+  polity: ephesus_city
   importance: 3
 - start: -386
   end: -335
