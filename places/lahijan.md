@@ -10,6 +10,10 @@ control:
   end: 1334
   polity: ilkhanate
   importance: 2
+- start: 1335
+  end: 1369
+  polity: lahijan_principality
+  importance: 3
 - start: 1370
   end: 1591
   polity: kar_kiya_gilan
@@ -27,8 +31,20 @@ control:
   polity: safavid_iran
   importance: 2
 - start: 1736
-  end: 1749
+  end: 1748
   polity: afsharid_iran
+  importance: 2
+- start: 1749
+  end: 1759
+  polity: gilan_hedayat_allah
+  importance: 2
+- start: 1760
+  end: 1766
+  polity: zand_iran
+  importance: 2
+- start: 1767
+  end: 1786
+  polity: gilan_hedayat_allah
   importance: 2
 - start: 1789
   end: 1919

@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Rostov_Veliky
 point:
   latitude: 57.1833
   longitude: 39.4167
-note: "Gap for the principality of Rostov, which split from Vladimir-Suzdal in 1207 and has no record, until Moscow bought it in 1474."
 control:
 - start: 882
   end: 1131
@@ -14,6 +13,10 @@ control:
 - start: 1132
   end: 1206
   polity: vladimir_suzdal
+  importance: 3
+- start: 1207
+  end: 1473
+  polity: principality_rostov
   importance: 3
 - start: 1474
   end: 1546

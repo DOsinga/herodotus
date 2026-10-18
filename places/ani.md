@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Ani
 point:
   latitude: 40.507
   longitude: 43.572
-note: "The Shaddadid emirs of Ani, who ruled from 1072 to 1199, have no record. The city declined after the Mongol period and was later abandoned."
+note: "The city declined after the Mongol period and was later abandoned."
 control:
 - start: 885
   end: 960
@@ -23,6 +23,26 @@ control:
   end: 1071
   polity: seljuk_empire
   importance: 2
+- start: 1072
+  end: 1123
+  polity: shaddadid_ani
+  importance: 3
+- start: 1124
+  end: 1125
+  polity: kingdom_georgia
+  importance: 2
+- start: 1126
+  end: 1160
+  polity: shaddadid_ani
+  importance: 3
+- start: 1161
+  end: 1164
+  polity: kingdom_georgia
+  importance: 2
+- start: 1165
+  end: 1198
+  polity: shaddadid_ani
+  importance: 3
 - start: 1199
   end: 1235
   polity: kingdom_georgia

@@ -15,6 +15,30 @@ control:
   end: 91
   polity: northern_xiongnu
   importance: 2
+- start: 92
+  end: 155
+  polity: xianbei_tribes
+  importance: 2
+- start: 156
+  end: 234
+  polity: xianbei_state
+  importance: 2
+- start: 235
+  end: 401
+  polity: xianbei_tribes
+  importance: 2
+- start: 402
+  end: 551
+  polity: rouran_khaganate
+  importance: 2
+- start: 552
+  end: 602
+  polity: first_turkic_khaganate
+  importance: 2
+- start: 603
+  end: 627
+  polity: eastern_turkic_khaganate
+  importance: 2
 - start: 628
   end: 645
   polity: xueyantuo_khaganate

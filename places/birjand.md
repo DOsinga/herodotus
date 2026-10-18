@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Birjand
 point:
   latitude: 32.8781
   longitude: 59.2161
+note: "Quhistan was held by local lords under Kartid overlordship after the Ilkhanate; the Kartid span is an estimate."
 control:
 - start: 1050
   end: 1090
@@ -21,6 +22,10 @@ control:
 - start: 1260
   end: 1334
   polity: ilkhanate
+  importance: 2
+- start: 1335
+  end: 1380
+  polity: kartid_state
   importance: 2
 - start: 1381
   end: 1506

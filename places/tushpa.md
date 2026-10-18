@@ -31,6 +31,10 @@ control:
   end: 252
   polity: kingdom_armenia
   importance: 2
+- start: 253
+  end: 286
+  polity: sasanian_empire
+  importance: 2
 - start: 287
   end: 428
   polity: kingdom_armenia
@@ -86,6 +90,18 @@ control:
 - start: 1260
   end: 1335
   polity: ilkhanate
+  importance: 2
+- start: 1336
+  end: 1337
+  polity: jalayirid_sultanate
+  importance: 2
+- start: 1338
+  end: 1356
+  polity: chobanid_state
+  importance: 2
+- start: 1357
+  end: 1374
+  polity: jalayirid_sultanate
   importance: 2
 - start: 1375
   end: 1467

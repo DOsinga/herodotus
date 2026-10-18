@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Barda,_Azerbaijan
 point:
   latitude: 40.375
   longitude: 47.126
+note: "Barda lay in the lowlands of the Karabakh Khanate."
 control:
 - start: -100
   end: 461
@@ -113,6 +114,10 @@ control:
 - start: 1736
   end: 1746
   polity: afsharid_iran
+  importance: 1
+- start: 1748
+  end: 1803
+  polity: karabakh_khanate
   importance: 1
 - start: 1804
   end: 1916

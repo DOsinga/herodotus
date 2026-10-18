@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Merv
 point:
   latitude: 37.6628
   longitude: 62.1925
-note: "The Oghuz held Merv from 1153 to 1157. Turkmen tribes governed the oasis from the 1850s until Russia took it in 1884; modern Mary grew up nearby."
+note: "The Oghuz held Merv from 1153 to 1157. Bukhara took the oasis in 1788. Turkmen tribes governed the oasis from the 1850s until Russia took it in 1884; modern Mary grew up nearby."
 control:
 - start: -545
   end: -331
@@ -87,6 +87,10 @@ control:
   end: 1334
   polity: ilkhanate
   importance: 2
+- start: 1335
+  end: 1379
+  polity: kartid_state
+  importance: 2
 - start: 1380
   end: 1506
   polity: timurid_empire
@@ -103,7 +107,11 @@ control:
   end: 1746
   polity: afsharid_iran
   importance: 2
-- start: 1785
+- start: 1747
+  end: 1787
+  polity: qajar_merv
+  importance: 3
+- start: 1788
   end: 1822
   polity: emirate_bukhara
   importance: 2

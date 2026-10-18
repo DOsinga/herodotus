@@ -38,6 +38,18 @@ control:
   end: 1335
   polity: ilkhanate
   importance: 2
+- start: 1336
+  end: 1337
+  polity: jalayirid_sultanate
+  importance: 2
+- start: 1338
+  end: 1356
+  polity: chobanid_state
+  importance: 2
+- start: 1357
+  end: 1374
+  polity: jalayirid_sultanate
+  importance: 2
 - start: 1375
   end: 1467
   polity: qara_qoyunlu

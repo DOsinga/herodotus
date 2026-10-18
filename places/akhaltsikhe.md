@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Akhaltsikhe
 point:
   latitude: 41.6389
   longitude: 42.9861
-note: "The Jaqeli atabegs of Samtskhe governed from here from 1268 until the Ottoman conquest of 1578."
 control:
 - start: 888
   end: 1007
@@ -15,6 +14,10 @@ control:
   end: 1267
   polity: kingdom_georgia
   importance: 2
+- start: 1268
+  end: 1577
+  polity: samtskhe_atabegate
+  importance: 3
 - start: 1578
   end: 1828
   polity: ottoman_empire

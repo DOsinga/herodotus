@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kerman
 point:
   latitude: 30.2833
   longitude: 57.0833
+note: "The Abbasid span after the fall of the Saffarids is an estimate."
 control:
 - start: 224
   end: 649
@@ -25,6 +26,14 @@ control:
 - start: 869
   end: 911
   polity: saffarid_emirate
+  importance: 3
+- start: 912
+  end: 931
+  polity: abbasid_caliphate
+  importance: 3
+- start: 932
+  end: 967
+  polity: ilyasid_kerman
   importance: 3
 - start: 968
   end: 1040

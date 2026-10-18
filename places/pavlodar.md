@@ -5,11 +5,35 @@ wikipedia: https://en.wikipedia.org/wiki/Pavlodar
 point:
   latitude: 52.3
   longitude: 76.95
-note: "Founded as the Russian fort of Koryakovsky in 1720. The Kimek span stands for Imakia, the khagan's town on the Irtysh, which is placed near here but has not been found."
+note: "Founded as the Russian fort of Koryakovsky in 1720. The Kimek span stands for Imakia, the khagan's town on the Irtysh, which is placed near here but has not been found. The later spans before the fort follow the steppe powers on the middle Irtysh; the changeovers are estimates."
 control:
 - start: 880
   end: 1035
   polity: kimek_khanate
+  importance: 3
+- start: 1036
+  end: 1219
+  polity: cumania
+  importance: 3
+- start: 1220
+  end: 1259
+  polity: mongol_empire
+  importance: 3
+- start: 1260
+  end: 1465
+  polity: golden_horde
+  importance: 3
+- start: 1468
+  end: 1598
+  polity: khanate_sibir
+  importance: 3
+- start: 1599
+  end: 1633
+  polity: oirat_confederation
+  importance: 3
+- start: 1634
+  end: 1719
+  polity: dzungar_khanate
   importance: 3
 - start: 1720
   end: 1720

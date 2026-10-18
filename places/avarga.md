@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Avarga
 point:
   latitude: 47.0944
   longitude: 109.1528
-note: "Genghis Khan's first camp capital on the Kherlen, used until the court moved to Karakorum. Gap for 1580–1629, before the Setsen khans held eastern Khalkha."
+note: "Genghis Khan's first camp capital on the Kherlen, used until the court moved to Karakorum. Before the Setsen khans held eastern Khalkha it went with the Tüsheet khans; that span is an estimate."
 control:
 - start: 1206
   end: 1219
@@ -22,6 +22,10 @@ control:
 - start: 1368
   end: 1579
   polity: northern_yuan
+  importance: 2
+- start: 1580
+  end: 1629
+  polity: tusheet_khanate
   importance: 2
 - start: 1630
   end: 1690

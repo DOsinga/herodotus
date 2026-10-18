@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Chernihiv
 point:
   latitude: 51.494
   longitude: 31.295
-note: "After the Mongol sack of 1239 the princes of Chernigov governed from Bryansk. Gap from the Smolensk line's takeover around 1310 until Lithuania took Chernihiv in the 1350s."
+note: "After the Mongol sack of 1239 the princes of Chernigov governed from Bryansk. Princes of the Smolensk line held Bryansk and the Chernigov lands from about 1310 until Lithuania took Chernihiv in the 1350s."
 control:
 - start: 907
   end: 1131
@@ -18,6 +18,10 @@ control:
 - start: 1239
   end: 1309
   polity: principality_chernigov
+  importance: 2
+- start: 1310
+  end: 1355
+  polity: principality_smolensk
   importance: 2
 - start: 1356
   end: 1502

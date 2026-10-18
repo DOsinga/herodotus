@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kunduz
 point:
   latitude: 36.728
   longitude: 68.868
-note: "Murad Beg's Qataghan khanate governed Kunduz in the early nineteenth century."
+note: "The Qara Khitai span stands for the Turkish amirs who held the region as their vassals."
 control:
 - start: -545
   end: -330
@@ -91,6 +91,10 @@ control:
   end: 1152
   polity: seljuk_khorasan
   importance: 2
+- start: 1153
+  end: 1197
+  polity: qara_khitai
+  importance: 2
 - start: 1198
   end: 1205
   polity: ghurid_sultanate
@@ -140,9 +144,13 @@ control:
   polity: afsharid_iran
   importance: 2
 - start: 1751
-  end: 1822
+  end: 1814
   polity: durrani_empire
   importance: 2
+- start: 1815
+  end: 1858
+  polity: kunduz_khanate
+  importance: 3
 - start: 1859
   end: 1925
   polity: emirate_afghanistan

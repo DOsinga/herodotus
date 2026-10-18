@@ -5,10 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Eshnunna
 point:
   latitude: 33.48
   longitude: 44.73
+note: "The Gutian span is an estimate: after Akkad fell the Diyala towns are thought to have been under Gutian overlords, but local rulers may have governed Eshnunna."
 control:
 - start: -2334
   end: -2155
   polity: akkadian_empire
+  importance: 2
+- start: -2154
+  end: -2119
+  polity: gutian_rule
   importance: 2
 - start: -2112
   end: -2027

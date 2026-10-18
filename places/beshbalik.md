@@ -5,11 +5,27 @@ wikipedia: https://en.wikipedia.org/wiki/Beshbalik
 point:
   latitude: 44.0924
   longitude: 89.2059
-note: "Stands for the Jimsar oasis after the old city declined."
+note: "Stands for the Jimsar oasis after the old city declined. After Further Jushi disappears from the sources in the third century, the oasis is given to the Jushi kingdom of Turfan just across the mountains; that span is an estimate. The Oirat span after the Turpan khans is an estimate."
 control:
 - start: -60
   end: 220
   polity: further_jushi
+  importance: 3
+- start: 221
+  end: 401
+  polity: jushi_kingdom
+  importance: 3
+- start: 402
+  end: 555
+  polity: rouran_khaganate
+  importance: 3
+- start: 556
+  end: 602
+  polity: first_turkic_khaganate
+  importance: 3
+- start: 603
+  end: 639
+  polity: western_turkic_khaganate
   importance: 3
 - start: 640
   end: 689
@@ -47,7 +63,15 @@ control:
   end: 1486
   polity: moghulistan
   importance: 2
-- start: 1680
+- start: 1487
+  end: 1570
+  polity: turpan_khanate
+  importance: 2
+- start: 1571
+  end: 1633
+  polity: oirat_confederation
+  importance: 2
+- start: 1634
   end: 1757
   polity: dzungar_khanate
   importance: 2

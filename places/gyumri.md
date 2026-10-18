@@ -78,6 +78,10 @@ control:
   end: 1117
   polity: seljuk_empire
   importance: 2
+- start: 1118
+  end: 1198
+  polity: shaddadid_ani
+  importance: 2
 - start: 1201
   end: 1235
   polity: kingdom_georgia
@@ -89,6 +93,22 @@ control:
 - start: 1260
   end: 1334
   polity: ilkhanate
+  importance: 2
+- start: 1335
+  end: 1337
+  polity: jalayirid_sultanate
+  importance: 2
+- start: 1338
+  end: 1356
+  polity: chobanid_state
+  importance: 2
+- start: 1357
+  end: 1358
+  polity: golden_horde
+  importance: 2
+- start: 1359
+  end: 1385
+  polity: jalayirid_sultanate
   importance: 2
 - start: 1386
   end: 1405
@@ -129,6 +149,10 @@ control:
 - start: 1736
   end: 1746
   polity: afsharid_iran
+  importance: 2
+- start: 1747
+  end: 1794
+  polity: erivan_khanate
   importance: 2
 - start: 1795
   end: 1804

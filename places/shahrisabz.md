@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Shahrisabz
 point:
   latitude: 39.05
   longitude: 66.8333
-note: "Kesh, Timur's home town. Its begs governed themselves from the 1850s until Russia handed the town to Bukhara in 1870."
+note: "Kesh, Timur's home town. Its Sogdian lords, who have no record, followed the Ikhshid of Samarkand until the Arab conquest. Its begs governed themselves from the 1850s until Russia handed the town to Bukhara in 1870."
 control:
 - start: -545
   end: -330
@@ -38,6 +38,10 @@ control:
 - start: 603
   end: 657
   polity: western_turkic_khaganate
+  importance: 2
+- start: 658
+  end: 711
+  follows: samarkand
   importance: 2
 - start: 712
   end: 749

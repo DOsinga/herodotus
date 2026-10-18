@@ -14,6 +14,10 @@ control:
   end: 657
   polity: western_turkic_khaganate
   importance: 1
+- start: 658
+  end: 711
+  polity: ushrusana_principality
+  importance: 1
 - start: 712
   end: 749
   polity: umayyad_caliphate

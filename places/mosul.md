@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Mosul
 point:
   latitude: 36.36
   longitude: 43.15
-note: "The span before the Arab conquest is Nineveh, on the opposite bank of the Tigris. Under the Mitanni overlords Nineveh had its own governors."
+note: "The span before the Arab conquest is Nineveh, on the opposite bank of the Tigris. Under the Mitanni overlords Nineveh had its own governors. The Gutian span is an estimate for the dark years after Akkad."
 control:
 - start: -2334
   end: -2155
   polity: akkadian_empire
+  importance: 2
+- start: -2154
+  end: -2119
+  polity: gutian_rule
   importance: 2
 - start: -2112
   end: -2026

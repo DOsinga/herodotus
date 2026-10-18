@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Hamadan
 point:
   latitude: 34.8
   longitude: 48.52
-note: "Ecbatana, the Median capital and later an Achaemenid and Parthian summer residence. The Kakuyids held Hamadan from about 1023 to 1051."
+note: "Ecbatana, the Median capital and later an Achaemenid and Parthian summer residence."
 control:
 - start: -678
   end: -551
@@ -62,6 +62,10 @@ control:
 - start: 947
   end: 1022
   polity: buyid_ray
+  importance: 3
+- start: 1023
+  end: 1050
+  polity: kakuyid_emirate
   importance: 3
 - start: 1051
   end: 1117

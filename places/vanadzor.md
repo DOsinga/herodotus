@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Vanadzor
 point:
   latitude: 40.8128
   longitude: 44.4883
-note: "The Kiurikian kings of Lori governed the area from 979 until Georgia took it in 1118."
 control:
 - start: -189
   end: 113
@@ -59,6 +58,10 @@ control:
   end: 978
   polity: bagratid_armenia
   importance: 2
+- start: 979
+  end: 1117
+  polity: kingdom_tashir_dzoraget
+  importance: 2
 - start: 1118
   end: 1235
   polity: kingdom_georgia
@@ -70,6 +73,10 @@ control:
 - start: 1260
   end: 1334
   polity: ilkhanate
+  importance: 2
+- start: 1335
+  end: 1385
+  polity: kingdom_georgia
   importance: 2
 - start: 1386
   end: 1405
@@ -110,6 +117,14 @@ control:
 - start: 1736
   end: 1746
   polity: afsharid_iran
+  importance: 2
+- start: 1747
+  end: 1761
+  polity: kingdom_kartli
+  importance: 2
+- start: 1762
+  end: 1794
+  polity: kingdom_kartli_kakheti
   importance: 2
 - start: 1795
   end: 1800

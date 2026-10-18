@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Novhorod-Siverskyi
 point:
   latitude: 51.9972
   longitude: 33.2667
+note: "Princes of the Smolensk line held Bryansk and the Chernigov lands from about 1310 until Lithuania took them in the 1350s."
 control:
 - start: 1044
   end: 1131
@@ -13,6 +14,10 @@ control:
 - start: 1132
   end: 1309
   polity: principality_chernigov
+  importance: 2
+- start: 1310
+  end: 1355
+  polity: principality_smolensk
   importance: 2
 - start: 1356
   end: 1502

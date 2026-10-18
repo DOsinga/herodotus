@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Rasht
 point:
   latitude: 37.2744
   longitude: 49.5889
-note: "The Ishaqvand rulers of western Gilan governed Rasht from the fall of the Ilkhanate until 1592. Russia held Gilan from 1722 to 1732, and the Persian Socialist Soviet Republic, set up with the Red Army's help and counted with Soviet Russia, ruled Rasht in 1920 and 1921. Soviet forces occupied northern Iran from 1941 to 1946."
+note: "The Tijaspi lords of Rasht, under Eshaqvand overlordship for long periods, have no record; the Eshaqvands made Rasht their capital in 1572. Russia held Gilan from 1722 to 1732, and the Persian Socialist Soviet Republic, set up with the Red Army's help and counted with Soviet Russia, ruled Rasht in 1920 and 1921. Soviet forces occupied northern Iran from 1941 to 1946."
 control:
 - start: 1307
   end: 1334
   polity: ilkhanate
+  importance: 3
+- start: 1335
+  end: 1591
+  polity: eshaqvand_gilan
   importance: 3
 - start: 1592
   end: 1721
@@ -24,8 +28,20 @@ control:
   polity: safavid_iran
   importance: 3
 - start: 1736
-  end: 1749
+  end: 1748
   polity: afsharid_iran
+  importance: 3
+- start: 1749
+  end: 1759
+  polity: gilan_hedayat_allah
+  importance: 3
+- start: 1760
+  end: 1766
+  polity: zand_iran
+  importance: 3
+- start: 1767
+  end: 1786
+  polity: gilan_hedayat_allah
   importance: 3
 - start: 1789
   end: 1919

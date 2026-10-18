@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Konye-Urgench
 point:
   latitude: 42.326
   longitude: 59.152
-note: "Gurganj, rebuilt after the Mongols destroyed it in 1221. The Sufi dynasty governed Khwarazm from Urgench between the Golden Horde and Timur's conquest of 1388."
+note: "Gurganj, rebuilt after the Mongols destroyed it in 1221."
 control:
 - start: 712
   end: 994
@@ -38,6 +38,10 @@ control:
 - start: 1260
   end: 1360
   polity: golden_horde
+  importance: 3
+- start: 1361
+  end: 1387
+  polity: sufi_khwarazm
   importance: 3
 - start: 1388
   end: 1504

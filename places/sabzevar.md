@@ -46,6 +46,10 @@ control:
   end: 1152
   polity: seljuk_khorasan
   importance: 2
+- start: 1157
+  end: 1186
+  polity: nishapur_ay_aba
+  importance: 2
 - start: 1187
   end: 1220
   polity: khwarazmian_empire

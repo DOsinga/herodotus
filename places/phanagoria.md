@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Phanagoria
 point:
   latitude: 45.218
   longitude: 36.962
+note: "The Byzantine span between the Turks and the Bulgars is an estimate."
 control:
 - start: -438
   end: -108
@@ -25,6 +26,10 @@ control:
 - start: 576
   end: 602
   polity: first_turkic_khaganate
+  importance: 2
+- start: 603
+  end: 631
+  polity: byzantine_empire
   importance: 2
 - start: 632
   end: 667

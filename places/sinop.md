@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Sinop,_Turkey
 point:
   latitude: 42.0268
   longitude: 35.1551
-note: "Sinope was a Greek city state before Pontus took it in 183 BCE; that city has no record, nor have the Pervaneoğulları who held it from 1266 to 1322."
+note: "Sinope was a Greek city state before Pontus took it in 183 BCE; that city has no record."
 control:
 - start: -183
   end: -64
@@ -31,6 +31,10 @@ control:
   end: 1261
   polity: sultanate_rum
   importance: 2
+- start: 1262
+  end: 1321
+  polity: pervaneoglu_beylik
+  importance: 3
 - start: 1322
   end: 1460
   polity: candar_beylik

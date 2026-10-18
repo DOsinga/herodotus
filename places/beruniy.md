@@ -11,6 +11,10 @@ control:
   end: -401
   polity: achaemenid_empire
   importance: 2
+- start: -400
+  end: 304
+  polity: chorasmia
+  importance: 3
 - start: 305
   end: 994
   polity: khwarazm_afrighid
@@ -42,6 +46,10 @@ control:
 - start: 1260
   end: 1360
   polity: golden_horde
+  importance: 2
+- start: 1361
+  end: 1387
+  polity: sufi_khwarazm
   importance: 2
 - start: 1388
   end: 1504

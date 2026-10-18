@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Sukhumi
 point:
   latitude: 43.0036
   longitude: 41.0192
-note: "Greek Dioscurias and Roman Sebastopolis. The princes of Abkhazia governed the area from the breakup of Georgia until Russia annexed it in 1810."
+note: "Greek Dioscurias and Roman Sebastopolis. The princes of Abkhazia held the town from the breakup of Georgia until the Ottomans fortified it in the 1570s; Russia took it in 1810."
 control:
 - start: -600
   end: -102
@@ -34,6 +34,14 @@ control:
 - start: 1008
   end: 1462
   polity: kingdom_georgia
+  importance: 2
+- start: 1463
+  end: 1577
+  polity: principality_abkhazia
+  importance: 2
+- start: 1578
+  end: 1809
+  polity: ottoman_empire
   importance: 2
 - start: 1810
   end: 1916

@@ -5,10 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Hlukhiv
 point:
   latitude: 51.6747
   longitude: 33.9133
+note: "Princes of the Smolensk line held Bryansk and the Chernigov lands from about 1310 until Lithuania took them in the 1350s."
 control:
 - start: 1152
   end: 1309
   polity: principality_chernigov
+  importance: 1
+- start: 1310
+  end: 1355
+  polity: principality_smolensk
   importance: 1
 - start: 1356
   end: 1502

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Goris
 point:
   latitude: 39.5078
   longitude: 46.3386
-note: "The kings of Syunik governed the region from 987 to 1170, and David Bek led a revolt here in the 1720s."
+note: "David Bek led a revolt here in the 1720s."
 control:
 - start: -189
   end: 113
@@ -59,6 +59,14 @@ control:
   end: 986
   polity: bagratid_armenia
   importance: 2
+- start: 987
+  end: 1169
+  polity: kingdom_syunik
+  importance: 2
+- start: 1170
+  end: 1200
+  polity: eldiguzid_state
+  importance: 2
 - start: 1201
   end: 1235
   polity: kingdom_georgia
@@ -70,6 +78,22 @@ control:
 - start: 1260
   end: 1334
   polity: ilkhanate
+  importance: 2
+- start: 1335
+  end: 1337
+  polity: jalayirid_sultanate
+  importance: 2
+- start: 1338
+  end: 1356
+  polity: chobanid_state
+  importance: 2
+- start: 1357
+  end: 1358
+  polity: golden_horde
+  importance: 2
+- start: 1359
+  end: 1385
+  polity: jalayirid_sultanate
   importance: 2
 - start: 1386
   end: 1405

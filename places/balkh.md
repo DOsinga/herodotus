@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Balkh
 point:
   latitude: 36.7581
   longitude: 66.8981
-note: "Bactra. Uzbek khans of Balkh governed the region between the Durrani collapse and Dost Mohammad's conquest of 1850."
+note: "Bactra. The Qara Khitai span stands for the Turkish amirs who held Balkh as their vassals. Between the Durrani collapse and Dost Mohammad's conquest of 1850 Uzbek begs governed Balkh under Kunduz and then Bukhara; the changeover is an estimate."
 control:
 - start: -545
   end: -330
@@ -91,6 +91,10 @@ control:
   end: 1152
   polity: seljuk_khorasan
   importance: 3
+- start: 1153
+  end: 1197
+  polity: qara_khitai
+  importance: 3
 - start: 1198
   end: 1205
   polity: ghurid_sultanate
@@ -142,6 +146,14 @@ control:
 - start: 1751
   end: 1822
   polity: durrani_empire
+  importance: 2
+- start: 1823
+  end: 1840
+  polity: kunduz_khanate
+  importance: 2
+- start: 1841
+  end: 1849
+  polity: emirate_bukhara
   importance: 2
 - start: 1850
   end: 1925

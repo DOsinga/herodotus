@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Maymana
 point:
   latitude: 35.9333
   longitude: 64.75
-note: "The Uzbek khans of Maymana governed on their own until Abdur Rahman Khan annexed the khanate in 1892."
 control:
 - start: 1370
   end: 1506
@@ -27,10 +26,10 @@ control:
   end: 1746
   polity: afsharid_iran
   importance: 2
-- start: 1751
-  end: 1822
-  polity: durrani_empire
-  importance: 2
+- start: 1747
+  end: 1891
+  polity: maimana_khanate
+  importance: 3
 - start: 1892
   end: 1925
   polity: emirate_afghanistan

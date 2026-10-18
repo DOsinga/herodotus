@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Yazd
 point:
   latitude: 31.8972
   longitude: 54.3675
-note: "The Kakuyids and then the atabegs of Yazd governed the town from 1051 until the Ilkhanate."
 control:
 - start: 224
   end: 649
@@ -35,7 +34,15 @@ control:
   end: 1050
   polity: buyid_fars
   importance: 2
-- start: 1260
+- start: 1051
+  end: 1140
+  polity: kakuyid_emirate
+  importance: 3
+- start: 1141
+  end: 1318
+  polity: yazd_atabegate
+  importance: 3
+- start: 1319
   end: 1334
   polity: ilkhanate
   importance: 2

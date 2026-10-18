@@ -5,11 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Veliky_Ustyug
 point:
   latitude: 60.7667
   longitude: 46.3
-note: "Gap for the years under the princes of Rostov, who have no record, until Moscow took the town around 1364."
+note: "Ustyug belonged to the princes of Rostov until Moscow took the town around 1364."
 control:
 - start: 1147
   end: 1206
   polity: vladimir_suzdal
+  importance: 2
+- start: 1207
+  end: 1363
+  follows: rostov_veliky
   importance: 2
 - start: 1364
   end: 1546

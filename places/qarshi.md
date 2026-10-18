@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Qarshi
 point:
   latitude: 38.861
   longitude: 65.789
-note: "Nasaf, renamed after the palace built here by the Chagatai khans."
+note: "Nasaf, renamed after the palace built here by the Chagatai khans. Its Sogdian lords, who have no record, followed the Ikhshid of Samarkand until the Arab conquest."
 control:
 - start: -545
   end: -330
@@ -38,6 +38,10 @@ control:
 - start: 603
   end: 657
   polity: western_turkic_khaganate
+  importance: 2
+- start: 658
+  end: 711
+  follows: samarkand
   importance: 2
 - start: 712
   end: 749

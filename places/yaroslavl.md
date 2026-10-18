@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Yaroslavl
 point:
   latitude: 57.6264
   longitude: 39.8933
-note: "Gap for the principality of Yaroslavl (1218–1463), which has no record."
 control:
 - start: 1010
   end: 1131
@@ -15,6 +14,10 @@ control:
   end: 1217
   polity: vladimir_suzdal
   importance: 2
+- start: 1218
+  end: 1462
+  polity: principality_yaroslavl
+  importance: 3
 - start: 1463
   end: 1546
   polity: grand_duchy_moscow

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kars
 point:
   latitude: 40.6013
   longitude: 43.0975
-note: "The Shaddadid emirs who held Kars between the Seljuks and the Georgians have no record."
+note: "After 1072 Kars was a small emirate under the Saltukids of Erzurum, whose emirs have no record of their own. Timur levelled the town in 1387."
 control:
 - start: 885
   end: 928
@@ -23,6 +23,10 @@ control:
   end: 1071
   polity: byzantine_empire
   importance: 2
+- start: 1072
+  end: 1201
+  polity: saltukid_emirate
+  importance: 2
 - start: 1206
   end: 1238
   polity: kingdom_georgia
@@ -34,6 +38,22 @@ control:
 - start: 1260
   end: 1335
   polity: ilkhanate
+  importance: 2
+- start: 1338
+  end: 1357
+  polity: chobanid_state
+  importance: 2
+- start: 1358
+  end: 1379
+  polity: jalayirid_sultanate
+  importance: 2
+- start: 1380
+  end: 1386
+  polity: qara_qoyunlu
+  importance: 2
+- start: 1387
+  end: 1405
+  polity: timurid_empire
   importance: 2
 - start: 1410
   end: 1467

@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Pantikapaion
 point:
   latitude: 45.3619
   longitude: 36.4711
-note: "Spans after the sixth century are for Kerch, which grew on the site of Pantikapaion. The Genoese held it as Cerco from 1318, so it follows Genoa."
+note: "Spans after the sixth century are for Kerch, which grew on the site of Pantikapaion. Byzantium held the Bosporus between the Turks and the Khazars. After the Rus left Tmutarakan around 1094 the Byzantine span and the Cuman span after 1204 are estimates. The Genoese held Kerch as Cerco from 1318, so it follows Genoa."
 control:
 - start: -438
   end: -108
@@ -27,6 +27,10 @@ control:
   end: 602
   polity: first_turkic_khaganate
   importance: 2
+- start: 603
+  end: 669
+  polity: byzantine_empire
+  importance: 2
 - start: 670
   end: 964
   polity: khazar_khaganate
@@ -34,6 +38,14 @@ control:
 - start: 965
   end: 1093
   polity: kievan_rus
+  importance: 2
+- start: 1094
+  end: 1203
+  polity: byzantine_empire
+  importance: 2
+- start: 1204
+  end: 1239
+  polity: cumania
   importance: 2
 - start: 1240
   end: 1259

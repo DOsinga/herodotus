@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Feodosia
 point:
   latitude: 45.0342
   longitude: 35.3792
-note: "Greek Theodosia, then Genoese Caffa, which follows Genoa while it was a Genoese colony, and Ottoman Kefe."
+note: "Greek Theodosia, then Genoese Caffa, which follows Genoa while it was a Genoese colony, and Ottoman Kefe. After the Huns destroyed Theodosia it stayed a village for nine centuries; the spans until the Genoese purchase follow the powers that held eastern Crimea and are estimates."
 control:
 - start: -355
   end: -108
@@ -18,6 +18,46 @@ control:
 - start: -63
   end: 370
   polity: bosporan_kingdom
+  importance: 2
+- start: 371
+  end: 469
+  polity: hunnic_empire
+  importance: 2
+- start: 470
+  end: 526
+  polity: bosporan_kingdom
+  importance: 2
+- start: 527
+  end: 575
+  polity: byzantine_empire
+  importance: 2
+- start: 576
+  end: 602
+  polity: first_turkic_khaganate
+  importance: 2
+- start: 603
+  end: 679
+  polity: byzantine_empire
+  importance: 2
+- start: 680
+  end: 964
+  polity: khazar_khaganate
+  importance: 2
+- start: 965
+  end: 1203
+  polity: byzantine_empire
+  importance: 2
+- start: 1204
+  end: 1239
+  polity: cumania
+  importance: 2
+- start: 1240
+  end: 1259
+  polity: mongol_empire
+  importance: 2
+- start: 1260
+  end: 1265
+  polity: golden_horde
   importance: 2
 - start: 1266
   end: 1307

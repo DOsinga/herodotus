@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Basra
 point:
   latitude: 30.515
   longitude: 47.81
-note: "The Afrasiyab family governed Basra on its own from 1596 to 1668. The Zanj rebels held the town for some years after 871."
+note: "The Zanj rebels held the town for some years after 871."
 control:
 - start: 636
   end: 660
@@ -110,6 +110,10 @@ control:
 - start: 1534
   end: 1595
   polity: ottoman_empire
+  importance: 3
+- start: 1596
+  end: 1667
+  polity: afrasiyab_basra
   importance: 3
 - start: 1668
   end: 1696

@@ -38,6 +38,10 @@ control:
   end: 1360
   polity: golden_horde
   importance: 2
+- start: 1361
+  end: 1387
+  polity: sufi_khwarazm
+  importance: 2
 - start: 1388
   end: 1504
   polity: timurid_empire

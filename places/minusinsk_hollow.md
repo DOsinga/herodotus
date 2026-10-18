@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Minusinsk_Hollow
 point:
   latitude: 53.72
   longitude: 91.43
-note: "The point is at Abakan. The Kyrgyz span stands for their homeland in the basin, where the khagan's seat is not located. Gap between the fall of the Yuan and the Russian fort of Abakan in 1707, when Kyrgyz princes under Mongol and Dzungar overlords held the basin."
+note: "The point is at Abakan. The Kyrgyz span stands for their homeland in the basin, where the khagan's seat is not located. Between the fall of the Yuan and the Russian fort of Abakan in 1707 Kyrgyz princes, who have no record, held the basin under Mongol, Oirat and Dzungar overlords; the Altan Khans of the Khotogoid also took tribute in the seventeenth century."
 control:
 - start: 693
   end: 1217
@@ -18,6 +18,18 @@ control:
 - start: 1271
   end: 1367
   polity: yuan_dynasty
+  importance: 2
+- start: 1368
+  end: 1399
+  polity: northern_yuan
+  importance: 2
+- start: 1400
+  end: 1633
+  polity: oirat_confederation
+  importance: 2
+- start: 1634
+  end: 1706
+  polity: dzungar_khanate
   importance: 2
 - start: 1707
   end: 1720
