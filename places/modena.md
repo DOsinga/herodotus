@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Modena
 point:
   latitude: 44.647
   longitude: 10.926
-note: "The commune is not recorded."
 control:
 - start: -183
   end: -28
@@ -55,9 +54,25 @@ control:
   end: 1114
   polity: holy_roman_empire
   importance: 2
+- start: 1115
+  end: 1287
+  polity: commune_modena
+  importance: 2
 - start: 1288
   end: 1305
   polity: duchy_ferrara
+  importance: 2
+- start: 1306
+  end: 1311
+  polity: commune_modena
+  importance: 2
+- start: 1312
+  end: 1326
+  polity: commune_mantua
+  importance: 2
+- start: 1327
+  end: 1335
+  polity: commune_modena
   importance: 2
 - start: 1336
   end: 1597

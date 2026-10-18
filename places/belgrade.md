@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Belgrade
 point:
   latitude: 44.818
   longitude: 20.457
-note: "Roman Singidunum. The years between Hunnic and Ostrogothic rule, the Slav and Frankish border years of the ninth century, and King Dragutin's Syrmian realm (1284–1318) are gaps; the Byzantine and Hungarian contest of the twelfth century is simplified."
+note: "Roman Singidunum. Theodoric's Ostrogoths held the town from 471 to 488, before their kingdom in Italy, and the Frankish and Bulgarian contest of 803–826 is a gap; the Byzantine and Hungarian contest of the twelfth century is simplified."
 control:
 - start: -15
   end: 394
@@ -19,6 +19,14 @@ control:
   end: 453
   polity: hunnic_empire
   importance: 2
+- start: 454
+  end: 470
+  polity: byzantine_empire
+  importance: 2
+- start: 488
+  end: 503
+  polity: gepid_kingdom
+  importance: 2
 - start: 504
   end: 535
   polity: ostrogothic_kingdom
@@ -29,6 +37,10 @@ control:
   importance: 2
 - start: 584
   end: 795
+  polity: avar_khaganate
+  importance: 1
+- start: 796
+  end: 802
   polity: avar_khaganate
   importance: 1
 - start: 827
@@ -42,6 +54,14 @@ control:
 - start: 1181
   end: 1283
   polity: kingdom_hungary
+  importance: 2
+- start: 1284
+  end: 1315
+  polity: kingdom_syrmia
+  importance: 3
+- start: 1316
+  end: 1318
+  polity: medieval_kingdom_serbia
   importance: 2
 - start: 1319
   end: 1402

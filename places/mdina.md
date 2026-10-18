@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Mdina
 point:
   latitude: 35.8858
   longitude: 14.4031
-note: "The years between the fall of the Kalbids in 1053 and Roger I's landing in 1091 are a gap."
 control:
 - start: -480
   end: -219
@@ -47,7 +46,11 @@ control:
   end: 1052
   polity: emirate_sicily
   importance: 2
-- start: 1091
+- start: 1053
+  end: 1126
+  polity: muslim_malta
+  importance: 2
+- start: 1127
   end: 1129
   polity: county_sicily
   importance: 2

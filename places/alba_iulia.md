@@ -5,12 +5,20 @@ wikipedia: https://en.wikipedia.org/wiki/Alba_Iulia
 point:
   latitude: 46.0667
   longitude: 23.57
-note: "Roman Apulum. The tenth-century Hungarian rulers of Transylvania are shown under the Principality of Hungary; Stephen I took the region in 1003."
+note: "Roman Apulum. Gothic rule after the Roman withdrawal is inferred from archaeology, and Bulgarian rule in the ninth century from finds and the Slavic name Bălgrad. The tenth-century Hungarian rulers of Transylvania are shown under the Principality of Hungary; Stephen I took the region in 1003."
 control:
 - start: 106
   end: 274
   polity: roman_empire
   importance: 3
+- start: 291
+  end: 375
+  polity: thervingi
+  importance: 2
+- start: 376
+  end: 453
+  polity: hunnic_empire
+  importance: 2
 - start: 454
   end: 566
   polity: gepid_kingdom
@@ -19,6 +27,18 @@ control:
   end: 795
   polity: avar_khaganate
   importance: 1
+- start: 796
+  end: 802
+  polity: avar_khaganate
+  importance: 1
+- start: 803
+  end: 894
+  polity: first_bulgarian_empire
+  importance: 2
+- start: 895
+  end: 949
+  polity: magyar_principality
+  importance: 2
 - start: 950
   end: 999
   polity: magyar_principality

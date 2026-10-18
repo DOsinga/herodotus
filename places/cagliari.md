@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Cagliari
 point:
   latitude: 39.2278
   longitude: 9.1111
-note: "Byzantine government faded during the ninth century; the century before the judicates appear is a gap."
 control:
 - start: -510
   end: -239
@@ -30,6 +29,10 @@ control:
 - start: 534
   end: 899
   polity: byzantine_empire
+  importance: 3
+- start: 900
+  end: 999
+  polity: archontate_sardinia
   importance: 3
 - start: 1000
   end: 1257

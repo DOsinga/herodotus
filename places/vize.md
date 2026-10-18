@@ -19,6 +19,10 @@ control:
   end: -282
   polity: lysimachus_kingdom
   importance: 2
+- start: -281
+  end: -51
+  polity: odrysian_kingdom
+  importance: 2
 - start: -50
   end: 45
   polity: sapaean_kingdom

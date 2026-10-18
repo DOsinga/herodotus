@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bologna
 point:
   latitude: 44.4939
   longitude: 11.3428
-note: "The commune and the Bentivoglio lordship (1116–1505, apart from Visconti and papal rule) are not recorded."
+note: "Short communal revolts against papal rule between 1403 and 1443 are not split out."
 control:
 - start: -189
   end: -28
@@ -51,6 +51,18 @@ control:
   end: 1115
   polity: holy_roman_empire
   importance: 2
+- start: 1116
+  end: 1326
+  polity: commune_bologna
+  importance: 3
+- start: 1327
+  end: 1333
+  polity: papal_states
+  importance: 2
+- start: 1334
+  end: 1349
+  polity: commune_bologna
+  importance: 3
 - start: 1350
   end: 1359
   polity: lordship_milan
@@ -59,10 +71,26 @@ control:
   end: 1375
   polity: papal_states
   importance: 2
+- start: 1376
+  end: 1401
+  polity: commune_bologna
+  importance: 3
 - start: 1402
   end: 1402
   polity: duchy_milan
   importance: 2
+- start: 1403
+  end: 1437
+  polity: papal_states
+  importance: 2
+- start: 1438
+  end: 1442
+  polity: duchy_milan
+  importance: 2
+- start: 1443
+  end: 1505
+  polity: commune_bologna
+  importance: 3
 - start: 1506
   end: 1796
   polity: papal_states

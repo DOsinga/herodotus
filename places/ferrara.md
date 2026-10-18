@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Ferrara
 point:
   latitude: 44.839
   longitude: 11.617
-note: "Matilda of Canossa's rule and the commune of 1101–1263 are not recorded."
 control:
 - start: 600
   end: 750
@@ -19,6 +18,10 @@ control:
   end: 1100
   polity: papal_states
   importance: 2
+- start: 1101
+  end: 1263
+  polity: commune_ferrara
+  importance: 3
 - start: 1264
   end: 1597
   polity: duchy_ferrara

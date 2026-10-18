@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Berat
 point:
   latitude: 40.7022
   longitude: 19.9583
-note: "The Muzaka lords (1371–1416) have no record."
 control:
 - start: -200
   end: -28
@@ -51,6 +50,10 @@ control:
   end: 1370
   polity: serbian_empire
   importance: 2
+- start: 1371
+  end: 1416
+  polity: principality_muzaka
+  importance: 3
 - start: 1417
   end: 1911
   polity: ottoman_empire

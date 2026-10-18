@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Constanța
 point:
   latitude: 44.1667
   longitude: 28.6333
-note: "Greek and Roman Tomis. The Despotate of Dobruja (1346–1387) has no record. The German and Bulgarian occupation of Dobruja in 1916–1918 is shown as Bulgarian rule."
+note: "Greek and Roman Tomis. The German and Bulgarian occupation of Dobruja in 1916–1918 is shown as Bulgarian rule."
 control:
 - start: -29
   end: -28
@@ -30,6 +30,10 @@ control:
 - start: 1186
   end: 1345
   polity: second_bulgarian_empire
+  importance: 1
+- start: 1346
+  end: 1387
+  polity: despotate_dobruja
   importance: 1
 - start: 1388
   end: 1416

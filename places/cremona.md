@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Cremona
 point:
   latitude: 45.1333
   longitude: 10.0247
-note: "The commune of 1098–1333 is not recorded, nor Cabrino Fondulo's lordship of 1406–1420."
+note: "Cabrino Fondulo's lordship of 1406–1420 is not recorded."
 control:
 - start: -218
   end: -28
@@ -54,6 +54,10 @@ control:
 - start: 962
   end: 1097
   polity: holy_roman_empire
+  importance: 2
+- start: 1098
+  end: 1333
+  polity: commune_cremona
   importance: 2
 - start: 1334
   end: 1394

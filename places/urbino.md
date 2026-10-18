@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Urbino
 point:
   latitude: 43.7264
   longitude: 12.6364
-note: "The Montefeltro counts before the duchy (1101–1442) have no record."
+note: "The imperial margraves of Ancona are shown for 1101–1212, before the Montefeltro counts."
 control:
 - start: -268
   end: -28
@@ -39,6 +39,14 @@ control:
   end: 1100
   polity: papal_states
   importance: 1
+- start: 1101
+  end: 1212
+  polity: holy_roman_empire
+  importance: 1
+- start: 1213
+  end: 1442
+  polity: county_urbino
+  importance: 3
 - start: 1443
   end: 1630
   polity: duchy_urbino

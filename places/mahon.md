@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Mahón
 point:
   latitude: 39.8875
   longitude: 4.2611
-note: "From 1231 to 1287 Muslim Menorca governed itself as a tributary of Aragon; it has no record."
 control:
 - start: -123
   end: -28
@@ -54,6 +53,10 @@ control:
 - start: 1203
   end: 1230
   polity: almohad_caliphate
+  importance: 1
+- start: 1231
+  end: 1286
+  polity: almoxarifate_menorca
   importance: 1
 - start: 1287
   end: 1297

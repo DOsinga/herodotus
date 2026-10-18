@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Novara
 point:
   latitude: 45.45
   longitude: 8.62
-note: "The commune between the imperial period and the Visconti is not recorded."
 control:
 - start: -89
   end: -28
@@ -54,6 +53,10 @@ control:
 - start: 962
   end: 1096
   polity: holy_roman_empire
+  importance: 2
+- start: 1097
+  end: 1331
+  polity: commune_novara
   importance: 2
 - start: 1332
   end: 1733

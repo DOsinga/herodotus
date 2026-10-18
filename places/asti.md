@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Asti
 point:
   latitude: 44.9
   longitude: 8.2069
-note: "The commune (1095–1341) and the lordship of the dukes of Orléans (1387–1497) have no record."
 control:
 - start: -89
   end: -28
@@ -55,9 +54,17 @@ control:
   end: 1094
   polity: holy_roman_empire
   importance: 2
+- start: 1095
+  end: 1341
+  polity: commune_asti
+  importance: 2
 - start: 1342
   end: 1386
   polity: lordship_milan
+  importance: 2
+- start: 1387
+  end: 1497
+  polity: county_asti
   importance: 2
 - start: 1498
   end: 1530

@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Ravenna
 point:
   latitude: 44.4161
   longitude: 12.2017
-note: "The archbishops' and commune's rule and the da Polenta lordship (1101–1440) are not recorded."
 control:
 - start: -89
   end: -28
@@ -47,6 +46,10 @@ control:
   end: 1100
   polity: holy_roman_empire
   importance: 2
+- start: 1101
+  end: 1440
+  polity: commune_ravenna
+  importance: 3
 - start: 1441
   end: 1508
   polity: republic_venice

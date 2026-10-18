@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Turin
 point:
   latitude: 45.0703
   longitude: 7.6869
-note: "Turin under its commune and the marquises of Montferrat, from about 1100 until Savoy took it in 1280, has no record."
+note: "The bishops who held Turin's comital rights in the twelfth century are shown under the Empire. The free commune of 1255–1270 has no record."
 control:
 - start: -28
   end: -28
@@ -54,6 +54,26 @@ control:
 - start: 962
   end: 1099
   polity: holy_roman_empire
+  importance: 2
+- start: 1100
+  end: 1229
+  polity: holy_roman_empire
+  importance: 2
+- start: 1230
+  end: 1235
+  polity: montferrat
+  importance: 2
+- start: 1236
+  end: 1247
+  polity: holy_roman_empire
+  importance: 2
+- start: 1248
+  end: 1254
+  polity: county_savoy
+  importance: 2
+- start: 1270
+  end: 1279
+  polity: montferrat
   importance: 2
 - start: 1280
   end: 1415

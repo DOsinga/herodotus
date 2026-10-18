@@ -5,6 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bonifacio,_Corse-du-Sud
 point:
   latitude: 41.3868
   longitude: 9.1569
+note: "Between 888 and 1091 the margraves of Tuscany held Corsica loosely for the Italian kings and emperors, amid Saracen raids and local lords."
 control:
 - start: 828
   end: 842
@@ -17,6 +18,14 @@ control:
 - start: 855
   end: 887
   polity: carolingian_italy
+  importance: 1
+- start: 888
+  end: 961
+  polity: carolingian_italy
+  importance: 1
+- start: 962
+  end: 1091
+  polity: holy_roman_empire
   importance: 1
 - start: 1092
   end: 1194
@@ -43,26 +52,22 @@ control:
   polity: republic_genoa
   importance: 1
 - start: 1435
-  end: 1458
+  end: 1452
   polity: republic_genoa
   importance: 1
-- start: 1461
-  end: 1464
-  polity: republic_genoa
-  importance: 1
-- start: 1478
-  end: 1488
-  polity: republic_genoa
-  importance: 1
-- start: 1528
+- start: 1453
   end: 1552
-  polity: republic_genoa
+  polity: bank_saint_george
   importance: 1
 - start: 1553
   end: 1558
   polity: kingdom_france
   importance: 1
 - start: 1559
+  end: 1561
+  polity: bank_saint_george
+  importance: 1
+- start: 1562
   end: 1767
   polity: republic_genoa
   importance: 1

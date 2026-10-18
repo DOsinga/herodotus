@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Arezzo
 point:
   latitude: 43.4633
   longitude: 11.8783
-note: "The commune and the bishops' lordship (1098–1383) are not recorded."
 control:
 - start: -280
   end: -28
@@ -54,6 +53,18 @@ control:
 - start: 962
   end: 1097
   polity: holy_roman_empire
+  importance: 2
+- start: 1098
+  end: 1336
+  polity: commune_arezzo
+  importance: 2
+- start: 1337
+  end: 1342
+  polity: republic_florence
+  importance: 2
+- start: 1343
+  end: 1383
+  polity: commune_arezzo
   importance: 2
 - start: 1384
   end: null

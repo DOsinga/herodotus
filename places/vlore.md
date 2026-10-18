@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Vlorë
 point:
   latitude: 40.4667
   longitude: 19.4833
-note: "The Principality of Valona (1371–1416) has no record. Albanian independence was declared here in 1912."
+note: "Albanian independence was declared here in 1912."
 control:
 - start: -229
   end: -28
@@ -44,9 +44,21 @@ control:
   polity: medieval_kingdom_serbia
   importance: 2
 - start: 1346
-  end: 1370
+  end: 1354
   polity: serbian_empire
   importance: 2
+- start: 1355
+  end: 1371
+  polity: principality_valona
+  importance: 3
+- start: 1372
+  end: 1384
+  polity: zeta_balsici
+  importance: 2
+- start: 1385
+  end: 1416
+  polity: principality_valona
+  importance: 3
 - start: 1417
   end: 1911
   polity: ottoman_empire

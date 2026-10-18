@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Orvieto
 point:
   latitude: 42.7182
   longitude: 12.1083
-note: "The commune of 1101–1353 is not recorded."
 control:
 - start: -750
   end: -265
@@ -42,6 +41,10 @@ control:
 - start: 774
   end: 1100
   polity: papal_states
+  importance: 2
+- start: 1101
+  end: 1353
+  polity: commune_orvieto
   importance: 2
 - start: 1354
   end: 1797

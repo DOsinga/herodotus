@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Brescia
 point:
   latitude: 45.5417
   longitude: 10.2167
-note: "The commune of 1098–1336 is not recorded; nor are the Malatesta lordship of 1404–1421 and the French occupation of 1509–1516."
+note: "The French occupation of 1509–1516 is not recorded."
 control:
 - start: -196
   end: -28
@@ -55,11 +55,27 @@ control:
   end: 1097
   polity: holy_roman_empire
   importance: 3
+- start: 1098
+  end: 1331
+  polity: commune_brescia
+  importance: 3
+- start: 1332
+  end: 1336
+  polity: verona_scaliger
+  importance: 2
 - start: 1337
   end: 1394
   polity: lordship_milan
   importance: 2
 - start: 1395
+  end: 1403
+  polity: duchy_milan
+  importance: 2
+- start: 1404
+  end: 1420
+  polity: lordship_rimini
+  importance: 3
+- start: 1421
   end: 1425
   polity: duchy_milan
   importance: 2

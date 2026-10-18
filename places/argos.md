@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Argos,_Peloponnese
 point:
   latitude: 37.6167
   longitude: 22.7167
-note: "The de la Roche dukes held Argos and Nauplia as a fief of Achaea; their Enghien heirs (1311–1387) are a gap."
+note: "The de la Roche dukes of Athens held Argos and Nauplia as a fief of Achaea, and their Brienne and Enghien heirs kept them after 1311."
 control:
 - start: -750
   end: -230
@@ -31,6 +31,10 @@ control:
   end: 1310
   polity: duchy_athens
   importance: 1
+- start: 1311
+  end: 1387
+  polity: lordship_argos_nauplia
+  importance: 2
 - start: 1388
   end: 1462
   polity: republic_venice

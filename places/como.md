@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Como
 point:
   latitude: 45.8081
   longitude: 9.0852
-note: "The commune of Como, from about 1100 until the Visconti took it in 1335, has no record."
 control:
 - start: -196
   end: -28
@@ -54,6 +53,10 @@ control:
 - start: 962
   end: 1099
   polity: holy_roman_empire
+  importance: 2
+- start: 1100
+  end: 1334
+  polity: commune_como
   importance: 2
 - start: 1335
   end: null

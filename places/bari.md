@@ -5,7 +5,6 @@ wikipedia: https://en.wikipedia.org/wiki/Bari
 point:
   latitude: 41.1253
   longitude: 16.8667
-note: "The Emirate of Bari (847–871) has no record."
 control:
 - start: -266
   end: -28
@@ -34,6 +33,14 @@ control:
 - start: 668
   end: 846
   polity: benevento
+  importance: 2
+- start: 847
+  end: 870
+  polity: emirate_bari
+  importance: 2
+- start: 871
+  end: 875
+  polity: carolingian_italy
   importance: 2
 - start: 876
   end: 1070

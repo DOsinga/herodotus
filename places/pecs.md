@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Pécs
 point:
   latitude: 46.0708
   longitude: 18.2331
-note: "Roman Sopianae, capital of Valeria. Under Serbian occupation from November 1918 to August 1921."
+note: "Roman Sopianae, capital of Valeria. No power is recorded in Valeria between the Ostrogoths' departure in 473 and the Lombard advance, so 474–525 are estimates: the Gepids held neighbouring Sirmium until Theodoric took it in 504. Under Serbian occupation from November 1918 to August 1921."
 control:
 - start: 10
   end: 394
@@ -15,6 +15,26 @@ control:
   end: 432
   polity: western_roman_empire
   importance: 2
+- start: 433
+  end: 453
+  polity: hunnic_empire
+  importance: 2
+- start: 454
+  end: 473
+  polity: pannonian_ostrogoths
+  importance: 2
+- start: 474
+  end: 503
+  polity: gepid_kingdom
+  importance: 1
+- start: 504
+  end: 525
+  polity: ostrogothic_kingdom
+  importance: 1
+- start: 526
+  end: 567
+  polity: danubian_lombards
+  importance: 1
 - start: 568
   end: 790
   polity: avar_khaganate

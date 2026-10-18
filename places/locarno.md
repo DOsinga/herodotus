@@ -30,6 +30,10 @@ control:
   end: 1099
   polity: holy_roman_empire
   importance: 1
+- start: 1100
+  end: 1335
+  polity: commune_como
+  importance: 1
 - start: 1342
   end: 1511
   follows: milan

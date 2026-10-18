@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Corinth_(modern_city)
 point:
   latitude: 37.9053
   longitude: 22.8802
-note: "Rome destroyed the city in 146 BCE and refounded it as a colony in 44 BCE. The Acciaioli lords of 1358–1394 are a gap."
+note: "Rome destroyed the city in 146 BCE and refounded it as a colony in 44 BCE. The Acciaioli held Corinth as barons of Achaea from 1358, and Nerio Acciaioli kept it when he took Athens in 1388."
 control:
 - start: -700
   end: -339
@@ -42,6 +42,14 @@ control:
 - start: 1210
   end: 1357
   polity: principality_achaea
+  importance: 2
+- start: 1358
+  end: 1387
+  polity: principality_achaea
+  importance: 2
+- start: 1388
+  end: 1394
+  polity: duchy_athens
   importance: 2
 - start: 1395
   end: 1453

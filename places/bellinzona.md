@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Bellinzona
 point:
   latitude: 46.1946
   longitude: 9.0175
-note: "Under the commune of Como, which has no record, from about 1100 until the Visconti took it in 1340."
+note: "The Rusca of Como held it until the Visconti took it in 1340."
 control:
 - start: 568
   end: 574
@@ -30,6 +30,10 @@ control:
 - start: 962
   end: 1099
   polity: holy_roman_empire
+  importance: 1
+- start: 1100
+  end: 1335
+  polity: commune_como
   importance: 1
 - start: 1340
   end: 1499

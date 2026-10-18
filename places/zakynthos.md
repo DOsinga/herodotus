@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Zakynthos_(city)
 point:
   latitude: 37.7833
   longitude: 20.9
-note: "The County Palatine of Cephalonia and Zakynthos (1185–1479) and the Septinsular Republic (1800–1807) have no records."
+note: "From 1411 the Tocco counts were also despots of Epirus. The Septinsular Republic (1800–1807) has no record."
 control:
 - start: -191
   end: -28
@@ -18,6 +18,22 @@ control:
 - start: 395
   end: 1184
   polity: byzantine_empire
+  importance: 1
+- start: 1185
+  end: 1334
+  polity: county_palatine_cephalonia
+  importance: 1
+- start: 1335
+  end: 1356
+  polity: principality_achaea
+  importance: 1
+- start: 1357
+  end: 1410
+  polity: county_palatine_cephalonia
+  importance: 1
+- start: 1411
+  end: 1478
+  polity: despotate_epirus
   importance: 1
 - start: 1479
   end: 1484

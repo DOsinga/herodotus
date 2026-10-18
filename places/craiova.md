@@ -5,12 +5,15 @@ wikipedia: https://en.wikipedia.org/wiki/Craiova
 point:
   latitude: 44.3333
   longitude: 23.8167
-note: "Seat of the bans of Oltenia, which Austria held from 1718 to 1739."
+note: "Seat of the bans of Oltenia, which Austria held from 1718 to 1739. The Wallachian span before 1475 stands for Oltenia rather than the town."
 control:
 - start: 106
   end: 274
   polity: roman_empire
   importance: 1
+- start: 275
+  end: 1329
+  ungoverned: "Roman Pelendava was left after the withdrawal from Dacia; Craiova grew up later as a village and is first recorded in 1475."
 - start: 1330
   end: 1715
   polity: wallachia

@@ -46,6 +46,10 @@ control:
   end: 1052
   polity: emirate_sicily
   importance: 2
+- start: 1053
+  end: 1070
+  polity: taifa_syracuse
+  importance: 2
 - start: 1071
   end: 1129
   polity: county_sicily

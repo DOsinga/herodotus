@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Piacenza
 point:
   latitude: 45.0478
   longitude: 9.7006
-note: "The commune (1098–1335) is not recorded."
+note: "Francesco Scotti's brief lordship of 1335 is not split out."
 control:
 - start: -218
   end: -28
@@ -54,6 +54,18 @@ control:
 - start: 962
   end: 1097
   polity: holy_roman_empire
+  importance: 2
+- start: 1098
+  end: 1312
+  polity: commune_piacenza
+  importance: 2
+- start: 1313
+  end: 1321
+  polity: lordship_milan
+  importance: 2
+- start: 1322
+  end: 1335
+  polity: papal_states
   importance: 2
 - start: 1336
   end: 1394
