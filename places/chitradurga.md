@@ -13,7 +13,8 @@ control:
   importance: 2
 - start: -185
   end: -121
-  ungoverned: "No government is known in the area between the Maurya withdrawal and the Satavahana advance into Karnataka."
+  polity: chandravalli_chiefdom
+  importance: 2
 - start: -120
   end: 224
   polity: satavahana_empire

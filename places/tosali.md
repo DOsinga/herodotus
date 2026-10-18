@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Tosali
 point:
   latitude: 20.2266
   longitude: 85.8531
-note: "Tosali is identified with Sisupalgarh, beside modern Bhubaneswar, which the point also stands for. The Afghan chiefs who held Odisha from 1576 to 1592 have no record."
+note: "Tosali is identified with Sisupalgarh, beside modern Bhubaneswar, which the point also stands for. Sisupalgarh declined after the fourth century; the coast from then until Shashanka is given to the Guptas, whose era was used in sixth-century Odisha grants, and then to the Gauda kingdom, as an estimate. The Afghan chiefs who held Odisha from 1576 to 1592 have no record."
 control:
 - start: -500
   end: -262
@@ -24,8 +24,13 @@ control:
   polity: murunda_dynasty
   importance: 3
 - start: 300
+  end: 549
+  polity: gupta_empire
+  importance: 1
+- start: 550
   end: 599
-  ungoverned: "B. B. Lal dated the end of Sisupalgarh's occupation to the fourth century, and no ruler of the area is known until Shashanka's conquest."
+  polity: gauda_kingdom
+  importance: 1
 - start: 600
   end: 619
   polity: gauda_kingdom

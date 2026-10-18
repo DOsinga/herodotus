@@ -5,15 +5,24 @@ wikipedia: https://en.wikipedia.org/wiki/Junagadh
 point:
   latitude: 21.522
   longitude: 70.457
-note: "Girnar, beside Junagadh, carries the inscriptions of Ashoka, Rudradaman and Skandagupta. The Uparkot fort lay abandoned from about the sixth century until the Chudasamas reoccupied it."
+note: "Girnar, beside Junagadh, carries the inscriptions of Ashoka, Rudradaman and Skandagupta. Between the Mauryas and the Western Satraps the town is given to the Indo-Greeks and then the Indo-Scythians, as an estimate from Strabo's report of Greek rule over Saurashtra and the Greek and Saka coins of the region. The Uparkot fort lay abandoned from about the sixth century until the Chudasamas reoccupied it."
 control:
 - start: -322
   end: -186
   polity: maurya_empire
   importance: 2
 - start: -185
-  end: 34
-  ungoverned: "No government is known in Saurashtra between the Maurya decline and the Western Satraps; Greek rule there, if any, was brief."
+  end: -131
+  polity: indo_greek_kingdom
+  importance: 1
+- start: -130
+  end: -91
+  polity: indo_greek_east
+  importance: 1
+- start: -90
+  end: 19
+  polity: indo_scythian_kingdom
+  importance: 1
 - start: 35
   end: 414
   polity: western_satraps
