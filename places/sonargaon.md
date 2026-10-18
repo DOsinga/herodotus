@@ -5,11 +5,11 @@ wikipedia: https://en.wikipedia.org/wiki/Sonargaon
 point:
   latitude: 23.6475
   longitude: 90.5978
-note: "Dasharathadeva moved the Deva seat here from Bikrampur around 1280, an estimate. Fakhruddin Mubarak Shah ruled Sonargaon independently from 1338 without a record."
+note: "Dasharathadeva moved the Deva seat here from Bikrampur around 1280, an estimate."
 control:
 - start: 1281
   end: 1300
-  polity: deva_bengal
+  polity: deva_kingdom_bengal
   importance: 3
 - start: 1301
   end: 1323
@@ -18,6 +18,10 @@ control:
 - start: 1324
   end: 1337
   polity: delhi_sultanate
+  importance: 3
+- start: 1338
+  end: 1351
+  polity: sonargaon_sultanate
   importance: 3
 - start: 1352
   end: 1538

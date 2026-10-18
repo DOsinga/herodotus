@@ -33,7 +33,7 @@ control:
   importance: 3
 - start: 1231
   end: 1280
-  polity: deva_bengal
+  polity: deva_kingdom_bengal
   importance: 3
 - start: 1281
   end: null

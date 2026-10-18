@@ -5,7 +5,7 @@ wikipedia: https://en.wikipedia.org/wiki/Comilla
 point:
   latitude: 23.45
   longitude: 91.2
-note: "The Rata and Deva kings ruled from Devaparvata nearby. Between the Lakhnauti conquest and the rise of Tripura around 1400 the Tippera plains are assumed to have gone with Sonargaon; Fakhruddin Mubarak Shah's independent rule there from 1338 has no record. The plains passed from Tripura to the nawabs of Bengal in 1733."
+note: "The Rata kings, and later the kings of Pattikera, ruled from Devaparvata and Mainamati nearby. The Deva kings held the Comilla region until Fakhruddin Mubarak Shah of Sonargaon took it around 1340. The plains passed from Tripura to the nawabs of Bengal in 1733."
 control:
 - start: 650
   end: 750
@@ -24,24 +24,16 @@ control:
   polity: chandra_bengal
   importance: 2
 - start: 1051
-  end: 1149
-  polity: varman_bengal
+  end: 1230
+  polity: pattikera_kingdom
   importance: 2
-- start: 1150
-  end: 1199
-  polity: sena_kingdom
+- start: 1231
+  end: 1340
+  polity: deva_kingdom_bengal
   importance: 2
-- start: 1200
-  end: 1300
-  polity: deva_bengal
-  importance: 2
-- start: 1301
-  end: 1323
-  polity: lakhnauti_sultanate
-  importance: 2
-- start: 1324
-  end: 1337
-  polity: delhi_sultanate
+- start: 1341
+  end: 1351
+  polity: sonargaon_sultanate
   importance: 2
 - start: 1352
   end: 1399
