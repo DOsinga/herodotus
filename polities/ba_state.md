@@ -12,7 +12,7 @@ point:
   latitude: 29.5637
   longitude: 106.5504
 colors:
-  -1000: "#345eb2"
+  -1000: "#4934b2"
 note: "1000 BCE estimates the kingdom, outside Zhou control. Qin conquered it."
 transitions:
 - year: -316

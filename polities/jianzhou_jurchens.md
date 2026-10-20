@@ -21,7 +21,7 @@ point:
   latitude: 41.702
   longitude: 124.858
 colors:
-  1403: "#cd6651"
+  1403: "#274786"
 note: "Treats the several Jianzhou guards, whose chiefs often acted separately, as one chiefdom. Their seats moved repeatedly; the point is Hetu Ala, the Suksuhu valley seat of Nurhaci's grandfather Giocangga. Starts with the Jianzhou Guard of 1403 and ends when Nurhaci founded Fe Ala in 1587."
 transitions:
 - year: 1587

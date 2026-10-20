@@ -23,7 +23,9 @@ point:
   latitude: 36.2047
   longitude: 36.1817
 colors:
-  -312: "#278676"
+  -312: "#51b8cd"
+  -151: "#51b8cd"
+  -126: "#768627"
 note: "Starts with Seleucus' return to Babylon. Seleucia on the Tigris was the first capital. Tigranes of Armenia ruled Syria from 83 BCE until Lucullus restored Antiochus XIII in 69 BCE. Pompey ended it in 63 BCE."
 transitions:
 - year: -312

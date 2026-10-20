@@ -21,7 +21,7 @@ point:
   latitude: 53.794
   longitude: 12.176
 colors:
-  1621: "#572786"
+  1621: "#517acd"
 note: "Wallenstein held Mecklenburg as an imperial fief from 1628 to 1631, which is a gap."
 transitions:
 - year: 1695

@@ -21,7 +21,7 @@ point:
   latitude: 33.51
   longitude: 36.29
 colors:
-  -950: "#472786"
+  -950: "#cd51b8"
 note: "950 BCE estimates the kingdom from Rezon. Tiglath-Pileser III took Damascus."
 transitions:
 - year: -732

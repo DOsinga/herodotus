@@ -19,7 +19,7 @@ point:
   latitude: 47.457
   longitude: 8.744
 colors:
-  1250: "#349db2"
+  1250: "#9d34b2"
 note: "Ends with Rudolf of Habsburg's succession of 1264. The western lands of Hartmann V passed to his daughter Anna and the counts of Neu-Kyburg, which are not split out."
 transitions:
 - year: 1264

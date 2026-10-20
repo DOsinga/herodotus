@@ -19,9 +19,7 @@ point:
   latitude: 42.42
   longitude: 11.63
 colors:
-  -750: "#278637"
-  -534: "#278637"
-  -509: "#865727"
+  -750: "#278647"
 note: "750 estimates the Etruscan city state. Rome's Italian allies handed their war and foreign relations to Rome, so its defeat and alliance in 280 BCE count as absorption."
 transitions:
 - year: -280

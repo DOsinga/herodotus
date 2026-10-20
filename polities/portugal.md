@@ -21,6 +21,6 @@ point:
   latitude: 38.7253
   longitude: -9.15
 colors:
-  1910: "#b851cd"
+  1910: "#cd51b8"
 note: "Starts with the First Republic. Links the country article. Changes of regime are not split into separate records."
 ---

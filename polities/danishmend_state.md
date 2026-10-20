@@ -12,7 +12,7 @@ point:
   latitude: 39.7477
   longitude: 37.0179
 colors:
-  1075: "#8fcd51"
+  1075: "#cd517a"
 note: "The founding year is a conventional estimate for the state formed after Manzikert. Mehmed's death divided its government among the Sivas, Malatya and Kayseri branches; sources date this division to 1142 or 1143."
 transitions:
 - year: 1142

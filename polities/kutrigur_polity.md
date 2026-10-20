@@ -21,7 +21,7 @@ point:
   latitude: 47
   longitude: 35
 colors:
-  500: "#b851cd"
+  500: "#5166cd"
 note: "500 estimates the sixth-century governing community led by its own rulers such as Zabergan, not every people called Hun. The point is regional because its court was mobile. 568 follows Bayan's command of Kutrigur forces; this is taken as absorption into Avar government."
 transitions:
 - year: 568

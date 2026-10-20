@@ -21,9 +21,9 @@ point:
   latitude: 34.3967
   longitude: 64.515
 colors:
-  950: "#865727"
-  1154: "#865727"
-  1179: "#b8cd51"
+  950: "#a3cd51"
+  1121: "#a3cd51"
+  1146: "#51cd8f"
 note: "950 estimates the Shansabani chiefs of Ghur, who governed their mountains as Ghaznavid and Seljuk tributaries before taking the sultan's title in 1149; the legendary earlier genealogy is not followed. Ends in 1213, when the Khwarazmians removed the hereditary successor and installed their own candidate."
 transitions:
 - year: 1213

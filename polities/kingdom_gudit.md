@@ -19,7 +19,7 @@ point:
   latitude: 14.13
   longitude: 38.72
 colors:
-  961: "#88b234"
+  961: "#678627"
 note: "An estimate resting on tradition: one account has Gudit and her descendants ruling from about 960 until Mara Takla Haymanot overthrew the last of them in 1137. Where they ruled from is not known; the point is at Aksum, the town they took."
 transitions:
 - year: 1137

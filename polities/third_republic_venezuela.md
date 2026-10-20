@@ -20,7 +20,7 @@ point:
   latitude: 8.1379
   longitude: -63.5483
 colors:
-  1817: "#51cd51"
+  1817: "#51cd8f"
 transitions:
 - year: 1817
   kind: broke_away_from

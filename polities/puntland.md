@@ -22,6 +22,6 @@ point:
   latitude: 8.4
   longitude: 48.4667
 colors:
-  1998: "#862786"
+  1998: "#472786"
 note: "Has governed itself since 1998, when there was no national government. It does not seek independence and joined the federal system in 2012, but still runs its own affairs."
 ---

@@ -19,9 +19,7 @@ point:
   latitude: 17.3833
   longitude: 78.4011
 colors:
-  1501: "#278637"
-  1622: "#278637"
-  1647: "#862727"
+  1501: "#868627"
 note: "Sultan Quli governed Telangana from Golconda as a Bahmani governor from about 1501 while the sultans at Bidar had lost control; the record starts there rather than at his formal independence in 1518."
 transitions:
 - year: 1687

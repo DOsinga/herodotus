@@ -21,12 +21,8 @@ point:
   longitude: 6.0836
 colors:
   1250: "#8f51cd"
-  1419: "#8f51cd"
-  1444: "#cd518f"
-  1589: "#cd518f"
-  1614: "#a351cd"
-  1748: "#a351cd"
-  1773: "#862757"
+  1589: "#8f51cd"
+  1614: "#372786"
 note: "Before 1250 Aachen counts with the German kingdom. Ends with the French occupation of 1794. No article covers the free city itself, so the link goes to the city."
 transitions:
 - year: 1794

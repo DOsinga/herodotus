@@ -17,7 +17,7 @@ point:
   latitude: 30.044
   longitude: 31.236
 colors:
-  1805: "#51cdcd"
+  1805: "#cd51cd"
 note: "Ottoman in name, governed by Muhammad Ali and his successors. Ends with the British occupation of 1882, after which British officials effectively governed."
 transitions:
 - year: 1805

@@ -19,7 +19,7 @@ point:
   latitude: 21.712
   longitude: 72.993
 colors:
-  1736: "#518fcd"
+  1736: "#51cd8f"
 note: "No article covers the state; the link is the town, whose history section describes the nawabs. 1736 is the year the Bharuch article gives for the house becoming sovereign."
 transitions:
 - year: 1772

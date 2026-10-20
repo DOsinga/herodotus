@@ -23,11 +23,11 @@ point:
   latitude: 49.417
   longitude: 8.717
 colors:
-  1250: "#51cdcd"
-  1623: "#51cdcd"
-  1648: "#b8cd51"
-  1748: "#b8cd51"
-  1773: "#51cd66"
+  1250: "#278647"
+  1543: "#278647"
+  1568: "#51cd51"
+  1644: "#51cd51"
+  1669: "#51cd7a"
 note: "Gap for the Thirty Years' War: Bavarian troops took Heidelberg in 1622 and Bavaria governed the country until the Peace of Westphalia restored Charles Louis in 1648. Ends in 1777, when Elector Charles Theodore inherited Bavaria and governed the Palatinate from Munich."
 transitions:
 - year: 1622

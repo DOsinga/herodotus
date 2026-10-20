@@ -20,7 +20,9 @@ point:
   latitude: 45.156
   longitude: 10.792
 colors:
-  1115: "#863727"
+  1115: "#9d34b2"
+  1295: "#9d34b2"
+  1320: "#b23449"
 note: "The Bonacolsi lordship of 1272–1328, which governed through the commune, is included rather than given a record of its own."
 transitions:
 - year: 1328

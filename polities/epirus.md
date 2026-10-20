@@ -21,7 +21,7 @@ point:
   latitude: 39.165
   longitude: 20.9875
 colors:
-  -330: "#862727"
+  -330: "#cd517a"
 note: "The Molossian kingdom from 330 BCE and the Epirote League that replaced it in 231 BCE are one record. Rome sacked Epirus after Pydna."
 transitions:
 - year: -167

@@ -20,7 +20,7 @@ point:
   latitude: 40.507
   longitude: 43.572
 colors:
-  1072: "#864727"
+  1072: "#7a51cd"
 note: "Links the article on the Shaddadids, whose cadet line at Ani it covers. The Georgian occupations of 1124 to 1125 and 1161 to 1164 are spans of Georgia in the place history."
 transitions:
 - year: 1199

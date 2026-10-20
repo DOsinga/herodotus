@@ -19,7 +19,7 @@ point:
   latitude: 29.2753
   longitude: 82.1833
 colors:
-  1404: "#672786"
+  1404: "#862767"
 note: "1404 is the conventional date for Baliraja's accession. The kingdom has no article of its own, so the link goes to the district history."
 transitions:
 - year: 1789

@@ -21,7 +21,7 @@ point:
   latitude: 44.4161
   longitude: 12.2017
 colors:
-  476: "#278686"
+  476: "#862776"
 note: "Links Odoacer's article; no separate article covers the kingdom. Odoacer kept the western Roman administration and Senate in Italy, so the kingdom is treated as the Western Empire's successor."
 transitions:
 - year: 493

@@ -18,7 +18,7 @@ point:
   latitude: 3.5
   longitude: 103.4167
 colors:
-  1824: "#51cd51"
+  1824: "#372786"
 note: >-
   1824 follows the Anglo-Dutch Treaty, which broke up the Johor empire; the article dates self-rule
   from 1770 and formal independence from 1853. The sultanate proclaimed in 1881 continued the same

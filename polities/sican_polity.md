@@ -20,7 +20,7 @@ point:
   latitude: -6.481
   longitude: -79.523
 colors:
-  800: "#865727"
+  800: "#b2b234"
 note: "800 estimates the emergence of the Poma/Batán Grande political centre, distinct from dating the whole archaeological culture from 750. The royal state later moved to Túcume after the destruction of Batán Grande around 1100. Chimor conquered it around 1375. The culture article also covers the state's elite burials and government."
 transitions:
 - year: 1375

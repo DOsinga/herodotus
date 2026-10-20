@@ -15,8 +15,6 @@ colors:
   -400: "#274786"
   793: "#274786"
   818: "#276786"
-  1512: "#276786"
-  1537: "#b851cd"
 note: "400 BCE estimates the monumental governing centre, whose Classic rulers are represented in monuments and burials. It continued through the Postclassic rather than disappearing with the ninth-century collapse elsewhere. 1544 marks the beginning of Spanish colonial administration; subsequent habitation and resistance do not alone establish the old court's restoration."
 transitions:
 - year: 1544

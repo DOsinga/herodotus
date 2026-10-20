@@ -20,9 +20,7 @@ point:
   latitude: 50.4547
   longitude: 3.9525
 colors:
-  1250: "#678627"
-  1356: "#678627"
-  1381: "#73b234"
+  1250: "#762786"
 note: "Starts in 1250 following the simplification for the Holy Roman Empire. Shared its counts with Holland from 1299. Ends with the Treaty of Delft in 1433."
 transitions:
 - year: 1433

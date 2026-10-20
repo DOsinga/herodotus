@@ -12,7 +12,7 @@ point:
   latitude: 13.1578
   longitude: -61.225
 colors:
-  1979: "#762786"
+  1979: "#862757"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1979

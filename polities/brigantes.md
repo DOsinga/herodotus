@@ -21,7 +21,7 @@ point:
   latitude: 54.47
   longitude: -1.6
 colors:
-  -50: "#517acd"
+  -50: "#51b8cd"
 note: "Links the article on the people. 50 BCE estimates the confederation. Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. Rome conquered it after Cartimandua's fall."
 transitions:
 - year: 71

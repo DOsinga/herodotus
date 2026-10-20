@@ -20,7 +20,7 @@ point:
   latitude: 46.2197
   longitude: 7.0037
 colors:
-  888: "#862727"
+  888: "#867627"
 note: "Rudolph's separate royal government was formed after the breakup of the Carolingian realm. It joined Lower Burgundy under a united Burgundian government in 933, rather than remaining a parallel polity."
 transitions:
 - year: 933

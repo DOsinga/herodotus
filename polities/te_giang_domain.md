@@ -12,7 +12,7 @@ point:
   latitude: 20.945
   longitude: 105.932
 colors:
-  965: "#7334b2"
+  965: "#278627"
 note: "965 estimates the separate government's appearance during the warlord period. It ended with Đinh's defeat of Lã Đường by 968. The point represents Văn Giang rather than an exact court site; the ruler's biography is the nearest polity account."
 transitions:
 - year: 968

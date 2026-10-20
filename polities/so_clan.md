@@ -19,7 +19,7 @@ point:
   latitude: 34.2028
   longitude: 129.2878
 colors:
-  1467: "#578627"
+  1467: "#862776"
 note: "Covers the house as a Sengoku power from the Ōnin War to its submission during Hideyoshi's Kyushu campaign in 1587. Fuchū is modern Izuhara. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1467

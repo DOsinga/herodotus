@@ -23,9 +23,9 @@ point:
   latitude: 48.138
   longitude: 11.575
 colors:
-  1623: "#51cdcd"
-  1718: "#51cdcd"
-  1743: "#862737"
+  1623: "#51cd51"
+  1746: "#51cd51"
+  1771: "#b24934"
 note: "Gap for the Austrian occupation after Blenheim: from the Treaty of Ilbersheim in 1704 Austria governed Bavaria through its own administration until the Peace of Baden restored Max Emanuel in 1714. From 1777 it also included the Electoral Palatinate."
 transitions:
 - year: 1704

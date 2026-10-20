@@ -20,7 +20,7 @@ point:
   latitude: 49.99
   longitude: 36.23
 colors:
-  1036: "#5166cd"
+  1036: "#7a51cd"
 note: "Both dates are estimates: 1036 follows the end of the Kimek Khanate and 1240 the Mongol conquest of the western steppe. The point is approximate; the confederation had no capital."
 transitions:
 - year: 1240

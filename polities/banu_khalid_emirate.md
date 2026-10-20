@@ -19,7 +19,7 @@ point:
   latitude: 25.41
   longitude: 49.58
 colors:
-  1670: "#5151cd"
+  1670: "#518fcd"
 note: "No article covers the emirate as a state, so the link is to the tribe. Starts with the expulsion of the Ottomans from al-Hasa in 1670; ends with the Saudi conquest, usually dated 1795. The Banu Khalid governed al-Hasa again under Egyptian and Ottoman protection after 1818; that later rule is not part of this record."
 transitions:
 - year: 1795

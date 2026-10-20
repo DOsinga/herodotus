@@ -20,7 +20,9 @@ point:
   latitude: 27.722
   longitude: 107.031
 colors:
-  876: "#5166cd"
+  876: "#5151cd"
+  1253: "#5151cd"
+  1278: "#cd51cd"
 note: "The Yang kept their own army and government under Song, Yuan and Ming titles, so the record runs to the Ming conquest of 1600."
 transitions:
 - year: 1600

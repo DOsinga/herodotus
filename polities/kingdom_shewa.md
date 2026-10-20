@@ -21,7 +21,7 @@ point:
   latitude: 9.6077
   longitude: 39.7362
 colors:
-  1682: "#cd7a51"
+  1682: "#cd5151"
 note: "1682 follows the estimated start of Negasi Krestos's rule in Menz. Shewa's rulers owed formal allegiance to the emperors at Gondar but governed themselves. The gap covers Tewodros's rule from 1855 to Menelik's escape in 1865; Menelik's submission to Yohannes IV in 1878 left him governing Shewa, and the kingdom ends when he became emperor in 1889."
 transitions:
 - year: 1855

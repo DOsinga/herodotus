@@ -24,7 +24,9 @@ point:
   latitude: 46.58
   longitude: 0.34
 colors:
-  660: "#3449b2"
+  660: "#51b8cd"
+  862: "#51b8cd"
+  887: "#51cd51"
 note: "660 estimates Felix's first ducal government. Frankish conquest in 769 ends that independent court; the Carolingian subkingdom and appointed officials are not automatically treated as separate control. The later hereditary ducal government emerged with Ranulf around 887. French and English personal unions did not alone erase Eleanor's own rule. Her death in 1204 ends this local court; subsequent English government through appointed seneschals is not a continuing autonomous duchy."
 transitions:
 - year: 769

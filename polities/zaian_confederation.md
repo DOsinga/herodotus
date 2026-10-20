@@ -21,7 +21,7 @@ point:
   latitude: 32.9394
   longitude: -5.6675
 colors:
-  1728: "#51cdcd"
+  1728: "#cd51cd"
 note: "The start is an estimate, following the end of Moulay Ismail's garrisons; the article dates the confederation itself from Moha ou Hammou's appointment in 1877. The resistance after the fall of Khénifra in 1914 is left out."
 transitions:
 - year: 1914

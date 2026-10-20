@@ -21,7 +21,7 @@ point:
   latitude: 4.8903
   longitude: 114.9422
 colors:
-  1984: "#768627"
+  1984: "#278637"
 note: "Before independence it was a British-protected state, which does not count as governing itself. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1984

@@ -20,7 +20,7 @@ point:
   latitude: 33.7258
   longitude: 35.9297
 colors:
-  -85: "#578627"
+  -85: "#6651cd"
 note: "Dates are estimates: the principality of Ptolemy son of Mennaeus at Chalcis is counted from about 85 BCE, and it ends when Augustus gave Zenodorus's lands (Paneas, Trachonitis) to Herod in 20 BCE. The later Herodian princes of Chalcis are not included."
 transitions:
 - year: -20

@@ -23,6 +23,8 @@ point:
   longitude: 35.86
 colors:
   -1200: "#8fcd51"
+  -110: "#8fcd51"
+  -85: "#cd8f51"
 note: "Links the article on the island city. 1200 BCE estimates the city kingdom. Under Assyrian, Babylonian and Persian overlords it paid tribute and sent its ships to their wars, but its own kings governed and could refuse a campaign, so like Crimea under the Ottomans it stays active. It submitted to Alexander. In 259 BCE the Seleucids granted it autonomy, from which the city dated its own era, and it governed itself until Pompey made Syria a Roman province."
 transitions:
 - year: -332

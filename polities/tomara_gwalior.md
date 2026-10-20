@@ -19,7 +19,7 @@ point:
   latitude: 26.2125
   longitude: 78.1775
 colors:
-  1394: "#862757"
+  1394: "#cd7a51"
 note: "The start is the Tomara takeover of Gwalior in the 1390s, dated 1394 to match the gap in the Delhi Sultanate's hold on the town."
 transitions:
 - year: 1394

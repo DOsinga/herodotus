@@ -21,7 +21,7 @@ point:
   latitude: 50.0794
   longitude: 12.3706
 colors:
-  1277: "#862776"
+  1277: "#cdcd51"
 note: "Wenceslaus II's tenure of 1291 to 1304 is a gap. Ends with the pledge to John of Bohemia in 1322; the town kept a large autonomy within Bohemia afterwards."
 transitions:
 - year: 1291

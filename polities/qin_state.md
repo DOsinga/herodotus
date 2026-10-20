@@ -17,7 +17,7 @@ point:
   latitude: 34.3299
   longitude: 108.7088
 colors:
-  -770: "#cda351"
+  -770: "#cd517a"
 note: "Starts in 770 BCE, when Qin was made a state for escorting the Zhou court east. Yong was the capital before 383 BCE and Yueyang until 350 BCE. Its unification of China in 221 BCE begins the Qin dynasty record."
 transitions:
 - year: -221

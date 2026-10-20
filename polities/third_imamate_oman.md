@@ -19,6 +19,6 @@ point:
   latitude: 22.933
   longitude: 57.533
 colors:
-  897: "#678627"
+  897: "#866727"
 note: "Links the article covering all the Omani imamates. The end is an estimate: Wikipedia dates this imamate to the 940s, after which it faded rather than fell."
 ---

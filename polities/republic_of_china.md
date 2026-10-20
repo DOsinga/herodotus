@@ -12,8 +12,6 @@ point:
   latitude: 32.0608
   longitude: 118.7789
 colors:
-  1912: "#51cdcd"
-  1989: "#51cdcd"
-  2014: "#51cd51"
+  1912: "#867627"
 note: "The government moved to Taiwan in 1949 and continues there. The military cliques of 1916–1928 fought over the Beiyang government in Beijing and are kept in this record; the rival southern government at Guangzhou has its own record."
 ---

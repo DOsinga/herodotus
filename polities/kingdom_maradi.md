@@ -19,7 +19,7 @@ point:
   latitude: 13.4833
   longitude: 7.1
 colors:
-  1807: "#cdb851"
+  1807: "#cd7a51"
 note: "1807 follows the Fulani capture of Katsina, after which its rulers withdrew north; they settled at Maradi around 1819. Ends with the French conquest of 1899."
 transitions:
 - year: 1899

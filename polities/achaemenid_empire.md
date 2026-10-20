@@ -21,7 +21,7 @@ point:
   latitude: 29.935
   longitude: 52.89
 colors:
-  -550: "#cd51cd"
+  -550: "#7a51cd"
 note: "Susa and Babylon were also capitals. Ends with Darius III's death."
 transitions:
 - year: -330

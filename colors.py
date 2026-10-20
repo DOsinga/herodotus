@@ -7,7 +7,9 @@ from collections import defaultdict
 from database import ROOT, is_active, load_places, load_polities, resolved_control
 
 STEP = 25
-REACH_KM = 400
+REACH_KM = (0, 50, 120, 250, 500)  # must match REACH_KM in static/territory.js
+TOUCHING = 0.8
+CELL = 4
 PRESENT = 2025
 LIGHTNESS = (0.34, 0.45, 0.56)
 COLORS = [(hue, light) for hue in range(0, 360, 10) for light in LIGHTNESS]
@@ -35,17 +37,30 @@ def distance(a, b):
     return 12742 * math.asin(math.sqrt(h))
 
 
+def positions_at(year, active, by_id, rows, points):
+    positions = defaultdict(list)
+    for place, start, end, polity_id, importance in rows:
+        if polity_id in active and start <= year and (end is None or year <= end):
+            positions[polity_id].append(points[place] + (REACH_KM[importance],))
+    for polity_id in active:
+        if not positions[polity_id]:
+            point = by_id[polity_id]["point"]
+            positions[polity_id].append((point["latitude"], point["longitude"], REACH_KM[2]))
+    return positions
+
+
 def neighbours(positions):
     cells = defaultdict(list)
     for polity_id, points in positions.items():
         for point in points:
-            cells[(int(point[0] // 4), int(point[1] // 4))].append((polity_id, point))
+            cells[(int(point[0] // CELL), int(point[1] // CELL))].append((polity_id, point))
     result = defaultdict(set)
+    span = range(-2, 3)
     for (x, y), entries in cells.items():
-        nearby = [entry for dx in (-1, 0, 1) for dy in (-1, 0, 1) for entry in cells.get((x + dx, y + dy), [])]
+        nearby = [entry for dx in span for dy in span for entry in cells.get((x + dx, y + dy), [])]
         for a, pa in entries:
             for b, pb in nearby:
-                if a != b and b not in result[a] and distance(pa, pb) < REACH_KM:
+                if a != b and b not in result[a] and distance(pa, pb) < TOUCHING * (pa[2] + pb[2]):
                     result[a].add(b)
                     result[b].add(a)
     return result
@@ -79,10 +94,7 @@ def assign():
     last_move = {}
     for year in years:
         active = [p["id"] for p in polities if is_active(p, year)]
-        positions = {pid: [(by_id[pid]["point"]["latitude"], by_id[pid]["point"]["longitude"])] for pid in active}
-        for place, start, end, polity_id, _ in rows:
-            if polity_id in positions and start <= year and (end is None or year <= end):
-                positions[polity_id].append(points[place])
+        positions = positions_at(year, set(active), by_id, rows, points)
         touching = neighbours(positions)
         for pid in active:
             if pid in color:
@@ -110,10 +122,7 @@ def assign():
     clashes = 0
     for year in range(first - first % STEP, PRESENT + 1, STEP):
         active = [p["id"] for p in polities if is_active(p, year)]
-        positions = {pid: [(by_id[pid]["point"]["latitude"], by_id[pid]["point"]["longitude"])] for pid in active}
-        for place, start, end, polity_id, _ in rows:
-            if polity_id in positions and start <= year and (end is None or year <= end):
-                positions[polity_id].append(points[place])
+        positions = positions_at(year, set(active), by_id, rows, points)
         for pid, others in neighbours(positions).items():
             clashes += sum(1 for other in others if pid < other and separation(color_at(keys[pid], year), color_at(keys[other], year)) < 0.6)
     return keys, clashes

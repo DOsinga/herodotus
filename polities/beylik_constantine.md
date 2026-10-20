@@ -19,7 +19,7 @@ point:
   latitude: 36.35
   longitude: 6.6
 colors:
-  1830: "#672786"
+  1830: "#572786"
 note: "Only the years after the fall of the Regency of Algiers are recorded, because before 1830 the beylik was a province governed by the dey's appointed beys. Ahmed Bey's resistance in the Aurès after 1837 had no fixed seat and is not counted."
 transitions:
 - year: 1830

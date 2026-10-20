@@ -23,8 +23,6 @@ point:
   longitude: 27.5586
 colors:
   1101: "#3488b2"
-  1213: "#3488b2"
-  1238: "#cd5166"
 note: "Lithuania claimed Minsk from 1242, but the local princes still governed; 1326 is the year a ruler of Minsk appears as Gediminas's man. The Kievan conquest of the Polotsk lands lasted from 1129 to Mstislav's death in 1132."
 transitions:
 - year: 1129

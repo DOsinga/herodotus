@@ -23,7 +23,7 @@ point:
   latitude: 35.95
   longitude: 39.01
 colors:
-  2014: "#372786"
+  2014: "#578627"
 note: "Governed a large territory in Iraq and Syria from the 2014 proclamation until it lost its last territory in 2019."
 transitions:
 - year: 2014

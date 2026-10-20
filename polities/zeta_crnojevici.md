@@ -20,7 +20,7 @@ point:
   latitude: 42.3906
   longitude: 18.9142
 colors:
-  1451: "#3434b2"
+  1451: "#272786"
 transitions:
 - year: 1496
   kind: absorbed_into

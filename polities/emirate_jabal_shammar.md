@@ -12,7 +12,7 @@ point:
   latitude: 27.517
   longitude: 41.683
 colors:
-  1836: "#cd7a51"
+  1836: "#278647"
 note: "Covers the Rashidi emirate from 1836; the earlier Âl Ali rulers that Wikipedia traces to about 1500 need their own look."
 transitions:
 - year: 1921

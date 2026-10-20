@@ -21,9 +21,7 @@ point:
   latitude: 29.3697
   longitude: 47.9783
 colors:
-  1752: "#cd51a3"
-  1827: "#cd51a3"
-  1852: "#cd7a51"
+  1752: "#862767"
 note: "No article covers the sheikhdom before the British agreement, so the link is to the history of Kuwait. 1752 is the conventional date for Sabah I's selection. The Ottoman title accepted in 1871 did not bring Ottoman officials, so the sheikhdom stays active until the Anglo-Kuwaiti Agreement of 1899."
 transitions:
 - year: 1899

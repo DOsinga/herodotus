@@ -20,7 +20,7 @@ point:
   latitude: 37.3894
   longitude: 46.2378
 colors:
-  1122: "#278667"
+  1122: "#51cdcd"
 note: "Both dates follow the article's approximate range of 1122 to 1225. The Eldiguzid span of 1221 to 1224 in Maragheh's history reflects the confusion after the Mongol sack."
 transitions:
 - year: 1225

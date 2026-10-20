@@ -21,6 +21,6 @@ point:
   latitude: 43.5
   longitude: 46.5
 colors:
-  500: "#cd6651"
+  500: "#b23488"
 note: "500 estimates the governing community represented by Balaq and Queen Boareks, whose own army and foreign alliances are described in sixth-century accounts. 560 estimates its destruction and dispersal under Avar pressure. Later Sabir mercenary units and ethnic names are not automatically the same state. The point represents a mobile court's region."
 ---

@@ -19,7 +19,7 @@ point:
   latitude: 18.8246
   longitude: 95.2222
 colors:
-  1482: "#88b234"
+  1482: "#b29d34"
 note: "Kept active after the Shan Confederation captured King Bayin Htwe in 1532, because his son Narapati went on ruling Prome and was only a nominal vassal of Confederation-held Ava."
 transitions:
 - year: 1482

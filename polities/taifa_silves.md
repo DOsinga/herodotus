@@ -21,9 +21,7 @@ point:
   latitude: 37.19
   longitude: -8.44
 colors:
-  1027: "#5166cd"
-  1120: "#5166cd"
-  1145: "#cd5151"
+  1027: "#275786"
 note: "Two periods: the Banu Muzayn kingdom, taken by Seville in 1063, and the taifa of 1145–1150, taken by the Almohads."
 transitions:
 - year: 1063

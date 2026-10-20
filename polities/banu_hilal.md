@@ -21,7 +21,7 @@ point:
   latitude: 35.6781
   longitude: 10.0963
 colors:
-  1057: "#51cdcd"
+  1057: "#3473b2"
 note: "Stands for the Hilali tribes of the Ifriqiyan plains; the towns that had their own rulers have separate records. Starts with the sack of Kairouan in 1057 and ends with the Almohad conquest."
 transitions:
 - year: 1159

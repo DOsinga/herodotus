@@ -21,7 +21,7 @@ point:
   latitude: 36.8065
   longitude: 10.1815
 colors:
-  1059: "#34b249"
+  1059: "#862747"
 note: "The start is the appointment of Abd al-Haqq, dated 1058 or 1059."
 transitions:
 - year: 1128

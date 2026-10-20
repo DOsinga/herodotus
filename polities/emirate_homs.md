@@ -20,7 +20,7 @@ point:
   latitude: 34.7308
   longitude: 36.7094
 colors:
-  1097: "#865727"
+  1097: "#51a3cd"
 note: "Links the article on its first emir. Starts when Janah ad-Dawla broke with Ridwan of Aleppo in 1097; after his murder in 1103 Qiraja and his son Khirkhan held Homs until the Burids took it in 1135 (see the article on Mu'in ad-Din Unur)."
 transitions:
 - year: 1135

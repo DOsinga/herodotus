@@ -22,9 +22,7 @@ point:
   latitude: 39.1325
   longitude: 27.1842
 colors:
-  -282: "#862757"
-  -200: "#862757"
-  -175: "#b25e34"
+  -282: "#cdcd51"
 note: "Attalus III left the kingdom to Rome."
 transitions:
 - year: -282

@@ -21,7 +21,7 @@ point:
   latitude: 31.66
   longitude: 45.89
 colors:
-  -2900: "#3449b2"
+  -2900: "#b851cd"
 note: "Lugalzagesi began as its ruler before taking Uruk and ruling from there."
 transitions:
 - year: -2350

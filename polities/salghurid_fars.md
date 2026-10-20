@@ -20,7 +20,7 @@ point:
   latitude: 29.61
   longitude: 52.5425
 colors:
-  1148: "#cd518f"
+  1148: "#34b25e"
 note: "1148 is Sunqur's seizure of Shiraz. Tribute to the Mongols did not end the atabegs' own government. It ends in 1282, when the Ilkhan's officials took over Fars in the name of Abish Khatun, the last Salghurid ruler."
 transitions:
 - year: 1148

@@ -20,7 +20,7 @@ point:
   latitude: 45.45
   longitude: 8.62
 colors:
-  1097: "#274786"
+  1097: "#278637"
 note: "Start estimated where imperial government gave way to the consuls. Periods of Milanese overlordship before 1332, when Novara still governed itself, are included. The record links the city's article."
 transitions:
 - year: 1332

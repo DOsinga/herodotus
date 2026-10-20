@@ -21,7 +21,7 @@ point:
   latitude: 42.3894
   longitude: 18.9247
 colors:
-  1910: "#517acd"
+  1910: "#478627"
 note: "Ends with the Austro-Hungarian occupation of 1916; it never governed again before the 1918 union with Serbia."
 transitions:
 - year: 1916

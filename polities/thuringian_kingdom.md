@@ -12,7 +12,7 @@ point:
   latitude: 51.196
   longitude: 11.602
 colors:
-  450: "#cd6651"
+  450: "#b2b234"
 note: "450 estimates the fifth-century kingdom's emergence; Scithingi, modern Burgscheidungen, is a traditional royal-seat identification rather than a proven fixed capital. 531 follows the conventional Frankish conquest date, sometimes given as 532. Links the people article, which covers their kingdom."
 transitions:
 - year: 531

@@ -23,7 +23,7 @@ point:
   latitude: 39.862
   longitude: -4.027
 colors:
-  418: "#51cd51"
+  418: "#34b234"
 note: "Gap for Theodoric's direct Ostrogothic administration through his officials from 511 to 526; Amalaric then governed in his own right. The main Spanish kingdom fell in 711, but the royal government under Achila and Ardo survived in the northeast and Septimania until 721. Toledo represents the main sixth- and seventh-century seat, not the original Toulouse or final Narbonne court."
 transitions:
 - year: 511

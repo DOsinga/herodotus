@@ -20,7 +20,7 @@ point:
   latitude: 26.85
   longitude: 80.95
 colors:
-  1722: "#51cd8f"
+  1722: "#51cdcd"
 note: "Ends with the 1801 subsidiary treaty with the East India Company; the Company annexed it outright in 1856. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1722

@@ -23,7 +23,7 @@ point:
   latitude: 39.767
   longitude: 64.423
 colors:
-  1785: "#cd517a"
+  1785: "#cd7a51"
 note: "Russia made it a protectorate in 1873, taking over its foreign relations while the emir governed at home, so it counts as absorbed. It governed itself again after the Russian Revolution until the Red Army overthrew the last emir in 1920."
 transitions:
 - year: 1873

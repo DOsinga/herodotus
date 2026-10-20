@@ -19,7 +19,7 @@ point:
   latitude: 17.9569
   longitude: 79.6158
 colors:
-  1336: "#cd5166"
+  1336: "#862786"
 note: "The record starts with the capture of Warangal in 1336; Prolaya Nayaka's earlier rule from Rekapalle, from about 1330, is not counted separately."
 transitions:
 - year: 1368

@@ -20,7 +20,7 @@ point:
   latitude: 35.185
   longitude: 33.9
 colors:
-  688: "#278627"
+  688: "#478627"
 note: "Links the article on the later Byzantine theme, which opens with the condominium; History of Cyprus covers it too. Brief Arab and Byzantine occupations are not shown."
 transitions:
 - year: 965

@@ -19,7 +19,7 @@ point:
   latitude: 15.384
   longitude: -15.238
 colors:
-  1549: "#862786"
+  1549: "#cd7a51"
 note: "The Denianke of Futa Toro claimed Jolof as a vassal in the later sixteenth century, but the article describes this as largely nominal. Ends with the French expulsion of Buurba Alboury Ndiaye in 1890."
 transitions:
 - year: 1890

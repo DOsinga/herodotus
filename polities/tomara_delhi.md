@@ -20,7 +20,7 @@ point:
   latitude: 28.52
   longitude: 77.18
 colors:
-  950: "#274786"
+  950: "#276786"
 note: "The start is an estimate: sources say only that the Tomaras became independent as Pratihara power declined in the tenth century. The end matches the Chahamana capture of Delhi, dated to the 1150s. Delhi was the seat from about 1052; the earlier seat is not known."
 transitions:
 - year: 1156

@@ -22,6 +22,8 @@ point:
   longitude: 66.589
 colors:
   1666: "#a3cd51"
+  1833: "#a3cd51"
+  1858: "#51cd8f"
 note: >-
   The British capture of Kalat in 1839 and the short reign of a khan they installed are not treated
   as a gap. The first period ends with the treaty of 1876, which made it a protected state. The

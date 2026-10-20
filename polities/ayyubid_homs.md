@@ -22,7 +22,7 @@ point:
   latitude: 34.7308
   longitude: 36.7094
 colors:
-  1179: "#278647"
+  1179: "#278676"
 note: "Links the article on its last emir, al-Ashraf Musa, as no article covers the emirate itself. Saladin granted Homs to Shirkuh's descendants in 1179; the line ended with al-Ashraf Musa's death in 1262. An-Nasir Yusuf of Aleppo held Homs from 1248 until the Mongol invasion of 1260."
 transitions:
 - year: 1248

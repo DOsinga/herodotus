@@ -19,7 +19,7 @@ point:
   latitude: 10.787
   longitude: 79.138
 colors:
-  1674: "#6651cd"
+  1674: "#cd517a"
 note: >-
   Ends with the treaty of 1799, after which the Company governed the kingdom; the rajas kept their
   title until 1855.

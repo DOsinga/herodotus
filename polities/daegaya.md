@@ -12,7 +12,7 @@ point:
   latitude: 35.727
   longitude: 128.263
 colors:
-  42: "#cd8f51"
+  42: "#862727"
 note: "42 is the traditional foundation date; the royal government is securely attested by King Haji's embassy to Southern Qi in 479. This Goryeong kingdom is distinct from the similarly named Goryeong Gaya at Sangju."
 transitions:
 - year: 562

@@ -19,7 +19,7 @@ point:
   latitude: 43.2567
   longitude: 17.8867
 colors:
-  1435: "#672786"
+  1435: "#cda351"
 note: "Starts in 1435, when Stjepan Vukčić Kosača inherited his lands and began to act independently of the Bosnian crown; the ducal title dates from 1448."
 transitions:
 - year: 1482

@@ -21,6 +21,6 @@ point:
   latitude: 35.6889
   longitude: 51.3897
 colors:
-  1979: "#8fcd51"
+  1979: "#51cd8f"
 note: "The Islamic Republic. Links the country article. Changes of regime are not split into separate records."
 ---

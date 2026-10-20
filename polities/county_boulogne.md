@@ -20,7 +20,7 @@ point:
   latitude: 50.7264
   longitude: 1.6147
 colors:
-  964: "#5166cd"
+  964: "#7acd51"
 note: "Starts with Arnulf II, Adelolf's son, in 964. Ends with Bouvines in 1214; the later counts held Boulogne under the crown until it joined the royal domain in 1477."
 transitions:
 - year: 1214

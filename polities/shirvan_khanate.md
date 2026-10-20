@@ -22,7 +22,7 @@ point:
   latitude: 40.631
   longitude: 48.641
 colors:
-  1761: "#278637"
+  1761: "#3449b2"
 note: "1761 follows Wikipedia's date for the khanate. Fath Ali Khan of Quba governed Shirvan from 1768 until his death in 1789, which is the gap. Ends with Mustafa Khan's acceptance of Russian protection in 1805; Russia abolished the khanate in 1820."
 transitions:
 - year: 1768

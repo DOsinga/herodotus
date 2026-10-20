@@ -19,7 +19,7 @@ point:
   latitude: 24.72
   longitude: 80.19
 colors:
-  1675: "#a3cd51"
+  1675: "#7acd51"
 note: "The start is Chhatrasal's choice of Panna as his capital. The end in 1807 is the first British sanad confirming the raja under Company protection; the article dates it only to the early nineteenth century. The lands Chhatrasal left to his other sons are not separated."
 transitions:
 - year: 1807

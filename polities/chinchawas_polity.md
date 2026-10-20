@@ -21,6 +21,6 @@ point:
   latitude: -9.5
   longitude: -77.68
 colors:
-  400: "#7acd51"
+  400: "#cdb851"
 note: "400–1000 estimates the local governing community studied by George Lau, with elite ancestor cults, feasting and a strategic position above a coast-highland route. Its precise territorial extent and endpoint are uncertain. Links the broader archaeological history; the point is approximate. Wari-style goods are not taken as proof of direct annexation."
 ---

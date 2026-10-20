@@ -23,7 +23,9 @@ point:
   latitude: 53.65
   longitude: 13.2
 colors:
-  789: "#578627"
+  789: "#372786"
+  955: "#372786"
+  980: "#cd518f"
 note: "789 and 1057 estimate the separate governing phases around the Veletian collapse and Lutician civil war. The point represents the Tollense valley rather than a documented capital. 1127 estimates incorporation during Lothar's campaigns against the Redarian and Tollensian territory."
 transitions:
 - year: 983

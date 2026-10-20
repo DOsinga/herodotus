@@ -20,7 +20,7 @@ point:
   latitude: 17.1489
   longitude: 42.6258
 colors:
-  1907: "#274786"
+  1907: "#378627"
 note: "Ends with the Treaty of Mecca of 1926, which handed Asir's foreign relations to Ibn Saud, rather than the formal annexation of 1934."
 transitions:
 - year: 1926

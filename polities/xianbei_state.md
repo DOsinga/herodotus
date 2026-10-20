@@ -20,6 +20,6 @@ point:
   latitude: 40.9
   longitude: 114.9
 colors:
-  156: "#51cd7a"
+  156: "#51cda3"
 note: "Links the Xianbei article. 156 estimates Tanshihuai's union; it broke up after his death about 181 and revived under Kebineng until his murder in 235. The point is approximate."
 ---

@@ -19,7 +19,7 @@ point:
   latitude: 26.19
   longitude: 91.73
 colors:
-  1581: "#51cda3"
+  1581: "#cdcd51"
 note: "The capital was at Barnagar until Raghudev moved to North Guwahati in the 1590s; the point uses the later seat."
 transitions:
 - year: 1581

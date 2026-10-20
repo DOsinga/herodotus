@@ -21,7 +21,7 @@ point:
   latitude: 51.755
   longitude: -0.336
 colors:
-  -50: "#278637"
+  -50: "#868627"
 note: "Links the article on the people. 50 BCE estimates the kingdom of Cassivellaunus' successors; Cunobelinus ruled from Camulodunon. Ends with the Roman invasion."
 transitions:
 - year: 43

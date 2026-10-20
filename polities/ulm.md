@@ -19,7 +19,9 @@ point:
   latitude: 48.3986
   longitude: 9.9911
 colors:
-  1250: "#278676"
+  1250: "#cd5151"
+  1540: "#cd5151"
+  1565: "#3449b2"
 note: "Starts with the end of royal government in 1250; Ulm's imperial status was confirmed in 1274. Ends with the Bavarian annexation of 1803."
 transitions:
 - year: 1803

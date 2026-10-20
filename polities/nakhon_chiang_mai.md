@@ -19,7 +19,7 @@ point:
   latitude: 18.7883
   longitude: 98.9853
 colors:
-  1775: "#276786"
+  1775: "#274786"
 note: >-
   1775 follows the Siamese capture of Chiang Mai from Burma under Taksin. The tributary rulers
   governed their own lands and fought the Burmese on their own account, so the state counts as active

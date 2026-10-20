@@ -20,7 +20,7 @@ point:
   latitude: 28.683
   longitude: 115.858
 colors:
-  616: "#9d34b2"
+  616: "#345eb2"
 note: "Begins when Lin took command of Cao Shiqi's territorial rebellion in 616, before proclaiming Chu in January 617. The court later moved to Nankang. Ends with Lin's surrender and final unsuccessful local resistance in 622. Links his biography."
 transitions:
 - year: 616

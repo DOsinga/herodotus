@@ -21,7 +21,7 @@ point:
   latitude: 34.973
   longitude: 128.323
 colors:
-  300: "#8fcd51"
+  300: "#868627"
 note: "300 estimates formation from the third–fourth-century Gaya settlement sequence; 562 is an upper-bound estimate for the Silla absorption of the remaining Gaya states. The separate Goseong centre is known from tradition and archaeology, not a documented complete royal chronology. Links the confederacy article because the individual article is unavailable."
 transitions:
 - year: 562

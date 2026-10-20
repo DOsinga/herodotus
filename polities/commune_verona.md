@@ -22,7 +22,9 @@ point:
   latitude: 45.439
   longitude: 10.993
 colors:
-  1136: "#cd51b8"
+  1136: "#cd517a"
+  1234: "#cd517a"
+  1259: "#b851cd"
 note: "The gap is Ezzelino da Romano's lordship of 1226–1259."
 transitions:
 - year: 1226

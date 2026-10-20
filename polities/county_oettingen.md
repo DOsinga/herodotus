@@ -19,7 +19,11 @@ point:
   latitude: 48.9528
   longitude: 10.6064
 colors:
-  1250: "#b27334"
+  1250: "#273786"
+  1325: "#273786"
+  1350: "#866727"
+  1781: "#866727"
+  1806: "#b23473"
 note: "Links the article on the family, which covers the county. The Oettingen-Oettingen, Oettingen-Wallerstein and Oettingen-Spielberg lines are not split out. Ends with mediatisation in 1806."
 transitions:
 - year: 1806

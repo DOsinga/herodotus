@@ -20,7 +20,7 @@ point:
   latitude: 33.3702
   longitude: 104.9604
 colors:
-  443: "#3449b2"
+  443: "#5151cd"
 note: "Links the Chouchi article, which covers all the Yang states. The record joins the kings of Wudu, 443 to 477, with their successors at Wuxing, who held Wudu until 506; the Yinping branch from 477 and Wuxing's revival from 534 are not recorded. The point is approximate."
 transitions:
 - year: 506

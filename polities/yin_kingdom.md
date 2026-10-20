@@ -21,7 +21,7 @@ point:
   latitude: 27.0389
   longitude: 118.3217
 colors:
-  943: "#868627"
+  943: "#478627"
 note: "Wang Yanzheng established a separate northern Fujian government. He reunited it with Min on taking the Min throne in 945, before Southern Tang conquered the reunited court later that year."
 transitions:
 - year: 943

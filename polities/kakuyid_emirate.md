@@ -19,8 +19,6 @@ point:
   latitude: 32.6539
   longitude: 51.666
 colors:
-  1008: "#51cd8f"
-  1085: "#51cd8f"
-  1110: "#5166cd"
+  1008: "#a3cd51"
 note: "1008 is the earliest firm date for Ala al-Dawla's governorship; he may have held Isfahan from 1003. The seat moved to Yazd in 1051; the point stays at Isfahan. 1141 is an estimate."
 ---

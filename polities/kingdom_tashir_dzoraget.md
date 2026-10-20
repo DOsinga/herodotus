@@ -19,7 +19,7 @@ point:
   latitude: 41.0128
   longitude: 44.4125
 colors:
-  979: "#b2349d"
+  979: "#862767"
 note: "The Kiurikians held Tavush and Matsnaberd as a minor kingdom until the Mongol period; those last decades are left out."
 transitions:
 - year: 1118

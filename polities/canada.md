@@ -19,7 +19,7 @@ point:
   latitude: 45.4247
   longitude: -75.695
 colors:
-  1867: "#866727"
+  1867: "#478627"
 note: "Starts with Confederation in 1867: like the other dominions, its own responsible government ran its affairs, so Britain's control of foreign policy until the 1920s does not make it a protected state. Provinces count from the year they joined. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1867

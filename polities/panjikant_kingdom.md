@@ -21,7 +21,7 @@ point:
   latitude: 39.488
   longitude: 67.625
 colors:
-  550: "#862786"
+  550: "#862727"
 note: "550 estimates the Sogdian court before the late rulers Chukin Chur Bilga and Divashtich. Ends with the Arab destruction of Divashtich's government, not his claim to all Sogdia or Samarkand. Links Divashtich's biography; Old Panjikant is the archaeological seat."
 transitions:
 - year: 722

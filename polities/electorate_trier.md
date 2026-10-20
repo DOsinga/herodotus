@@ -20,7 +20,9 @@ point:
   latitude: 49.757
   longitude: 6.641
 colors:
-  1250: "#66cd51"
+  1250: "#cd8f51"
+  1587: "#cd8f51"
+  1612: "#cdb851"
 note: "The electors governed from Koblenz and Ehrenbreitstein in later centuries. France took the lands west of the Rhine, Trier itself included, in 1794; the electorate kept its lands east of the Rhine until the 1803 secularisation gave them to Nassau-Weilburg."
 transitions:
 - year: 1803

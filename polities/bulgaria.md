@@ -12,6 +12,8 @@ point:
   latitude: 42.7
   longitude: 23.33
 colors:
-  1908: "#578627"
+  1908: "#a3cd51"
+  1983: "#a3cd51"
+  2008: "#862747"
 note: "Starts with the independent Tsardom. Links the country article. Changes of regime are not split into separate records."
 ---

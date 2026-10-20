@@ -12,7 +12,9 @@ point:
   latitude: 30.0444
   longitude: 31.2357
 colors:
-  1250: "#278647"
+  1250: "#51cd7a"
+  1384: "#51cd7a"
+  1409: "#b2345e"
 transitions:
 - year: 1517
   kind: absorbed_into

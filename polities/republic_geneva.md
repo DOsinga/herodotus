@@ -22,9 +22,9 @@ point:
   latitude: 46.2044
   longitude: 6.1432
 colors:
-  1534: "#378627"
-  1789: "#378627"
-  1814: "#51cd51"
+  1534: "#862757"
+  1788: "#862757"
+  1813: "#768627"
 note: "Starts when the citizens ended the prince-bishop's and Savoy's authority in 1534; before that Geneva was a prince-bishopric under Savoyard influence and has no record. French rule from 1798 to 1813 is a gap."
 transitions:
 - year: 1798

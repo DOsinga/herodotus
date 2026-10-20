@@ -21,7 +21,7 @@ point:
   latitude: 19.89
   longitude: 102.135
 colors:
-  1707: "#8f51cd"
+  1707: "#51b8cd"
 note: "Ends with the French protectorate of 1893. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1893

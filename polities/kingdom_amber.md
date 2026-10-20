@@ -12,7 +12,7 @@ point:
   latitude: 26.983
   longitude: 75.867
 colors:
-  1028: "#cd518f"
+  1028: "#517acd"
 note: "Its rulers governed their own state as Mughal allies and commanders; Jaipur replaced Amber as capital in 1727. Ends with the 1818 treaty with the East India Company; it remained a princely state until 1949. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1818

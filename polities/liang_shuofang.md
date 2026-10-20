@@ -20,7 +20,7 @@ point:
   latitude: 38.47
   longitude: 108.81
 colors:
-  617: "#b851cd"
+  617: "#762786"
 note: "Liang Shidu governed the Shuofang region under Eastern Turk support, rather than acting as a Turk-appointed provincial official. His cousin killed him and surrendered the state to Tang in 628. Links his biography; the point is the approximate ancient Shuofang seat."
 transitions:
 - year: 617

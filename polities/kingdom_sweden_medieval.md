@@ -30,9 +30,7 @@ point:
 colors:
   970: "#cd8f51"
   1155: "#cd8f51"
-  1180: "#7acd51"
-  1275: "#7acd51"
-  1300: "#9db234"
+  1180: "#b23473"
 note: "No article covers the medieval kingdom on its own, so the link is to the period history. Start estimated: Olof Skötkonung, around 995, is the first king known to have ruled both Svear and Götar; his father Eric the Victorious ruled from about 970. Inside the Kalmar Union, Sweden governed itself under Karl Knutsson's reigns and the Sture regents; those periods are recorded here, and the union kings' rule is the gaps."
 transitions:
 - year: 1397

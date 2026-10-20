@@ -21,7 +21,7 @@ point:
   latitude: 26.0745
   longitude: 119.2965
 colors:
-  909: "#862767"
+  909: "#864727"
 note: "The period follows the recognised Wang kingdom, after the family's earlier Fujian governorship. Its separate Yin branch is recorded independently. The royal government ended with Southern Tang conquest in 945; this does not imply every Fujian city fell together."
 transitions:
 - year: 945

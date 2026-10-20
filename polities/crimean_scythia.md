@@ -20,6 +20,6 @@ point:
   latitude: 44.95
   longitude: 34.1
 colors:
-  -200: "#862776"
+  -200: "#762786"
 note: "Links the article on its capital. Both dates are estimates: the late Scythian kingdom of Skilurus and his successors, ended by the Gothic invasions."
 ---

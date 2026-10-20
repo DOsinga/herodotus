@@ -12,7 +12,7 @@ point:
   latitude: 55.862
   longitude: -4.31
 colors:
-  450: "#cd5166"
+  450: "#66cd51"
 note: "450 estimates the post-Roman kingdom of Alt Clut. After the 870 sack of Dumbarton its court moved to Govan; that was not the immediate end of its own government. Incorporation into Scotland is poorly dated, conventionally around 1030."
 transitions:
 - year: 1030

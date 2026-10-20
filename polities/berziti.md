@@ -21,7 +21,7 @@ point:
   latitude: 41.1172
   longitude: 20.8019
 colors:
-  600: "#51cd8f"
+  600: "#51b8cd"
 note: "600 and 850 are estimates for Slav settlement and the Bulgarian conquest under Presian; the Berziti are known only from scattered Byzantine references."
 transitions:
 - year: 850

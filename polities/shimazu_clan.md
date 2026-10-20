@@ -19,7 +19,7 @@ point:
   latitude: 31.5969
   longitude: 130.5572
 colors:
-  1467: "#862776"
+  1467: "#276786"
 note: "Covers the house as a Sengoku power from the Ōnin War to Yoshihisa's surrender in 1587; from then the Shimazu held Satsuma as vassals of the national regime. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1467

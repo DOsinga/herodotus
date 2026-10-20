@@ -12,7 +12,7 @@ point:
   latitude: 37.765
   longitude: 69.565
 colors:
-  600: "#cda351"
+  600: "#578627"
 note: "600 estimates the local dynasty's establishment in the early seventh century. Tribute after the 676 raid did not impose actual Arab government. 751 follows the final destruction of the royal line in the Abbasid takeover, also dated 750. Hulbuk is the archaeological royal centre near Kulob."
 transitions:
 - year: 751

@@ -19,7 +19,7 @@ point:
   latitude: 1.5575
   longitude: 110.3439
 colors:
-  1841: "#278627"
+  1841: "#277686"
 note: >-
   The 1888 treaty of protection handed Sarawak's foreign relations to Britain, which counts as
   absorption, although the Brooke rajahs kept governing until the Japanese invasion of 1941.

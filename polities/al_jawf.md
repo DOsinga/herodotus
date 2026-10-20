@@ -20,6 +20,6 @@ point:
   latitude: 29.8114
   longitude: 39.8683
 colors:
-  935: "#73b234"
+  935: "#9db234"
 note: "Links the article on the oasis of Dumat al-Jandal; the record groups the oasis lords because the sources do not separate them."
 ---

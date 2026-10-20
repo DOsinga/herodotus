@@ -23,6 +23,6 @@ point:
   latitude: 48.5
   longitude: 11.0
 colors:
-  -1300: "#cd517a"
+  -1300: "#cda351"
 note: "Both dates are estimates; the point is representative. Hallstatt follows."
 ---

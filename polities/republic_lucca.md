@@ -22,9 +22,11 @@ point:
   latitude: 43.842
   longitude: 10.503
 colors:
-  1160: "#5151cd"
-  1344: "#5151cd"
-  1369: "#278676"
+  1160: "#274786"
+  1344: "#274786"
+  1369: "#b23488"
+  1475: "#b23488"
+  1500: "#3449b2"
 note: "The commune from 1160 is the same republic. Uguccione della Faggiuola, lord of Pisa, took the city in 1314; Castruccio Castracani's lordship of 1316–1328 is a separate record, and the city was then held by outside lords and from 1342 by Pisa until it bought its freedom from Charles IV in 1369. Ends with the French occupation of 1799; the Napoleonic principality and the Bourbon duchy are separate records."
 transitions:
 - year: 1314

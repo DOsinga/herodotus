@@ -19,7 +19,7 @@ point:
   latitude: 36.3
   longitude: 29.32
 colors:
-  -168: "#278637"
+  -168: "#cd517a"
 note: "Links the Lycian League section of the article on Lycia. Starts with Rome's grant of freedom from Rhodes in 168 BCE; its treaty with Rome of 46 BCE was an alliance, not a surrender of its foreign relations. Claudius annexed it in 43 CE."
 transitions:
 - year: 43

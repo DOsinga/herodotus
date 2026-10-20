@@ -20,9 +20,9 @@ point:
   latitude: 53.4833
   longitude: 9.1333
 colors:
-  1250: "#51cd66"
-  1436: "#51cd66"
-  1461: "#51cdb8"
+  1250: "#572786"
+  1457: "#572786"
+  1482: "#862737"
 note: "Starts with the end of royal government in Germany in 1250. Excludes the city of Bremen, which has its own record. Sweden occupied the land in 1645 and received it as a secular duchy at the Peace of Westphalia in 1648."
 transitions:
 - year: 1648

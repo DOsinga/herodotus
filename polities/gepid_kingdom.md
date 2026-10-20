@@ -22,7 +22,7 @@ point:
   latitude: 44.97
   longitude: 19.61
 colors:
-  454: "#762786"
+  454: "#517acd"
 note: "454 is the conventional date of Ardaric's government after the Hunnic defeat at Nedao. Sirmium was a later royal centre and changed hands repeatedly. Ends with the Lombard-Avar destruction of the kingdom; surviving communities are not a continued state."
 transitions:
 - year: 567

@@ -25,7 +25,7 @@ point:
 colors:
   1009: "#51cd66"
   1119: "#51cd66"
-  1144: "#349db2"
+  1144: "#51a3cd"
 note: "The second period records the restored local government after Almoravid rule, ending with Almohad conquest. Tribute to León did not end the first period."
 transitions:
 - year: 1009

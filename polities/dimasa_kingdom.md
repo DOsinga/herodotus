@@ -21,11 +21,7 @@ point:
   latitude: 25.2953
   longitude: 93.1394
 colors:
-  1300: "#278647"
-  1435: "#278647"
-  1460: "#a3cd51"
-  1535: "#a3cd51"
-  1560: "#b27334"
+  1300: "#cd5166"
 note: "The start is an estimate from Ahom accounts of the late thirteenth century. The gap is the interregnum after the fall of Dimapur. The kingdom ends with the Treaty of Badarpur in 1824, which placed it under British protection; the British annexed it outright in 1832 and 1834."
 transitions:
 - year: 1536

@@ -12,7 +12,7 @@ point:
   latitude: 22.176
   longitude: 75.587
 colors:
-  550: "#862786"
+  550: "#865727"
 note: "550 and 625 estimate the dynasty's governing period. Buddharaja's final defeat by the Badami Chalukyas is not precisely dated; this follows the conventional early-seventh-century end. Mahishmati is represented by its usual identification with Maheshwar."
 transitions:
 - year: 625

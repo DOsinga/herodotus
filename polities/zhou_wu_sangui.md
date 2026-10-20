@@ -19,7 +19,7 @@ point:
   latitude: 25.0464
   longitude: 102.7094
 colors:
-  1673: "#275786"
+  1673: "#372786"
 note: "Begins with Wu's revolt in December 1673; he proclaimed the Zhou dynasty only in 1678, at Hengzhou (Hengyang), which was then his capital. Geng Jingzhong in Fujian and Shang Zhixin in Guangdong are not counted as separate states, since they rebelled for only part of these years and then surrendered."
 transitions:
 - year: 1673

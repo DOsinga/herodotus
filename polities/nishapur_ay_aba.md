@@ -19,7 +19,7 @@ point:
   latitude: 36.21
   longitude: 58.8
 colors:
-  1157: "#cd518f"
+  1157: "#cd5166"
 note: "Links the Seljuk Empire article, which covers Khorasan after Sanjar; no article covers Ay-Aba's government. 1157 follows Sanjar's death."
 transitions:
 - year: 1187

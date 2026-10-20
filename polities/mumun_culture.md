@@ -23,6 +23,6 @@ point:
   latitude: 36.27
   longitude: 126.9
 colors:
-  -1500: "#34b25e"
+  -1500: "#34b288"
 note: "Both dates are estimates; Gojoseon follows in the north."
 ---

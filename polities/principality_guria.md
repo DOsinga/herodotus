@@ -20,7 +20,7 @@ point:
   latitude: 41.9269
   longitude: 42.0006
 colors:
-  1460: "#51cd51"
+  1460: "#866727"
 note: "1460 estimates the Gurieli's independence during the breakup of the Georgian kingdom. Ends with the treaty of 1810 that made Guria a Russian protectorate; Russia annexed it in 1829."
 transitions:
 - year: 1460

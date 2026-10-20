@@ -21,11 +21,11 @@ point:
   latitude: 53.471
   longitude: 7.484
 colors:
-  1464: "#8f51cd"
-  1540: "#8f51cd"
-  1565: "#9d34b2"
-  1640: "#9d34b2"
-  1665: "#3473b2"
+  1464: "#b2345e"
+  1606: "#b2345e"
+  1631: "#51cd7a"
+  1706: "#51cd7a"
+  1731: "#66cd51"
 note: "The Cirksena chieftains were made counts in 1464 and princes in 1654. Passed to Prussia when the line died out in 1744."
 transitions:
 - year: 1744

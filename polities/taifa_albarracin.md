@@ -20,7 +20,7 @@ point:
   latitude: 40.408
   longitude: -1.443
 colors:
-  1012: "#868627"
+  1012: "#5eb234"
 note: "The Almoravids ended it in 1104."
 transitions:
 - year: 1104

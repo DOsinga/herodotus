@@ -21,9 +21,9 @@ point:
   latitude: 47.697
   longitude: 8.634
 colors:
-  1250: "#378627"
-  1390: "#378627"
-  1415: "#274786"
+  1250: "#278686"
+  1390: "#278686"
+  1415: "#51cd8f"
 note: "Starts with the end of royal government in 1250. The Habsburg pledge of 1330 to 1415 is a gap; ends with full membership of the Confederacy in 1501."
 transitions:
 - year: 1330

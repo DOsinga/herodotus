@@ -20,7 +20,7 @@ point:
   latitude: 37.2436
   longitude: 55.1658
 colors:
-  651: "#478627"
+  651: "#862727"
 note: "No article covers the Sul princes; the record links the article on Gorgan, which notes the province's independence after the Arab conquest of Iran. Both dates are estimates."
 transitions:
 - year: 716

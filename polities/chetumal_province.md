@@ -20,6 +20,8 @@ point:
   longitude: -88.395
 colors:
   1441: "#278637"
+  1516: "#278637"
+  1541: "#a3cd51"
 note: "Starts with the fall of Mayapan, conventionally dated 1441, and ends with the submission to the Spanish in 1544."
 transitions:
 - year: 1544

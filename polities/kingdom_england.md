@@ -23,11 +23,9 @@ point:
   latitude: 51.5072
   longitude: -0.1275
 colors:
-  927: "#278686"
-  1069: "#278686"
-  1094: "#34b25e"
-  1676: "#34b25e"
-  1701: "#51cd51"
+  927: "#278657"
+  1145: "#278657"
+  1170: "#34b25e"
 note: "The English Lordship and Kingdom of Ireland are part of this record, because England governed them through lords deputy and lords lieutenant it appointed."
 transitions:
 - year: 1649

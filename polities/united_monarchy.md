@@ -20,7 +20,7 @@ point:
   latitude: 31.78
   longitude: 35.23
 colors:
-  -1000: "#b27334"
+  -1000: "#9db234"
 note: "Follows the traditional chronology, whose historicity is debated: 1000 BCE is David's capture of Jerusalem, 930 the division after Solomon. Saul's earlier kingdom is not included."
 transitions:
 - year: -930

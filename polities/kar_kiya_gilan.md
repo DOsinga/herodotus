@@ -20,7 +20,7 @@ point:
   latitude: 37.2042
   longitude: 50.0047
 colors:
-  1370: "#4934b2"
+  1370: "#5166cd"
 note: "1370 estimates Sayyid Ali Kiya's establishment at Lahijan in the 1370s. Safavid overlordship did not end the family's own government until Shah Abbas I conquered Gilan in 1592."
 transitions:
 - year: 1592

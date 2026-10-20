@@ -21,7 +21,7 @@ point:
   latitude: 30.96
   longitude: 46.1
 colors:
-  -2900: "#278667"
+  -2900: "#272786"
 note: "The Early Dynastic city state of the First and Second Dynasties of Ur. Lugalzagesi took it; Ur III is a separate record."
 transitions:
 - year: -2350

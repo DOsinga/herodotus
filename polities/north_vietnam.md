@@ -17,7 +17,7 @@ point:
   latitude: 21
   longitude: 105.85
 colors:
-  1945: "#7a51cd"
+  1945: "#51a3cd"
 transitions:
 - year: 1976
   kind: succeeded_by

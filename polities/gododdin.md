@@ -20,7 +20,7 @@ point:
   latitude: 55.949
   longitude: -3.2
 colors:
-  450: "#578627"
+  450: "#378627"
 note: "450 estimates post-Roman native kingship. Ends with the conventional 638 fall of Eidyn to the Northumbrian realm; the poetry's date and the kingdom's extent are disputed. The point represents the fortified royal centre on Castle Rock."
 transitions:
 - year: 638

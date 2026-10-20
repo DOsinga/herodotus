@@ -14,7 +14,7 @@ point:
   latitude: 51.482
   longitude: -3.179
 colors:
-  450: "#5e34b2"
+  450: "#865727"
 note: "450 estimates the post-Roman Glywysing government. Morgannwg became its later name, not an extra overlapping polity; Gwent was united under Morgan in 942–974. Gruffudd ap Llywelyn's unified government in 1055–1063 is excluded. The native court ended with Fitzhamon's conquest around 1091. Cardiff represents the regional court area rather than a fixed capital."
 transitions:
 - year: 1055

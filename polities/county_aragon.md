@@ -19,7 +19,7 @@ point:
   latitude: 42.571
   longitude: -0.549
 colors:
-  800: "#276786"
+  800: "#278676"
 note: "800 is an estimate; sources place the county's creation in the late eighth or early ninth century. Pamplonan overlordship from 844 did not end the counts' own government."
 transitions:
 - year: 922

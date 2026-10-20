@@ -273,15 +273,21 @@ its id. No single colour per polity can contrast with every neighbour
 across all of history, which is why the drift is allowed.
 
 `colors.py` proposes the colours. It walks through history in 25-year steps
-and at every period start, treats two polities as neighbours when any of
-their places or points lie within 400 km, and picks from 36 hues at three
-lightness levels. A successor (`succeeded_by`, `merged_into`, `split_into`)
+and at every period start, treats two polities as neighbours when two of
+their places lie closer than 0.8 times the sum of their reaches, and picks
+from 36 hues at three lightness levels. The reaches are the ones the
+territory fill uses, from 50 km for a fort to 500 km for a capital, so two
+capitals 700 km apart count as neighbours and two free cities 150 km apart
+do not. A polity without a place that year stands in with its point, at the
+reach of a town. A successor (`succeeded_by`, `merged_into`, `split_into`)
 keeps its predecessor's colour when that still contrasts with its
 neighbours; any other new polity takes the colour that stands furthest from
 its neighbours'. When two neighbours clash, the younger one moves, at most
 once a century, and the change is written as a drift over 25 years.
 Compared with hashed colours it cuts clashes between neighbours from about
-11,000 to about 350 across the sample years.
+6,100 to about 1,000 across the sample years. Most of those left are in the
+Holy Roman Empire after 1250, where a single city can have more neighbours
+than there are colours.
 
 ```bash
 python colors.py          # report only

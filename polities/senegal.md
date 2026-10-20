@@ -20,6 +20,6 @@ point:
   latitude: 14.6928
   longitude: -17.4467
 colors:
-  1960: "#378627"
+  1960: "#278676"
 note: "Links the country article. Changes of regime are not split into separate records."
 ---

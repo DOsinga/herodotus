@@ -19,7 +19,11 @@ point:
   latitude: 48.0817
   longitude: 7.3556
 colors:
-  1250: "#5e34b2"
+  1250: "#7a51cd"
+  1325: "#7a51cd"
+  1350: "#278686"
+  1597: "#278686"
+  1622: "#278647"
 note: "Starts with the end of royal government in 1250; the city was imperial from 1226. Ends with the French seizure of 1673."
 transitions:
 - year: 1673

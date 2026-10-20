@@ -19,7 +19,9 @@ point:
   latitude: 49.2333
   longitude: 7.0
 colors:
-  1250: "#34b234"
+  1250: "#51cd8f"
+  1344: "#51cd8f"
+  1369: "#864727"
 note: "Links the article on the later Nassau county, which covers the earlier counts. Ends with the Nassau inheritance of 1381."
 transitions:
 - year: 1381

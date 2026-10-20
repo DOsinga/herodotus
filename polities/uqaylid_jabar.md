@@ -20,7 +20,7 @@ point:
   latitude: 35.8867
   longitude: 38.4814
 colors:
-  1095: "#272786"
+  1095: "#862776"
 note: "Links the article on the castle (see also the article on the Uqaylid dynasty). The start of 1095 is an estimate for when Salim ibn Malik's line began to rule on its own after the Seljuk breakup; Nur ad-Din took the castle in 1168."
 transitions:
 - year: 1168

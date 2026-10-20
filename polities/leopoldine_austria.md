@@ -19,7 +19,7 @@ point:
   latitude: 47.0707
   longitude: 15.4395
 colors:
-  1379: "#278627"
+  1379: "#34b273"
 note: "Links the article on the Leopoldian line. 1406 is the conventional date of the brothers' division; it was confirmed in 1411."
 transitions:
 - year: 1379

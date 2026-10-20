@@ -20,7 +20,7 @@ point:
   latitude: 39.1036
   longitude: 26.5547
 colors:
-  1355: "#578627"
+  1355: "#7334b2"
 note: "Links the article on the family; the record covers the lordship of Lesbos only, not the family's other lordships at Ainos, Lemnos and Thasos."
 transitions:
 - year: 1462

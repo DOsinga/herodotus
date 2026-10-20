@@ -19,7 +19,7 @@ point:
   latitude: 40.0011
   longitude: 3.8394
 colors:
-  1231: "#cd6651"
+  1231: "#8834b2"
 note: "Links the island's article. Menorca governed itself and fought no wars against Aragon until 1287, so as a tributary it stays active."
 transitions:
 - year: 1287

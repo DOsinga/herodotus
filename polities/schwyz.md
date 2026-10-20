@@ -19,7 +19,7 @@ point:
   latitude: 47.0207
   longitude: 8.653
 colors:
-  1250: "#51a3cd"
+  1250: "#51cdb8"
 note: "Starts with the end of royal government in 1250; the charter of 1240 claimed immediacy, which the Habsburgs disputed. Ends with the Federal Charter of 1291."
 transitions:
 - year: 1291

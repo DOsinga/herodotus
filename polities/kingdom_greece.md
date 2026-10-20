@@ -25,9 +25,7 @@ point:
   latitude: 37.984
   longitude: 23.728
 colors:
-  1832: "#864727"
-  1919: "#864727"
-  1944: "#a351cd"
+  1832: "#862786"
 note: "Gap for the Axis occupation of 1941–1944."
 transitions:
 - year: 1924

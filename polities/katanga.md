@@ -12,7 +12,7 @@ point:
   latitude: -11.6642
   longitude: 27.4828
 colors:
-  1960: "#b23434"
+  1960: "#b23473"
 transitions:
 - year: 1960
   kind: broke_away_from

@@ -19,7 +19,7 @@ point:
   latitude: 54.1761
   longitude: 15.5761
 colors:
-  1005: "#51cd8f"
+  1005: "#278637"
 note: "Links the article on the people; no article covers their government. 1005 estimates the revolt that ended the Kołobrzeg bishopric. Gdańsk stayed Polish until the late 1030s and Bolesław III took it in 1116; the record ends when Wartislaw I's duchy accepted Polish overlordship in 1121."
 transitions:
 - year: 1121

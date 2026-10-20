@@ -19,7 +19,7 @@ point:
   latitude: 38.705
   longitude: 39.2514
 colors:
-  1085: "#865727"
+  1085: "#517acd"
 note: "The start follows the conquest of Harput around 1085; the end year is the death of Çubuk's son Mehmed, which sources give as 1112 or 1113."
 transitions:
 - year: 1112

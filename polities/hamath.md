@@ -12,9 +12,7 @@ point:
   latitude: 35.13
   longitude: 36.75
 colors:
-  -1000: "#862727"
-  -925: "#862727"
-  -900: "#b27334"
+  -1000: "#378627"
 note: "Links the article on the city. 1000 BCE estimates the kingdom. Sargon II annexed it after its revolt."
 transitions:
 - year: -720

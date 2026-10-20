@@ -21,7 +21,7 @@ point:
   latitude: 32.1906
   longitude: 48.2578
 colors:
-  -147: "#372786"
+  -147: "#272786"
 note: "The royal seat is uncertain; Susa is representative. Ardashir of Persis conquered it about 221."
 transitions:
 - year: -147

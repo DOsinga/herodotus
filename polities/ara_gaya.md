@@ -21,9 +21,7 @@ point:
   latitude: 35.272
   longitude: 128.406
 colors:
-  300: "#868627"
-  475: "#868627"
-  500: "#478627"
+  300: "#51cda3"
 note: "300 estimates the emergence of the Haman kingdom from the earlier Anya community. Its own sixth-century diplomatic government is documented by the Alla and Sabi conferences; it surrendered to Silla in 559."
 transitions:
 - year: 559

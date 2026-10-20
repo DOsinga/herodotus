@@ -19,7 +19,7 @@ point:
   latitude: 37.0161
   longitude: -7.935
 colors:
-  1018: "#cd518f"
+  1018: "#cd5151"
 note: "The start is given as about 1018."
 transitions:
 - year: 1051

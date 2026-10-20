@@ -22,7 +22,7 @@ point:
 colors:
   500: "#cd7a51"
   600: "#cd7a51"
-  625: "#672786"
+  625: "#862767"
 note: "500 is the conventional early foundation estimate. Harsha inherited and expanded this state in 606, governing later from Kannauj. His death in 647 ended the larger Vardhana government; the surviving Kannauj court has its own record."
 transitions:
 - year: 647

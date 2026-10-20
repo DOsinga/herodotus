@@ -19,7 +19,7 @@ point:
   latitude: 54.7173
   longitude: -6.2055
 colors:
-  1347: "#349db2"
+  1347: "#518fcd"
 note: "Starts with Muirchertach Ceannfada, the first king of Clandeboye separate from Tyrone, by 1347. The point is a representative town in Lower Clandeboye. Ends with the arrest of Conn O'Neill of Upper Clandeboye and the settlement after the Nine Years' War."
 transitions:
 - year: 1603

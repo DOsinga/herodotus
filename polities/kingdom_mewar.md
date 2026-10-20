@@ -21,9 +21,7 @@ point:
   latitude: 24.8879
   longitude: 74.6269
 colors:
-  734: "#cdb851"
-  1173: "#cdb851"
-  1198: "#51cd8f"
+  734: "#275786"
 note: "Ends with the 1818 treaty with the East India Company; it remained a princely state until 1949. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1818

@@ -21,7 +21,7 @@ point:
   latitude: -22.911
   longitude: -43.206
 colors:
-  1889: "#5166cd"
+  1889: "#517acd"
 transitions:
 - year: 1930
   kind: succeeded_by

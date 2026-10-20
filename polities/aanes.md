@@ -21,7 +21,7 @@ point:
   latitude: 37.0547
   longitude: 41.2281
 colors:
-  2014: "#34b29d"
+  2014: "#51cdb8"
 note: "Governed north-eastern Syria without wide international recognition. Starts with the 2014 proclamation of its cantons; it had governed de facto since 2012. Ends with its integration into the Syrian state on 20 August 2026, after the government offensive of January 2026."
 transitions:
 - year: 2014

@@ -20,11 +20,7 @@ point:
   latitude: 53.505
   longitude: -6.453
 colors:
-  700: "#3473b2"
-  862: "#3473b2"
-  887: "#51cd51"
-  1050: "#51cd51"
-  1075: "#6651cd"
+  700: "#51b8cd"
 note: "700 estimates the separately governing Ui Chernaig court at Loch Gabhair, whose royal title is attested in 729. 1075 estimates the final destruction of Lagore and loss of the separate court to Mide. Both the first separation and the end of its political institutions are reconstructed dates."
 transitions:
 - year: 1075

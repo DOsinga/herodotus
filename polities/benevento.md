@@ -25,9 +25,9 @@ point:
   latitude: 41.1298
   longitude: 14.7826
 colors:
-  571: "#278657"
-  1029: "#278657"
-  1054: "#866727"
+  571: "#278676"
+  847: "#278676"
+  872: "#517acd"
 note: "571 estimates the Lombard duchy's foundation. Its own court survived the northern Lombard kingdom's fall in 774 and its change to a principality. Direct Byzantine rule in 891–895 and papal government in 1051–1054 are gaps. The native princely line ended in 1077; Robert Guiscard's later title did not restore it."
 transitions:
 - year: 891

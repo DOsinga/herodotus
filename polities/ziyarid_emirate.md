@@ -23,7 +23,7 @@ point:
   latitude: 36.84
   longitude: 54.44
 colors:
-  931: "#278686"
+  931: "#276786"
 note: "931 follows Mardavij's establishment of his government. Buyid occupation removed Qabus's government from 980 to 998. Later Ghaznavid and Seljuk overlordship left native rulers in place. 1090 is the conventional end under Nizari expansion, rather than the earlier loss of larger provinces."
 transitions:
 - year: 980

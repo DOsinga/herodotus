@@ -19,9 +19,9 @@ point:
   latitude: 51.2083
   longitude: 16.1603
 colors:
-  1248: "#cd51b8"
-  1323: "#cd51b8"
-  1348: "#867627"
+  1248: "#278637"
+  1512: "#278637"
+  1537: "#cd51a3"
 note: "Bohemian overlordship from 1329 did not end the dukes' government. The duchies split off from Legnica, and the union with Brzeg, are not separated; the disputed succession after 1436 is not treated as a break. Ends with the extinction of the line in 1675."
 transitions:
 - year: 1675

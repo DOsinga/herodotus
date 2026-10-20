@@ -24,7 +24,7 @@ point:
   latitude: 43.128
   longitude: 20.422
 colors:
-  780: "#863727"
+  780: "#862786"
 note: "780 estimates Višeslav's first attested rulership. Direct Bulgarian government from 924 to 933 interrupts the native principality. Časlav restored it; Byzantine administration replaced it around 969–971, recorded here as 970. Ras is a representative later centre, not a known permanent eighth-century capital."
 transitions:
 - year: 924

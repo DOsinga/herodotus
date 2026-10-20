@@ -12,7 +12,7 @@ point:
   latitude: 36.7581
   longitude: 66.8981
 colors:
-  -256: "#cdcd51"
+  -256: "#b27334"
 note: "Starts with Diodotus' break from the Seleucids. The Yuezhi conquest ended it about 120 BCE."
 transitions:
 - year: -256

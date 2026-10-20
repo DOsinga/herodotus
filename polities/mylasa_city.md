@@ -20,7 +20,7 @@ point:
   latitude: 37.3167
   longitude: 27.7833
 colors:
-  -167: "#3449b2"
+  -167: "#3488b2"
 note: "Links the article on the modern town; covers only the free city from Rome's freeing of Caria in 167 BCE until the province of Asia, whose reach over Mylasa is uncertain."
 transitions:
 - year: -130

@@ -21,7 +21,7 @@ point:
   latitude: 34.26
   longitude: 108.94
 colors:
-  9: "#b234b2"
+  9: "#9d34b2"
 note: "Wang Mang's dynasty, ended when Gengshi forces took Chang'an and killed him."
 transitions:
 - year: 23

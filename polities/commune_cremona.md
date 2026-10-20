@@ -20,7 +20,9 @@ point:
   latitude: 45.1333
   longitude: 10.0247
 colors:
-  1098: "#51cdcd"
+  1098: "#51b8cd"
+  1223: "#51b8cd"
+  1248: "#51cdb8"
 note: "Start estimated from the first consuls. The lordships of Buoso da Dovara, the Cavalcabò and the Ponzone are not split out. The record links the city's article."
 transitions:
 - year: 1334

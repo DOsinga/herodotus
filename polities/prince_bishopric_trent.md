@@ -19,11 +19,9 @@ point:
   latitude: 46.0667
   longitude: 11.1167
 colors:
-  1250: "#b29d34"
-  1475: "#b29d34"
-  1500: "#34b25e"
-  1767: "#34b25e"
-  1792: "#862786"
+  1250: "#cdb851"
+  1374: "#cdb851"
+  1399: "#b29d34"
 note: "The principality dates from 1027, but before 1250 its bishops count as imperial princes under the Holy Roman Empire record, as the German bishops do. The counts of Tyrol and later the Habsburgs dominated it, but the bishops kept their own government until 1803."
 transitions:
 - year: 1803

@@ -19,7 +19,7 @@ point:
   latitude: 25.44
   longitude: 75.64
 colors:
-  1242: "#5166cd"
+  1242: "#278637"
 note: "The founding is dated 1241 or 1242. The state served Mewar and later the Mughals while keeping its own government."
 transitions:
 - year: 1818

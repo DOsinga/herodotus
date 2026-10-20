@@ -19,7 +19,7 @@ point:
   latitude: 49.3817
   longitude: 3.3236
 colors:
-  969: "#cdb851"
+  969: "#517acd"
 note: "The end is an estimate: the counts kept their title, but the crown's officials governed the Soissonnais once Philip II took over the neighbouring Vermandois lands in 1185."
 transitions:
 - year: 1185

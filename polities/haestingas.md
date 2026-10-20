@@ -20,7 +20,9 @@ point:
   latitude: 50.855
   longitude: 0.573
 colors:
-  500: "#34b29d"
+  500: "#51cdb8"
+  626: "#51cdb8"
+  651: "#517acd"
 note: "500 estimates the formation of the separate eastern Sussex community. 771 follows the later chronicle's account of Offa's conquest; a conflicting 711 date is not taken as established. It is not assumed to have belonged to the South Saxon kingdom merely because Hastings is now in Sussex."
 transitions:
 - year: 771

@@ -20,7 +20,7 @@ point:
   latitude: 36.728
   longitude: 68.868
 colors:
-  1815: "#7a51cd"
+  1815: "#862776"
 note: "Links the article on Qataghan Province, which describes the khanate. 1815 estimates Murad Beg's rise; the Qataghan chiefs who held Kunduz under Durrani overlordship in the eighteenth century are not recorded separately."
 transitions:
 - year: 1859

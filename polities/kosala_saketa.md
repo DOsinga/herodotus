@@ -21,7 +21,7 @@ point:
   latitude: 26.7992
   longitude: 82.2044
 colors:
-  -73: "#cd5166"
+  -73: "#cd517a"
 note: "All dates are estimates. The start follows the end of Shunga rule, the gap is the Kushan hold on Saketa under Kanishka and his successors, and the end is the early Gupta conquest. No article covers the kingdom; the link is to the Saketa section of the Ayodhya article."
 transitions:
 - year: 99

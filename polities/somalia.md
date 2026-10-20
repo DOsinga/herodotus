@@ -23,7 +23,7 @@ point:
   latitude: 2.0392
   longitude: 45.3419
 colors:
-  1960: "#cd51cd"
+  1960: "#9d34b2"
 note: "Formed by the union of the Italian trust territory and British Somaliland. Gap after the national government collapsed in January 1991; the Transitional Federal Government governed again from 2006, first at Baidoa and from December in Mogadishu with Ethiopian support. Al-Shabaab has its own record. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

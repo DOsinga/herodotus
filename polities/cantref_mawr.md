@@ -19,7 +19,7 @@ point:
   latitude: 51.8768
   longitude: -4.0184
 colors:
-  1198: "#3488b2"
+  1198: "#472786"
 note: "The princes of Deheubarth after 1197 were divided; this record follows the line of Rhys Gryg at Dinefwr and leaves out the shorter-lived shares. Maelgwn ap Rhys held Dinefwr for a while before 1204."
 transitions:
 - year: 1277

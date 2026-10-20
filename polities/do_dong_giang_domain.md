@@ -19,7 +19,7 @@ point:
   latitude: 20.86
   longitude: 105.77
 colors:
-  965: "#66cd51"
+  965: "#5eb234"
 note: "965 follows Đỗ Cảnh Thạc's seizure of local power after the Ngô king's death. His domain ended with Đinh's conquest in 967. The point approximately represents the Thanh Oai stronghold region, and the ruler's biography covers the polity."
 transitions:
 - year: 967

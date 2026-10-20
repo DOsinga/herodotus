@@ -21,7 +21,7 @@ point:
   latitude: 25.6944
   longitude: 100.1556
 colors:
-  738: "#b234b2"
+  738: "#b2345e"
 note: "The period begins with the united Nanzhao kingdom, not the Meng family's earlier local chiefdom. The point represents the capital used after 779, replacing Taihe. Changes of the kingdom's name in 859 and 877 did not create new governments."
 transitions:
 - year: 902

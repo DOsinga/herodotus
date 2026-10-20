@@ -19,9 +19,11 @@ point:
   latitude: 47.4245
   longitude: 9.3767
 colors:
-  1415: "#51cda3"
-  1495: "#51cda3"
-  1520: "#cd6651"
+  1415: "#b23434"
+  1490: "#b23434"
+  1515: "#864727"
+  1610: "#864727"
+  1635: "#868627"
 note: "Starts in 1415, when the town bought its liberty from Sigismund; it bought out the abbot's remaining rights in 1457. An associate of the Confederacy from 1454."
 transitions:
 - year: 1798

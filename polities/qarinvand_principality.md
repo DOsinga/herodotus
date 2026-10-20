@@ -21,7 +21,7 @@ point:
   latitude: 36.248
   longitude: 52.731
 colors:
-  550: "#cdb851"
+  550: "#cd6651"
 note: "550 estimates Karen's establishment of a local highland government under Khosrow I. Ends with Mazyar's defeat and the replacement of his government in 839; later descendants are not an uninterrupted governing state to the eleventh century. Lafur represents the early mountainous seat."
 transitions:
 - year: 839

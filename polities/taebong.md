@@ -20,7 +20,7 @@ point:
   latitude: 38.2
   longitude: 127.3
 colors:
-  901: "#273786"
+  901: "#3434b2"
 note: "The marker approximates the old royal capital, not the modern county office. The record includes the earlier names Later Goguryeo and Majin. Gung Ye's earlier warlord career is not dated as a separate kingdom. Wang Geon's coup began the Goryeo regime."
 transitions:
 - year: 901

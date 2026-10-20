@@ -19,7 +19,7 @@ point:
   latitude: 31.8972
   longitude: 54.3675
 colors:
-  1141: "#862757"
+  1141: "#862737"
 note: "Both dates follow the article's approximate range."
 transitions:
 - year: 1319

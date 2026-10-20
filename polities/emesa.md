@@ -19,7 +19,7 @@ point:
   latitude: 34.73
   longitude: 36.71
 colors:
-  -64: "#b25e34"
+  -64: "#678627"
 note: "Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. Augustus suspended the kingdom for a few years, which is not split out. 72 estimates its annexation under Vespasian."
 transitions:
 - year: 72

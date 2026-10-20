@@ -20,7 +20,7 @@ point:
   latitude: 23.5505
   longitude: 90.4935
 colors:
-  1095: "#378627"
+  1095: "#863727"
 note: "The start follows Hemanta Sena's assumption of kingship, rather than his family's earlier service under the Palas. The point approximates the historical capital region. Sena government continued at Bikrampur after Nadia fell in 1204; 1230 is the conventional approximate end of Keshava Sena's rule."
 transitions:
 - year: 1095

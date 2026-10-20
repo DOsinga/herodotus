@@ -21,6 +21,8 @@ point:
   latitude: 33.1
   longitude: 44.1
 colors:
-  -2334: "#378627"
+  -2334: "#678627"
+  -2179: "#678627"
+  -2154: "#278667"
 note: "Dates follow the middle chronology. The city of Akkad is not located; the point is approximate. The empire broke up under Gutian invasions."
 ---

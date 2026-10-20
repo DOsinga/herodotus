@@ -22,7 +22,7 @@ point:
   latitude: 34.795
   longitude: 114.345
 colors:
-  -453: "#272786"
+  -453: "#51cd66"
 note: "Starts in 453 BCE, when the Wei family, with the other two, destroyed the Zhi clan and governed its share of Jin as its own; the Zhou king's recognition in 403 BCE made it formal. Anyi was the capital until 361 BCE."
 transitions:
 - year: -453

@@ -19,7 +19,7 @@ point:
   latitude: 34.7972
   longitude: 114.3076
 colors:
-  947: "#cd5166"
+  947: "#275786"
 note: "Liu Zhiyuan established his regime at Taiyuan during the collapse of Liao's occupation, then governed from Kaifeng. The 951 overthrow produced a new central regime and a separate Han remnant in Shanxi."
 transitions:
 - year: 951

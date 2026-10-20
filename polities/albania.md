@@ -23,7 +23,7 @@ point:
   latitude: 41.3283
   longitude: 19.8181
 colors:
-  1912: "#cd5151"
+  1912: "#cdcd51"
 note: "Gap for the Italian and German occupations. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1912

@@ -19,9 +19,7 @@ point:
   latitude: 19.95
   longitude: 79.297
 colors:
-  1320: "#8f51cd"
-  1423: "#8f51cd"
-  1448: "#cdcd51"
+  1320: "#b24934"
 note: "The start rests on local tradition, which dates the founding to about 1320. The capital was at Sirpur until Khandkya Ballal Shah moved it to Ballarpur and then Chandrapur after 1472; the point is at Chandrapur."
 transitions:
 - year: 1751

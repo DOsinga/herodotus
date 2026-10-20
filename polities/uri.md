@@ -20,7 +20,7 @@ point:
   latitude: 46.8805
   longitude: 8.6444
 colors:
-  1250: "#866727"
+  1250: "#b23473"
 note: "Starts with the end of royal government in 1250; the valley was immediate to the Empire from 1231. Ends with the Federal Charter of 1291."
 transitions:
 - year: 1291

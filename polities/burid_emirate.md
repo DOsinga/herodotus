@@ -19,7 +19,7 @@ point:
   latitude: 33.5138
   longitude: 36.2765
 colors:
-  1104: "#34b25e"
+  1104: "#51cd7a"
 note: "Toghtekin established his own government after Duqaq's death in 1104. Nur al-Din took Damascus in 1154 and joined it to his Aleppo-based state."
 transitions:
 - year: 1154

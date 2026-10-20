@@ -12,7 +12,7 @@ point:
   latitude: 10.506
   longitude: -66.914
 colors:
-  1830: "#378627"
+  1830: "#865727"
 note: "Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1830

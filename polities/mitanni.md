@@ -21,7 +21,7 @@ point:
   latitude: 36.82
   longitude: 40.07
 colors:
-  -1550: "#7a51cd"
+  -1550: "#a351cd"
 note: "Both dates are estimates; Washukanni is probably Tell Fakhariyah. Hittite vassal treaties bound the vassal to the Hittite king's friends and enemies and forbade its own diplomacy, so like a protectorate it counts as absorbed from its treaty. Suppiluliuma I installed Shattiwaza by treaty about 1340 BCE. The remnant kingdom of Hanigalbat, contested between Hittite and Assyrian overlords, fell to Assyria about 1260 BCE."
 transitions:
 - year: -1340

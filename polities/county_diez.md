@@ -19,6 +19,8 @@ point:
   latitude: 50.3708
   longitude: 8.0158
 colors:
-  1250: "#cd5151"
+  1250: "#862737"
+  1325: "#862737"
+  1350: "#276786"
 note: "Usingen stands for the county until it was pledged to Nassau in 1326; Diez itself has no place, so the county has none from 1326 to 1388."
 ---

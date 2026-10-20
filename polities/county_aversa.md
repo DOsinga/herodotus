@@ -19,7 +19,7 @@ point:
   latitude: 40.97
   longitude: 14.21
 colors:
-  1030: "#275786"
+  1030: "#cd51cd"
 note: "Links the list of counts, as no article covers the county itself. Richard of Aversa took Capua in 1058 and ruled both from there; the existing Capua record continues under the Norman princes."
 transitions:
 - year: 1058

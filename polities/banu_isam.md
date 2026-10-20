@@ -19,7 +19,7 @@ point:
   latitude: 35.8883
   longitude: -5.3156
 colors:
-  850: "#868627"
+  850: "#768627"
 note: "850 is an estimate; the sources place the resettlement in the middle of the ninth century."
 transitions:
 - year: 931

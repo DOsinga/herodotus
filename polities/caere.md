@@ -12,7 +12,7 @@ point:
   latitude: 42.0075
   longitude: 12.105
 colors:
-  -750: "#372786"
+  -750: "#cd518f"
 note: "Links the article on the city. Rome took half its territory in 273 BCE."
 transitions:
 - year: -273

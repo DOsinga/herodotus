@@ -23,9 +23,7 @@ point:
   latitude: 44.9254
   longitude: 25.4567
 colors:
-  1330: "#cdb851"
-  1467: "#cdb851"
-  1492: "#51cd66"
+  1330: "#b29d34"
 note: "Absorbed while the Ottomans installed Phanariot princes (1716–1821); native princes governed again from 1822 until the union with Moldavia."
 transitions:
 - year: 1716

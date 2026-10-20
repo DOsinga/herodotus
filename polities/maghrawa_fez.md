@@ -19,7 +19,7 @@ point:
   latitude: 34.0617
   longitude: -4.9775
 colors:
-  987: "#517acd"
+  987: "#3473b2"
 note: "No article covers the emirate itself, so the link goes to the tribe. Sources date the Almoravid capture of Fez between 1069 and the mid-1070s; 1069 is used. The emirs held their title from the caliphs of Córdoba but governed Fez themselves."
 transitions:
 - year: 1069

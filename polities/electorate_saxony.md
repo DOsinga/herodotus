@@ -23,9 +23,13 @@ point:
   latitude: 51.05
   longitude: 13.74
 colors:
-  1423: "#862767"
-  1498: "#862767"
-  1523: "#cd51cd"
+  1423: "#862757"
+  1500: "#862757"
+  1525: "#862776"
+  1672: "#862776"
+  1697: "#b28834"
+  1778: "#b28834"
+  1803: "#b23473"
 note: "From the Leipzig partition of 1485 until 1547 the electoral title stayed with the Ernestine line at Wittenberg, which has its own record; this record follows the Albertine dukes at Dresden, who took the title in 1547. Gap for the Seven Years' War, when Prussia occupied Saxony and governed it through its own officials."
 transitions:
 - year: 1756

@@ -20,7 +20,7 @@ point:
   latitude: 40.5833
   longitude: 26.8833
 colors:
-  -323: "#7334b2"
+  -323: "#3449b2"
 note: "Links Lysimachus' article. Starts when he took Thrace as his own satrapy after Alexander's death and governed it on his own account; he took the royal title in 306 BCE. Ends with his death at Corupedium."
 transitions:
 - year: -323

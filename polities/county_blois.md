@@ -19,9 +19,7 @@ point:
   latitude: 47.5861
   longitude: 1.3359
 colors:
-  940: "#34b273"
-  1179: "#34b273"
-  1204: "#672786"
+  940: "#cdcd51"
 note: "Guy II sold the county to Louis of Orléans in 1391 and it passed on his death in 1397; Orléans was a royal apanage, so the county joins the crown then."
 transitions:
 - year: 1397

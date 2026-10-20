@@ -20,7 +20,7 @@ point:
   latitude: 26.4
   longitude: 89.6
 colors:
-  1141: "#862747"
+  1141: "#868627"
 note: "The start is an estimate from the end of the united Kamarupa kingdom. The record joins the rulers of Kamarupanagara before Sandhya's move, whom the article treats as the origin of Kamarupa-Kamata, with the later kings at Kamatapur. The point approximates the Gosanimari ruins identified with Kamatapur."
 transitions:
 - year: 1498

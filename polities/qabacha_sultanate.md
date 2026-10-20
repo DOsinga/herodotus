@@ -19,7 +19,7 @@ point:
   latitude: 29.2333
   longitude: 71.0667
 colors:
-  1206: "#5151cd"
+  1206: "#345eb2"
 note: "Links the article on its ruler, as no article covers the state. Starts at Muhammad of Ghor's death in 1206, from which Qabacha governed without a superior; he declared his independence formally around 1210. The point is Uch, his main seat."
 transitions:
 - year: 1228

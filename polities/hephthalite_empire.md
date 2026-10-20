@@ -22,6 +22,6 @@ point:
   latitude: 36.728
   longitude: 68.868
 colors:
-  440: "#278637"
+  440: "#578627"
 note: "440 estimates the rise of the imperial Hephthalite government. 560 is the conventional date of its defeat by the Sasanian-Turkic coalition, also dated within the later 550s–560s. Kunduz is a proposed capital. This record ends with the empire, not the continued separate Hephthalite principalities."
 ---

@@ -20,7 +20,9 @@ point:
   latitude: 50.922
   longitude: 6.358
 colors:
-  1250: "#cd51cd"
+  1250: "#73b234"
+  1406: "#73b234"
+  1431: "#372786"
 note: "A duchy from 1356; joined with Berg from 1423."
 transitions:
 - year: 1521

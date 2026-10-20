@@ -21,7 +21,7 @@ point:
   latitude: 35.92
   longitude: 74.31
 colors:
-  550: "#349db2"
+  550: "#51cdb8"
 note: "550 estimates the sixth-century Patola Shahi court of Lesser Bolu. Gao Xianzhi deported its ruler in 747, but the native dynasty was subsequently restored; that campaign is not treated as the permanent end. 755 estimates the Tibetan takeover following the Tang withdrawal. Exact restoration and termination dates are uncertain."
 transitions:
 - year: 755

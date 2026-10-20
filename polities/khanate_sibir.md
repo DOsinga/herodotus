@@ -13,6 +13,8 @@ point:
   longitude: 68.5195
 colors:
   1468: "#51cda3"
+  1562: "#51cda3"
+  1587: "#5166cd"
 transitions:
 - year: 1598
   kind: absorbed_into

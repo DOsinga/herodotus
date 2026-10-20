@@ -24,7 +24,7 @@ point:
   latitude: 45.467
   longitude: 9.19
 colors:
-  1797: "#8f51cd"
+  1797: "#7a51cd"
 note: "Gap for the Austro-Russian occupation, which replaced the republic's government from April 1799 until May 1800."
 transitions:
 - year: 1799

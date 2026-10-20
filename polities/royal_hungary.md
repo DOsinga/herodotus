@@ -21,9 +21,9 @@ point:
   latitude: 48.1439
   longitude: 17.1097
 colors:
-  1526: "#73b234"
-  1617: "#73b234"
-  1642: "#cd6651"
+  1526: "#278637"
+  1615: "#278637"
+  1640: "#b2345e"
 note: "Kept separate from the Austrian lands because Hungarian institutions, the diet, the counties and the palatine governed it under its Habsburg kings. After the defeat of the 1848–1849 revolution Vienna governed it through its own officials until the Compromise of 1867, so that gap belongs to the Austrian Empire."
 transitions:
 - year: 1849

@@ -20,7 +20,7 @@ point:
   latitude: 32.6539
   longitude: 51.666
 colors:
-  1037: "#b8cd51"
+  1037: "#51cd8f"
 note: "The 1118 end marks the division into separately governed eastern and western sultanates, not the extinction of the dynasty. Isfahan represents the unified empire's principal late-eleventh-century seat."
 transitions:
 - year: 1118

@@ -21,7 +21,7 @@ point:
   latitude: 56.327
   longitude: 44.008
 colors:
-  1341: "#cd51cd"
+  1341: "#cd5166"
 note: "Formed in 1341 and governed from Nizhny Novgorod from 1350. Its prince Dmitry Konstantinovich held the grand-princely title and Vladimir itself from 1360 until Moscow drove him out in 1363. Vasily I of Moscow bought the khan's patent for it and took it over in 1392."
 transitions:
 - year: 1392

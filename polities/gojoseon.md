@@ -21,7 +21,7 @@ point:
   latitude: 39.0167
   longitude: 125.7475
 colors:
-  -400: "#b2b234"
+  -400: "#9db234"
 note: "400 BCE estimates the historically attested kingdom, not the legendary 2333 BCE founding. Wiman took the throne about 194 BCE. Han conquered it in 108 BCE."
 transitions:
 - year: -108

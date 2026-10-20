@@ -20,7 +20,7 @@ point:
   latitude: 37.929
   longitude: 102.633
 colors:
-  617: "#862727"
+  617: "#862737"
 note: "Li Gui established a territorial court west of the Yellow River in 617 before taking imperial title in 618. The 619 coup delivered his government to Tang. Links his biography because no separate English article covers this Liang, which is distinct from the other contemporary Liang courts."
 transitions:
 - year: 617

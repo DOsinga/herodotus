@@ -22,7 +22,7 @@ point:
   latitude: 38.2506
   longitude: 22.0811
 colors:
-  -280: "#cd5151"
+  -280: "#864727"
 note: "Starts with the refounding of the league; Rome dissolved it after the Achaean War."
 transitions:
 - year: -146

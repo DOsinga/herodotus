@@ -20,8 +20,6 @@ point:
   latitude: 15.4627
   longitude: 45.3253
 colors:
-  901: "#51a3cd"
-  1811: "#51a3cd"
-  1836: "#7a51cd"
+  901: "#518fcd"
 note: "No lasting lord of Marib is named in the sources; the record stands for the Abida and Murad tribes and the local sharif families who held the oasis. Yemeni highland states (the Zaydi imams, the Qasimids) at times claimed it."
 ---

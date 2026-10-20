@@ -20,6 +20,8 @@ point:
   longitude: 79.8729
 colors:
   1394: "#768627"
+  1515: "#768627"
+  1540: "#b8cd51"
 note: "The start estimates the end of Tughluq control after 1394. Sources disagree on whether the raja Sher Shah fought at Kalinjar in 1545 was a Chandela or a Baghela; the end follows the Chandela account. No article covers the kingdom; the link is to the decline of the Chandela dynasty."
 transitions:
 - year: 1545

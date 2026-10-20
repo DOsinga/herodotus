@@ -19,7 +19,7 @@ point:
   latitude: 37.1175
   longitude: 70.5797
 colors:
-  1507: "#272786"
+  1507: "#273786"
 note: "Links the article on Sulayman Mirza; no article covers the principality. 1507 follows the end of the Timurid Empire in the place history; Humayun's governorship from 1520 to 1529 is included. The seat was at Qal'a-i Zafar; Fayzabad is used as the point."
 transitions:
 - year: 1584

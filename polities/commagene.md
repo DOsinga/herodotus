@@ -23,7 +23,7 @@ point:
   latitude: 37.5794
   longitude: 38.4814
 colors:
-  -163: "#b851cd"
+  -163: "#278667"
 note: "Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. It was a Roman province from 17 to 38. Vespasian annexed it in 72."
 transitions:
 - year: -163

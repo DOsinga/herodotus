@@ -19,7 +19,7 @@ point:
   latitude: 34.74
   longitude: 10.76
 colors:
-  1058: "#cd51a3"
+  1058: "#cd517a"
 note: "No article covers the emirate, so the link goes to the city. The start is approximate; the Zirid and Banu Jami' articles give 1099 or 1100 for the Zirid conquest."
 transitions:
 - year: 1099

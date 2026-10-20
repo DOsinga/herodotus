@@ -23,9 +23,11 @@ point:
   latitude: 53.87
   longitude: 10.686
 colors:
-  1250: "#cd51b8"
-  1398: "#cd51b8"
-  1423: "#867627"
+  1250: "#862776"
+  1412: "#862776"
+  1437: "#278667"
+  1672: "#278667"
+  1697: "#517acd"
 note: "A free imperial city from 1226 and the head of the Hanseatic League. Annexed by France at the end of 1810 and free again from December 1813. Remained a city-state, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1810

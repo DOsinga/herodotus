@@ -22,7 +22,7 @@ point:
   latitude: 32.8225
   longitude: 21.8625
 colors:
-  -631: "#73b234"
+  -631: "#9db234"
 note: "The Battiad kingdom and then the republic. Ptolemy took it in 322 BCE."
 transitions:
 - year: -322

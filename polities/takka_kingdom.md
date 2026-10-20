@@ -20,6 +20,6 @@ point:
   latitude: 32.4925
   longitude: 74.5311
 colors:
-  570: "#7a51cd"
+  570: "#6651cd"
 note: "Both dates are estimates. 570 follows the end of Alchon rule at Sakala after Mihirakula; the kingdom is first attested by Xuanzang in the 630s. 964 matches the Hindu Shahi hold on Lahore from 965, though the Hudud al-Alam still names the country in 982. Shankaravarman's campaign of about 890 is not treated as an end."
 ---

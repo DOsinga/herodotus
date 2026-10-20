@@ -19,7 +19,7 @@ point:
   latitude: 42.0268
   longitude: 35.1551
 colors:
-  1262: "#b23473"
+  1262: "#862776"
 note: "The article dates the beylik to 1261 to 1326; 1262 and 1322 follow the place history, in which the Candarids hold Sinop from 1322."
 transitions:
 - year: 1322

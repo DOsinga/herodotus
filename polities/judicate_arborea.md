@@ -20,7 +20,7 @@ point:
   latitude: 39.9036
   longitude: 8.5917
 colors:
-  1000: "#272786"
+  1000: "#278676"
 note: "1000 is an estimate; the judicates grew out of Byzantine Sardinia during the tenth century, and the first rulers of Arborea are securely known from the eleventh."
 transitions:
 - year: 1420

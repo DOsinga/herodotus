@@ -19,7 +19,9 @@ point:
   latitude: 47.9233
   longitude: 7.1594
 colors:
-  1250: "#862776"
+  1250: "#372786"
+  1597: "#372786"
+  1622: "#278686"
 note: "Starts with the end of royal government in 1250 and ends with French sovereignty in 1680, although the abbots kept their lands as French subjects until 1789."
 transitions:
 - year: 1680

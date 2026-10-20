@@ -20,7 +20,7 @@ point:
   latitude: 13.45
   longitude: -6.267
 colors:
-  1849: "#517acd"
+  1849: "#cd51cd"
 note: "Ends when the French took Bandiagara in 1893; Wikipedia's infobox runs to 1903."
 transitions:
 - year: 1893

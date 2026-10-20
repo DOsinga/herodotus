@@ -27,11 +27,9 @@ point:
   latitude: 38.1157
   longitude: 13.3615
 colors:
-  1130: "#517acd"
-  1205: "#517acd"
-  1230: "#275786"
-  1305: "#275786"
-  1330: "#cd51b8"
+  1130: "#cd5166"
+  1234: "#cd5166"
+  1259: "#b29d34"
 note: "The last period is the Bourbon court's rule from Palermo, under British protection, while Naples was held by the Bonapartes."
 transitions:
 - year: 1282

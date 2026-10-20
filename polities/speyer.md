@@ -19,9 +19,13 @@ point:
   latitude: 49.3194
   longitude: 8.4311
 colors:
-  1250: "#34b273"
-  1543: "#34b273"
-  1568: "#34b249"
+  1250: "#378627"
+  1361: "#378627"
+  1386: "#b27334"
+  1465: "#b27334"
+  1490: "#b29d34"
+  1767: "#b29d34"
+  1792: "#a3cd51"
 note: "Starts with the end of royal government in 1250; the bishop renounced his rights over the city in 1294. Ends with the French occupation of 1794."
 transitions:
 - year: 1794

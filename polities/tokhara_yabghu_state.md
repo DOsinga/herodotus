@@ -19,7 +19,7 @@ point:
   latitude: 36.728
   longitude: 68.868
 colors:
-  625: "#51a3cd"
+  625: "#572786"
 note: "The hereditary yabghus governed despite Western Turk and Tang overlordship. Qutaiba deposed and deported the yabghu in 710; a restored court is attested by 718 and operated from Badakhshan as Arabs occupied Balkh. 758 is the last recorded embassy and an estimated end, not a documented final conquest. Kunduz represents the first capital."
 transitions:
 - year: 710

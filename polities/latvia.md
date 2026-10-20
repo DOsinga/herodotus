@@ -24,7 +24,7 @@ point:
   latitude: 56.9489
   longitude: 24.1064
 colors:
-  1918: "#863727"
+  1918: "#866727"
 note: "Gap for the Soviet annexation. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1918

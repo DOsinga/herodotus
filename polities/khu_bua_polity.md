@@ -19,6 +19,6 @@ point:
   latitude: 13.486
   longitude: 99.836
 colors:
-  550: "#864727"
+  550: "#cd51cd"
 note: "550–1050 estimates the fortified Dvaravati city-state's main governing phase from its monumental and settlement chronology. The precise royal line and final loss of local control are unknown. This is the individual urban community, not all Dvaravati settlements."
 ---

@@ -23,7 +23,9 @@ point:
   latitude: 37.5303
   longitude: 27.2783
 colors:
-  -1050: "#274786"
+  -1050: "#cd5166"
+  -524: "#cd5166"
+  -499: "#cdcd51"
 note: "The founding date of about 1050 BCE is the traditional estimate for the Ionian settlement; the later periods follow the Ionian Revolt and the Persian wars."
 transitions:
 - year: -547

@@ -14,7 +14,7 @@ point:
   latitude: 40.6824
   longitude: 14.7681
 colors:
-  839: "#cd5151"
+  839: "#862757"
 note: "839 follows Siconulf's rival government at Salerno, before the formal 851 partition. Pandulf of Capua took control in 978; the local court recovered in 983. Norman conquest ended it in 1077."
 transitions:
 - year: 839

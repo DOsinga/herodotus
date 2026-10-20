@@ -23,9 +23,7 @@ point:
   latitude: 42.8805
   longitude: -8.5457
 colors:
-  910: "#866727"
-  1040: "#866727"
-  1065: "#862767"
+  910: "#864727"
 note: "The periods record Ordoño's separate government and García's later restored kingdom, not the long-lived Galician title inside León and Castile. The 1071 conquest divided the realm between Castile and León; it is linked to León, whose Alfonso VI held all of Galicia from 1072. García's later return and imprisonment do not establish a restored government."
 transitions:
 - year: 914

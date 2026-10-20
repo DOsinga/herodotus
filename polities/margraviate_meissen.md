@@ -21,7 +21,7 @@ point:
   latitude: 51.167
   longitude: 13.483
 colors:
-  1250: "#b23434"
+  1250: "#b25e34"
 note: "Wettin margraves, who also won Thuringia in the succession war that ended in 1264. Merged into the Electorate of Saxony when Frederick the Warlike received Saxe-Wittenberg and its electoral vote in 1423."
 transitions:
 - year: 1423

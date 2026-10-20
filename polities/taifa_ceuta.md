@@ -19,7 +19,7 @@ point:
   latitude: 35.8883
   longitude: -5.3156
 colors:
-  1061: "#b23449"
+  1061: "#cd5166"
 note: "The start is an estimate: sources say only that Saqqut took power shortly before 1061. The Almoravid capture of Ceuta is dated 1083 or 1084; 1084 is used."
 transitions:
 - year: 1084

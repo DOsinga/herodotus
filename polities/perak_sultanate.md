@@ -19,9 +19,7 @@ point:
   latitude: 4.7667
   longitude: 100.9333
 colors:
-  1528: "#274786"
-  1603: "#274786"
-  1628: "#278647"
+  1528: "#cd51cd"
 note: >-
   Links the state article, as no article covers the sultanate before British rule on its own. Acehnese
   and Siamese overlordship did not replace the sultans' own government. The Pangkor Treaty of 1874

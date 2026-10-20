@@ -19,7 +19,7 @@ point:
   latitude: 11.9333
   longitude: -8.4167
 colors:
-  1670: "#cda351"
+  1670: "#a3cd51"
 note: "Starts with the end of the Mali Empire record in 1670. Mahmud IV's sons divided the remnant of Mali between Kangaba, Joma and Hamana; Hamana, governed from Kouroussa, has no record. Links the history of the Mali Empire, which describes the division. Ends with the French treaty of 1888."
 transitions:
 - year: 1888

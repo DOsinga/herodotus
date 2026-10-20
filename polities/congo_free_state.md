@@ -22,7 +22,7 @@ point:
   latitude: -5.85
   longitude: 13.05
 colors:
-  1885: "#51cda3"
+  1885: "#278667"
 note: "Leopold II's personal state, governed by his own administration."
 transitions:
 - year: 1908

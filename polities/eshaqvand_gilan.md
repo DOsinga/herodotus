@@ -21,9 +21,7 @@ point:
   latitude: 37.224
   longitude: 49.313
 colors:
-  760: "#678627"
-  1332: "#678627"
-  1357: "#a3cd51"
+  760: "#865727"
 note: "760 follows the Abbasid conquest that ended the Dabuyids. The family is attested from the fourteenth century; before 1307 the record stands for the local lords of western Gilan at Fuman, whose names are not known. The Tijaspis of Rasht and other petty lords of Bia-pas have no record."
 transitions:
 - year: 1307

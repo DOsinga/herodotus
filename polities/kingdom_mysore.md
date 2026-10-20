@@ -21,7 +21,9 @@ point:
   latitude: 12.414
   longitude: 76.704
 colors:
-  1565: "#cd518f"
+  1565: "#862776"
+  1649: "#862776"
+  1674: "#272786"
 note: "A Vijayanagara feudatory from 1399 until Talikota in 1565. Ends in 1799, when the British restored the Wodeyars under a subsidiary alliance; it remained a princely state until 1950. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1799

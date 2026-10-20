@@ -19,7 +19,7 @@ point:
   latitude: 42.0653
   longitude: -1.6067
 colors:
-  872: "#b851cd"
+  872: "#862767"
 note: "No article covers the state, so the link goes to the family. Musa ibn Musa's rule in the 850s is not counted, because he held the Upper March as the emir's appointed governor. The start is the seizure of Zaragoza in January 872. A branch held Lleida and Monzón until 928, which is not shown."
 transitions:
 - year: 924

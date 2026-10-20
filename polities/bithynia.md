@@ -22,7 +22,7 @@ point:
   latitude: 40.76
   longitude: 29.92
 colors:
-  -297: "#5eb234"
+  -297: "#34b234"
 note: "Nicomedes IV left the kingdom to Rome."
 transitions:
 - year: -74

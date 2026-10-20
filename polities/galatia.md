@@ -22,7 +22,9 @@ point:
   latitude: 39.9289
   longitude: 32.8547
 colors:
-  -270: "#862757"
+  -270: "#8f51cd"
+  -157: "#8f51cd"
+  -132: "#cdcd51"
 note: "270 BCE estimates the Galatian tetrarchies, which Deiotarus united as a kingdom in the 40s BCE. Augustus annexed it after Amyntas' death."
 transitions:
 - year: -25

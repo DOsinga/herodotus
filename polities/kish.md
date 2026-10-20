@@ -20,7 +20,7 @@ point:
   latitude: 32.55
   longitude: 44.6
 colors:
-  -2900: "#cd51cd"
+  -2900: "#cd6651"
 note: "The Early Dynastic city state whose kingship conferred hegemony in Sumer. Sargon, cupbearer to its king, took it over."
 transitions:
 - year: -2334

@@ -13,8 +13,6 @@ point:
   longitude: 16.35
 colors:
   1530: "#762786"
-  1616: "#762786"
-  1641: "#862737"
 note: "Start is the first documentary mention, as a tributary of Kongo in 1530; the kingdom is older. The 1744 treaty made it a Portuguese vassal on paper but barely changed who governed. End estimated: Wikipedia says only that Matamba was integrated into Portuguese Angola in the late 19th century. Point approximate: Matamba lay in the Baixa de Cassanje, east of Malanje."
 transitions:
 - year: 1880

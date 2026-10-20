@@ -21,8 +21,6 @@ point:
   longitude: -97.2833
 colors:
   950: "#272786"
-  1495: "#272786"
-  1520: "#b29d34"
 note: "The start is estimated from the codices' genealogies. Kept active under Aztec tribute in the late fifteenth century, since its own lords went on ruling."
 transitions:
 - year: 1522

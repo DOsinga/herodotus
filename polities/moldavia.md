@@ -23,7 +23,7 @@ point:
   latitude: 47.6514
   longitude: 26.2556
 colors:
-  1346: "#517acd"
+  1346: "#272786"
 note: "Absorbed while the Ottomans installed Phanariot princes (1711–1821); native princes governed again from 1822 until the union with Wallachia."
 transitions:
 - year: 1711

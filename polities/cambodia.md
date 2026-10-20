@@ -21,7 +21,7 @@ point:
   latitude: 11.5694
   longitude: 104.9211
 colors:
-  1953: "#278647"
+  1953: "#678627"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1953

@@ -20,7 +20,7 @@ point:
   latitude: 36.6
   longitude: 114.5
 colors:
-  617: "#7a51cd"
+  617: "#345eb2"
 note: "Begins with Dou's governing Changle state in 617; it took the Xia name in 618 and moved its capital to Mingzhou. Ends with Dou's capture at Hulao and Tang's occupation, not his later execution. Links the ruler's biography."
 transitions:
 - year: 617

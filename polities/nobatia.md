@@ -20,7 +20,7 @@ point:
   latitude: 22.183
   longitude: 31.467
 colors:
-  351: "#cd517a"
+  351: "#cd51b8"
 note: "The start follows the fall of Kush around 350; the Ballana culture of the Noba begins in the later fourth century and the kingdom is tangible by 400. Its incorporation into Makuria is not exactly dated: it certainly occurred by 707 and may have preceded the Arab invasion of 652. 650 is an explicit mid-seventh-century estimate. Pachoras is the archaeological site of Faras."
 transitions:
 - year: 650

@@ -22,7 +22,7 @@ point:
   latitude: 25.34
   longitude: 81.39
 colors:
-  -73: "#8f51cd"
+  -73: "#7334b2"
 note: "All dates are estimates from coins and inscriptions. The start follows the end of Shunga rule, the gap is the Kushan hold on Kosambi, and the end is Samudragupta's annexation. The second period covers the Magha kings, who have no separate record."
 transitions:
 - year: 99

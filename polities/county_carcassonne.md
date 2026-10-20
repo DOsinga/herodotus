@@ -21,7 +21,9 @@ point:
   latitude: 43.2133
   longitude: 2.3508
 colors:
-  878: "#278637"
+  878: "#7acd51"
+  1038: "#7acd51"
+  1063: "#51a3cd"
 note: "The counts and the later Trencavel viscounts are recorded together, and so are the Montforts, who held the viscounty from 1209 to 1224. The start follows Acfred I's accession in 877 and the end of the West Frankish span."
 transitions:
 - year: 1069

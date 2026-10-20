@@ -19,7 +19,7 @@ point:
   latitude: 12.8
   longitude: 45.0333
 colors:
-  1138: "#276786"
+  1138: "#274786"
 note: "Sulayhid vassals at Aden from 1083; counted from the death of Queen Arwa in 1138, when they governed on their own, although the article says they had largely stopped paying tribute after 1110."
 transitions:
 - year: 1174

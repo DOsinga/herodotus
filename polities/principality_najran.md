@@ -20,6 +20,6 @@ point:
   latitude: 17.4917
   longitude: 44.1322
 colors:
-  1633: "#51cd51"
+  1633: "#51cd66"
 note: "1633 is the date given by the Principality of Najran article. The record ends in 1917 on the assumption that Imam Yahya's Yemen held Najran from 1918; that article instead dates Yemeni occupations to 1924 and 1933, and the Makrami da'is themselves lasted until the Saudi annexation of 1934."
 ---

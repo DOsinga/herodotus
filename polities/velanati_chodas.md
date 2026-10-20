@@ -20,7 +20,7 @@ point:
   latitude: 16.0069
   longitude: 80.6117
 colors:
-  1118: "#345eb2"
+  1118: "#9d34b2"
 note: "1118 estimates when the Chola grip on Vengi ended after Kulottunga I and the Velanati rulers began governing in their own name; before that they ruled Vengi as Chola viceroys and the towns are given to the Cholas. The end follows Prithviswara's death in 1207; Rajendra Choda III's attempts to hold on are not counted."
 transitions:
 - year: 1207

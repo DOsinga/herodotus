@@ -24,7 +24,7 @@ point:
   latitude: 51.959
   longitude: 21.236
 colors:
-  1275: "#b2345e"
+  1275: "#66cd51"
 note: "The eastern share of the Masovian partitions, centred first on Czersk and from 1413 on Warsaw. Siemowit III reunited Masovia in 1370. After the 1381 partition Janusz I's line held this share, often called the Duchy of Warsaw, as Polish vassals; it took in Płock's remaining lands in 1495 and lasted until the last duke died in 1526 and the king incorporated it."
 transitions:
 - year: 1294

@@ -22,11 +22,7 @@ point:
   latitude: 53.551
   longitude: 9.993
 colors:
-  1250: "#49b234"
-  1639: "#49b234"
-  1664: "#34b249"
-  1778: "#34b249"
-  1803: "#3488b2"
+  1250: "#275786"
 note: "Governed by its own council from the thirteenth century, although the counts of Holstein and later Denmark claimed it until 1768. Annexed by France at the end of 1810; Davout held it until May 1814. Links the city article. Remained a city-state, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1810

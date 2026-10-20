@@ -20,7 +20,9 @@ point:
   latitude: 51.226
   longitude: 6.777
 colors:
-  1614: "#272786"
+  1614: "#278647"
+  1691: "#278647"
+  1716: "#b23488"
 note: "Jülich and Berg under the Neuburg Wittelsbachs, governed from Düsseldorf. The dukes inherited the Palatinate in 1685 and Johann Wilhelm kept his court at Düsseldorf; after his death in 1716 Charles Philip ruled from the Palatinate, moving to Mannheim in 1720, and the duchies were run by a governor answering to him."
 transitions:
 - year: 1716

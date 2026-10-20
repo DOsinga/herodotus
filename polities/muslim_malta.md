@@ -19,7 +19,7 @@ point:
   latitude: 35.8858
   longitude: 14.4031
 colors:
-  1053: "#cda351"
+  1053: "#5eb234"
 note: "Links the article on Mdina; no article covers the island's government in these years, and its rulers are not known by name. As a tributary of the Norman counts from 1091 it governed itself, so it stays active until 1127."
 transitions:
 - year: 1127

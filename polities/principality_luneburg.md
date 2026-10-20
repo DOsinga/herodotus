@@ -21,9 +21,9 @@ point:
   latitude: 52.626
   longitude: 10.082
 colors:
-  1269: "#cd7a51"
-  1364: "#cd7a51"
-  1389: "#cd5151"
+  1269: "#cd8f51"
+  1353: "#cd8f51"
+  1378: "#cd6651"
 note: "Governed from Celle from 1378. When the last duke died in 1705 it passed to his nephew, the Elector of Hanover, and was governed from Hanover."
 transitions:
 - year: 1705

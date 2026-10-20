@@ -23,7 +23,7 @@ point:
   latitude: 13.848
   longitude: 76.959
 colors:
-  735: "#cdcd51"
+  735: "#8f51cd"
 note: "735 follows the conventional Mangala chronology. Gap for the Ganga destruction under Marasimha around 968, followed by a smaller restored native government under Chalukya overlordship. 1000 estimates the end of separately governing kings, not all later officials using Nolamba titles. Henjeru is modern Hemavati."
 transitions:
 - year: 968

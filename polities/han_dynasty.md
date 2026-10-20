@@ -23,7 +23,7 @@ point:
   latitude: 34.6197
   longitude: 112.4539
 colors:
-  -206: "#517acd"
+  -206: "#862727"
 note: "Starts with Liu Bang's kingdom of Han in 206 BCE; he took the imperial title in 202 BCE. Wang Mang's Xin and the Gengshi government are separate records, and the Eastern Han starts with Emperor Guangwu in 25. Chang'an was the capital before 25. Real power passed to warlords from 190, but the court kept its government until Cao Pi took the throne."
 transitions:
 - year: 9

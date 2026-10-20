@@ -20,7 +20,7 @@ point:
   latitude: 40.3756
   longitude: 49.8325
 colors:
-  1747: "#b2b234"
+  1747: "#b23449"
 note: "Fath Ali Khan of Quba's dominance from the 1760s worked through marriage alliances and did not replace the Baku khans' own government. Russia's capture of the city in 1806 ends it."
 transitions:
 - year: 1806

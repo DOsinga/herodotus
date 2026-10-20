@@ -22,7 +22,7 @@ point:
   latitude: 16.816
   longitude: 81.118
 colors:
-  642: "#51cdcd"
+  642: "#34b2b2"
 note: "642 estimates the change from Vishnuvardhana's Badami-appointed viceroyalty of 624 to its own kingdom after Pulakeshin II's death. Native rulers continued under Rashtrakuta and Chola overlordship; Jata Choda Bhima's native usurpation in 973–999 is not a foreign-administration gap. The period ends with Vijayaditya VII's death in 1075 and the replacement of the local kings by Chola royal viceroys, not the later extinction of the dynasty."
 transitions:
 - year: 642

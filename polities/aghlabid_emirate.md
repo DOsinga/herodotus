@@ -21,7 +21,7 @@ point:
   latitude: 35.6781
   longitude: 10.0963
 colors:
-  800: "#866727"
+  800: "#578627"
 note: "The closest article covers the dynasty and its state. The hereditary rulers of Ifriqiya kept their own government despite Abbasid appointment and tribute. Their courts used nearby al-Abbasiyya and later Raqqada. Fatimid conquest ended the government in 909."
 transitions:
 - year: 800

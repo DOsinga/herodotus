@@ -19,7 +19,7 @@ point:
   latitude: 47.2692
   longitude: 11.4041
 colors:
-  1406: "#a351cd"
+  1406: "#34b288"
 note: "Shares the article on the County of Tyrol with the earlier county. Frederick IV's line from the 1406 division, with Innsbruck as the seat from 1420; Sigismund ceded it to Maximilian in 1490."
 transitions:
 - year: 1490
