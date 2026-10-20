@@ -19,7 +19,7 @@ point:
   latitude: 25.3792
   longitude: 68.3683
 colors:
-  1701: "#864727"
+  1701: "#cd5151"
 note: >-
   Links the dynasty article; the dynasty name is the conventional name for the state. 1701 is Yar
   Muhammad's grant; Mughal governors held Thatta until 1737. The point is the capital from 1768;

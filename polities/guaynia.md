@@ -21,6 +21,8 @@ point:
   longitude: -66.79
 colors:
   1000: "#278637"
+  1486: "#278637"
+  1511: "#277686"
 note: "1000 continues from the Tibes chiefdom, whose centre was abandoned then; the chiefdoms of southern Puerto Rico before the contact period are not separately known, so this is an estimate. Links the article on its ruler because no article covers the chiefdom. Ends with the defeat of the Taíno rising of 1511."
 transitions:
 - year: 1511

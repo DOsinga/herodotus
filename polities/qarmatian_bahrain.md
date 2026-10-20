@@ -21,7 +21,7 @@ point:
   latitude: 25.383
   longitude: 49.583
 colors:
-  899: "#7a51cd"
+  899: "#276786"
 note: "The article covers the wider religious movement as well as this state. The period starts with its government in eastern Arabia, not the movement's origins. Its raids elsewhere do not establish lasting government there."
 transitions:
 - year: 1077

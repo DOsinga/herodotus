@@ -21,9 +21,7 @@ point:
   latitude: 40.8518
   longitude: 14.2681
 colors:
-  770: "#a3cd51"
-  1090: "#a3cd51"
-  1115: "#cd5166"
+  770: "#8fcd51"
 note: "The start is an estimate for practical independence developing under Stephen II in the late eighth century, not the earlier creation of a Byzantine province. The last duke died in 1137 and Roger II took direct control."
 transitions:
 - year: 1137

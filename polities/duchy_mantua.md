@@ -21,9 +21,9 @@ point:
   latitude: 45.156
   longitude: 10.792
 colors:
-  1328: "#cdcd51"
-  1423: "#cdcd51"
-  1448: "#5166cd"
+  1328: "#51cd7a"
+  1598: "#51cd7a"
+  1623: "#cda351"
 note: "The Gonzaga took Mantua in 1328; marquises from 1433 and dukes from 1530. Joseph I deposed the last duke for siding with France, and Austria annexed Mantua in 1708."
 transitions:
 - year: 1708

@@ -21,7 +21,7 @@ point:
   latitude: 34.6197
   longitude: 112.454
 colors:
-  923: "#cd517a"
+  923: "#275786"
 note: "This was Li Cunxu's successor to Jin, not a restoration of government over all former Tang territory. The end uses the actual January 937 fall of Luoyang; abbreviated dynasty chronologies often give 936. Later Jin had already formed in November 936."
 transitions:
 - year: 937

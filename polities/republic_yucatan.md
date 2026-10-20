@@ -20,7 +20,7 @@ point:
   latitude: 20.9672
   longitude: -89.6236
 colors:
-  1841: "#cdcd51"
+  1841: "#cd5166"
 note: "Starts with the declaration of independence in 1841 and treats the brief return to Mexico of 1843–1845, which the peninsula's government never really accepted, as part of the republic."
 transitions:
 - year: 1841

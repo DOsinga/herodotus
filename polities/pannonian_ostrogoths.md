@@ -19,6 +19,6 @@ point:
   latitude: 46.85
   longitude: 17.73
 colors:
-  454: "#34b25e"
+  454: "#34b273"
 note: "Links the article on the people. 454 is the battle of Nedao and 473 their move to the Balkans; the extent rests on Jordanes. Lake Balaton stands for Pannonia, as their seats are unknown."
 ---

@@ -19,7 +19,7 @@ point:
   latitude: -6.9
   longitude: 112.05
 colors:
-  1546: "#8fcd51"
+  1546: "#cd6651"
 note: >-
   Links the town article, as no article covers the principality. 1546 estimates its independence
   after Demak's decline, as for Surabaya; its regents are poorly documented. 1619 follows the

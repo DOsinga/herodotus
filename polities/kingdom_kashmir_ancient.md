@@ -22,7 +22,7 @@ point:
   latitude: 34.084
   longitude: 74.797
 colors:
-  -185: "#866727"
+  -185: "#578627"
 note: "Links the article on the second Gonanda dynasty, which covers the later of the two periods; Kalhana's earlier kings are covered only by legend. All dates are estimates: -185 follows the end of the Maurya Empire, 100 the Kushan conquest of the valley before Kanishka's reign, 231 the decline of the Kushans after the Sasanian conquest of Bactria, and 520 Mihirakula's seizure of Kashmir. The Rajatarangini's own chronology for these kings is not followed. The point is Srinagar, with the old capital at Pandrethan beside it."
 transitions:
 - year: 99

@@ -20,9 +20,7 @@ point:
   latitude: 24.6383
   longitude: 46.715
 colors:
-  1902: "#3449b2"
-  1977: "#3449b2"
-  2002: "#278647"
+  1902: "#345eb2"
 note: "Starts with Ibn Saud's capture of Riyadh in 1902; called Saudi Arabia from 1932. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1902

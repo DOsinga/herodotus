@@ -21,9 +21,7 @@ point:
   latitude: 41.845
   longitude: 44.72
 colors:
-  -302: "#a3cd51"
-  -125: "#a3cd51"
-  -100: "#578627"
+  -302: "#34b288"
 note: "302 BCE is the traditional foundation date of the Kartli monarchy; the chronology of its first rulers is uncertain. Ends when the Sasanians abolished the kingship and imposed a marzpan, rather than treating earlier tribute as annexation. The later presiding principality is a separate record."
 transitions:
 - year: 580

@@ -21,9 +21,7 @@ point:
   latitude: 50.9781
   longitude: 11.0289
 colors:
-  1250: "#862757"
-  1625: "#862757"
-  1650: "#862737"
+  1250: "#51cd8f"
 note: "Starts with the end of royal government in 1250. The city governed itself under the nominal lordship of Mainz; the Swedish occupation of 1631 to 1650 is a gap. Ends with the Mainz conquest of 1664."
 transitions:
 - year: 1631

@@ -20,7 +20,7 @@ point:
   latitude: 12.8
   longitude: 45.0333
 colors:
-  1019: "#7334b2"
+  1019: "#3449b2"
 note: "1019 is an estimate resting on the Ziyadid collapse after 1018. Links the article on the Zurayid dynasty, which covers the Banu Ma'n; the Sulayhid dynasty article dates their defeat and tribute to 1062."
 transitions:
 - year: 1083

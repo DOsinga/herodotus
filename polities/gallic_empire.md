@@ -20,7 +20,7 @@ point:
   latitude: 49.7567
   longitude: 6.6414
 colors:
-  260: "#5e34b2"
+  260: "#3434b2"
 note: "Cologne was the first seat; Trier was the main one."
 transitions:
 - year: 260

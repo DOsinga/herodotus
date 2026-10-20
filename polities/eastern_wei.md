@@ -12,7 +12,7 @@ point:
   latitude: 36.278
   longitude: 114.617
 colors:
-  534: "#3473b2"
+  534: "#518fcd"
 note: "Gao Huan established a separate eastern court in 534; the imperial Yuan ruler was a figurehead, but the Gao government actually governed the state. Ye is represented by the archaeological capital site."
 transitions:
 - year: 534

@@ -25,7 +25,7 @@ point:
   latitude: -6.162
   longitude: 39.191
 colors:
-  1856: "#867627"
+  1856: "#865727"
 note: "Gap for the British protectorate of 1890–1963. Protected and princely states do not count as governing themselves, because the protecting power controlled their war and foreign relations."
 transitions:
 - year: 1890

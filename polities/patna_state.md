@@ -19,9 +19,7 @@ point:
   latitude: 20.72
   longitude: 83.15
 colors:
-  1360: "#51b8cd"
-  1543: "#51b8cd"
-  1568: "#7a51cd"
+  1360: "#51cda3"
 note: "1360 is the traditional date of Ramai Deva's accession, known from later court literature. The end in 1800 is an estimate taken from the Bhonsle conquest of neighbouring Sambalpur; the Patna article does not date the Maratha takeover. Sambalpur, the branch founded around 1570, is a separate state and has no record yet."
 transitions:
 - year: 1800

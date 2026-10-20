@@ -17,5 +17,5 @@ point:
   latitude: 31.63
   longitude: -8.0089
 colors:
-  1510: "#51cdcd"
+  1510: "#51a3cd"
 ---

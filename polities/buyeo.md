@@ -12,7 +12,9 @@ point:
   latitude: 43.8381
   longitude: 126.5497
 colors:
-  -200: "#51cd7a"
+  -200: "#517acd"
+  345: "#517acd"
+  370: "#34b29d"
 note: "Both dates are estimates; Goguryeo absorbed its last remnant in 494."
 transitions:
 - year: 494

@@ -24,11 +24,11 @@ point:
   latitude: 53.076
   longitude: 8.807
 colors:
-  1250: "#b25e34"
-  1640: "#b25e34"
-  1665: "#b2349d"
-  1782: "#b2349d"
-  1807: "#cd51a3"
+  1250: "#b2b234"
+  1657: "#b2b234"
+  1682: "#8f51cd"
+  1769: "#8f51cd"
+  1794: "#a3cd51"
 note: "Governed by its own council under the nominal lordship of its archbishops, and confirmed as a free imperial city in 1646. Annexed by France at the end of 1810 and free again from November 1813. Links the city article. Remained a city-state, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1810

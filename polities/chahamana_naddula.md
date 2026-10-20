@@ -20,7 +20,7 @@ point:
   latitude: 25.367
   longitude: 73.45
 colors:
-  950: "#51cd66"
+  950: "#88b234"
 note: "The start estimates Lakshmana's foundation in the middle of the tenth century. The point is approximate."
 transitions:
 - year: 1197

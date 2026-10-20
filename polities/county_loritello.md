@@ -19,7 +19,7 @@ point:
   latitude: 42.35
   longitude: 14.1667
 colors:
-  1076: "#275786"
+  1076: "#9d34b2"
 note: "Links Robert I's article; no article covers the county. Start set at the conquest of Chieti; Robert's earlier lordship around Loritello from about 1061 is not included."
 transitions:
 - year: 1140

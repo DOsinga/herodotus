@@ -19,7 +19,7 @@ point:
   latitude: 32.54
   longitude: 44.42
 colors:
-  -626: "#278647"
+  -626: "#9db234"
 note: "Starts with Nabopolassar's revolt against Assyria. Cyrus took Babylon in 539 BCE."
 transitions:
 - year: -626

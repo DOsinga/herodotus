@@ -21,7 +21,7 @@ point:
   latitude: 9.03
   longitude: 38.74
 colors:
-  1598: "#278657"
+  1598: "#51cd8f"
 note: "1598 follows the end of imperial control over Shewa at the close of Sarsa Dengel's reign; Oromo groups had entered Shewa from the 1560s. The record covers the Tulama clans as one chiefdom, since the evidence does not separate them. 1881 follows Menelik's occupation of Entoto. Links a short article on the Tulama."
 transitions:
 - year: 1881

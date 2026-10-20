@@ -20,7 +20,7 @@ point:
   latitude: 30.22
   longitude: 78.78
 colors:
-  823: "#278647"
+  823: "#34b249"
 note: "Garhwal paid Mughal tribute from 1654 but kept fighting its own wars, so it stays active until the Gorkha conquest of 1804."
 transitions:
 - year: 1804

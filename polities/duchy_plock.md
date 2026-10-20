@@ -25,7 +25,7 @@ point:
   latitude: 52.547
   longitude: 19.706
 colors:
-  1275: "#5eb234"
+  1275: "#8834b2"
 note: "The Płock share of the Masovian partitions. When its duke died in 1351 Casimir III took Płock and governed it himself until 1370, when it returned to Siemowit III. After the 1381 partition it stayed with Siemowit IV's line, a Polish vassal, until it was incorporated into the crown in 1495; Rawa and Gostynin went to the crown in 1462."
 transitions:
 - year: 1294

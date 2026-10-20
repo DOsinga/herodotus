@@ -20,6 +20,6 @@ point:
   latitude: -0.457
   longitude: 100.598
 colors:
-  1347: "#8f51cd"
+  1347: "#cd5166"
 note: "1347 follows Adityawarman's establishment of his inland court. Acehnese overlordship did not replace its own kings. 1833 follows the destruction of royal government in the Padri War and Dutch consolidation, not the survival of royal families."
 ---

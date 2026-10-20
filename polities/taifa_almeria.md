@@ -25,9 +25,9 @@ point:
   latitude: 36.8333
   longitude: -2.45
 colors:
-  1012: "#a351cd"
-  1115: "#a351cd"
-  1140: "#cd5166"
+  1012: "#cdcd51"
+  1115: "#cdcd51"
+  1140: "#51cd51"
 note: "The first start is an estimate: independence is variously dated 1010 or around 1012. Valencia ruled through its governor in 1038–1042. The later period follows the conventional 1140 restoration date."
 transitions:
 - year: 1012

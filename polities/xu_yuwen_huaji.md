@@ -20,7 +20,7 @@ point:
   latitude: 36.456
   longitude: 115.985
 colors:
-  618: "#cdcd51"
+  618: "#864727"
 note: "Yuwen's independent court and army held a territorial base after Emperor Yang's murder in 618; it took the Xu name after killing the figurehead Yang Hao. Ends when Dou Jiande captured its base in 619. Links his biography."
 transitions:
 - year: 618

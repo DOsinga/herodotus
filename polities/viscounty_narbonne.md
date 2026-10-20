@@ -19,7 +19,7 @@ point:
   latitude: 43.1836
   longitude: 3.0042
 colors:
-  878: "#572786"
+  878: "#866727"
 note: "The start follows Maiol I's accession in 878. The viscounts held Narbonne under the crown until 1507; the end follows the royal takeover of Languedoc in the Treaty of Paris of 1229."
 transitions:
 - year: 1229

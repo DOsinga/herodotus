@@ -12,7 +12,7 @@ point:
   latitude: 48.1439
   longitude: 17.1097
 colors:
-  1939: "#278667"
+  1939: "#277686"
 note: "Its 1939 protection treaty bound its foreign and military policy to Germany's, but it had its own government, army and diplomatic relations, so it is kept as a polity until the German occupation of 1944."
 transitions:
 - year: 1939

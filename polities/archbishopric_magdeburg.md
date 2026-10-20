@@ -20,7 +20,7 @@ point:
   latitude: 52.1317
   longitude: 11.6392
 colors:
-  1250: "#cdb851"
+  1250: "#768627"
 note: "Starts with the end of royal government in Germany in 1250. The city of Magdeburg resisted the archbishops and was nearly self-governing, but is kept here under the principality. Lutheran administrators replaced the archbishops after 1566. When the last administrator died in 1680 it passed to Brandenburg as the Duchy of Magdeburg."
 transitions:
 - year: 1680

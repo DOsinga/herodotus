@@ -21,7 +21,7 @@ point:
   latitude: 32.06
   longitude: 118.797
 colors:
-  502: "#cdcd51"
+  502: "#278686"
 note: "Jiankang represents the principal capital; the loyal Liang government also operated at Jiangling during Hou Jing's takeover. Hou's separate Han government and the Western Liang court are recorded separately rather than erasing the surviving Liang administration."
 transitions:
 - year: 557

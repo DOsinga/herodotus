@@ -21,11 +21,7 @@ point:
   latitude: 50.1109
   longitude: 8.6821
 colors:
-  962: "#88b234"
-  1044: "#88b234"
-  1069: "#b2b234"
-  1145: "#b2b234"
-  1170: "#88b234"
+  962: "#b2b234"
 note: "Counted as a polity only while the emperors actually governed the German kingdom: they appointed and removed dukes, as when Frederick Barbarossa stripped Henry the Lion of Bavaria and Saxony in 1180. After Frederick II died in 1250 the princes governed their own lands, which the privileges of 1220 and 1231 had already handed them, and the Empire was an umbrella over them until 1806. Bohemia, Savoy and the Italian cities governed themselves earlier and have their own records. The cut-off is a judgement call: recent historians stress that the imperial courts and Diet still mattered until 1806."
 transitions:
 - year: 1250

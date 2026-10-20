@@ -23,7 +23,7 @@ point:
   latitude: 55.7558
   longitude: 37.6178
 colors:
-  1922: "#272786"
+  1922: "#b23488"
 transitions:
 - year: 1991
   kind: split_into

@@ -25,7 +25,7 @@ point:
   latitude: 13.929
   longitude: 109.075
 colors:
-  192: "#868627"
+  192: "#678627"
 note: "Start estimated: 192 is the traditional founding of Lâm Ấp. Gaps for the Khmer occupations of 1145–1149 and 1203–1220. Đại Việt took Vijaya in 1471, and the rump kingdom of Panduranga continued under its own kings until 1832; the point is Vijaya, the capital from about 1000."
 transitions:
 - year: 1145

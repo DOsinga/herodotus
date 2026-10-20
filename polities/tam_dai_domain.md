@@ -20,7 +20,7 @@ point:
   latitude: 21.23
   longitude: 105.51
 colors:
-  965: "#34b25e"
+  965: "#cd517a"
 note: "965 estimates the emergence of Nguyễn Khoan's separate government in the documented warlord period; an earlier local power base is possible. His domain ended with his 967 defeat. The point approximately represents Vĩnh Tường, and the biography is the nearest polity source."
 transitions:
 - year: 967

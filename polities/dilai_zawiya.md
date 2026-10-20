@@ -19,7 +19,7 @@ point:
   latitude: 32.76
   longitude: -5.7233
 colors:
-  1638: "#7acd51"
+  1638: "#277686"
 note: "The start is the building of the new capital at Dila in 1638, as the zawiya began its conquests in the north; Fez and Meknes were taken by 1641. The Republic of Salé kept governing itself under Dila'i suzerainty and has its own record."
 transitions:
 - year: 1668

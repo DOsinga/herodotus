@@ -12,7 +12,7 @@ point:
   latitude: 15.6
   longitude: 32.5
 colors:
-  1956: "#51cd7a"
+  1956: "#51cd8f"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1956

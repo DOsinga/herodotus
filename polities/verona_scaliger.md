@@ -12,7 +12,7 @@ point:
   latitude: 45.439
   longitude: 10.993
 colors:
-  1262: "#51cda3"
+  1262: "#34b2b2"
 note: "Mastino della Scala, podestà from 1259, became capitano del popolo in 1262; his family ruled Verona, and for a time much of the Veneto, until Gian Galeazzo Visconti took it in 1387. Links the article on the family."
 transitions:
 - year: 1387

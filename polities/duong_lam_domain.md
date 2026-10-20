@@ -20,7 +20,7 @@ point:
   latitude: 21.159
   longitude: 105.469
 colors:
-  965: "#478627"
+  965: "#7a51cd"
 note: "965 estimates when Ngô Nhật Khánh's Đường Lâm domain functioned separately during the Ngô collapse. Đinh took it in 968; Khánh's later exile and death in 979 did not extend his government. The ruler's biography covers this territorial domain."
 transitions:
 - year: 968

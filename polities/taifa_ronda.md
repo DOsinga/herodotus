@@ -19,7 +19,7 @@ point:
   latitude: 36.74
   longitude: -5.16
 colors:
-  1039: "#a351cd"
+  1039: "#cdcd51"
 note: "Seville took it in 1065."
 transitions:
 - year: 1065

@@ -20,7 +20,7 @@ point:
   latitude: 42.7182
   longitude: 12.1083
 colors:
-  -750: "#51cd51"
+  -750: "#51cd66"
 note: "Rome destroyed the city in 264 BCE and moved its people."
 transitions:
 - year: -264

@@ -21,7 +21,7 @@ point:
   latitude: 45.55
   longitude: 11.55
 colors:
-  1138: "#b28834"
+  1138: "#278657"
 note: "Start estimated; consuls are recorded in the first half of the twelfth century. The gap is Ezzelino da Romano's lordship of 1236–1259."
 transitions:
 - year: 1236

@@ -20,7 +20,9 @@ point:
   latitude: 46.667
   longitude: 11.167
 colors:
-  1250: "#cd51cd"
+  1250: "#5e34b2"
+  1338: "#5e34b2"
+  1363: "#6651cd"
 note: "Margaret Maultasch handed Tyrol to Rudolf IV of Habsburg in 1363; the separate Habsburg line that held it with Further Austria from 1406 to 1490 has its own record."
 transitions:
 - year: 1363

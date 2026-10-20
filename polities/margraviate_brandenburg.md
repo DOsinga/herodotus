@@ -23,8 +23,10 @@ point:
   longitude: 13.405
 colors:
   1250: "#34b29d"
-  1465: "#34b29d"
-  1490: "#cd518f"
+  1325: "#34b29d"
+  1350: "#6651cd"
+  1655: "#6651cd"
+  1680: "#66cd51"
 note: "An electorate from 1356. From 1618 its electors also ruled the Duchy of Prussia, which keeps its own record until both became the Kingdom of Prussia in 1701."
 transitions:
 - year: 1701

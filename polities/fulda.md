@@ -19,6 +19,8 @@ point:
   latitude: 50.5508
   longitude: 9.6753
 colors:
-  1250: "#5151cd"
+  1250: "#b23473"
+  1457: "#b23473"
+  1482: "#b2349d"
 note: "Starts with the end of royal government in 1250. Ends with secularisation in 1802; the principality of Orange-Nassau-Fulda that followed has no record."
 ---

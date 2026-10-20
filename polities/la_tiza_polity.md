@@ -13,7 +13,7 @@ point:
   latitude: -14.8
   longitude: -74.85
 colors:
-  400: "#278627"
+  400: "#51cd51"
 note: "400–750 estimates the local Nasca-valley governing community examined in Kevin Vaughn's and Christina Conlee's archaeological work. Wari expansion changed the political order during the Middle Horizon, conventionally around 750 here. Links the broader archaeological history because no English article covers this individual centre; the point is approximate."
 transitions:
 - year: 750

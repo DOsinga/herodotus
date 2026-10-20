@@ -22,7 +22,7 @@ point:
   latitude: 42.225
   longitude: 43.97
 colors:
-  1992: "#8fcd51"
+  1992: "#868627"
 note: "Governs its territory without wide international recognition. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1992

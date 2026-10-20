@@ -19,7 +19,7 @@ point:
   latitude: 27.39
   longitude: 79.58
 colors:
-  1714: "#5151cd"
+  1714: "#cd51cd"
 note: "The start is the founding of Farrukhabad; like Oudh, the state counts from the founder's own government rather than his later independence from Delhi. From the 1770s the nawabs depended on Oudh. No article covers the state; the link is to its founder."
 transitions:
 - year: 1802

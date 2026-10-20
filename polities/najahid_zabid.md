@@ -20,7 +20,7 @@ point:
   latitude: 14.195
   longitude: 43.315
 colors:
-  1022: "#cd517a"
+  1022: "#862786"
 note: "The single period glosses over the decades after about 1060 when the Sulayhids held Zabid and the Najahids were in exile; the end follows Ali ibn Mahdi's capture of the city, dated 1158 or 1159."
 transitions:
 - year: 1159

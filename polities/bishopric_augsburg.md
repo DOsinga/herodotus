@@ -19,9 +19,11 @@ point:
   latitude: 48.5811
   longitude: 10.4953
 colors:
-  1250: "#8f51cd"
-  1680: "#8f51cd"
-  1705: "#51cdcd"
+  1250: "#8fcd51"
+  1325: "#8fcd51"
+  1350: "#862747"
+  1610: "#862747"
+  1635: "#cda351"
 note: "Starts with the end of royal government in 1250. Ends with secularisation in 1803."
 transitions:
 - year: 1803

@@ -19,7 +19,7 @@ point:
   latitude: 24.9
   longitude: 91.8667
 colors:
-  1576: "#372786"
+  1576: "#275786"
 note: "The start is an estimate: when Afghan rule in Sylhet began after the Karrani fall is not recorded, and Bayazid is known mainly from the war of 1612. The record covers the Afghan government at Sylhet; Anwar Khan of Baniachong and Khwaja Usman's lands further south have no records."
 transitions:
 - year: 1612

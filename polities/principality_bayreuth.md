@@ -19,7 +19,9 @@ point:
   latitude: 49.9481
   longitude: 11.5783
 colors:
-  1398: "#7a51cd"
+  1398: "#b23449"
+  1608: "#b23449"
+  1633: "#51cdb8"
 note: "Starts with the division of the burgraviate of Nuremberg in 1398. The point is Bayreuth, the residence from 1604; before that the margraves ruled from Kulmbach."
 transitions:
 - year: 1791

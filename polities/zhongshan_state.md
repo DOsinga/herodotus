@@ -24,7 +24,7 @@ point:
   latitude: 38.247
   longitude: 114.199
 colors:
-  -414: "#278686"
+  -414: "#51cda3"
 note: "Starts with the restored Di state of Zhongshan. Wei conquered it in 407 BCE and governed it through the crown prince; it was restored about 380 BCE. Both dates follow the conventional chronology, which varies by a year or two. Zhao conquered it."
 transitions:
 - year: -407

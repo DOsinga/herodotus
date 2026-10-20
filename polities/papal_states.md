@@ -24,15 +24,13 @@ point:
   latitude: 41.9028
   longitude: 12.4964
 colors:
-  756: "#51cda3"
-  1007: "#51cda3"
-  1032: "#34b2b2"
-  1271: "#34b2b2"
-  1296: "#cd8f51"
-  1371: "#cd8f51"
-  1396: "#cd6651"
-  1487: "#cd6651"
-  1512: "#b8cd51"
+  756: "#578627"
+  1297: "#578627"
+  1322: "#b2b234"
+  1398: "#b2b234"
+  1423: "#34b29d"
+  1498: "#34b29d"
+  1523: "#349db2"
 note: "Gaps for the French-backed Roman Republic (1798–1799) and the French annexation of Rome (1809–1814)."
 transitions:
 - year: 1798

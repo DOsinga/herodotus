@@ -21,9 +21,9 @@ point:
   latitude: 52.367
   longitude: 9.717
 colors:
-  1692: "#cdb851"
-  1778: "#cdb851"
-  1803: "#cd7a51"
+  1692: "#862737"
+  1767: "#862737"
+  1792: "#863727"
 note: "In personal union with Great Britain from 1714, but governed by its own privy council in Hanover, so it stays separate. French troops occupied it in 1803; it was then passed between France, Prussia and Westphalia until the Kingdom of Hanover was set up in 1814."
 transitions:
 - year: 1803

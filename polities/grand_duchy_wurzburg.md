@@ -19,7 +19,7 @@ point:
   latitude: 49.7913
   longitude: 9.9534
 colors:
-  1805: "#345eb2"
+  1805: "#9d34b2"
 note: "Starts with the Peace of Pressburg; Ferdinand was elector of Würzburg until he took the title of grand duke in 1806."
 transitions:
 - year: 1814

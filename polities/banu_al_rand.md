@@ -19,7 +19,7 @@ point:
   latitude: 34.4225
   longitude: 8.7842
 colors:
-  1053: "#7acd51"
+  1053: "#868627"
 note: "The start is approximate. A descendant, Ali ibn al-Mu'tazz, briefly restored the family's rule in a revolt against the Almohads that ended in 1168; that is left out."
 transitions:
 - year: 1159

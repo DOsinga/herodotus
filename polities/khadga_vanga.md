@@ -20,6 +20,6 @@ point:
   latitude: 23.41
   longitude: 91
 colors:
-  625: "#3488b2"
+  625: "#345eb2"
 note: "625–716 is the conventional Khadga chronology; the actual end after the last named ruler is uncertain. The court expanded from Vanga into Samatata without implying that every neighbouring eastern Bengal court was its province. Karmanta Vasaka is usually identified near modern Comilla."
 ---

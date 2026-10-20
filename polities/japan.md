@@ -21,6 +21,6 @@ point:
   latitude: 35.6897
   longitude: 139.6922
 colors:
-  1947: "#51a3cd"
+  1947: "#278647"
 note: "The Japanese government kept governing under the Allied occupation of 1945–1952. Links the country article. Changes of regime are not split into separate records."
 ---

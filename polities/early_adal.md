@@ -21,7 +21,7 @@ point:
   latitude: 11.3539
   longitude: 43.4731
 colors:
-  651: "#862747"
+  651: "#cd517a"
 note: "651 follows the estimated end of Avalites; Zeila's Muslim community dates from the seventh century, and al-Yaqubi names Adal with its seat there in the late ninth. Who ruled the port before then is not recorded. 1275 follows the start of the Ifat record at Zeila; Ifat's conquest of Adal is also dated 1288. Links Zeila because no article covers the early state."
 transitions:
 - year: 1275

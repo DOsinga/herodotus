@@ -12,7 +12,9 @@ point:
   latitude: 41.8933
   longitude: 12.4828
 colors:
-  -509: "#6651cd"
+  -509: "#7a51cd"
+  -89: "#7a51cd"
+  -64: "#34b249"
 note: "Starts with the traditional expulsion of the kings; the civil wars of the first century BCE are not split out. Octavian's settlement of 27 BCE begins the Roman Empire record."
 transitions:
 - year: -27

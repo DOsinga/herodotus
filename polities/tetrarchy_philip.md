@@ -20,7 +20,7 @@ point:
   latitude: 33.25
   longitude: 35.69
 colors:
-  -4: "#572786"
+  -4: "#5e34b2"
 note: "Links Philip's article. Batanea, Trachonitis and Gaulanitis; after his death they were attached to Syria until Caligula gave them to Agrippa I in 37."
 transitions:
 - year: 34

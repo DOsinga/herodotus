@@ -19,11 +19,7 @@ point:
   latitude: 26.913
   longitude: 70.915
 colors:
-  1156: "#862776"
-  1515: "#862776"
-  1540: "#3434b2"
-  1777: "#3434b2"
-  1802: "#862767"
+  1156: "#762786"
 note: >-
   Starts with the move to Jaisalmer in 1156; the Bhati state at Lodhruva before that has no record.
   Ends with the 1818 treaty with the East India Company. Protected and princely states do not count

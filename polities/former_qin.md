@@ -21,7 +21,7 @@ point:
   latitude: 34.2611
   longitude: 108.9422
 colors:
-  351: "#762786"
+  351: "#5151cd"
 note: "The empire broke up after the Battle of Fei River in 383; its last emperors held out in Gansu until Western Qin destroyed them."
 transitions:
 - year: 394

@@ -22,7 +22,7 @@ point:
   latitude: 34.4367
   longitude: 35.8497
 colors:
-  1102: "#8fcd51"
+  1102: "#862757"
 note: "Counted from Raymond of Saint-Gilles's capture of Tortosa in 1102, from where he besieged Tripoli; the city itself fell in 1109."
 transitions:
 - year: 1289

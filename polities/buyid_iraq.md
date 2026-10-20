@@ -30,7 +30,7 @@ point:
   latitude: 33.3152
   longitude: 44.3661
 colors:
-  945: "#278637"
+  945: "#768627"
 note: "The shared dynasty article covers the regional states. Gaps follow direct government by the Fars rulers Adud al-Dawla, Sharaf al-Dawla, Baha al-Dawla and Sultan al-Dawla, and Abu Kalijar, rather than nominal seniority alone. The restored Baghdad government ended with the Seljuk takeover in 1055."
 transitions:
 - year: 978

@@ -12,7 +12,7 @@ point:
   latitude: 21.03
   longitude: 83.81
 colors:
-  850: "#472786"
+  850: "#277686"
 note: "850 estimates the ninth-century emergence of the Kosala government before Janamejaya's securely recorded late-century rule. It expanded into the Bhauma-Kara realm around 950 and used Jajpur as a later seat. 1110 is the conventional estimate for Eastern Ganga conquest."
 transitions:
 - year: 1110

@@ -21,7 +21,7 @@ point:
   latitude: 14.642
   longitude: -90.513
 colors:
-  1823: "#8fcd51"
+  1823: "#51cd8f"
 note: "Its states left between 1838 and 1841."
 transitions:
 - year: 1823

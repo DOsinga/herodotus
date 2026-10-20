@@ -21,7 +21,7 @@ point:
   latitude: 21.8828
   longitude: 78.7328
 colors:
-  1580: "#868627"
+  1580: "#278686"
 note: "The founding is dated about 1580. The gap is the direct Mughal rule of 1669 to 1686. Nagpur became the capital under Chand Sultan in the early eighteenth century; the point stays at Deogarh."
 transitions:
 - year: 1669

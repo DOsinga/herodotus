@@ -20,7 +20,9 @@ point:
   latitude: 45.0478
   longitude: 9.7006
 colors:
-  1098: "#345eb2"
+  1098: "#7a51cd"
+  1255: "#7a51cd"
+  1280: "#862737"
 note: "Start estimated from the first consuls. The lordships of Uberto Pallavicino and Alberto Scotto are included. The record links the city's article."
 transitions:
 - year: 1313

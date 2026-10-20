@@ -21,7 +21,7 @@ point:
   latitude: 38.516
   longitude: 114.99
 colors:
-  384: "#cd51cd"
+  384: "#272786"
 note: "Longcheng was the capital from 397. Gao Yun and Feng Ba overthrew Murong Xi in 407 and continued the state as Northern Yan."
 transitions:
 - year: 407

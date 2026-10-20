@@ -20,7 +20,9 @@ point:
   latitude: 11.3167
   longitude: -5.6667
 colors:
-  1650: "#cd51b8"
+  1650: "#4934b2"
+  1860: "#4934b2"
+  1885: "#278676"
 note: "1650 is Wikipedia's approximate founding date. Sikasso was the capital from 1877."
 transitions:
 - year: 1898

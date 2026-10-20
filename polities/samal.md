@@ -22,7 +22,7 @@ point:
   latitude: 37.1
   longitude: 36.68
 colors:
-  -920: "#4934b2"
+  -920: "#51cdb8"
 note: "Both dates are estimates; Assyria made it a province."
 transitions:
 - year: -680

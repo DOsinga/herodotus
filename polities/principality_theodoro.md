@@ -21,9 +21,7 @@ point:
   latitude: 44.5944
   longitude: 33.8039
 colors:
-  1300: "#278667"
-  1375: "#278667"
-  1400: "#51cd7a"
+  1300: "#278627"
 note: "The principality is securely documented from the early fourteenth century; 1300 is an estimate, and its traditional origin in 1204 is not followed."
 transitions:
 - year: 1475

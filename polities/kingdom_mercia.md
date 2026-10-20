@@ -18,9 +18,9 @@ point:
   latitude: 52.6336
   longitude: -1.6959
 colors:
-  527: "#278686"
-  932: "#278686"
-  957: "#3473b2"
+  527: "#278657"
+  932: "#278657"
+  957: "#51cd51"
 note: "527 is the traditional approximate origin; the court had no permanent capital. Direct Northumbrian rule and Egbert's brief Wessex conquest are gaps. Æthelred and Æthelflæd kept their own government until 918. Edgar's restored northern kingdom dates from 957, not 955; a division of England under Cnut in 1016 is not another Mercian state."
 transitions:
 - year: 656

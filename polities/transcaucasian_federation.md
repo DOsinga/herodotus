@@ -19,7 +19,7 @@ point:
   latitude: 41.7225
   longitude: 44.7925
 colors:
-  1918: "#862727"
+  1918: "#862786"
 note: "Declared independence from Russia in April 1918; the Transcaucasian Commissariat had governed the region since late 1917, not the Bolsheviks in Moscow."
 transitions:
 - year: 1918

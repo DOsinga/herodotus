@@ -19,7 +19,7 @@ point:
   latitude: 47.5596
   longitude: 7.5886
 colors:
-  1386: "#cd7a51"
+  1386: "#864727"
 note: "1386 estimates when the council governed the city in place of the bishop; the purchase of his rights ran through the late fourteenth century. The city still swore a nominal oath to the bishops until 1521. Ends with its entry into the Confederacy in 1501."
 transitions:
 - year: 1501

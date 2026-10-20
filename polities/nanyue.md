@@ -21,7 +21,7 @@ point:
   latitude: 23.13
   longitude: 113.26
 colors:
-  -204: "#51cd7a"
+  -204: "#51a3cd"
 note: "Zhao Tuo's kingdom; Emperor Wu conquered it."
 transitions:
 - year: -111

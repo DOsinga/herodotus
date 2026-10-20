@@ -19,7 +19,7 @@ point:
   latitude: 38.705
   longitude: 39.2514
 colors:
-  1185: "#34b29d"
+  1185: "#517acd"
 note: "Links the article on the Artuqid dynasty, which covers the Harput branch; the end is Kayqubad I's conquest in 1234, which some lists date 1233."
 transitions:
 - year: 1234

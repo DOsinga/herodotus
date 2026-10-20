@@ -22,7 +22,9 @@ point:
   latitude: 41.3851
   longitude: 2.1734
 colors:
-  897: "#73b234"
+  897: "#372786"
+  1123: "#372786"
+  1148: "#862776"
 note: "The start marks hereditary local succession after Wilfred's death, rather than the Frankish-appointed county founded in 801. Independence developed gradually; 985–988 are later conventional dates. Alfonso II inherited Barcelona and Aragon in 1162."
 transitions:
 - year: 1162

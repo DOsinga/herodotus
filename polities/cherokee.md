@@ -21,7 +21,7 @@ point:
   latitude: 35.555
   longitude: -84.1311
 colors:
-  1730: "#b23473"
+  1730: "#7334b2"
 note: "Starts with Moytoy's recognition as head of the nation in 1730; before that the towns acted separately. Ends with the peace of Tellico Blockhouse in 1794, which made the Treaty of Holston stick. That treaty placed the Cherokee under the protection of the United States and barred treaties with any other power, so the later Cherokee Nation counts as a protected state."
 transitions:
 - year: 1794

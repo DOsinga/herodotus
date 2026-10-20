@@ -12,9 +12,9 @@ point:
   latitude: 32.0608
   longitude: 118.7789
 colors:
-  266: "#517acd"
-  393: "#517acd"
-  418: "#274786"
+  266: "#b2349d"
+  372: "#b2349d"
+  397: "#5151cd"
 note: "The Western Jin court at Luoyang fell in 311–316, and Sima Rui's government at Jiankang continued it from 317; the brief break is not split out."
 transitions:
 - year: 420

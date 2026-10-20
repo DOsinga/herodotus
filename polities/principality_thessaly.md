@@ -20,6 +20,6 @@ point:
   latitude: 38.8667
   longitude: 22.2333
 colors:
-  1268: "#862767"
+  1268: "#8fcd51"
 note: "Links John I Doukas's article; no article covers the principality."
 ---

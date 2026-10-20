@@ -23,7 +23,7 @@ point:
 colors:
   1148: "#274786"
   1223: "#274786"
-  1248: "#762786"
+  1248: "#517acd"
 note: "1148 follows the Encyclopaedia Iranica's dating of Abu Tahir's rule; Wikipedia gives 1115. Vassalage to the Ilkhans and Timurids did not end the atabegs' own government; Shahrukh's removal of the last ruler in 1424 does. The point is Izeh, the old Idaj."
 transitions:
 - year: 1424

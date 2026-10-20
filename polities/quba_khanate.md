@@ -20,7 +20,7 @@ point:
   latitude: 41.3597
   longitude: 48.5125
 colors:
-  1747: "#8834b2"
+  1747: "#572786"
 note: "Iranian suzerainty after 1747 was nominal. Russia's occupation of Quba in 1806 ends it, although Sheikh Ali Khan resisted from the mountains for some years."
 transitions:
 - year: 1806

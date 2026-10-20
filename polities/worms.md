@@ -19,7 +19,13 @@ point:
   latitude: 49.6319
   longitude: 8.3653
 colors:
-  1250: "#b24934"
+  1250: "#b28834"
+  1343: "#b28834"
+  1368: "#517acd"
+  1443: "#517acd"
+  1468: "#5151cd"
+  1543: "#5151cd"
+  1568: "#cd51b8"
 note: "Starts with the end of royal government in 1250. Ends with the French occupation of 1794."
 transitions:
 - year: 1794

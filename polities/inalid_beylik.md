@@ -19,7 +19,7 @@ point:
   latitude: 37.91
   longitude: 40.24
 colors:
-  1098: "#34b29d"
+  1098: "#273786"
 note: "Starts when Inal declared himself independent; the beylik often accepted outside overlords, and after 1142 the Nisanid viziers held real power in Amida."
 transitions:
 - year: 1183

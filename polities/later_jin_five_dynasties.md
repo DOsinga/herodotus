@@ -21,7 +21,7 @@ point:
   latitude: 34.7972
   longitude: 114.3076
 colors:
-  936: "#b8cd51"
+  936: "#b2b234"
 note: "This is the tenth-century Shi regime, not the Manchu Later Jin of 1616. Liao support and tribute did not replace its own government. Liao conquest ended it in January 947. Taiyuan was the initial seat before Luoyang and Kaifeng."
 transitions:
 - year: 936

@@ -20,8 +20,6 @@ point:
   longitude: 41.4333
 colors:
   1734: "#578627"
-  1857: "#578627"
-  1882: "#274786"
 note: "The Italian protectorate treaty of 1889 is not counted, since Aussa never handed its affairs to Italy and Ethiopia defeated it in 1896. From then the sultans paid tribute to the Ethiopian Empire but governed Aussa themselves until the Italian occupation of 1936; after 1943 they ruled under Ethiopian authority."
 transitions:
 - year: 1936

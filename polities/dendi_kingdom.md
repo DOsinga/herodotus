@@ -20,8 +20,6 @@ point:
   longitude: 3.4467
 colors:
   1591: "#278647"
-  1870: "#278647"
-  1895: "#868627"
 note: "The point is at Gaya, a centre of the later kingdom, since the first capital at Lulami is not located. How far the askias' authority reached up the river towards Tillabéri after the seventeenth century is uncertain."
 transitions:
 - year: 1901

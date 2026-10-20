@@ -21,7 +21,7 @@ point:
   latitude: 39.9167
   longitude: 127.5333
 colors:
-  926: "#5166cd"
+  926: "#cd8f51"
 note: "No English article covers the Eastern Jurchens; this links the article on the Jurchen people. The point is the Hamhung plain, their main area of settlement next to Goryeo. The Wanyan-led alliance before 1115 has no record of its own."
 transitions:
 - year: 1115

@@ -22,9 +22,9 @@ point:
   latitude: 36.4703
   longitude: 52.3467
 colors:
-  1359: "#868627"
-  1435: "#868627"
-  1460: "#862737"
+  1359: "#51cd8f"
+  1435: "#51cd8f"
+  1460: "#b8cd51"
 note: "The gap is Timur's conquest of 1392 and the family's exile until Shahrukh let them return, about 1405. Tribute to the Timurids, Aq Qoyunlu and Safavids did not end their own government. Amol and Sari were the main seats."
 transitions:
 - year: 1392

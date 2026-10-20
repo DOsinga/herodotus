@@ -20,7 +20,7 @@ point:
   latitude: 12.66
   longitude: 79.1
 colors:
-  1322: "#278637"
+  1322: "#88b234"
 note: "Links the family article. 1322 follows Venrumankonda Sambuvaraya's first independent regnal years; 1361 estimates Kumara Kampana's conquest, which other accounts place a year or two later. The point for Padaividu is approximate."
 transitions:
 - year: 1361

@@ -25,7 +25,7 @@ point:
   latitude: 51.611
   longitude: -2.766
 colors:
-  450: "#49b234"
+  450: "#5e34b2"
 note: "450 estimates its post-Roman royal government's emergence. Morgan's 942 union placed it within Morgannwg; separate Gwent reappeared after his death in 974. Gruffudd ap Llywelyn's government interrupted it in 1055–1063. The final end around 1075 estimates the Norman conquests, not the survival of smaller Caerleon and Gwynllŵg lordships."
 transitions:
 - year: 942

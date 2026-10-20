@@ -19,7 +19,7 @@ point:
   latitude: 42.43
   longitude: 18.77
 colors:
-  1391: "#862786"
+  1391: "#278686"
 note: "Links the city's article."
 transitions:
 - year: 1420

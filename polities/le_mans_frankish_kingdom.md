@@ -20,7 +20,7 @@ point:
   latitude: 48.007
   longitude: 0.199
 colors:
-  480: "#cd5151"
+  480: "#862776"
 note: "480–509 estimates the local kingdom of Rignomer, Ragnachar's brother, killed at Le Mans during Clovis's consolidation. Gregory's sequence is uncertain. Links Ragnachar's biography, which covers the related rulers; this is not a separate article about the state."
 transitions:
 - year: 509

@@ -20,7 +20,7 @@ point:
   latitude: 32.5308
   longitude: 13.0211
 colors:
-  1918: "#66cd51"
+  1918: "#378627"
 note: "The republic dissolved itself in July 1919 under the Italian colonial statute and was re-established that November, but its leaders kept governing the interior throughout, so one period is used. The end is the Italian reconquest that began in early 1922."
 transitions:
 - year: 1922

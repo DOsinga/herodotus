@@ -20,7 +20,7 @@ point:
   latitude: 30.515
   longitude: 47.81
 colors:
-  1596: "#7acd51"
+  1596: "#a3cd51"
 note: "Links the article on the title of Prince of Basra, which covers the family's principality."
 transitions:
 - year: 1668

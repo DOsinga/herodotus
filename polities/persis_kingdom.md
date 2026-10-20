@@ -17,7 +17,7 @@ point:
   latitude: 29.9808
   longitude: 52.9094
 colors:
-  -132: "#cdcd51"
+  -132: "#cd8f51"
 note: "Links the Persis article, which covers the kingdom of its sub-Parthian kings. Ardashir, its king, defeated the Parthians in 224 and founded the Sasanian Empire."
 transitions:
 - year: 224

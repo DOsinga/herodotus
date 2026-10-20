@@ -22,7 +22,7 @@ point:
   latitude: 39.8153
   longitude: 46.7519
 colors:
-  1991: "#862747"
+  1991: "#865727"
 note: "Governs its territory without wide international recognition. Dissolved after the Azerbaijani offensive of 2023."
 transitions:
 - year: 1991

@@ -19,7 +19,7 @@ point:
   latitude: 30.5497
   longitude: 114.2667
 colors:
-  1351: "#3449b2"
+  1351: "#273786"
 note: "No separate article covers Tianwan; this links Xu Shouhui's biography. The capital was Qishui until 1353 and Hanyang from 1355. The years of retreat in 1353–1354 are kept inside the period, since the court and army survived and returned."
 transitions:
 - year: 1351

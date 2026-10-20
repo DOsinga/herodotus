@@ -19,7 +19,7 @@ point:
   latitude: -6.1333
   longitude: 12.3667
 colors:
-  1641: "#277686"
+  1641: "#275786"
 note: "1641 follows Count Daniel da Silva's successful resistance to Garcia II. Its rulers later called themselves princes and grand princes. 1880 follows the start of Portuguese control in the Soyo place. Links the article on the town, which covers the state."
 transitions:
 - year: 1641

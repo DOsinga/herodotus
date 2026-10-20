@@ -12,7 +12,7 @@ point:
   latitude: 50.7753
   longitude: 6.0839
 colors:
-  751: "#b29d34"
+  751: "#862767"
 note: "The period includes the Carolingian Frankish kingdom before Charlemagne's imperial coronation in 800. Aachen represents his later court, not a permanent capital throughout. The 843 partition ended the united government; later imperial titles and the kingdoms' temporary sharing of a monarch are not treated as continued government of this whole realm."
 transitions:
 - year: 843

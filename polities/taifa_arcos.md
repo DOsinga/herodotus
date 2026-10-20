@@ -21,7 +21,7 @@ point:
   latitude: 36.75
   longitude: -5.81
 colors:
-  1011: "#472786"
+  1011: "#a351cd"
 note: "Two periods: the Banu Khizrun kingdom, taken by Seville in 1068, and the second taifa of about 1143–1145, taken by the Almohads."
 transitions:
 - year: 1068

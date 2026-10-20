@@ -21,7 +21,9 @@ point:
   latitude: 37.9053
   longitude: 22.8802
 colors:
-  -700: "#862727"
+  -700: "#8f51cd"
+  -569: "#8f51cd"
+  -544: "#cd517a"
 note: "Philip II garrisoned the Acrocorinth after Chaeronea."
 transitions:
 - year: -338

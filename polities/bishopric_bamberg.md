@@ -19,7 +19,9 @@ point:
   latitude: 49.8917
   longitude: 10.8917
 colors:
-  1250: "#672786"
+  1250: "#6651cd"
+  1426: "#6651cd"
+  1451: "#51a3cd"
 note: "Starts with the end of royal government in Germany in 1250. Bavarian troops occupied it in 1802 ahead of the secularisation of 1803."
 transitions:
 - year: 1802

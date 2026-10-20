@@ -21,6 +21,6 @@ point:
   latitude: 37.73
   longitude: 22.76
 colors:
-  -1600: "#678627"
+  -1600: "#278647"
 note: "Both dates are estimates for the palace kingdom. Pylos, Thebes and Knossos have their own records; Tiryns and the smaller palaces were probably subject to Mycenae or are too little known to record."
 ---

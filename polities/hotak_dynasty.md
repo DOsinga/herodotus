@@ -20,7 +20,7 @@ point:
   latitude: 31.62
   longitude: 65.716
 colors:
-  1709: "#275786"
+  1709: "#672786"
 note: "Wikipedia covers the state under its dynasty article. It held Isfahan from 1722 to 1729."
 transitions:
 - year: 1738

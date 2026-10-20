@@ -20,7 +20,7 @@ point:
   latitude: 32.06
   longitude: 118.797
 colors:
-  479: "#cd517a"
+  479: "#cd7a51"
 note: "The southern Xiao court, distinct from the northern Gao state founded in 550. Xiao Yan's takeover in 502 established Liang."
 transitions:
 - year: 502

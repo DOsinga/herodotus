@@ -23,6 +23,6 @@ point:
   latitude: 42.27
   longitude: 118.96
 colors:
-  -1000: "#4934b2"
+  -1000: "#3473b2"
 note: "Both dates are estimates."
 ---

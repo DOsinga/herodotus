@@ -21,7 +21,7 @@ point:
   latitude: 16.612
   longitude: 73.615
 colors:
-  765: "#51cd7a"
+  765: "#a3cd51"
 note: "765 estimates Sanaphulla's establishment of the southern branch, initially under Rashtrakuta overlordship. It ruled separately from Thane and Kolhapur. 1020 estimates its loss to the Western Chalukyas after Rattaraja's last inscriptions in 1008; dates up to 1029 also appear."
 transitions:
 - year: 1020

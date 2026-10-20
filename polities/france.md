@@ -23,6 +23,6 @@ point:
   latitude: 48.8567
   longitude: 2.3522
 colors:
-  1958: "#b24934"
+  1958: "#51cd66"
 note: "The Fifth Republic. Links the country article. Changes of regime are not split into separate records."
 ---

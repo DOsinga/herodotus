@@ -21,7 +21,7 @@ point:
   latitude: 44.0414
   longitude: 16.1986
 colors:
-  1991: "#578627"
+  1991: "#8fcd51"
 note: "Croatia took most of its territory in August 1995; Eastern Slavonia, Baranja and Western Syrmia remained under local Serb government until the UN administration began in January 1996."
 transitions:
 - year: 1991

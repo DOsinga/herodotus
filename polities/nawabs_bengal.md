@@ -21,7 +21,7 @@ point:
   latitude: 24.18
   longitude: 88.27
 colors:
-  1717: "#862737"
+  1717: "#768627"
 note: "Covers the autonomous nawabs from Murshid Quli Khan in 1717 to Plassey in 1757, and Mir Qasim's government (1760–1763), which moved to Munger, raised its own army and fought the East India Company. Mir Jafar's regimes in between were Company puppets."
 transitions:
 - year: 1717

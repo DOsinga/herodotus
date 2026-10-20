@@ -19,7 +19,7 @@ point:
   latitude: 33.8486
   longitude: 132.7872
 colors:
-  1467: "#278676"
+  1467: "#672786"
 note: "Covers the house as a Sengoku power, from the Ōnin War to the surrender of Yuzuki in 1585. No English article covers the clan, so the record links the article on Iyo Province."
 transitions:
 - year: 1467

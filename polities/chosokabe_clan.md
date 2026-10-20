@@ -19,7 +19,7 @@ point:
   latitude: 33.595
   longitude: 133.6225
 colors:
-  1560: "#cd5166"
+  1560: "#cd51cd"
 note: "Begins with Kunichika's victory over the Motoyama and Motochika's succession in 1560. The seat moved to Urado, in modern Kōchi, in 1591. Links the article on the clan, as no article treats its domain as a state."
 transitions:
 - year: 1585

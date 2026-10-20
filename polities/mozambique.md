@@ -22,7 +22,7 @@ point:
   latitude: -25.9689
   longitude: 32.5733
 colors:
-  1975: "#8fcd51"
+  1975: "#a3cd51"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1975

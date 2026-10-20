@@ -20,7 +20,9 @@ point:
   latitude: 38.58
   longitude: 21.67
 colors:
-  -370: "#9d34b2"
+  -370: "#7a51cd"
+  -254: "#7a51cd"
+  -229: "#51a3cd"
 note: "370 BCE estimates the federal state. Its 189 BCE treaty bound it to Rome's friends and enemies, which counts as absorption."
 transitions:
 - year: -189

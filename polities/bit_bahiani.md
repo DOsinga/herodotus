@@ -20,7 +20,7 @@ point:
   latitude: 36.8264
   longitude: 40.0397
 colors:
-  -1050: "#a351cd"
+  -1050: "#517acd"
 note: "The start is an estimate for the Aramean settlement of the Khabur after Middle Assyrian control faded. Ends with the submission to Adad-nirari II in 894 BCE; its rulers then governed as Assyrian governors until the province of 808 BCE."
 transitions:
 - year: -894

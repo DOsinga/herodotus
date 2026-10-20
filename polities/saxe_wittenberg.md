@@ -21,7 +21,9 @@ point:
   latitude: 51.867
   longitude: 12.648
 colors:
-  1250: "#7334b2"
+  1250: "#518fcd"
+  1398: "#518fcd"
+  1423: "#b234b2"
 note: "Until the 1296 partition this was the Ascanian Duchy of Saxony; the record follows the Wittenberg line, which received the electoral vote in 1356 and died out in 1422."
 transitions:
 - year: 1423

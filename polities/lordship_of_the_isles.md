@@ -19,7 +19,7 @@ point:
   latitude: 55.83
   longitude: -6.17
 colors:
-  1336: "#cd5166"
+  1336: "#b24934"
 note: "The lords owed allegiance to the Scottish kings but governed, fought and negotiated on their own account, so like Crimea the lordship stays active until its forfeiture in 1493."
 transitions:
 - year: 1493

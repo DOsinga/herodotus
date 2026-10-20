@@ -26,7 +26,9 @@ point:
   latitude: 40.004
   longitude: 44.579
 colors:
-  639: "#cd6651"
+  639: "#273786"
+  837: "#273786"
+  862: "#34b2b2"
 note: "639 estimates Rshtuni's separate government; imperial suzerainty did not abolish the native princes' own decisions in the later seventh century. Direct Arab administration began in 705. The later periods follow the autonomy restored to Ashot in 732 and Ashot Bagratuni's de facto kingship from 862. Links the provincial history, not a polity record for the Arab province itself. 748 is the removal of Ashot after the rebellion."
 transitions:
 - year: 705

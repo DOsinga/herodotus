@@ -21,7 +21,7 @@ point:
   latitude: 37.929
   longitude: 102.638
 colors:
-  397: "#862727"
+  397: "#b2349d"
 note: "Zhangye was the capital until 412. The remnant state at Gaochang from 442 to 460 is a separate record."
 transitions:
 - year: 439

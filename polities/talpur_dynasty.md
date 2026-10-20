@@ -19,7 +19,7 @@ point:
   latitude: 25.3792
   longitude: 68.3683
 colors:
-  1783: "#478627"
+  1783: "#275786"
 note: >-
   Links the dynasty article; the dynasty name is the conventional name for the state. The Hyderabad,
   Khairpur and Mirpur branches are kept in one record because they acted together. Khairpur remained

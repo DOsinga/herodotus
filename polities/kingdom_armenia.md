@@ -16,9 +16,11 @@ point:
   latitude: 39.885
   longitude: 44.5764
 colors:
-  -189: "#51cda3"
-  -107: "#51cda3"
-  -82: "#cd6651"
+  -189: "#8fcd51"
+  -107: "#8fcd51"
+  -82: "#678627"
+  206: "#678627"
+  231: "#8fcd51"
 note: "Trajan's province of 114–117 and Shapur I's rule through a Sasanian prince from about 252 until Tiridates III's restoration about 287 are gaps. In 428 the Sasanians abolished the monarchy and governed through marzbans."
 transitions:
 - year: -189

@@ -20,7 +20,7 @@ point:
   latitude: 39.7583
   longitude: 46.7483
 colors:
-  1748: "#34b29d"
+  1748: "#278686"
 note: "Ends with the Treaty of Kurakchay of 1805, which handed the khanate's foreign relations to Russia; the khans kept governing at home until Russia abolished the khanate in 1822."
 transitions:
 - year: 1805

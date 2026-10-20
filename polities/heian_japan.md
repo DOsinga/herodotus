@@ -13,6 +13,8 @@ point:
   longitude: 135.768
 colors:
   300: "#866727"
+  509: "#866727"
+  534: "#862747"
 note: "The history article covers the early Japanese state; no separate article spans this government. About 300 is an estimate for the emergence of the Yamato political centre, based on archaeology and the coalescence of chiefdoms, not a known founding year. Nara and Heian were successive capitals of the same imperial government. The Kyoto point represents the later court, and this record does not imply rule over all of modern Japan."
 transitions:
 - year: 1185

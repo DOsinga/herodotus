@@ -20,7 +20,9 @@ point:
   latitude: -2.35
   longitude: 29.7333
 colors:
-  1650: "#8834b2"
+  1650: "#672786"
+  1868: "#672786"
+  1893: "#863727"
 note: "1650 follows Vansina's dating of the Nyiginya kingdom, which Wikipedia cites; earlier traditional dates are not used. Ends when the mwami accepted German protection in 1897. Royal residences moved; Nyanza became the fixed capital only around 1899."
 transitions:
 - year: 1897

@@ -19,7 +19,7 @@ point:
   latitude: 31.95
   longitude: 35.93
 colors:
-  -1000: "#378627"
+  -1000: "#34b25e"
 note: "Both dates are estimates; Nebuchadnezzar's campaign ended the kingdom."
 transitions:
 - year: -582

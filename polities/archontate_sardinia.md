@@ -20,7 +20,7 @@ point:
   latitude: 39.2278
   longitude: 9.1111
 colors:
-  900: "#a3cd51"
+  900: "#518fcd"
 note: "Links the article on the judicates. Byzantine government faded during the ninth century without a clear end; 900 marks where the Byzantine spans stop. The split into four judicates is dated conventionally to about 1000."
 transitions:
 - year: 1000

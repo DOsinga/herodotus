@@ -20,6 +20,6 @@ point:
   latitude: 29.398
   longitude: 81.996
 colors:
-  1100: "#51cd66"
+  1100: "#3473b2"
 note: "Both dates are estimates. The founding is placed around 1100 from tradition, and the end at the breakup after Abhaya Malla's death in the late fourteenth century. The Baise states, including the later kingdom of Jumla, have no records."
 ---

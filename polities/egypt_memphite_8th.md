@@ -22,7 +22,7 @@ point:
   latitude: 29.85
   longitude: 31.25
 colors:
-  -2181: "#862776"
+  -2181: "#b2349d"
 note: "Links the Eighth Dynasty article; the Seventh is probably fictitious. The Memphite kings' authority shrank to the north while provincial governors ruled for themselves; the Herakleopolitan kings replaced them."
 transitions:
 - year: -2160

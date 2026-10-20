@@ -22,6 +22,6 @@ point:
   latitude: 56.8
   longitude: 9.2
 colors:
-  -5300: "#3434b2"
+  -5300: "#8834b2"
 note: "Both dates are estimates. The Funnelbeaker culture follows."
 ---

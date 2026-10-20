@@ -22,7 +22,7 @@ point:
   latitude: 5.55
   longitude: -0.2
 colors:
-  1957: "#34b234"
+  1957: "#b25e34"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1957

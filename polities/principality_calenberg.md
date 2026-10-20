@@ -23,9 +23,9 @@ point:
   latitude: 52.367
   longitude: 9.717
 colors:
-  1432: "#7334b2"
-  1507: "#7334b2"
-  1532: "#862786"
+  1432: "#b8cd51"
+  1558: "#b8cd51"
+  1583: "#b28834"
 note: "Divided off from Brunswick in 1432. Gap for 1584–1634, when it was governed from Wolfenbüttel; then given to a Lüneburg line that moved its court to Hanover in 1636 and became electors in 1692."
 transitions:
 - year: 1584

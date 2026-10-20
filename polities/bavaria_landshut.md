@@ -14,7 +14,7 @@ point:
   latitude: 48.54
   longitude: 12.151
 colors:
-  1255: "#51cd66"
+  1255: "#472786"
 note: "Lower Bavaria, governed from Landshut, from the 1255 partition; reunited under Louis IV in 1340 and divided off again in 1349. The Straubing share of 1353–1425 has its own record. Took over Bavaria-Ingolstadt in 1447. When George the Rich died in 1503, Munich won the Landshut War and took it over."
 transitions:
 - year: 1340

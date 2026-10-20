@@ -20,7 +20,7 @@ point:
   latitude: 42.9
   longitude: 129.5
 colors:
-  1215: "#862767"
+  1215: "#b23488"
 note: "The capital was Liaoyang in 1215–1216 and Nanjing, at the mountain fortress near Yanji, from 1217. The brief Mongol overlordship of 1216 is not counted as a break, since Puxian kept his own government. The extent of the kingdom's rule over the Shangjing and Yalu regions is estimated."
 transitions:
 - year: 1215

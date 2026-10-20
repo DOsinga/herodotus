@@ -20,6 +20,6 @@ point:
   latitude: 34.26
   longitude: 108.94
 colors:
-  23: "#863727"
+  23: "#274786"
 note: "Links the Gengshi Emperor's article; no separate article covers his government. Luoyang was the seat until 24. The Chimei took Chang'an in 25, the year Liu Xiu founded the Eastern Han; neither is recorded as its successor."
 ---

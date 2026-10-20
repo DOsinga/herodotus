@@ -22,6 +22,6 @@ point:
   latitude: 21.353
   longitude: 82.186
 colors:
-  600: "#274786"
+  600: "#472786"
 note: "600–790 is an estimate for the Sirpur royal line through Mahashivagupta Balarjuna. Some scholarly chronologies begin later and extend into the ninth century. This is the Dakshina Kosala government, not the separately attested Mekala branch or all later Somavamshi rulers."
 ---

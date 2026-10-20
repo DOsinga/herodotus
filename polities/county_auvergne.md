@@ -19,7 +19,7 @@ point:
   latitude: 45.7831
   longitude: 3.0824
 colors:
-  963: "#51b8cd"
+  963: "#862776"
 note: "Ends with Philip II's confiscation of Clermont and most of the county; the reduced county and the Dauphiné of Auvergne that kept their titles afterwards are not split out."
 transitions:
 - year: 1213

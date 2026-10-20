@@ -20,7 +20,7 @@ point:
   latitude: 36.202
   longitude: 37.134
 colors:
-  1024: "#372786"
+  1024: "#51b8cd"
 note: "Starts with Salih ibn Mirdas's capture of Aleppo in 1024; the family had held Rahba on the Euphrates since about 1008. The Fatimid occupation of Aleppo from 1038 to 1042 is not split out, since the emirs kept governing their tribal lands. Ends when Sabiq ibn Mahmud surrendered Aleppo to Muslim ibn Quraysh in 1080."
 transitions:
 - year: 1080

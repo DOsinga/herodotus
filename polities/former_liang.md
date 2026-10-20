@@ -20,7 +20,7 @@ point:
   latitude: 37.929
   longitude: 102.638
 colors:
-  320: "#768627"
+  320: "#478627"
 note: "The Zhang family governed Liang Province from 301 as Jin governors; 320 follows Zhang Mao's succession, when the Jin connection was nominal."
 transitions:
 - year: 376

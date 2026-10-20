@@ -21,7 +21,9 @@ point:
   latitude: 19.6906
   longitude: -72.0158
 colors:
-  1200: "#578627"
+  1200: "#278627"
+  1469: "#278627"
+  1494: "#865727"
 note: "Links the article on the chiefdoms of Hispaniola. The start is an estimate for the rise of the Taíno chiefdoms of the island."
 transitions:
 - year: 1497

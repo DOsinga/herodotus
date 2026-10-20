@@ -23,7 +23,7 @@ point:
   latitude: 33.48
   longitude: 44.73
 colors:
-  -2026: "#278667"
+  -2026: "#678627"
 note: "Starts when it stopped dating by the kings of Ur. Hammurabi conquered it in 1762 BCE. After his death it governed separately again under Iluni, whose reign is conventionally dated about 1749–1729 BCE on the middle chronology; Samsu-iluna ended it."
 transitions:
 - year: -2026

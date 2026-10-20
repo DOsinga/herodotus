@@ -20,7 +20,7 @@ point:
   latitude: 36.1912
   longitude: 44.0092
 colors:
-  1144: "#272786"
+  1144: "#278667"
 note: "Links the article on Gökböri; no article covers the family's emirate. 1144 is an estimate for Zayn al-Din's grant. Gökböri's younger brother held Erbil from 1168 to 1190."
 transitions:
 - year: 1233

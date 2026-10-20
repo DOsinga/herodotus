@@ -21,7 +21,7 @@ point:
   latitude: 41.8933
   longitude: 12.4828
 colors:
-  -753: "#34b2b2"
+  -753: "#3488b2"
 note: "Both dates are traditional; the expulsion of Tarquinius Superbus begins the Republic."
 transitions:
 - year: -509

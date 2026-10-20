@@ -20,9 +20,9 @@ point:
   latitude: 47.24
   longitude: 6.02
 colors:
-  1250: "#b234b2"
-  1344: "#b234b2"
-  1369: "#272786"
+  1250: "#51cd66"
+  1325: "#51cd66"
+  1350: "#51cd8f"
 note: "Before 1250 Besançon counts with the German kingdom; the archbishops dominated the city until 1290. Ends with the exchange for Frankenthal in 1654."
 transitions:
 - year: 1654

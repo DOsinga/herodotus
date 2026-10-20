@@ -22,6 +22,6 @@ point:
   latitude: 48.5
   longitude: 11.0
 colors:
-  -1600: "#b29d34"
+  -1600: "#b23473"
 note: "Both dates are estimates; the point is representative."
 ---

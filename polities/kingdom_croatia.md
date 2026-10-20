@@ -21,7 +21,7 @@ point:
   latitude: 44.0408
   longitude: 16.1996
 colors:
-  925: "#34b234"
+  925: "#cd5151"
 note: "The start follows Tomislav's recognition as king; a coronation in precisely 925 is not established. The 1102 end follows government under the Hungarian crown through its bans, not merely a shared monarch or the survival of a separate Croatian title."
 transitions:
 - year: 1102

@@ -19,9 +19,11 @@ point:
   latitude: 47.6603
   longitude: 9.1758
 colors:
-  1250: "#865727"
-  1512: "#865727"
-  1537: "#b2345e"
+  1250: "#678627"
+  1325: "#678627"
+  1350: "#478627"
+  1502: "#478627"
+  1527: "#51cd8f"
 note: "Starts with the end of royal government in 1250. Ends in 1548, when Ferdinand of Austria took the city after the imperial ban."
 transitions:
 - year: 1548

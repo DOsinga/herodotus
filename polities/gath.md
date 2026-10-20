@@ -20,7 +20,7 @@ point:
   latitude: 31.7
   longitude: 34.85
 colors:
-  -1175: "#862747"
+  -1175: "#5151cd"
 note: "Links the article on the city. 1175 BCE estimates the Philistine settlement; it was one of the five cities of the Philistines, each with its own ruler. Hazael of Aram-Damascus destroyed it about 830 BCE."
 transitions:
 - year: -830

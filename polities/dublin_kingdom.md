@@ -22,6 +22,6 @@ point:
   latitude: 53.343
   longitude: -6.267
 colors:
-  853: "#517acd"
+  853: "#b29d34"
 note: "853 follows the attested Norse royal government, before which the longphort of 841 is not assumed to be the same kingdom. The rulers were expelled in 902 and restored in 917. Irish tribute and native kings' interventions did not always replace Dublin's own court. The Norman capture in 1170 ended it."
 ---

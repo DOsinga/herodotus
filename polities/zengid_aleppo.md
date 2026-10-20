@@ -20,7 +20,7 @@ point:
   latitude: 36.2021
   longitude: 37.1343
 colors:
-  1146: "#863727"
+  1146: "#6651cd"
 note: "Nur al-Din also governed Damascus from 1154. Saladin took Damascus in 1174, but the remaining Aleppo state continued until 1183. Its absorption points to Saladin's united Ayyubid state, before the separate Syrian branches formed in 1193."
 transitions:
 - year: 1183

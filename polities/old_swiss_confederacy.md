@@ -22,7 +22,9 @@ point:
   latitude: 46.948
   longitude: 7.4474
 colors:
-  1291: "#cda351"
+  1291: "#9db234"
+  1374: "#9db234"
+  1399: "#274786"
 transitions:
 - year: 1798
   kind: succeeded_by

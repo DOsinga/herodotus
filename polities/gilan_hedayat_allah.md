@@ -22,7 +22,7 @@ point:
   latitude: 37.2744
   longitude: 49.5889
 colors:
-  1749: "#cd5166"
+  1749: "#5eb234"
 note: "Links the article on Hedayat-Allah Khan; no article covers the family's government of Gilan. Agha Jamal's years from 1749 to 1752 are included, and the Zand governors of 1760 to 1766 make a gap."
 transitions:
 - year: 1759

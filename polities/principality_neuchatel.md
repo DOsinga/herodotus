@@ -22,9 +22,9 @@ point:
   latitude: 46.99
   longitude: 6.9293
 colors:
-  1250: "#3434b2"
-  1524: "#3434b2"
-  1549: "#b23488"
+  1250: "#34b249"
+  1354: "#34b249"
+  1379: "#3488b2"
 note: "Starts in 1250 under the Holy Roman Empire rule in AGENTS.md. Swiss cantons occupied it and governed it through bailiffs from 1512 until they returned it to Joan of Hochberg in 1529. The Prussian kings from 1707 left the principality its own government, so it stays separate. Ends in 1806, when Berthier's principality was run by French officials."
 transitions:
 - year: 1512

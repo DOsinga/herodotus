@@ -12,7 +12,7 @@ point:
   latitude: 52.091
   longitude: 5.122
 colors:
-  1250: "#b28834"
+  1250: "#b25e34"
 note: "Bishop Henry of Bavaria handed his temporal power to Charles V in 1528."
 transitions:
 - year: 1528

@@ -21,7 +21,7 @@ point:
   latitude: 36.6224
   longitude: 101.7804
 colors:
-  1008: "#cd518f"
+  1008: "#a351cd"
 note: "The article dates the kingdom from 997, when Gusiluo was found; 1008 is his enthronement. Qingtang was the capital from 1032. The Song occupation of 1099 was briefly reversed, and 1104 is the final annexation."
 transitions:
 - year: 1104

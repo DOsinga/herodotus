@@ -19,7 +19,9 @@ point:
   latitude: 50.5678
   longitude: 10.4146
 colors:
-  1680: "#278647"
+  1680: "#278637"
+  1790: "#278637"
+  1815: "#8834b2"
 note: "Made in the 1680 division of Gotha. Remained a monarchy until 1918, but from 1867 the North German Confederation and then the German Empire controlled its war and foreign policy, so it counts as part of the Confederation from 1867."
 transitions:
 - year: 1680

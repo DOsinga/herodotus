@@ -22,6 +22,6 @@ point:
   latitude: 19.8
   longitude: 105.8
 colors:
-  -1000: "#278657"
+  -1000: "#278686"
 note: "Both dates are estimates. It stands in for the Red River valley until the Âu Lạc record begins; the Văn Lang kingdom is legendary."
 ---

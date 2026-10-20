@@ -21,6 +21,6 @@ point:
   latitude: 4.711
   longitude: -74.072
 colors:
-  1831: "#273786"
+  1831: "#cd51a3"
 note: "Starts as the Republic of New Granada. Links the country article. Changes of regime after independence are not split into separate records."
 ---

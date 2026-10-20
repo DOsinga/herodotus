@@ -19,7 +19,9 @@ point:
   latitude: 50.4667
   longitude: 4.8667
 colors:
-  1250: "#862727"
+  1250: "#8fcd51"
+  1345: "#8fcd51"
+  1370: "#b8cd51"
 note: "Starts in 1250 following the simplification for the Holy Roman Empire. Ends at John III's death in 1429, when Philip the Good took possession under the sale of 1421."
 transitions:
 - year: 1429

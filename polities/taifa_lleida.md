@@ -21,7 +21,7 @@ point:
   latitude: 41.6176
   longitude: 0.62
 colors:
-  1046: "#cdcd51"
+  1046: "#862776"
 note: "The first period begins with Yusuf's own rule, not his father's earlier provincial governorship. The first end is approximate: Zaragoza's conquest occurred during the 1078–1081 war. Mundhir's 1081 realm also included Dénia and Tortosa. Almoravid conquest is dated 1102 here; 1110 is an alternative."
 transitions:
 - year: 1046

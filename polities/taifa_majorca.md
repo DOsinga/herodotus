@@ -21,7 +21,7 @@ point:
   latitude: 39.5696
   longitude: 2.6502
 colors:
-  1076: "#cd5166"
+  1076: "#b851cd"
 note: "1076 marks separation after Dénia's conquest; local autonomy had grown from around 1050. Almoravid government began in 1116. The later Banu Ghaniya state is recorded separately."
 transitions:
 - year: 1076

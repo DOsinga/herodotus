@@ -20,7 +20,7 @@ point:
   latitude: 40.1778
   longitude: 44.5128
 colors:
-  1747: "#51b8cd"
+  1747: "#b2345e"
 note: "1795 follows the place history; the khans of Erivan were Qajar governors from then until Russia took the fortress in 1827."
 transitions:
 - year: 1795

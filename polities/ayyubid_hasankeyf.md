@@ -20,7 +20,7 @@ point:
   latitude: 37.7147
   longitude: 41.4131
 colors:
-  1250: "#51cd51"
+  1250: "#b8cd51"
 note: "No article covers this branch, so the link is to the Ayyubid dynasty. The start is set at the end of the Ayyubid sultanate in Egypt, when Hasankeyf became a separate state; the end follows the Ottoman takeover, given as 1524. The Safavid occupation of the early 1500s is not split out."
 transitions:
 - year: 1524

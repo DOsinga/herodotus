@@ -19,7 +19,7 @@ point:
   latitude: 25.3189
   longitude: 83.0128
 colors:
-  1089: "#cd5151"
+  1089: "#672786"
 note: >-
   Links the dynasty article; the dynasty name is the conventional name for the state. 1089 estimates
   Chandradeva's sovereign kingdom, established some time before 1090. Ends with the defeat at

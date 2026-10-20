@@ -21,7 +21,7 @@ point:
   latitude: -22.911
   longitude: -43.206
 colors:
-  1822: "#34b288"
+  1822: "#b2b234"
 transitions:
 - year: 1822
   kind: broke_away_from

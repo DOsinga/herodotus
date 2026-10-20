@@ -19,7 +19,7 @@ point:
   latitude: 20.5236
   longitude: 85.7881
 colors:
-  1541: "#275786"
+  1541: "#278647"
 note: "Links the dynasty article; the state had no other name than Odisha or the Gajapati kingdom. Mukunda Deva's reign from 1559, after he overthrew the last Bhoi king, is counted with this record as the same state. The Bhoi line later ruled at Khurda under Mughal overlordship, which is not part of this record."
 transitions:
 - year: 1568

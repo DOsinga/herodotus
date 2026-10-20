@@ -22,7 +22,7 @@ point:
   latitude: 41.7167
   longitude: 44.7833
 colors:
-  1478: "#768627"
+  1478: "#51cdcd"
 transitions:
 - year: 1762
   kind: merged_into

@@ -20,9 +20,7 @@ point:
   latitude: 54.323
   longitude: 10.139
 colors:
-  1250: "#88b234"
-  1334: "#88b234"
-  1359: "#51cdb8"
+  1250: "#b24934"
 note: "Schauenburg counts. In 1460 the estates of Schleswig and Holstein chose Christian I of Denmark, whose kings then governed Holstein through their own officials; the Gottorp share created in 1544 has its own record. Links the article on Holstein."
 transitions:
 - year: 1460

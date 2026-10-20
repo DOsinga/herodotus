@@ -20,7 +20,7 @@ point:
   latitude: 40.1411
   longitude: 94.6639
 colors:
-  1372: "#b24934"
+  1372: "#b23449"
 note: "No article covers the guard; the link is to the Ming military article, which lists it among the Seven Garrisons west of Jiayu Pass. 1372 is the Ming conquest of Hexi, after which the Mongols of Shazhou stayed outside Ming government; the guard title dates from 1404. 1446 is the flight of most of the tribe into Ming territory under pressure from Esen."
 transitions:
 - year: 1446

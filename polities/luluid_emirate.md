@@ -12,7 +12,7 @@ point:
   latitude: 36.34
   longitude: 43.13
 colors:
-  1234: "#862767"
+  1234: "#517acd"
 note: "Badr al-Din Lu'lu' and his son retained their own government despite acknowledging Ayyubid and Mongol overlords. Mongol conquest after the son's revolt ended the state in 1262. The Wikipedia dynasty link redirects to its founder's article."
 transitions:
 - year: 1262

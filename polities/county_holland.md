@@ -22,7 +22,9 @@ point:
   latitude: 52.08
   longitude: 4.31
 colors:
-  1250: "#862776"
+  1250: "#278686"
+  1325: "#278686"
+  1350: "#276786"
 note: "Joined with Hainaut from 1299. Jacqueline of Hainaut gave Holland up to Philip the Good of Burgundy in 1433 after a long war."
 transitions:
 - year: 1433

@@ -20,7 +20,7 @@ point:
   latitude: 42.7182
   longitude: 12.1083
 colors:
-  1101: "#372786"
+  1101: "#865727"
 note: "Start estimated; consuls are recorded from the 1130s. The Monaldeschi lordships of the fourteenth century are included. The record links the city's article."
 transitions:
 - year: 1354

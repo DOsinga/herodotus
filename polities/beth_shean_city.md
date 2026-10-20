@@ -19,6 +19,6 @@ point:
   latitude: 32.5
   longitude: 35.5
 colors:
-  -1134: "#472786"
+  -1134: "#cd518f"
 note: "Links the article on the town. Both dates are estimates: the start follows the end of the Egyptian garrison, the end the town's entry into the Israelite kingdom, and the record stands for its own unnamed rulers."
 ---

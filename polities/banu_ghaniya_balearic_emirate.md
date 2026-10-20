@@ -21,7 +21,7 @@ point:
   latitude: 39.5696
   longitude: 2.6502
 colors:
-  1147: "#cd7a51"
+  1147: "#51cd7a"
 note: "The start estimates independent government from the mainland Almoravid collapse in 1147. Almohad intervention in 1185 installed local Banu Ghaniya princes; island troops then changed the ruler themselves. This is not a gap in local government. Almohad governors replaced it in 1203. The North African branch is separate."
 transitions:
 - year: 1203

@@ -21,7 +21,7 @@ point:
   latitude: 52.23
   longitude: 21.011
 colors:
-  1807: "#7a51cd"
+  1807: "#cd51b8"
 note: "Ends in 1813, when Russia occupied the duchy and governed it through its generals; it was formally dissolved in 1815."
 transitions:
 - year: 1813

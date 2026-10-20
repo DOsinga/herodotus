@@ -22,7 +22,7 @@ point:
   latitude: 40.0819
   longitude: 44.0333
 colors:
-  -321: "#51cda3"
+  -321: "#b8cd51"
 note: "Links the dynasty article. The Orontid kingdom after Alexander; Antiochus III replaced the last Orontid with his own governors about 200 BCE."
 transitions:
 - year: -200

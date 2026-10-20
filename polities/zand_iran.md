@@ -21,7 +21,7 @@ point:
   latitude: 29.61
   longitude: 52.542
 colors:
-  1751: "#cda351"
+  1751: "#b851cd"
 note: "Links the dynasty article; the dynasty name is the conventional name for the state."
 transitions:
 - year: 1794

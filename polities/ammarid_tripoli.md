@@ -19,7 +19,7 @@ point:
   latitude: 34.4367
   longitude: 35.8497
 colors:
-  1065: "#278676"
+  1065: "#273786"
 note: "Links the article on the ruling family. The start of c.1065 follows Amin al-Dawla's seizure of power when the Fatimid governor died; the emirate also held Jubayl and Tartus until the Crusaders took Tartus in 1102, Jubayl in 1104 and Tripoli in 1109."
 transitions:
 - year: 1109

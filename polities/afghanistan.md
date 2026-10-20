@@ -21,6 +21,6 @@ point:
   latitude: 34.5253
   longitude: 69.1783
 colors:
-  1973: "#862767"
+  1973: "#372786"
 note: "Starts with the 1973 republic. Successive governments are kept in this record, including the Taliban emirate restored in 2021; the Taliban's first emirate, which ruled most of the country while the Islamic State of Afghanistan held the north from 1996 to 2001, has its own record. Links the country article."
 ---

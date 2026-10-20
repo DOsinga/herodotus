@@ -22,7 +22,7 @@ point:
   latitude: 42.7008
   longitude: 9.4503
 colors:
-  1453: "#678627"
+  1453: "#273786"
 note: "Only the bank's government of Corsica is recorded; its other territories, such as Lerici, Sarzana and Caffa, are not split out. The gap is the French occupation of 1553–1559."
 transitions:
 - year: 1553

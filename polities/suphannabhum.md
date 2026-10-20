@@ -20,7 +20,7 @@ point:
   latitude: 14.4744
   longitude: 100.1222
 colors:
-  913: "#51a3cd"
+  913: "#b8cd51"
 note: "913 is the date the article gives for independence, resting on chronicle tradition; the line of kings before 1163 is mainly legendary. Lavo's reported seizure around 928 and Angkor's mention of Suvarnapura around 1191 are not treated as outside government. The record stands for whoever ruled the western basin after the Dvaravati towns declined, including the Chen Li Fu of Chinese sources."
 transitions:
 - year: 1351

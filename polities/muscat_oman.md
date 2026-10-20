@@ -21,7 +21,7 @@ point:
   latitude: 23.589
   longitude: 58.408
 colors:
-  1856: "#51cd7a"
+  1856: "#51cd8f"
 note: "Its treaties with Britain bound the sultans not to cede territory and gave Britain great influence, but they did not hand over its foreign relations, so it is treated as independent throughout, as decided for Bhutan."
 transitions:
 - year: 1970

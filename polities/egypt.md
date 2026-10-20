@@ -21,7 +21,7 @@ point:
   latitude: 30.0444
   longitude: 31.2358
 colors:
-  1922: "#3473b2"
+  1922: "#34b288"
 note: "Formally independent from 1922; it kept its government through the United Arab Republic of 1958–1961. Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1922

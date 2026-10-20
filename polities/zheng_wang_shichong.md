@@ -21,7 +21,7 @@ point:
   latitude: 34.683
   longitude: 112.453
 colors:
-  619: "#51cdcd"
+  619: "#51cd8f"
 note: "Wang replaced Yang Tong's surviving Sui court in 619. Ends with the surrender of Luoyang to Tang in 621. Links the ruler's biography."
 transitions:
 - year: 621

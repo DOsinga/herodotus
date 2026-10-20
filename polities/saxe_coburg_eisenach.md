@@ -19,7 +19,7 @@ point:
   latitude: 50.2584
   longitude: 10.9629
 colors:
-  1572: "#578627"
+  1572: "#278627"
 note: "Shares the article that covers both the joint duchy of 1572–1596 and John Ernest's reunited duchy of 1633–1638; from 1596 this record follows John Casimir's Coburg, and the Eisenach share is a separate record. The Saxon elector governed it as guardian from 1572 to 1586, which is not split out."
 transitions:
 - year: 1633

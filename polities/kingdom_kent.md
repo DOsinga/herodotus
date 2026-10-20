@@ -24,7 +24,7 @@ point:
   latitude: 51.28
   longitude: 1.078
 colors:
-  455: "#51a3cd"
+  455: "#cd518f"
 note: "455 is the traditional Hengist foundation date. Gap for Caedwalla's direct West Saxon takeover and his brother Mul's rule; a local court returned around 688. Earlier Mercian overlordship did not automatically end local kingship, but Offa's direct government after 785 did. Eadberht Praen restored a government in 796 before Coenwulf's conquest."
 transitions:
 - year: 686

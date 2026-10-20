@@ -19,7 +19,7 @@ point:
   latitude: 56.42
   longitude: -5.47
 colors:
-  1156: "#3488b2"
+  1156: "#278686"
 note: "Links the article on Clann Somhairle. Its later division among the MacDougall, MacRuairi and MacDonald lines is kept in this record. The Treaty of Perth in 1266 counts as absorption by Scotland."
 transitions:
 - year: 1156

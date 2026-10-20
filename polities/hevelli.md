@@ -21,7 +21,9 @@ point:
   latitude: 52.4125
   longitude: 12.5316
 colors:
-  789: "#b23473"
+  789: "#cd517a"
+  958: "#cd517a"
+  983: "#6651cd"
 note: "789 estimates the end of the wider Veletian principality, after which the Hevelli appear on their own. 928 is Henry the Fowler's capture of Brenna and 983 the Slavic rising. Jaxa of Köpenick held Brandenburg briefly before Albert the Bear secured it in 1157."
 transitions:
 - year: 928

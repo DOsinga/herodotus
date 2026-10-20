@@ -21,6 +21,6 @@ point:
   latitude: 34.061
   longitude: -4.977
 colors:
-  788: "#cda351"
+  788: "#518fcd"
 note: "Idris I's government began at Walili in 788; Fez became its seat under Idris II. After the 828 division this record follows the Fez government, not an umbrella over all Idrisid branches. Fatimid-backed Miknasa rule interrupted it in 919 (alternatively dated 921); Hassan al-Hajam recovered Fez in 925 and lost it in 927. The later northern Idrisid government has a separate record."
 ---

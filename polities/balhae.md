@@ -20,7 +20,7 @@ point:
   latitude: 44.109
   longitude: 129.22
 colors:
-  698: "#5166cd"
+  698: "#cd8f51"
 note: "The marker approximates the upper-capital ruins near modern Ning’an. Earlier courts used several other capitals. Recognition and institutional borrowing from Tang did not make Balhae a Tang province. Liao conquest ended its royal government in 926."
 transitions:
 - year: 926

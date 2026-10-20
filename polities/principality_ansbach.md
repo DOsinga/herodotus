@@ -20,9 +20,7 @@ point:
   latitude: 49.3
   longitude: 10.5714
 colors:
-  1398: "#349db2"
-  1475: "#349db2"
-  1500: "#278637"
+  1398: "#34b2b2"
 note: "Starts with the division of the burgraviate of Nuremberg in 1398; the burgraves' lands before then are a gap. Several margraves ruled Ansbach together with Bayreuth or Brandenburg, but the principality kept its own government."
 transitions:
 - year: 1791

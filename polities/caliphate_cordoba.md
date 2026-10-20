@@ -23,9 +23,7 @@ point:
   latitude: 37.8882
   longitude: -4.7794
 colors:
-  929: "#b27334"
-  1004: "#b27334"
-  1029: "#862737"
+  929: "#278647"
 note: "The caliphate lost provinces to separate taifa governments during the civil war from 1009. Its remaining government at Córdoba ended in 1031; this date does not postpone the earlier taifas' independence. The Hammudids held Córdoba as rival caliphs from 1016 to 1023, which is the gap."
 transitions:
 - year: 1016

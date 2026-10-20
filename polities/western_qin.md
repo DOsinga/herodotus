@@ -23,7 +23,7 @@ point:
   latitude: 35.6047
   longitude: 103.2422
 colors:
-  385: "#51cdb8"
+  385: "#51cda3"
 note: "Qifu Gangui submitted to Later Qin and served it from 400 to 409. Xia destroyed it in 431."
 transitions:
 - year: 400

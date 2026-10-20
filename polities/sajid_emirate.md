@@ -20,6 +20,6 @@ point:
   latitude: 38.25
   longitude: 48.3
 colors:
-  889: "#5166cd"
+  889: "#278686"
 note: "889 or 890 is the appointment from which the Sajids established their own territorial power. Caliphal investiture and periods of tribute did not remove their army and government. Ardabil replaced Maragha as the main seat in 901. The last ruler was killed in 929."
 ---

@@ -20,8 +20,6 @@ point:
   latitude: 40.6211
   longitude: 8.8114
 colors:
-  1000: "#5166cd"
-  1134: "#5166cd"
-  1159: "#7acd51"
+  1000: "#b851cd"
 note: "1000 is an estimate; the judicates grew out of Byzantine Sardinia during the tenth century, and the rulers of Logudoro are securely known from the eleventh. Porto Torres was the first seat."
 ---

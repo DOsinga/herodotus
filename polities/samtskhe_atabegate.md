@@ -20,7 +20,9 @@ point:
   latitude: 41.6389
   longitude: 42.9861
 colors:
-  1268: "#349db2"
+  1268: "#51cd7a"
+  1356: "#51cd7a"
+  1381: "#cd5166"
 note: "The article gives 1268 to 1625; the Jaqelis governed as Ottoman pashas until 1625, but the record ends with the Ottoman conquest of 1578, as the place history does."
 transitions:
 - year: 1578

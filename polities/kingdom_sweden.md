@@ -20,13 +20,11 @@ point:
   latitude: 59.3294
   longitude: 18.0686
 colors:
-  1521: "#cd517a"
-  1602: "#cd517a"
-  1627: "#73b234"
-  1702: "#73b234"
-  1727: "#472786"
-  1915: "#472786"
-  1940: "#7a51cd"
+  1521: "#cd518f"
+  1605: "#cd518f"
+  1630: "#b23473"
+  1915: "#b23473"
+  1940: "#cd7a51"
 note: "Starts in 1521, when Gustav Vasa was chosen regent and Swedish government resumed; he was elected king in 1523."
 transitions:
 - year: 1521

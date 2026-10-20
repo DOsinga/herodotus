@@ -20,7 +20,7 @@ point:
   latitude: 19.1619
   longitude: -98.4064
 colors:
-  1200: "#278647"
+  1200: "#34b249"
 note: "Links the article on the modern town. The start is approximate. Ends with the alliance with Cortés, as for Tlaxcala."
 transitions:
 - year: 1520

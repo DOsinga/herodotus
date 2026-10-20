@@ -19,7 +19,7 @@ point:
   latitude: 21.055
   longitude: 106.065
 colors:
-  965: "#9db234"
+  965: "#a3cd51"
 note: "965 estimates the separate government's appearance during the warlord period. Đinh's general Lưu Cơ defeated Lý Khuê in 968. The point represents the Thuận Thành district, not an exact court site; the ruler's biography is the nearest polity source."
 transitions:
 - year: 968

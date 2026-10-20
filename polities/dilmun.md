@@ -22,7 +22,7 @@ point:
   latitude: 26.23
   longitude: 50.52
 colors:
-  -2050: "#34b288"
+  -2050: "#51cda3"
 note: "Both dates are estimates for the kingdom on Bahrain known from letters and seals; the Kassites took it. The second period covers the kings of Dilmun named in Assyrian texts, such as Uperi under Sargon II; it starts with the fall of the Kassite dynasty and ends by estimate with the Neo-Babylonian governor of Dilmun attested in the sixth century."
 transitions:
 - year: -1450

@@ -20,7 +20,7 @@ point:
   latitude: 20.62
   longitude: 93.17
 colors:
-  818: "#278657"
+  818: "#51cdcd"
 note: "No article covers the whole period; the link is the History of Rakhine, whose Le-mro section describes it (the Launggyet dynasty article covers 1251-1406 only). 818 is the traditional chronicle date for the move to Pyinsa. Pagan's influence under Kyansittha and the Ava-nominated kings of the 1370s and 1380s are treated as tributary relations, not absorption. The point is approximate. The Arakanese kings restored between 1408 and 1429 under Hanthawaddy overlordship are left out."
 transitions:
 - year: 1406

@@ -25,7 +25,7 @@ point:
   latitude: 55.609
   longitude: -1.709
 colors:
-  547: "#3488b2"
+  547: "#6651cd"
 note: "547 is the traditional date of Ida's kingship. The gaps represent governments unified with Deira, not a continuous separate Bernician state under every Northumbrian king. The final separate government ends with the lasting unification conventionally dated 654."
 transitions:
 - year: 604

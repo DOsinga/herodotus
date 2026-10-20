@@ -23,7 +23,5 @@ point:
   longitude: -73.9252
 colors:
   200: "#272786"
-  1500: "#272786"
-  1525: "#862786"
 note: "Recorded as a culture because the Tairona were several chiefdoms, none of them known well enough for a record of its own. The dates follow the archaeology and the Spanish wars of the late sixteenth century."
 ---

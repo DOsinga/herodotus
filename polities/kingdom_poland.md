@@ -23,9 +23,11 @@ point:
   latitude: 50.0614
   longitude: 19.9366
 colors:
-  1025: "#278657"
-  1508: "#278657"
-  1533: "#862727"
+  1025: "#272786"
+  1295: "#272786"
+  1320: "#5eb234"
+  1395: "#5eb234"
+  1420: "#276786"
 note: "Starts with Bolesław I's coronation in 1025. Bolesław III's testament divided Poland among his sons in 1138, and the Piast duchies governed separately until Władysław the Elbow-high was crowned in 1320; the main duchies have their own records."
 transitions:
 - year: 1138

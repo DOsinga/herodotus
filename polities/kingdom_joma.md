@@ -19,7 +19,7 @@ point:
   latitude: 11.4167
   longitude: -9.1667
 colors:
-  1670: "#768627"
+  1670: "#678627"
 note: "Starts with the end of the Mali Empire record in 1670. Links the history of the Mali Empire, which describes the division. 1881 approximates Samori's conquest of the Siguiri region, matching his capture of Kankan."
 transitions:
 - year: 1881

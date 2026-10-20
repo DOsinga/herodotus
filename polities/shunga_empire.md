@@ -21,7 +21,7 @@ point:
   latitude: 25.5939
   longitude: 85.1375
 colors:
-  -185: "#272786"
+  -185: "#672786"
 note: "Vasudeva Kanva overthrew the last Shunga king."
 transitions:
 - year: -73

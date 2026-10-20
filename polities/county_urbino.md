@@ -20,9 +20,9 @@ point:
   latitude: 43.7264
   longitude: 12.6364
 colors:
-  1213: "#51a3cd"
-  1290: "#51a3cd"
-  1315: "#517acd"
+  1213: "#34b249"
+  1356: "#34b249"
+  1381: "#866727"
 note: "The papal rule of the 1360s and early 1370s, after Albornoz expelled the counts, is not split out."
 transitions:
 - year: 1443

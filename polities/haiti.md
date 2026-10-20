@@ -23,7 +23,7 @@ point:
   latitude: 18.536
   longitude: -72.346
 colors:
-  1804: "#8f51cd"
+  1804: "#51cdb8"
 note: "Links the country article. Changes of regime after independence are not split into separate records. Gap for the US occupation of 1915–1934."
 transitions:
 - year: 1804

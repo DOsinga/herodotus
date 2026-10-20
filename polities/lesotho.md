@@ -22,7 +22,7 @@ point:
   latitude: -29.31
   longitude: 27.48
 colors:
-  1966: "#cd51b8"
+  1966: "#b234b2"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1966

@@ -20,7 +20,7 @@ point:
   latitude: 41.893
   longitude: 12.483
 colors:
-  1861: "#678627"
+  1861: "#51cd66"
 note: "The capital was Turin until 1865, then Florence until 1871."
 transitions:
 - year: 1946

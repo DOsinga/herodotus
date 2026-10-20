@@ -20,7 +20,7 @@ point:
   latitude: 45.4642
   longitude: 9.19
 colors:
-  1447: "#b23473"
+  1447: "#7334b2"
 note: "Milan's republican government between the Visconti and Sforza dukes."
 transitions:
 - year: 1450

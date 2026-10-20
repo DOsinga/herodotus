@@ -20,7 +20,7 @@ point:
   latitude: 35.2903
   longitude: 75.6444
 colors:
-  1150: "#8f51cd"
+  1150: "#cd51b8"
 note: "Links the Baltistan article, as no article covers the kingdom. 1150 estimates the founding of the Maqpon dynasty, which Balti tradition places in the twelfth century. Mughal overlordship from 1637 did not end the rajas' own government. Ends with Zorawar Singh's conquest of Skardu in 1840."
 transitions:
 - year: 1840

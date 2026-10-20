@@ -12,7 +12,9 @@ point:
   latitude: 40.529
   longitude: 70.942
 colors:
-  1709: "#349db2"
+  1709: "#3488b2"
+  1784: "#3488b2"
+  1809: "#762786"
 transitions:
 - year: 1709
   kind: broke_away_from

@@ -21,7 +21,7 @@ point:
   latitude: 48.5678
   longitude: 39.3031
 colors:
-  2014: "#66cd51"
+  2014: "#8fcd51"
 note: "Governed part of Luhansk oblast with Russian backing until Russia annexed it in 2022."
 transitions:
 - year: 2014

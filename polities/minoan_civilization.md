@@ -13,6 +13,6 @@ point:
   latitude: 35.3
   longitude: 25.16
 colors:
-  -3100: "#345eb2"
+  -3100: "#3449b2"
 note: "The palace societies of Crete; who governed them is unknown. The Mycenaean takeover of Knossos ends the record."
 ---

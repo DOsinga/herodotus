@@ -12,7 +12,7 @@ point:
   latitude: 25.72
   longitude: 32.61
 colors:
-  -1650: "#272786"
+  -1650: "#278647"
 note: "Follows Ryholt's reconstruction of the Sixteenth Dynasty as Theban kings, ended by a Hyksos conquest of Thebes; others treat them as Hyksos vassals. The short-lived Abydos dynasty is left out. Both dates are estimates."
 transitions:
 - year: -1580

@@ -20,7 +20,7 @@ point:
   latitude: 34.76
   longitude: 112.98
 colors:
-  617: "#862786"
+  617: "#472786"
 note: "Li Mi's Wagang government controlled fortified granaries and towns around Luoyang from 617. Ends when Wang Shichong destroyed it in 618, before Li's final failed attempt to return and death in 619. Links his biography; Luokou's granary location near Gongyi is approximate."
 transitions:
 - year: 617

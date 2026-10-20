@@ -22,7 +22,7 @@ point:
   latitude: 35.8883
   longitude: -5.3156
 colors:
-  1249: "#864727"
+  1249: "#867627"
 note: "No article covers the state, so the link goes to the family. The start follows the Encyclopaedia of Islam's date for Abu al-Qasim's takeover, 1249; the Wikipedia article gives 1256. The second period starts with Yahya al-Azafi's return in 1311, and the Marinid takeover is dated 1327 or 1328."
 transitions:
 - year: 1306

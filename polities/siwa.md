@@ -20,7 +20,7 @@ point:
   latitude: 29.2053
   longitude: 25.5194
 colors:
-  641: "#762786"
+  641: "#9d34b2"
 note: "641 marks the Arab conquest of Egypt rather than any recorded event at Siwa. Government by the ajwad is known mainly from accounts around 1800, and no individual rulers are recorded."
 transitions:
 - year: 1820

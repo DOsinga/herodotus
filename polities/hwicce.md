@@ -22,7 +22,7 @@ point:
   latitude: 52.194
   longitude: -2.221
 colors:
-  577: "#274786"
+  577: "#b29d34"
 note: "577 is the conventional formation after Deorham. Native kings retained regional government under Mercian overlordship after Cirencester in 628. 780 estimates the replacement of royal government by Mercian officials in the later eighth century, not the original tribute agreement."
 transitions:
 - year: 780

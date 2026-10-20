@@ -19,9 +19,9 @@ point:
   latitude: 46.5197
   longitude: 6.6323
 colors:
-  1250: "#9db234"
-  1371: "#9db234"
-  1396: "#73b234"
+  1250: "#672786"
+  1468: "#672786"
+  1493: "#34b25e"
 note: "Starts with the end of royal government in 1250. Ends with the Bernese conquest of 1536. Links the article on the diocese, which covers the prince-bishopric."
 transitions:
 - year: 1536

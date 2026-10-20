@@ -22,9 +22,7 @@ point:
   latitude: 43.4633
   longitude: 11.8783
 colors:
-  1098: "#672786"
-  1223: "#672786"
-  1248: "#b2345e"
+  1098: "#278676"
 note: "Start estimated from the first consuls. The Tarlati lordship of 1312–1337 is included. The gap is Florentine rule of 1337–1343. The mercenary occupations of 1380–1384 are not split out. The record links the city's article."
 transitions:
 - year: 1337

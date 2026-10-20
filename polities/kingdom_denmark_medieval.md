@@ -24,9 +24,9 @@ point:
   latitude: 55.65
   longitude: 12.083
 colors:
-  936: "#472786"
-  1195: "#472786"
-  1220: "#865727"
+  936: "#372786"
+  1054: "#372786"
+  1079: "#6651cd"
 note: "No article covers the medieval kingdom on its own, so the link is to the history of Denmark. Start estimated from Gorm the Old's reign. Gap for the kingless interregnum of 1332–1340, when Holstein counts held and governed the kingdom."
 transitions:
 - year: 1397

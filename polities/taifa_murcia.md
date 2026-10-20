@@ -28,9 +28,11 @@ point:
   latitude: 37.9922
   longitude: -1.1307
 colors:
-  1011: "#51cd7a"
-  1203: "#51cd7a"
-  1228: "#273786"
+  1011: "#5166cd"
+  1120: "#5166cd"
+  1145: "#273786"
+  1223: "#273786"
+  1248: "#278676"
 note: "The brief 1145 period preceded government from Valencia; Ibn Mardanish established his Murcia-based state in 1147. The 1243 Castilian protectorate retained Muslim local government. Direct incorporation after the 1264–1266 revolt ends the final period; the later Castilian title is not a separate polity."
 transitions:
 - year: 1011

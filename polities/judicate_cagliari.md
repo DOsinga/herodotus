@@ -20,7 +20,7 @@ point:
   latitude: 39.2167
   longitude: 9.0833
 colors:
-  1000: "#862727"
+  1000: "#868627"
 note: "1000 is an estimate; the judicates grew out of Byzantine Sardinia during the tenth century, and the rulers of Cagliari are securely known from the eleventh."
 transitions:
 - year: 1258

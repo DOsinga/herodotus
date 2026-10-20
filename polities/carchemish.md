@@ -21,7 +21,7 @@ point:
   latitude: 36.83
   longitude: 38.01
 colors:
-  -1180: "#274786"
+  -1180: "#9d34b2"
 note: "The Hittite viceroys' kingdom survived the collapse. Sargon II annexed it."
 transitions:
 - year: -717

@@ -20,7 +20,7 @@ point:
   latitude: 48.763
   longitude: 11.425
 colors:
-  1392: "#cd5166"
+  1392: "#762786"
 note: "The Ingolstadt share of the 1392 partition. Passed to Bavaria-Landshut when Louis VII's line died out in 1447."
 transitions:
 - year: 1392

@@ -21,7 +21,7 @@ point:
   latitude: 13.43
   longitude: 103.88
 colors:
-  700: "#51a3cd"
+  700: "#cd51cd"
 note: "700 estimates the separately governing court of the Angkor-region royal line in the eighth-century inscriptional reconstruction. 802 estimates its incorporation into Jayavarman II's state. The precise capital site and dates are uncertain, so the point represents the proposed region. Links Chenla's history."
 transitions:
 - year: 802

@@ -22,11 +22,11 @@ point:
   latitude: 51.836
   longitude: 12.245
 colors:
-  1396: "#9d34b2"
-  1595: "#9d34b2"
-  1620: "#3488b2"
-  1778: "#3488b2"
-  1803: "#278686"
+  1396: "#cda351"
+  1578: "#cda351"
+  1603: "#34b273"
+  1752: "#34b273"
+  1777: "#51cd51"
 note: "Two periods: the line from the 1396 division of Zerbst, which took Bernburg in 1468, divided off Zerbst and Plötzkau in 1544 and passed to Zerbst in 1561, and the principality of the 1603 division. Took over Köthen in 1847 and Bernburg in 1863, reuniting Anhalt."
 transitions:
 - year: 1561

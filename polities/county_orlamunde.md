@@ -19,7 +19,7 @@ point:
   latitude: 50.9811
   longitude: 11.3294
 colors:
-  1250: "#9d34b2"
+  1250: "#278676"
 note: "Links the article on the town of Orlamünde, as no article covers the county. The Weimar and Franconian lines are combined. Ends with the passage of Weimar to the Wettins, dated 1372 or 1373."
 transitions:
 - year: 1373

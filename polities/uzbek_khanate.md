@@ -20,6 +20,6 @@ point:
   latitude: 44.1583
   longitude: 66.9583
 colors:
-  1428: "#863727"
+  1428: "#b24934"
 note: The khan's seat was Chimgi-Tura until the 1440s and Sighnaq afterwards. Ends with Abu'l-Khayr's death in 1468, after which his clans scattered; the khanate his grandson Muhammad Shaybani founded at Bukhara in 1501 is the Khanate of Bukhara.
 ---

@@ -22,6 +22,8 @@ point:
   longitude: 27.34
 colors:
   -1050: "#b8cd51"
+  -503: "#b8cd51"
+  -478: "#51cd7a"
 note: "Links the city's article; the founding date of about 1050 BCE is the traditional estimate, and Croesus's capture is dated only to about 560 BCE."
 transitions:
 - year: -561

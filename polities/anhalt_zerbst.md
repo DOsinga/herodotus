@@ -25,11 +25,13 @@ point:
   latitude: 51.966
   longitude: 12.084
 colors:
-  1252: "#b851cd"
-  1545: "#b851cd"
-  1570: "#8834b2"
-  1648: "#8834b2"
-  1673: "#277686"
+  1252: "#cd5166"
+  1371: "#cd5166"
+  1396: "#b234b2"
+  1519: "#b234b2"
+  1544: "#8834b2"
+  1619: "#8834b2"
+  1644: "#b8cd51"
 note: "Three periods: the medieval line from the 1252 division, whose lands its princes divided in 1396 into Köthen and Dessau; the principality of 1544–1570, whose prince Joachim Ernest reunited Anhalt; and the principality of the 1603 division. The home of Catherine the Great's family. When its line died out in 1793 it was divided among Dessau, Bernburg and Köthen; linked to Dessau, which took the largest share."
 transitions:
 - year: 1396

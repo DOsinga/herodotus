@@ -21,7 +21,7 @@ point:
   latitude: 48.007
   longitude: 0.199
 colors:
-  900: "#b851cd"
+  900: "#cd518f"
 note: "900 is an estimate for Hugh I's accession. William Rufus's occupation of 1098 and 1099 is left out."
 transitions:
 - year: 1051

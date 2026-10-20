@@ -20,9 +20,7 @@ point:
   latitude: 33.4875
   longitude: 48.3561
 colors:
-  1184: "#278647"
-  1332: "#278647"
-  1357: "#3473b2"
+  1184: "#34b273"
 note: "After 1330 power passed to another Khorshidi line that claimed Alid descent; the record treats both as one dynasty, as the article does."
 transitions:
 - year: 1597

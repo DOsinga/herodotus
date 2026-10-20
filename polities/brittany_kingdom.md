@@ -23,7 +23,7 @@ point:
   latitude: 47.658
   longitude: -2.76
 colors:
-  845: "#8fcd51"
+  845: "#51a3cd"
 note: "845 follows Nominoë's effective break after Ballon, before Erispoë's royal recognition in 851. The Viking conquest removed the native court in 914. Alan's recovery began in 936; his victory and ducal government in 939 link to the existing duchy, rather than a continuous kingdom through occupation."
 transitions:
 - year: 845

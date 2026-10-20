@@ -21,7 +21,7 @@ point:
   latitude: 37.75
   longitude: 34.45
 colors:
-  -900: "#862786"
+  -900: "#a3cd51"
 note: "Both dates are estimates; Tabal often had several kings at once, and the record treats the region's main kingdom, with Tuwana as a representative centre. Sargon II annexed it in 713 BCE; it broke free when Sargon was killed in 705, and its kings, such as Mugallu, appear in Assyrian texts into the mid seventh century. 586 BCE estimates the Median advance, fixed at the Halys by the treaty of 585."
 transitions:
 - year: -713

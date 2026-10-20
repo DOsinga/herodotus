@@ -20,7 +20,7 @@ point:
   latitude: 37.9
   longitude: 21.27
 colors:
-  1205: "#b27334"
+  1205: "#cd5151"
 note: "Kept as one record through the Angevin period, when the princes of Naples governed it through bailiffs but it kept its own barons, laws and wars. Venice held Modon and Coron separately from 1207."
 transitions:
 - year: 1432

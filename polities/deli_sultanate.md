@@ -19,7 +19,7 @@ point:
   latitude: 3.72
   longitude: 98.67
 colors:
-  1669: "#51cd7a"
+  1669: "#34b273"
 note: >-
   1669 follows the declaration of independence from Aceh; from 1632 the founder governed as Aceh's
   viceroy. Overlordship by Siak, Johor and Aceh, including the Siak certificate of 1814, did not

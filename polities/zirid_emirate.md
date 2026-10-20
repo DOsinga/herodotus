@@ -19,7 +19,7 @@ point:
   latitude: 35.5047
   longitude: 11.0622
 colors:
-  972: "#278667"
+  972: "#34b249"
 note: "The Zirids governed Ifriqiya through their own hereditary rulers, including while acknowledging the Fatimids. Mahdia became their seat in 1057. Norman Sicily took Mahdia in 1148; its African possessions were not a separate independent kingdom."
 transitions:
 - year: 1148

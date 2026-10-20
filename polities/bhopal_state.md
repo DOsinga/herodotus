@@ -20,7 +20,7 @@ point:
   latitude: 23.2589
   longitude: 77.4125
 colors:
-  1707: "#278657"
+  1707: "#b851cd"
 note: "Tribute to the Nizam from 1724 and to the Marathas from 1737 does not end the state, since its nawabs kept governing it. The end is the treaty of 1818 that placed it under British protection."
 transitions:
 - year: 1818

@@ -20,9 +20,9 @@ point:
   latitude: 46.0711
   longitude: 13.2346
 colors:
-  1250: "#9db234"
-  1360: "#9db234"
-  1385: "#b2345e"
+  1250: "#b2b234"
+  1325: "#b2b234"
+  1350: "#b23434"
 note: "The patriarchs' state dates from the grant of 1077, but before 1250 they count as imperial princes under the Holy Roman Empire record, as the German bishops do."
 transitions:
 - year: 1420

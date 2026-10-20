@@ -21,7 +21,7 @@ point:
   latitude: 32.991
   longitude: 112.529
 colors:
-  618: "#9db234"
+  618: "#88b234"
 note: "The period begins with Zhu's capture of Nanyang and establishment of his Chu imperial government, not his earlier roaming band. The government collapsed amid local revolts and his flight to Wang Shichong's court in 619. Later service at Luoyang was not a surviving territorial Chu state."
 transitions:
 - year: 619

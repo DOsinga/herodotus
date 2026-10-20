@@ -20,6 +20,6 @@ point:
   latitude: 8.4
   longitude: -80.52
 colors:
-  750: "#9d34b2"
+  750: "#b234b2"
 note: "750–1000 estimates the chiefly political centre represented by the elite funerary complex. Earlier settlement and later habitation are not automatically the same governing order. It is treated as a separate local court from Sitio Conte; the precise relationship between their chiefly families is uncertain."
 ---

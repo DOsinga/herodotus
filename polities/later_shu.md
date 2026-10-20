@@ -20,7 +20,7 @@ point:
   latitude: 30.5728
   longitude: 104.0668
 colors:
-  934: "#862747"
+  934: "#34b249"
 note: "Meng Zhixiang's government broke from Later Tang after its conquest of Former Shu. It was not the uninterrupted survival of the earlier Wang kingdom. Song conquest ended it in 965."
 transitions:
 - year: 934

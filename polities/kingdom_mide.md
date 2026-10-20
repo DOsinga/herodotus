@@ -12,6 +12,8 @@ point:
   latitude: 53.493
   longitude: -7.562
 colors:
-  500: "#b25e34"
+  500: "#cdcd51"
+  600: "#cdcd51"
+  625: "#cda351"
 note: "500 estimates the emergence of the Uí Néill kingdom from its fifth-century consolidation. Uisneach represents its western royal centre, not a claim that the separate Brega rulers were always under direct Mide government. The Norman grant and de Lacy's occupation in 1172 ended the main kingdom; the O Melaghlins' smaller surviving domain is not an unchanged Mide."
 ---

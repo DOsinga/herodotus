@@ -21,9 +21,11 @@ point:
   latitude: 49.0167
   longitude: 12.0833
 colors:
-  1250: "#372786"
-  1778: "#372786"
-  1803: "#66cd51"
+  1250: "#345eb2"
+  1461: "#345eb2"
+  1486: "#5151cd"
+  1748: "#5151cd"
+  1773: "#862737"
 note: "Starts with the end of royal government in 1250; the city's freedom dates from 1245. Bavaria-Munich held it from 1486 to 1492. Ends in 1803, when it was given to Karl Theodor von Dalberg."
 transitions:
 - year: 1486

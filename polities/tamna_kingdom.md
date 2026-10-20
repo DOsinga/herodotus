@@ -12,7 +12,7 @@ point:
   latitude: 33.5
   longitude: 126.53
 colors:
-  476: "#862737"
+  476: "#7a51cd"
 note: "476 follows Tamna's first securely dated diplomatic contact with Baekje, not its legendary foundation in 2337 BCE. Tribute to Baekje, Silla and Goryeo left its native rulers governing. Goryeo's establishment of a prefecture in 1105 ends its own kingdom; native hereditary offices continued within outside administration until 1404."
 transitions:
 - year: 1105

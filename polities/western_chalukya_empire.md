@@ -20,7 +20,7 @@ point:
   latitude: 17.8721
   longitude: 76.9494
 colors:
-  973: "#cd5151"
+  973: "#517acd"
 note: "The Chalukyas lost Kalyani to the Kalachuris in 1157 but continued governing from Annigeri, so there is no gap. They recovered Kalyani in 1183. Seuna conquest ended the restored government in 1189."
 transitions:
 - year: 1189

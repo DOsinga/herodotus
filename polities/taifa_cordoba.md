@@ -20,7 +20,7 @@ point:
   latitude: 37.8882
   longitude: -4.7794
 colors:
-  1031: "#3434b2"
+  1031: "#862727"
 note: "The Jahwarid city government replaced the caliphate. Seville's annexation is dated 1070 here; some accounts place it in 1071."
 transitions:
 - year: 1070

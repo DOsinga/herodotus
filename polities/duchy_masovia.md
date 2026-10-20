@@ -25,9 +25,9 @@ point:
   latitude: 52.55
   longitude: 19.7
 colors:
-  1138: "#cd7a51"
-  1345: "#cd7a51"
-  1370: "#672786"
+  1138: "#5151cd"
+  1345: "#5151cd"
+  1370: "#cd51a3"
 note: "Bolesław IV's share of the 1138 testament; Kuyavia split off in 1233. The gaps are the partitions between the Płock, Czersk and Rawa lines in 1275–1294 and from 1310, and from 1381 for good. Siemowit III reunited Masovia in 1370, when Płock came back to him from the Polish crown."
 transitions:
 - year: 1275

@@ -21,7 +21,7 @@ point:
   latitude: 0.4078
   longitude: 9.4403
 colors:
-  1960: "#278637"
+  1960: "#278647"
 note: "Links the country article. Changes of regime are not split into separate records."
 transitions:
 - year: 1960

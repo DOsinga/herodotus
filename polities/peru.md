@@ -24,7 +24,7 @@ point:
   latitude: -12.06
   longitude: -77.037
 colors:
-  1821: "#867627"
+  1821: "#866727"
 note: "The years of the Peru–Bolivian Confederation, 1836–1839, are a gap. Links the country article. Changes of regime after independence are not split into separate records."
 transitions:
 - year: 1821

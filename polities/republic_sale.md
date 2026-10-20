@@ -20,7 +20,7 @@ point:
   latitude: 34.0306
   longitude: -6.8356
 colors:
-  1627: "#7a51cd"
+  1627: "#51cd51"
 note: "The republic kept governing itself under the suzerainty of the Dila'i zawiya from 1641 to 1661, so the record runs through those years."
 transitions:
 - year: 1668

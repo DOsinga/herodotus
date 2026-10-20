@@ -20,9 +20,9 @@ point:
   latitude: 42.0
   longitude: 45.66
 colors:
-  1466: "#278647"
-  1719: "#278647"
-  1744: "#862737"
+  1466: "#277686"
+  1719: "#277686"
+  1744: "#cdb851"
 note: "The gaps are the periods of foreign government: Shah Abbas's governors after 1616 until Teimuraz I returned about 1625; Rostom of Kartli and then Safavid khans from 1648 until Archil about 1664; Safavid khans from 1675 until the native line returned under David II in 1703; Ottoman and then Nader Shah's occupation from 1723 until Teimuraz II in 1744. These dates are approximate."
 transitions:
 - year: 1616

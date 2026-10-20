@@ -20,9 +20,7 @@ point:
   latitude: 53.497
   longitude: 13.309
 colors:
-  1352: "#678627"
-  1428: "#678627"
-  1453: "#273786"
+  1352: "#865727"
 note: "Links the article on the duchy."
 transitions:
 - year: 1352

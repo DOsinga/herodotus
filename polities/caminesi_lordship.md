@@ -19,7 +19,7 @@ point:
   latitude: 45.6658
   longitude: 12.2456
 colors:
-  1266: "#517acd"
+  1266: "#51cd66"
 note: "Links the family's article. The da Camino held Belluno and Feltre for some years after 1312, which is not shown."
 transitions:
 - year: 1312

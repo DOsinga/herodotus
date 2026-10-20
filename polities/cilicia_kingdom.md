@@ -20,7 +20,7 @@ point:
   latitude: 36.9165
   longitude: 34.8951
 colors:
-  -609: "#cd6651"
+  -609: "#278637"
 note: "Links the article on the region. The start of 609 BCE is an estimate following the fall of Assyria; the native kings kept their throne as Persian tributaries until Artaxerxes II made Cilicia a satrapy after the revolt of Cyrus the Younger in 401 BCE."
 transitions:
 - year: -401

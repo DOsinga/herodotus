@@ -28,9 +28,7 @@ point:
   latitude: 49.119
   longitude: 6.176
 colors:
-  511: "#8fcd51"
-  690: "#8fcd51"
-  715: "#cd8f51"
+  511: "#278676"
 note: "Records the eastern royal court when it governed separately, including its earlier Reims realm. Chlothar I inherited it in 555, before uniting all Francia in 558. Dagobert delegated a separate native court in 633. The last period records the separate Austrasian government during the succession struggle after Pepin's death, ended by Charles Martel's reunification."
 transitions:
 - year: 555

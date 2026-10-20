@@ -24,7 +24,11 @@ point:
   latitude: 44.801
   longitude: 10.328
 colors:
-  1545: "#b27334"
+  1545: "#572786"
+  1723: "#572786"
+  1748: "#b8cd51"
+  1823: "#b8cd51"
+  1848: "#b27334"
 note: "Created for Pier Luigi Farnese in 1545. Austria held it from 1735 until the Bourbon Philip took over in 1748. When Duke Ferdinand died in 1802 France governed it through an administrator; Marie Louise held it from 1814. Joined to Sardinia after its duchess fled in 1859."
 transitions:
 - year: 1735

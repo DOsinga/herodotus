@@ -20,7 +20,7 @@ point:
   latitude: -6.1624
   longitude: 39.1913
 colors:
-  1964: "#cd5166"
+  1964: "#378627"
 note: "The revolutionary government of January to April 1964."
 transitions:
 - year: 1964

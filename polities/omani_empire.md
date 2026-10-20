@@ -12,7 +12,7 @@ point:
   latitude: 23.3908
   longitude: 57.4244
 colors:
-  1624: "#867627"
+  1624: "#865727"
 note: "Starts with the Yarubid imamate, which united Oman from 1624 and expelled the Portuguese from Muscat in 1650; Wikipedia's Omani Empire article starts in 1696."
 transitions:
 - year: 1856

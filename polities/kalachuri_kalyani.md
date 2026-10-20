@@ -21,7 +21,7 @@ point:
   latitude: 17.8721
   longitude: 76.9494
 colors:
-  1157: "#278647"
+  1157: "#578627"
 note: "The start follows Bijjala's capture of Kalyani and assertion of his own imperial government in 1157, not the earlier dynasty serving the Chalukyas. The end follows the Chalukya recovery of the capital in 1183; royal lists sometimes extend the last reign to 1184."
 transitions:
 - year: 1157

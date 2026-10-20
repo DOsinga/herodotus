@@ -22,7 +22,7 @@ point:
   latitude: 45.764
   longitude: 4.835
 colors:
-  411: "#278627"
+  411: "#768627"
 note: "The Rhine kingdom was destroyed in 437; the surviving Burgundians established a new governing realm after settlement in Sapaudia in 443. Lyon represents its later seat. Ends with the Frankish conquest, not the continued Burgundian regional identity."
 transitions:
 - year: 534

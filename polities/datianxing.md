@@ -20,7 +20,7 @@ point:
   latitude: 25.6944
   longitude: 100.1556
 colors:
-  928: "#517acd"
+  928: "#34b2b2"
 note: "No separate English article covers the state; Dali's history describes this predecessor. Zhao Shanzheng's short-lived court replaced Dachanghe, before Yang Ganzhen seized power. The years follow the conventional chronology of these coups."
 transitions:
 - year: 929

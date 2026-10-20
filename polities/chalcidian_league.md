@@ -12,7 +12,7 @@ point:
   latitude: 40.296
   longitude: 23.354
 colors:
-  -432: "#cd6651"
+  -432: "#cdcd51"
 note: "Philip II destroyed Olynthus in 348 BCE."
 transitions:
 - year: -348

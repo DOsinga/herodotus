@@ -21,7 +21,7 @@ point:
   latitude: -38.0319
   longitude: -73.0728
 colors:
-  1550: "#278647"
+  1550: "#277686"
 note: "Starts with the first Spanish campaigns south of the Biobío; Mapuche society is far older. The Mapuche had no common government, but the Spanish and Chileans dealt with them as one independent people at their parliaments, so they share one record. The point is Purén, a centre of resistance. Ends with the refounding of Villarrica in 1883."
 transitions:
 - year: 1883

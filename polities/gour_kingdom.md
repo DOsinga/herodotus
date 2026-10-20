@@ -20,7 +20,7 @@ point:
   latitude: 24.9
   longitude: 91.8667
 colors:
-  1141: "#cd5151"
+  1141: "#51cd66"
 note: "The start is an estimate: the record begins when the Kamarupa kingdom ended, since the earlier history of Gour is legendary and the eleventh-century Srihatta kings may have answered to Kamarupa. The 1303 conquest is dated by an inscription."
 transitions:
 - year: 1303

@@ -20,9 +20,9 @@ point:
   latitude: 46.8508
   longitude: 9.532
 colors:
-  1367: "#867627"
-  1605: "#867627"
-  1630: "#864727"
+  1367: "#73b234"
+  1711: "#73b234"
+  1736: "#472786"
 note: "Starts with the League of God's House in 1367, which took power from the bishop of Chur; the three leagues acted as one state from about 1471."
 transitions:
 - year: 1799

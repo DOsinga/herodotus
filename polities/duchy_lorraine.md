@@ -18,11 +18,13 @@ point:
   latitude: 48.692
   longitude: 6.184
 colors:
-  1250: "#517acd"
-  1608: "#517acd"
-  1633: "#345eb2"
-  1709: "#345eb2"
-  1734: "#272786"
+  1250: "#862757"
+  1357: "#862757"
+  1382: "#862737"
+  1457: "#862737"
+  1482: "#b234b2"
+  1609: "#b234b2"
+  1634: "#865727"
 note: "Upper Lorraine was split off in 959, but until 1250 its dukes held it from the emperors, who still governed the German kingdom. The gaps are Charles the Bold's Burgundian government in 1475–1477 and direct French administration in 1634–1661 and 1670–1697. French occupation after 1702 left Leopold's government at Lunéville. 1737 ends actual ducal government: Stanisław kept the title, but La Galaizière and the French administration ran the duchy, before formal annexation in 1766."
 transitions:
 - year: 1475

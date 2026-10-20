@@ -20,7 +20,7 @@ point:
   latitude: 23.5505
   longitude: 90.4935
 colors:
-  1231: "#a3cd51"
+  1231: "#278647"
 note: "The start is Damodaradeva's accession, from his dated grants. The end is an estimate: the last record is Bikramaditya Deva's move east in 1294, and 1340 is when Fakhruddin Mubarak Shah took Comilla, Noakhali and Chittagong. The point is Bikrampur, the capital per the article, though Damodaradeva's own base lay in the Comilla-Chittagong region."
 transitions:
 - year: 1340

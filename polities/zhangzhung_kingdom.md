@@ -21,8 +21,6 @@ point:
   longitude: 80.52
 colors:
   -500: "#278627"
-  75: "#278627"
-  100: "#51cd51"
 note: "500 BCE estimates the western Tibetan kingdom's emergence, not the age of every Bon tradition. 644 follows the conquest reconstruction associated with Songtsen Gampo; other chronologies use 625. Kyunglung is a traditional capital identification whose precise relation to the royal fortress is disputed."
 transitions:
 - year: 644

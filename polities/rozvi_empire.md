@@ -22,6 +22,8 @@ point:
   longitude: 29.331
 colors:
   1683: "#cd518f"
+  1813: "#cd518f"
+  1838: "#cd8f51"
 transitions:
 - year: 1866
   kind: absorbed_into

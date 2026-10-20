@@ -20,7 +20,7 @@ point:
   latitude: 7.2667
   longitude: 36.2333
 colors:
-  1390: "#b2b234"
+  1390: "#9db234"
 note: "1390 is Wikipedia's approximate founding date."
 transitions:
 - year: 1897

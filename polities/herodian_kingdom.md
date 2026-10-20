@@ -21,7 +21,7 @@ point:
   latitude: 31.7789
   longitude: 35.2256
 colors:
-  -37: "#8fcd51"
+  -37: "#cd517a"
 note: "Rome's client kings kept their own armies and fought their own wars, so like Crimea under the Ottomans the kingdom stays active while it paid homage. Ends with Herod's death, when Augustus divided the kingdom among his sons."
 transitions:
 - year: -4

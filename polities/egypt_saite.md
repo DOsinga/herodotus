@@ -21,7 +21,9 @@ point:
   latitude: 30.96
   longitude: 30.77
 colors:
-  -664: "#866727"
+  -664: "#7a51cd"
+  -550: "#7a51cd"
+  -525: "#51cdcd"
 note: "Psamtik I governed Egypt from Sais as an Assyrian vassal with his own army from 664 BCE, after the Assyrians drove out the Kushite kings, and was independent by 656 BCE. Cambyses conquered it."
 transitions:
 - year: -664

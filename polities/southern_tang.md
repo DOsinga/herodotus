@@ -20,7 +20,7 @@ point:
   latitude: 32.0603
   longitude: 118.7969
 colors:
-  937: "#51cd8f"
+  937: "#51cd66"
 note: "Subordination to Later Zhou in 958 and later tribute to Song left its own government in place. The end follows Li Yu's surrender in January 976; conventional summaries often give 975. Nanchang briefly served as a second capital."
 transitions:
 - year: 976

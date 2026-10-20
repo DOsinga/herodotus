@@ -30,9 +30,11 @@ point:
   latitude: 48.138
   longitude: 11.575
 colors:
-  555: "#278657"
-  1315: "#278657"
-  1340: "#378627"
+  555: "#3434b2"
+  882: "#3434b2"
+  907: "#34b249"
+  1315: "#34b249"
+  1340: "#278676"
 note: "555 estimates the Agilolfing dukes' establishment; Charlemagne removed their government in 788. Arnulf governed Bavaria in his own right from 907, until Otto I deposed his son Eberhard in 938 and from then on appointed the dukes. From 1250 the Wittelsbach dukes governed it themselves. The gaps are the partitions of 1255–1340 and 1349–1505, whose duchies have their own records; Albert IV reunited Bavaria after the Landshut War. Regensburg was the early court and Munich the later seat."
 transitions:
 - year: 788

@@ -22,6 +22,6 @@ point:
   latitude: 41.8933
   longitude: 12.4828
 colors:
-  1946: "#51a3cd"
+  1946: "#51b8cd"
 note: "The Italian Republic. Links the country article. Changes of regime are not split into separate records."
 ---

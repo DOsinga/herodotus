@@ -21,7 +21,7 @@ point:
   latitude: 19.218
   longitude: 72.978
 colors:
-  800: "#478627"
+  800: "#278676"
 note: "800 estimates the northern branch's establishment. Rashtrakuta and later overlordship did not replace its hereditary local government. This is the Thane branch, not an umbrella over the separately ruled southern Konkan and Kolhapur kingdoms. 1265 follows the Seuna conquest."
 transitions:
 - year: 1265

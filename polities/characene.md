@@ -21,7 +21,7 @@ point:
   latitude: 30.8947
   longitude: 47.578
 colors:
-  -141: "#9db234"
+  -141: "#578627"
 note: "Ardashir of Persis conquered it about 222, before his victory over the Parthians."
 transitions:
 - year: -141

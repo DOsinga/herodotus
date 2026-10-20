@@ -25,11 +25,9 @@ point:
   latitude: 43.7167
   longitude: 10.4
 colors:
-  1000: "#867627"
-  1305: "#867627"
-  1330: "#865727"
-  1469: "#865727"
-  1494: "#b8cd51"
+  1000: "#cd6651"
+  1469: "#cd6651"
+  1494: "#863727"
 note: "1000 is an approximate start for Pisa's emergence as a maritime republic, not a known founding year."
 transitions:
 - year: 1399

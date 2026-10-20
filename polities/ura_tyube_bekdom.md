@@ -20,7 +20,7 @@ point:
   latitude: 39.9108
   longitude: 69.0064
 colors:
-  1800: "#865727"
+  1800: "#8f51cd"
 note: "No article covers the bekdom; the record links the town's article. 1800 follows the end of Bukharan rule in the place history; Kokand's occupations of the town are not separated."
 transitions:
 - year: 1866

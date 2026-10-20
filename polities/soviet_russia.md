@@ -22,7 +22,7 @@ point:
   latitude: 55.7558
   longitude: 37.6178
 colors:
-  1917: "#b234b2"
+  1917: "#7a51cd"
 note: "Soviet Russia as a state of its own, before it joined the Soviet Union; Petrograd was the capital until 1918."
 transitions:
 - year: 1922

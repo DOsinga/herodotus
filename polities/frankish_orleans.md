@@ -21,6 +21,6 @@ point:
   latitude: 47.903
   longitude: 1.909
 colors:
-  511: "#272786"
+  511: "#5e34b2"
 note: "Chlodomer's separate share after Clovis's death. After his death at Vezeronce in 524, his brothers divided the territory and killed two heirs; there was no enduring separate royal court. Links Chlodomer's biography."
 ---
