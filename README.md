@@ -13,6 +13,12 @@ A second set of files in `places/` records which polity controlled a town in
 which years. The map spreads colour outward from those towns to suggest
 territory; [BORDERS.md](BORDERS.md) explains how.
 
+## Run locally
+
+```bash
+uvx douwe herodotus
+```
+
 Run the data checks with:
 
 ```bash

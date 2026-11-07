@@ -1,8 +1,6 @@
 import json
 
-from django.http import JsonResponse
-
-from projects.common import Project
+from projects.common import JsonResponse, Project
 from projects.herodotus import database
 
 
